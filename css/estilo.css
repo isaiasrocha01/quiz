@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+
+:root {
+
+    --bg:
+    radial-gradient(circle at top,
+    rgba(197,155,39,.18),
+    transparent 35%),
+    linear-gradient(
+    135deg,
+    #f8f2e8,
+    #e5d8c0
+    );
+
+
+    --primary:#1f3a60;
+    --primary-dark:#142840;
+
+    --gold:#c59b27;
+    --gold-light:#e6c96a;
+
+    --white:#ffffff;
+
+    --text:#292725;
+
+    --muted:#706b64;
+
+    --border:#dfd1b8;
+
+    --danger:#c74646;
+
+
+    --radius:18px;
+
+
+    --shadow:
+    0 15px 40px rgba(31,58,96,.12);
+
+
+    --shadow-hover:
+    0 25px 60px rgba(31,58,96,.20);
+
+}
+
+
+*,
+*::before,
+*::after{
+
+    box-sizing:border-box;
+}
+
+
+body{
+
+    min-height:100vh;
+
+    padding:2rem 1rem;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+
+    font-family:
+    'Plus Jakarta Sans',
+    sans-serif;
+
+
+    color:var(--text);
+
+    background:var(--bg);
+
+}
+
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    width: 100%;
+}
+
+
+.menu-card {
+    aspect-ratio: 1 / 1; /* mantém quadrado */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 2rem;
+
+    text-align: center;
+
+    background: var(--white);
+    border-radius: 18px;
+
+    border: 1px solid var(--border);
+    border-top: 5px solid var(--primary);
+
+    transition: .3s ease;
+}
+
+
+.menu-card p {
+    max-width: 260px;
+}
+
+/* ==========================================
+   ESTRUTURA DO CABEÇALHO (HERO)
+========================================== */
+.hero {
+    text-align: center;
+    margin-bottom: 3rem; /* Espaço generoso antes de começar o grid de menus */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero h1 {
+    font-family: 'Cinzel', serif; /* Mantém a fonte elegante do título */
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--primary);
+}
+
+.hero p {
+    color: var(--muted);
+    font-size: 1.05rem;
+    margin: 0;
+}
+
+
+/* ==========================================
+   ESTILO PREMIUM DO CONTADOR DE PERGUNTAS
+========================================== */
+.contador-container {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.8rem;
+    margin-top: 1.8rem;
+    margin-bottom: 1rem; /* Margem de segurança na parte inferior */
+    padding: 0.6rem 1.4rem;
+    
+    /* Efeito de Vidro Fosco sutil */
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    
+    /* Bordas clássicas */
+    border: 1px solid var(--border);
+    border-bottom: 3px solid var(--gold); /* Linha dourada na base */
+    border-radius: 30px;
+    
+    /* Sombras e transições */
+    box-shadow: 0 8px 24px rgba(31, 58, 96, 0.05);
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), 
+                box-shadow 0.3s ease;
+    
+    /* Animação de entrada ao carregar */
+    animation: surgindo 0.8s ease-out forwards;
+}
+
+/* Efeito interativo ao passar o mouse */
+.contador-container:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 30px rgba(197, 155, 39, 0.2);
+    background: rgba(255, 255, 255, 0.85);
+}
+
+.contador-icon {
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+}
+
+.contador-numero {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--white);
+    
+    /* Degradê azul elegante para o fundo do número */
+    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+    border: 1px solid rgba(230, 201, 106, 0.3); /* Borda dourada sutil */
+    
+    padding: 0.3rem 0.9rem;
+    border-radius: 20px;
+    min-width: 50px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(31, 58, 96, 0.2);
+    letter-spacing: 0.5px;
+}
+
+.contador-texto {
+    font-size: 0.8rem;
+    color: var(--text);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+}
+
+/* ==========================================
+   ESTILIZAÇÃO DOS ÍCONES DOS MENUS (EMOJIS)
+========================================== */
+.menu-icon {
+    font-size: 3rem; /* Aumenta consideravelmente o tamanho dos emojis */
+    margin-bottom: 1.2rem; /* Cria um espaço confortável entre o emoji e o título <h3> */
+    display: inline-block;
+    
+    /* Sombra sutil projetada por trás do emoji para dar profundidade */
+    filter: drop-shadow(0 4px 10px rgba(197, 155, 39, 0.25));
+    
+    /* Efeito de transição suave para interações */
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+/* Interação ao passar o mouse por cima do Card inteiro */
+.menu-card:hover .menu-icon {
+    transform: scale(1.18) rotate(5deg); /* O emoji cresce um pouco e gira de forma bem charmosa */
+}
+
+/* Ajustes finos adicionais para os títulos e textos dos cartões */
+.menu-card h3 {
+    font-family: 'Cinzel', serif; /* Mantém a fonte clássica nos títulos dos cards */
+    font-size: 1.3rem;
+    color: var(--primary);
+    margin-top: 0;
+    margin-bottom: 0.8rem;
+}
+
+.menu-card p {
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin: 0;
+}
+
+/* Animação suave de subida */
+@keyframes surgindo {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+/* Tablet */
+@media (max-width: 900px) {
+
+    .menu-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+/* Celular */
+@media (max-width: 600px) {
+
+    .menu-grid {
+        grid-template-columns: 1fr;
+    }
+
+
+    .menu-card {
+        aspect-ratio: auto;
+        min-height: 260px;
+    }
+
+}

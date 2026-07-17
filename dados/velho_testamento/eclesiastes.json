@@ -1,0 +1,971 @@
+[
+  {
+    "explicacao": "Deus governa todas as coisas e faz cada acontecimento acontecer no tempo determinado por Ele.",
+    "alternativas": [
+      "O homem pode controlar todos os acontecimentos",
+      "Deus fez tudo apropriado em seu tempo",
+      "Deus não interfere na criação",
+      "O futuro depende somente do homem"
+    ],
+    "id": 2824,
+    "pergunta": "O que Eclesiastes ensina sobre a soberania de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 3:11"
+  },
+  {
+    "explicacao": "O Pregador ensina que o homem não pode mudar aquilo que Deus determinou.",
+    "alternativas": [
+      "“Quem poderá endireitar o que Ele fez torto?”",
+      "“Quem poderá criar outro mundo?”",
+      "“Quem poderá ser maior que Deus?”",
+      "“Quem poderá vencer os reis?”"
+    ],
+    "id": 2825,
+    "pergunta": "Qual pergunta aparece em Eclesiastes sobre a obra de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 7:13"
+  },
+  {
+    "explicacao": "A sabedoria é superior à loucura, porém ambas encontram limite diante da morte.",
+    "alternativas": [
+      "A sabedoria é superior, mas ambas têm limites diante da morte",
+      "A loucura é melhor que a sabedoria",
+      "A sabedoria elimina a morte",
+      "Ambas não possuem diferença"
+    ],
+    "id": 2826,
+    "pergunta": "O que o Pregador descobriu ao comparar sabedoria e loucura?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 2:13-16"
+  },
+  {
+    "explicacao": "O Pregador observa que muitos esforços humanos são motivados pela inveja do sucesso do próximo.",
+    "alternativas": [
+      "É uma motivação positiva sempre",
+      "É uma das causas do esforço humano vazio",
+      "É necessária para vencer",
+      "Deve ser buscada pelos sábios"
+    ],
+    "id": 2827,
+    "pergunta": "O que Eclesiastes ensina sobre a inveja?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 4:4"
+  },
+  {
+    "explicacao": "O livro orienta que a aproximação de Deus deve ser feita com reverência e disposição para ouvir.",
+    "alternativas": [
+      "Aproximar-se para ouvir é melhor que oferecer sacrifícios sem entendimento",
+      "Falar muito é sempre melhor",
+      "Fazer promessas é obrigatório",
+      "Deus não observa as palavras"
+    ],
+    "id": 2828,
+    "pergunta": "Qual é o conselho sobre ouvir na casa de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 5:1"
+  },
+  {
+    "explicacao": "As riquezas acumuladas podem acabar nas mãos de outra pessoa que não trabalhou por elas.",
+    "alternativas": [
+      "Podem ficar para um estranho",
+      "Nunca desaparecem",
+      "Tornam o homem eterno",
+      "Garantem salvação"
+    ],
+    "id": 2829,
+    "pergunta": "O que acontece com os bens acumulados por um homem que não desfruta deles?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 6:2"
+  },
+  {
+    "explicacao": "O Pregador mostra que a sabedoria pode ser mais poderosa que a força militar.",
+    "alternativas": [
+      "A sabedoria é melhor que armas de guerra",
+      "A força sempre vence a sabedoria",
+      "A sabedoria não tem valor",
+      "A guerra é superior ao conhecimento"
+    ],
+    "id": 2830,
+    "pergunta": "Qual comparação o Pregador faz entre a sabedoria e a força?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 9:16-18"
+  },
+  {
+    "explicacao": "Eclesiastes apresenta a realidade da morte humana durante a vida debaixo do sol.",
+    "alternativas": [
+      "Os vivos sabem que morrerão, mas os mortos nada sabem do que acontece debaixo do sol",
+      "Os mortos governam os vivos",
+      "Os mortos possuem mais conhecimento terreno",
+      "Os vivos não sabem nada"
+    ],
+    "id": 2831,
+    "pergunta": "O que Eclesiastes afirma sobre os mortos em comparação aos vivos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 9:5"
+  },
+  {
+    "explicacao": "A expressão ensina sobre generosidade e disposição para agir, mesmo sem conhecer todos os resultados.",
+    "alternativas": [
+      "Incentiva a generosidade e a disposição para agir",
+      "Ensina a desperdiçar alimentos",
+      "Proíbe ajudar pessoas",
+      "Fala sobre navegação apenas"
+    ],
+    "id": 2832,
+    "pergunta": "Qual conselho aparece sobre lançar o pão sobre as águas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 11:1"
+  },
+  {
+    "explicacao": "O texto ensina que esperar condições perfeitas pode impedir que alguém realize suas tarefas.",
+    "alternativas": [
+      "Quem espera condições perfeitas pode nunca realizar nada",
+      "O homem deve abandonar o trabalho",
+      "A agricultura é inútil",
+      "O vento controla tudo"
+    ],
+    "id": 2833,
+    "pergunta": "O que Eclesiastes ensina sobre plantar e observar o vento?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 11:4"
+  },
+  {
+    "explicacao": "O Pregador ensina que muitas buscas humanas são passageiras e sem proveito permanente, comparando-as a correr atrás do vento.",
+    "alternativas": [
+      "Buscar algo impossível de alcançar e sem proveito permanente",
+      "Trabalhar para obter riquezas",
+      "Viajar para conhecer novos lugares",
+      "Buscar conhecimento espiritual"
+    ],
+    "id": 2834,
+    "pergunta": "Qual significado está relacionado à expressão “correr atrás do vento” em Eclesiastes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:14"
+  },
+  {
+    "explicacao": "O Pregador afirma que o aumento do conhecimento também revela mais dores e preocupações da vida.",
+    "alternativas": [
+      "Sempre traz felicidade completa",
+      "Aumenta também o sofrimento e a tristeza",
+      "Elimina todos os problemas",
+      "Torna o homem semelhante a Deus"
+    ],
+    "id": 2835,
+    "pergunta": "O que o Pregador afirma sobre aumentar o conhecimento?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:18"
+  },
+  {
+    "explicacao": "Depois de experimentar riquezas, obras e prazeres, o Pregador concluiu que tudo era vaidade.",
+    "alternativas": [
+      "Tudo era vaidade e correr atrás do vento",
+      "As riquezas eram suficientes para a felicidade",
+      "O trabalho humano era eterno",
+      "A fama era o maior bem"
+    ],
+    "id": 2836,
+    "pergunta": "Qual foi a conclusão do Pregador depois de experimentar grandes obras e riquezas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 2:11"
+  },
+  {
+    "explicacao": "Mesmo com diferenças entre sábio e tolo, ambos enfrentam a realidade da morte.",
+    "alternativas": [
+      "Ambos têm o mesmo destino da morte",
+      "Somente o tolo morre",
+      "O sábio nunca sofre",
+      "O tolo sempre vence"
+    ],
+    "id": 2837,
+    "pergunta": "O que o Pregador declarou sobre o destino do sábio e do tolo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 2:15-16"
+  },
+  {
+    "explicacao": "O Pregador percebeu que o homem trabalha, mas muitas vezes deixa o resultado para outros depois de sua morte.",
+    "alternativas": [
+      "Porque o homem deixa seu trabalho para outros depois da morte",
+      "Porque trabalhar é pecado",
+      "Porque Deus proibiu o trabalho",
+      "Porque o homem não pode aprender"
+    ],
+    "id": 2838,
+    "pergunta": "Por que o Pregador considerou o trabalho humano muitas vezes doloroso?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 2:18-19"
+  },
+  {
+    "explicacao": "Eclesiastes ensina que a união entre pessoas traz ajuda e força, pois um pode levantar o outro.",
+    "alternativas": [
+      "Ter muitos bens",
+      "Ser famoso",
+      "Ter companhia e ajuda de outro",
+      "Viver sem amigos"
+    ],
+    "id": 2839,
+    "pergunta": "O que é melhor do que estar sozinho?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 4:9-10"
+  },
+  {
+    "explicacao": "A corda de três dobras representa algo fortalecido pela união, sendo mais resistente ao rompimento.",
+    "alternativas": [
+      "Representa riqueza e poder",
+      "É mais difícil de romper",
+      "Serve apenas para trabalho",
+      "Representa guerra"
+    ],
+    "id": 2840,
+    "pergunta": "Qual é a importância de uma corda de três dobras?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 4:12"
+  },
+  {
+    "explicacao": "O Pregador aconselha que os votos feitos a Deus sejam cumpridos com responsabilidade.",
+    "alternativas": [
+      "Fazer muitos votos sem cumprir",
+      "Cumprir o que foi prometido",
+      "Nunca falar com Deus",
+      "Prometer coisas impossíveis"
+    ],
+    "id": 2841,
+    "pergunta": "O que Eclesiastes ensina sobre fazer votos a Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 5:4-5"
+  },
+  {
+    "explicacao": "O livro mostra que riquezas acumuladas podem acabar sendo desfrutadas por outra pessoa.",
+    "alternativas": [
+      "Sempre terá alegria",
+      "Outro poderá desfrutar delas",
+      "Será sempre honrado",
+      "Nunca perderá nada"
+    ],
+    "id": 2842,
+    "pergunta": "O que acontece com quem acumula riquezas sem desfrutar delas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 6:2"
+  },
+  {
+    "explicacao": "Eclesiastes afirma que o dia da morte pode trazer mais reflexão do que o dia do nascimento.",
+    "alternativas": [
+      "O dia da morte",
+      "O dia da riqueza",
+      "O dia da vitória",
+      "O dia do casamento"
+    ],
+    "id": 2843,
+    "pergunta": "O que é melhor do que o dia do nascimento?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 7:1"
+  },
+  {
+    "explicacao": "A tristeza pode levar a pessoa a refletir e buscar mudança de comportamento.",
+    "alternativas": [
+      "Reflexão e melhoria",
+      "Apenas destruição",
+      "Riqueza imediata",
+      "Poder político"
+    ],
+    "id": 2844,
+    "pergunta": "O que a tristeza pode produzir no coração?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 7:3"
+  },
+  {
+    "explicacao": "A Bíblia ensina que todos os seres humanos falham e necessitam da graça de Deus.",
+    "alternativas": [
+      "Todos pecam em algum momento",
+      "Ninguém precisa de Deus",
+      "A justiça não existe",
+      "Somente os reis erram"
+    ],
+    "id": 2845,
+    "pergunta": "O que o Pregador afirma sobre não haver homem justo que faça sempre o bem?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 7:20"
+  },
+  {
+    "explicacao": "O Pregador orienta o jovem a aproveitar a juventude, mas lembrando que Deus julgará suas ações.",
+    "alternativas": [
+      "Aproveitar a juventude lembrando que Deus julgará suas ações",
+      "Buscar somente riquezas",
+      "Ignorar os mandamentos",
+      "Viver sem responsabilidade"
+    ],
+    "id": 2846,
+    "pergunta": "O que o Pregador aconselha ao jovem?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 11:9"
+  },
+  {
+    "explicacao": "Eclesiastes descreve o retorno do corpo ao pó e do espírito a Deus.",
+    "alternativas": [
+      "Seu corpo volta ao pó e o espírito volta a Deus",
+      "Ele deixa de existir completamente",
+      "Ele se torna um anjo",
+      "Ele volta como outro ser humano"
+    ],
+    "id": 2847,
+    "pergunta": "O que acontece quando o homem morre?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 12:7"
+  },
+  {
+    "explicacao": "A conclusão do livro resume o dever principal do ser humano: reverenciar a Deus e obedecer aos seus mandamentos.",
+    "alternativas": [
+      "Buscar riquezas e fama",
+      "Temer a Deus e guardar seus mandamentos",
+      "Confiar apenas na sabedoria humana",
+      "Evitar qualquer trabalho"
+    ],
+    "id": 2848,
+    "pergunta": "Qual é a conclusão final do livro de Eclesiastes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 12:13"
+  },
+  {
+    "explicacao": "O Pregador ensina que os esforços humanos debaixo do sol não possuem proveito permanente.",
+    "alternativas": [
+      "Todos os trabalhos trazem riquezas eternas",
+      "O homem não tem proveito permanente de todo seu trabalho debaixo do sol",
+      "O trabalho é sempre inútil",
+      "O trabalho deve ser abandonado"
+    ],
+    "id": 2849,
+    "pergunta": "Qual é uma das primeiras conclusões do Pregador sobre os trabalhos humanos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:3"
+  },
+  {
+    "explicacao": "O livro mostra que as gerações passam, enquanto a terra permanece.",
+    "alternativas": [
+      "Uma geração passa e outra vem",
+      "Todas permanecem para sempre",
+      "Ninguém nasce depois da primeira geração",
+      "Somente os reis permanecem"
+    ],
+    "id": 2850,
+    "pergunta": "O que acontece com as gerações segundo Eclesiastes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:4"
+  },
+  {
+    "explicacao": "O Pregador procurou compreender tanto a sabedoria quanto a loucura.",
+    "alternativas": [
+      "As riquezas dos povos",
+      "A alegria dos reis",
+      "A sabedoria e a loucura",
+      "Os segredos dos anjos"
+    ],
+    "id": 2851,
+    "pergunta": "O que o Pregador buscou conhecer através da sabedoria?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:17"
+  },
+  {
+    "explicacao": "A sabedoria é comparada à luz, enquanto a loucura é comparada às trevas.",
+    "alternativas": [
+      "A sabedoria é melhor que a loucura, como a luz é melhor que as trevas",
+      "A loucura é melhor que a sabedoria",
+      "Ambas são exatamente iguais",
+      "Nenhuma possui valor"
+    ],
+    "id": 2852,
+    "pergunta": "O que o Pregador descobriu sobre a sabedoria comparada à loucura?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 2:13"
+  },
+  {
+    "explicacao": "Salomão relata que realizou grandes obras e acumulou bens para experimentar os prazeres da vida.",
+    "alternativas": [
+      "Construiu casas, plantou vinhas e adquiriu riquezas",
+      "Abandonou todos os bens",
+      "Deixou de governar Israel",
+      "Viveu como um pobre"
+    ],
+    "id": 2853,
+    "pergunta": "O que Salomão fez para experimentar os prazeres da vida?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 2:4-10"
+  },
+  {
+    "explicacao": "Depois de experimentar os prazeres, o Pregador concluiu que tudo era vaidade e correr atrás do vento.",
+    "alternativas": [
+      "Como uma grande vitória",
+      "Como vaidade e correr atrás do vento",
+      "Como a única coisa importante",
+      "Como uma obrigação religiosa"
+    ],
+    "id": 2854,
+    "pergunta": "Como o Pregador descreveu a busca pelos prazeres?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 2:11"
+  },
+  {
+    "explicacao": "O sábio e o insensato possuem o mesmo destino final: a morte.",
+    "alternativas": [
+      "Ambos serão esquecidos com o tempo",
+      "Ambos recebem o mesmo destino da morte",
+      "Ambos se tornam reis",
+      "Ambos vivem eternamente na terra"
+    ],
+    "id": 2855,
+    "pergunta": "O que acontece tanto ao sábio quanto ao insensato?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 2:14-16"
+  },
+  {
+    "explicacao": "Eclesiastes ensina que Deus estabeleceu tempos para cada acontecimento da vida.",
+    "alternativas": [
+      "O homem controla todos os acontecimentos",
+      "Há tempo para todo propósito debaixo do céu",
+      "O tempo não tem importância",
+      "O tempo pertence somente aos reis"
+    ],
+    "id": 2856,
+    "pergunta": "Qual declaração aparece sobre o tempo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 3:1"
+  },
+  {
+    "explicacao": "Deus colocou no coração humano o senso da eternidade.",
+    "alternativas": [
+      "Desejo de riquezas",
+      "Eternidade",
+      "Poder sobre outros",
+      "Conhecimento completo"
+    ],
+    "id": 2857,
+    "pergunta": "O que Deus colocou no coração do homem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 3:11"
+  },
+  {
+    "explicacao": "O Pregador observou a injustiça da opressão e a falta de consolo para os oprimidos.",
+    "alternativas": [
+      "Que os oprimidos não tinham consolador",
+      "Que todos eram livres",
+      "Que a opressão era sempre justa",
+      "Que não existia injustiça"
+    ],
+    "id": 2858,
+    "pergunta": "O que o Pregador observou sobre a opressão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 4:1"
+  },
+  {
+    "explicacao": "Eclesiastes ensina que a sabedoria tem mais valor do que a força humana.",
+    "alternativas": [
+      "A beleza",
+      "A sabedoria",
+      "A riqueza",
+      "A juventude"
+    ],
+    "id": 2859,
+    "pergunta": "O que é melhor do que a força?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 9:16"
+  },
+  {
+    "explicacao": "O livro mostra que a união de duas pessoas traz maior recompensa e ajuda mútua.",
+    "alternativas": [
+      "Porque têm mais dinheiro",
+      "Porque nunca erram",
+      "Porque têm melhor recompensa pelo trabalho",
+      "Porque não precisam de Deus"
+    ],
+    "id": 2860,
+    "pergunta": "Por que dois são melhores do que um?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 4:9"
+  },
+  {
+    "explicacao": "O autor compara uma vida sem propósito em Deus com correr atrás do vento.",
+    "alternativas": [
+      "É cheia de sentido",
+      "É como correr atrás do vento",
+      "É sempre fácil",
+      "Não possui problemas"
+    ],
+    "id": 2861,
+    "pergunta": "O que o autor diz sobre a vida sem Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:14"
+  },
+  {
+    "explicacao": "Deus colocou no coração humano o desejo de compreender algo além desta vida.",
+    "alternativas": [
+      "A eternidade",
+      "A riqueza",
+      "O poder",
+      "A fama"
+    ],
+    "id": 2862,
+    "pergunta": "O que Deus colocou no coração do homem?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 3:11"
+  },
+  {
+    "explicacao": "O livro aconselha aproximar-se de Deus com reverência e atenção.",
+    "alternativas": [
+      "Falando muitas palavras sem pensar",
+      "Com temor e atenção",
+      "Fazendo promessas vazias",
+      "Buscando riquezas"
+    ],
+    "id": 2863,
+    "pergunta": "Como devemos nos aproximar da presença de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 5:1-2"
+  },
+  {
+    "explicacao": "O autor observa que muitas realizações humanas podem ser esquecidas com o passar das gerações.",
+    "alternativas": [
+      "Nunca são esquecidas",
+      "Permanecem para sempre",
+      "Podem ser esquecidas pelo tempo",
+      "Sempre recebem recompensa"
+    ],
+    "id": 2864,
+    "pergunta": "O que acontece com muitas obras humanas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:11"
+  },
+  {
+    "explicacao": "Eclesiastes ensina que devemos desfrutar a vida reconhecendo-a como presente de Deus.",
+    "alternativas": [
+      "A vida como presente de Deus",
+      "Apenas os bens materiais",
+      "O poder sobre outros",
+      "As riquezas acumuladas"
+    ],
+    "id": 2865,
+    "pergunta": "O que o autor aconselha aproveitar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 3:12-13"
+  },
+  {
+    "explicacao": "O livro destaca que ouvir a Deus e obedecer é mais importante que práticas religiosas sem sinceridade.",
+    "alternativas": [
+      "A voz dos homens",
+      "A obediência",
+      "A riqueza",
+      "A fama"
+    ],
+    "id": 2866,
+    "pergunta": "O que é melhor ouvir do que oferecer sacrifícios sem pensar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 5:1"
+  },
+  {
+    "explicacao": "O autor afirma que tanto sábios quanto tolos enfrentam a realidade da morte.",
+    "alternativas": [
+      "Ambos enfrentam a morte",
+      "Somente o tolo morre",
+      "O sábio nunca sofre",
+      "O tolo vive mais"
+    ],
+    "id": 2867,
+    "pergunta": "O que acontece com o sábio e o tolo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 2:16"
+  },
+  {
+    "explicacao": "Eclesiastes ensina que Deus julgará todas as ações humanas, sejam boas ou más.",
+    "alternativas": [
+      "Os reis da terra",
+      "Os homens sábios",
+      "Deus",
+      "Os sacerdotes"
+    ],
+    "id": 2868,
+    "pergunta": "Quem trará a julgamento todas as coisas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 12:14"
+  },
+  {
+    "explicacao": "O livro começa identificando o Pregador como filho de Davi e rei em Jerusalém, tradicionalmente associado a Salomão.",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Moisés",
+      "Isaías"
+    ],
+    "id": 2869,
+    "pergunta": "Quem é apresentado como autor de Eclesiastes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:1"
+  },
+  {
+    "explicacao": "O autor de Eclesiastes se apresenta como o Pregador.",
+    "alternativas": [
+      "Rei de Israel",
+      "Profeta do Senhor",
+      "Pregador",
+      "Sacerdote"
+    ],
+    "id": 2870,
+    "pergunta": "Qual título o autor usa para si mesmo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:1"
+  },
+  {
+    "explicacao": "O livro inicia mostrando que muitas coisas desta vida são passageiras e sem valor eterno.",
+    "alternativas": [
+      "O Senhor é minha força",
+      "Vaidade de vaidades, tudo é vaidade",
+      "A minha alma espera no Senhor",
+      "O justo viverá pela fé"
+    ],
+    "id": 2871,
+    "pergunta": "Qual frase aparece no início do livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:2"
+  },
+  {
+    "explicacao": "O escritor ensina que Deus estabeleceu um tempo para cada acontecimento.",
+    "alternativas": [
+      "Um rei poderoso",
+      "Um tempo determinado",
+      "Uma grande riqueza",
+      "Uma vitória garantida"
+    ],
+    "id": 2872,
+    "pergunta": "O que existe para todo propósito debaixo do céu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 3:1"
+  },
+  {
+    "explicacao": "Eclesiastes ensina que existem ciclos determinados por Deus na vida humana.",
+    "alternativas": [
+      "Nascer e morrer",
+      "Ganhar e perder guerras",
+      "Construir somente",
+      "Viajar sempre"
+    ],
+    "id": 2873,
+    "pergunta": "Segundo Eclesiastes, há tempo de quê?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 3:2"
+  },
+  {
+    "explicacao": "A Bíblia afirma que Deus fez todas as coisas apropriadas no tempo certo.",
+    "alternativas": [
+      "A sabedoria dos reis",
+      "A criação dos homens",
+      "Todas as coisas",
+      "As riquezas da terra"
+    ],
+    "id": 2874,
+    "pergunta": "O que Deus fez formoso em seu devido tempo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 3:11"
+  },
+  {
+    "explicacao": "O autor ensina que o desejo por dinheiro nunca é completamente satisfeito.",
+    "alternativas": [
+      "Nunca terá dificuldades",
+      "Nunca se satisfará com o dinheiro",
+      "Sempre será feliz",
+      "Terá vida eterna"
+    ],
+    "id": 2875,
+    "pergunta": "O que acontece com quem ama o dinheiro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 5:10"
+  },
+  {
+    "explicacao": "A Bíblia destaca que um bom nome e uma boa reputação têm grande valor.",
+    "alternativas": [
+      "Um bom nome",
+      "Uma casa grande",
+      "Muitos empregados",
+      "Uma grande fama"
+    ],
+    "id": 2876,
+    "pergunta": "O que é melhor do que riquezas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 7:1"
+  },
+  {
+    "explicacao": "O Pregador aconselha os jovens a se lembrarem de Deus antes da velhice.",
+    "alternativas": [
+      "Dos seus amigos",
+      "Das suas conquistas",
+      "Do seu Criador",
+      "Das suas riquezas"
+    ],
+    "id": 2877,
+    "pergunta": "O que o jovem deve lembrar?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 12:1"
+  },
+  {
+    "explicacao": "A conclusão do livro mostra que o propósito da vida é temer a Deus e obedecer aos seus mandamentos.",
+    "alternativas": [
+      "Buscar riquezas acima de tudo",
+      "Temer a Deus e guardar seus mandamentos",
+      "Viver sem regras",
+      "Confiar apenas na força humana"
+    ],
+    "id": 2878,
+    "pergunta": "Qual é a conclusão de Eclesiastes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 12:13"
+  },
+  {
+    "explicacao": "O autor de Eclesiastes utiliza a palavra hebraica 'Hevel' (vapor/vaidade) para enfatizar a natureza efêmera e ilusória das conquistas humanas debaixo do sol.",
+    "alternativas": [
+      "Cântico dos Cânticos",
+      "Provérbios",
+      "Jó",
+      "Eclesiastes"
+    ],
+    "id": 2879,
+    "pergunta": "Qual livro sapiencial repete de forma cíclica o refrão existencial 'Vaidade de vaidades, tudo é vaidade'?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 1:2"
+  },
+  {
+    "explicacao": "O autor medita sobre a providência e os ritmos estabelecidos por Deus na experiência humana, exortando à aceitação dos tempos da vida.",
+    "alternativas": [
+      "Salmos",
+      "Jó",
+      "Eclesiastes",
+      "Provérbios"
+    ],
+    "id": 2880,
+    "pergunta": "Qual livro poético organiza suas reflexões em torno da premissa de que 'tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu'?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Eclesiastes",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Eclesiastes 3:1"
+  }
+]

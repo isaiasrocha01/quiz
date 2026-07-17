@@ -1,0 +1,1022 @@
+[
+  {
+    "explicacao": "Paulo se identifica como apóstolo de Cristo Jesus pela vontade de Deus.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 1040,
+    "pergunta": "Quem escreveu a carta aos Efésios?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:1"
+  },
+  {
+    "explicacao": "A carta foi destinada aos santos e fiéis em Cristo Jesus que estavam em Éfeso.",
+    "alternativas": [
+      "Aos romanos",
+      "Aos santos que estavam em Éfeso e fiéis em Cristo Jesus",
+      "Aos sacerdotes de Jerusalém",
+      "Aos reis da terra"
+    ],
+    "id": 1041,
+    "pergunta": "Para quem Paulo escreveu a carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:1"
+  },
+  {
+    "explicacao": "Paulo declara que Deus abençoou os cristãos com todas as bênçãos espirituais em Cristo.",
+    "alternativas": [
+      "Os apóstolos",
+      "Deus e Pai de nosso Senhor Jesus Cristo",
+      "Os anjos",
+      "Os profetas"
+    ],
+    "id": 1042,
+    "pergunta": "Quem abençoou os cristãos com todas as bênçãos espirituais?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:3"
+  },
+  {
+    "explicacao": "Paulo ensina que Deus escolheu os cristãos em Cristo antes da criação do mundo.",
+    "alternativas": [
+      "Em Moisés",
+      "Em Abraão",
+      "Em Cristo",
+      "Em Pedro"
+    ],
+    "id": 1043,
+    "pergunta": "Em quem fomos escolhidos antes da fundação do mundo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:4"
+  },
+  {
+    "explicacao": "A redenção e o perdão dos pecados vêm por meio do sangue de Cristo.",
+    "alternativas": [
+      "Paulo",
+      "Jesus Cristo",
+      "Moisés",
+      "João Batista"
+    ],
+    "id": 1044,
+    "pergunta": "Por meio de quem temos redenção pelo seu sangue?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:7"
+  },
+  {
+    "explicacao": "Deus revelou o mistério da sua vontade conforme o seu propósito em Cristo.",
+    "alternativas": [
+      "O mistério da sua vontade",
+      "Os segredos dos reis",
+      "O futuro das nações",
+      "A sabedoria dos homens"
+    ],
+    "id": 1045,
+    "pergunta": "O que Deus revelou aos cristãos segundo sua vontade?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:9"
+  },
+  {
+    "explicacao": "Paulo ensina que a salvação vem pela graça mediante a fé.",
+    "alternativas": [
+      "Riqueza",
+      "Fé, pela graça de Deus",
+      "Sabedoria humana",
+      "Lei de Moisés"
+    ],
+    "id": 1046,
+    "pergunta": "Os cristãos são salvos pela:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:8"
+  },
+  {
+    "explicacao": "Paulo afirma que a salvação é um presente concedido por Deus.",
+    "alternativas": [
+      "Deus",
+      "Homens",
+      "Anjos",
+      "Profetas"
+    ],
+    "id": 1047,
+    "pergunta": "A salvação é dom de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:8"
+  },
+  {
+    "explicacao": "Deus preparou boas obras para que os cristãos andassem nelas.",
+    "alternativas": [
+      "Boas obras",
+      "Buscar riquezas",
+      "Dominar pessoas",
+      "Receber fama"
+    ],
+    "id": 1048,
+    "pergunta": "Fomos criados em Cristo Jesus para:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:10"
+  },
+  {
+    "explicacao": "Cristo é a nossa paz e uniu judeus e gentios em um só povo.",
+    "alternativas": [
+      "Riqueza",
+      "Paz",
+      "Força militar",
+      "Sabedoria humana"
+    ],
+    "id": 1049,
+    "pergunta": "Cristo é a nossa:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:14"
+  },
+  {
+    "explicacao": "Cristo criou em si mesmo um novo homem, trazendo reconciliação.",
+    "alternativas": [
+      "Um novo homem",
+      "Um novo reino terreno",
+      "Uma nova lei humana",
+      "Uma nova cidade"
+    ],
+    "id": 1050,
+    "pergunta": "Em Cristo os gentios e judeus foram unidos em:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:15"
+  },
+  {
+    "explicacao": "Cristo Jesus é a pedra angular sobre a qual a igreja é edificada.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "Cristo Jesus",
+      "Moisés"
+    ],
+    "id": 1051,
+    "pergunta": "Quem é a pedra principal da igreja?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:20"
+  },
+  {
+    "explicacao": "Os cristãos pertencem à família de Deus e ao povo santo.",
+    "alternativas": [
+      "Estrangeiros para sempre",
+      "Concidadãos dos santos e família de Deus",
+      "Soldados romanos",
+      "Reis da terra"
+    ],
+    "id": 1052,
+    "pergunta": "Paulo diz que os cristãos são:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:19"
+  },
+  {
+    "explicacao": "Paulo foi chamado para anunciar as riquezas de Cristo aos gentios.",
+    "alternativas": [
+      "Judeus somente",
+      "Gentios",
+      "Reis somente",
+      "Sacerdotes"
+    ],
+    "id": 1053,
+    "pergunta": "Paulo recebeu o ministério de anunciar o evangelho aos:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 3:8"
+  },
+  {
+    "explicacao": "Deus age além de tudo que pedimos ou pensamos, segundo seu poder.",
+    "alternativas": [
+      "Podemos pedir ou pensar",
+      "Os homens desejam",
+      "Os reis ordenam",
+      "Os anjos sabem"
+    ],
+    "id": 1054,
+    "pergunta": "Segundo Paulo, Deus pode fazer muito mais do que:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 3:20"
+  },
+  {
+    "explicacao": "Paulo exorta a preservar a unidade do Espírito através da paz.",
+    "alternativas": [
+      "Unidade do Espírito pelo vínculo da paz",
+      "Unidade política",
+      "Unidade financeira",
+      "Unidade militar"
+    ],
+    "id": 1055,
+    "pergunta": "Qual é a unidade que Paulo pede aos cristãos para guardar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:3"
+  },
+  {
+    "explicacao": "Cristo concedeu diferentes ministérios para aperfeiçoamento dos santos.",
+    "alternativas": [
+      "Apóstolos, profetas, evangelistas, pastores e mestres",
+      "Reis e governadores",
+      "Soldados e juízes",
+      "Comerciantes e líderes políticos"
+    ],
+    "id": 1056,
+    "pergunta": "Qual dom Cristo concedeu à igreja?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:11"
+  },
+  {
+    "explicacao": "Paulo ensina a deixar a antiga natureza e viver segundo a nova criação em Cristo.",
+    "alternativas": [
+      "Novo homem",
+      "Poder humano",
+      "Conhecimento terreno",
+      "Governo dos homens"
+    ],
+    "id": 1057,
+    "pergunta": "O cristão deve abandonar o velho homem e se revestir do:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:22-24"
+  },
+  {
+    "explicacao": "Paulo destaca que o fruto da luz consiste em bondade, justiça e verdade.",
+    "alternativas": [
+      "Bondade, justiça e verdade",
+      "Riqueza e fama",
+      "Poder e autoridade",
+      "Vitória militar"
+    ],
+    "id": 1058,
+    "pergunta": "Qual fruto do Espírito é citado em Efésios?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 5:9"
+  },
+  {
+    "explicacao": "Paulo orienta os cristãos a vestirem toda a armadura de Deus para permanecerem firmes.",
+    "alternativas": [
+      "Armadura de Deus",
+      "Armadura dos soldados romanos",
+      "Armadura dos reis",
+      "Armadura dos anjos"
+    ],
+    "id": 1059,
+    "pergunta": "Qual armadura o cristão deve vestir?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 6:11"
+  },
+  {
+    "explicacao": "A adoção como filhos de Deus acontece por meio de Jesus Cristo, segundo o propósito da vontade de Deus.",
+    "alternativas": [
+      "Moisés",
+      "Jesus Cristo",
+      "Os apóstolos",
+      "Os profetas"
+    ],
+    "id": 1060,
+    "pergunta": "Segundo Paulo, Deus nos predestinou para sermos adotados como filhos por meio de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:5"
+  },
+  {
+    "explicacao": "O Espírito Santo é o selo e garantia da herança prometida aos que creem.",
+    "alternativas": [
+      "A sabedoria humana",
+      "O Espírito Santo",
+      "A Lei de Moisés",
+      "Os milagres"
+    ],
+    "id": 1061,
+    "pergunta": "Qual é o penhor da nossa herança até a redenção da propriedade de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:13-14"
+  },
+  {
+    "explicacao": "Paulo desejava que os efésios conhecessem mais profundamente a Deus por meio de sabedoria e revelação espiritual.",
+    "alternativas": [
+      "Riquezas e prosperidade",
+      "Espírito de sabedoria e revelação no conhecimento de Deus",
+      "Autoridade sobre os povos",
+      "Poder político"
+    ],
+    "id": 1062,
+    "pergunta": "Paulo orava para que Deus desse aos efésios:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:17"
+  },
+  {
+    "explicacao": "O maior exemplo do poder de Deus foi a ressurreição e exaltação de Cristo.",
+    "alternativas": [
+      "Multiplicou os pães",
+      "Ressuscitou Cristo dentre os mortos e o fez assentar à sua direita",
+      "Desceu ao monte Sinai",
+      "Construiu o templo"
+    ],
+    "id": 1063,
+    "pergunta": "O poder de Deus manifestado em Cristo foi demonstrado quando Ele:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:19-20"
+  },
+  {
+    "explicacao": "Paulo descreve a condição humana sem Cristo como morte espiritual causada pelo pecado.",
+    "alternativas": [
+      "Riquezas",
+      "Delitos e pecados",
+      "Conhecimento",
+      "Trabalho"
+    ],
+    "id": 1064,
+    "pergunta": "Antes da salvação, os efésios estavam mortos em:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:1"
+  },
+  {
+    "explicacao": "Paulo usa essa expressão para se referir ao domínio espiritual maligno.",
+    "alternativas": [
+      "Miguel",
+      "Satanás",
+      "Pedro",
+      "César"
+    ],
+    "id": 1065,
+    "pergunta": "Quem é descrito como príncipe da potestade do ar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:2"
+  },
+  {
+    "explicacao": "A nova vida espiritual é concedida por Deus juntamente com Cristo.",
+    "alternativas": [
+      "Os anjos",
+      "Cristo",
+      "Os profetas",
+      "Os apóstolos"
+    ],
+    "id": 1066,
+    "pergunta": "Deus, sendo rico em misericórdia, nos deu vida juntamente com:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:4-5"
+  },
+  {
+    "explicacao": "Deus revela eternamente a grandeza da sua graça através da obra de Cristo.",
+    "alternativas": [
+      "A grandeza dos reis",
+      "A suprema riqueza da sua graça",
+      "A força dos homens",
+      "A sabedoria dos filósofos"
+    ],
+    "id": 1067,
+    "pergunta": "A graça de Deus foi demonstrada para mostrar nos séculos futuros:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:7"
+  },
+  {
+    "explicacao": "Cristo removeu a separação e trouxe reconciliação entre os povos.",
+    "alternativas": [
+      "A parede da separação que estava no meio",
+      "O templo de Jerusalém",
+      "A Lei romana",
+      "A tradição dos apóstolos"
+    ],
+    "id": 1068,
+    "pergunta": "Cristo derrubou qual barreira entre judeus e gentios?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:14"
+  },
+  {
+    "explicacao": "A igreja é uma habitação de Deus por meio do Espírito.",
+    "alternativas": [
+      "Pela força humana",
+      "No Espírito",
+      "Pela riqueza",
+      "Pela sabedoria dos homens"
+    ],
+    "id": 1069,
+    "pergunta": "Os cristãos são edificados para habitação de Deus:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:22"
+  },
+  {
+    "explicacao": "Paulo reconhece que seu ministério veio pela graça concedida por Deus.",
+    "alternativas": [
+      "Vontade dos homens",
+      "Dádiva da graça de Deus",
+      "Autoridade dos reis",
+      "Tradição judaica"
+    ],
+    "id": 1070,
+    "pergunta": "Paulo afirma ser ministro do evangelho pela:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 3:7"
+  },
+  {
+    "explicacao": "Cristo habita nos corações dos cristãos mediante a fé.",
+    "alternativas": [
+      "Pela fama",
+      "Pela fé",
+      "Pela riqueza",
+      "Pela inteligência"
+    ],
+    "id": 1071,
+    "pergunta": "Qual era o desejo de Paulo para que Cristo habitasse nos corações dos efésios?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 3:17"
+  },
+  {
+    "explicacao": "O amor de Cristo é tão profundo que ultrapassa a compreensão humana.",
+    "alternativas": [
+      "A força humana",
+      "Todo entendimento",
+      "A riqueza dos reis",
+      "A sabedoria dos anjos"
+    ],
+    "id": 1072,
+    "pergunta": "Paulo deseja que os cristãos conheçam o amor de Cristo que excede:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 3:19"
+  },
+  {
+    "explicacao": "Paulo ensina que a vida cristã deve refletir o chamado recebido de Deus.",
+    "alternativas": [
+      "Andar de modo digno da vocação recebida",
+      "Buscar posições importantes",
+      "Evitar todos os relacionamentos",
+      "Dominar os outros"
+    ],
+    "id": 1073,
+    "pergunta": "Qual é a atitude que Paulo pede aos cristãos em relação ao chamado recebido?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:1"
+  },
+  {
+    "explicacao": "Paulo apresenta sete elementos de unidade da fé cristã.",
+    "alternativas": [
+      "Três",
+      "Sete",
+      "Dez",
+      "Doze"
+    ],
+    "id": 1074,
+    "pergunta": "Quantas unidades Paulo menciona em Efésios 4:4-6?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:4-6"
+  },
+  {
+    "explicacao": "Paulo relaciona os dons concedidos por Cristo à sua vitória e exaltação.",
+    "alternativas": [
+      "Subiu às alturas levando cativo o cativeiro",
+      "Nasceu em Belém",
+      "Foi batizado no Jordão",
+      "Entrou em Jerusalém"
+    ],
+    "id": 1075,
+    "pergunta": "Cristo concedeu dons aos homens quando:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:8"
+  },
+  {
+    "explicacao": "Os dons existem para preparar os cristãos e fortalecer a igreja.",
+    "alternativas": [
+      "Enriquecer líderes",
+      "Aperfeiçoar os santos para a obra do ministério e edificação do corpo de Cristo",
+      "Criar disputas",
+      "Dar fama aos pregadores"
+    ],
+    "id": 1076,
+    "pergunta": "O propósito dos dons ministeriais é:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:12"
+  },
+  {
+    "explicacao": "A verdade deve ser comunicada com amor para promover crescimento espiritual.",
+    "alternativas": [
+      "Orgulho",
+      "Amor",
+      "Medo",
+      "Autoridade humana"
+    ],
+    "id": 1077,
+    "pergunta": "Paulo ensina que devemos falar a verdade em:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:15"
+  },
+  {
+    "explicacao": "Paulo ensina a resolver a ira sem permitir que ela permaneça.",
+    "alternativas": [
+      "Guardá-la por muitos dias",
+      "Não deixar o sol se pôr sobre ela",
+      "Usá-la contra os inimigos",
+      "Ignorá-la sempre"
+    ],
+    "id": 1078,
+    "pergunta": "O que Paulo orienta os cristãos a fazerem com a ira?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:26"
+  },
+  {
+    "explicacao": "Paulo orienta os cristãos a viverem de modo que não entristeçam o Espírito Santo.",
+    "alternativas": [
+      "Não entristecer o Espírito Santo de Deus",
+      "Esconder o Espírito",
+      "Substituir o Espírito por conhecimento",
+      "Buscar apenas sinais"
+    ],
+    "id": 1079,
+    "pergunta": "Qual é a orientação de Paulo sobre o Espírito Santo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:30"
+  },
+  {
+    "explicacao": "Paulo ensina que Deus escolheu os cristãos em Cristo para viverem em santidade e sem culpa diante dele.",
+    "alternativas": [
+      "Reis sobre as nações",
+      "Santos e irrepreensíveis diante dele em amor",
+      "Mestres da Lei",
+      "Governantes espirituais"
+    ],
+    "id": 1080,
+    "pergunta": "Segundo Paulo, Deus nos escolheu em Cristo antes da fundação do mundo para sermos:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:4"
+  },
+  {
+    "explicacao": "O plano de Deus é unir todas as coisas em Cristo, tanto as celestiais quanto as terrestres.",
+    "alternativas": [
+      "Criar um novo povo terreno",
+      "Fazer convergir em Cristo todas as coisas, nos céus e na terra",
+      "Destruir os anjos",
+      "Estabelecer o reino de Israel"
+    ],
+    "id": 1081,
+    "pergunta": "Qual é o propósito de Deus de reunir todas as coisas em Cristo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:10"
+  },
+  {
+    "explicacao": "A igreja é apresentada como o corpo de Cristo, cheio da presença daquele que tudo completa.",
+    "alternativas": [
+      "Seu templo físico",
+      "Seu corpo, a plenitude daquele que enche tudo em todos",
+      "Seu reino terreno",
+      "Sua autoridade política"
+    ],
+    "id": 1082,
+    "pergunta": "Segundo Paulo, Cristo é a cabeça sobre todas as coisas para a igreja, que é:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 1:22-23"
+  },
+  {
+    "explicacao": "Paulo descreve a antiga vida dominada pelos padrões do mundo e pela influência espiritual do mal.",
+    "alternativas": [
+      "A tradição dos profetas",
+      "O curso deste mundo e o príncipe da potestade do ar",
+      "A sabedoria dos apóstolos",
+      "A Lei de Moisés"
+    ],
+    "id": 1083,
+    "pergunta": "Segundo Paulo, os cristãos anteriormente seguiam:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:2"
+  },
+  {
+    "explicacao": "Deus revelou sua graça abundante através da obra realizada em Cristo.",
+    "alternativas": [
+      "Para mostrar nos séculos futuros a suprema riqueza da sua graça",
+      "Para exaltar os homens",
+      "Para criar governos humanos",
+      "Para revelar segredos políticos"
+    ],
+    "id": 1084,
+    "pergunta": "Por que Deus demonstrou sua bondade para conosco em Cristo Jesus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:7"
+  },
+  {
+    "explicacao": "Cristo reconciliou judeus e gentios, formando um novo povo unido.",
+    "alternativas": [
+      "Criou um novo sistema religioso",
+      "De ambos os povos fez um só e derrubou a parede de separação",
+      "Eliminou todos os sofrimentos",
+      "Deu riquezas aos discípulos"
+    ],
+    "id": 1085,
+    "pergunta": "Paulo afirma que Cristo é a nossa paz porque:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 2:14"
+  },
+  {
+    "explicacao": "O mistério revelado é a inclusão dos gentios na promessa de Cristo.",
+    "alternativas": [
+      "Que os anjos governariam a terra",
+      "Que os gentios são co-herdeiros, membros do mesmo corpo e participantes da promessa em Cristo",
+      "Que Israel dominaria todas as nações",
+      "Que a Lei seria ampliada"
+    ],
+    "id": 1086,
+    "pergunta": "Qual era o mistério que Paulo recebeu para anunciar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 3:6"
+  },
+  {
+    "explicacao": "A igreja revela a sabedoria de Deus até mesmo às autoridades espirituais celestiais.",
+    "alternativas": [
+      "Reis da terra",
+      "Principados e potestades nos lugares celestiais",
+      "Somente os apóstolos",
+      "Sacerdotes judeus"
+    ],
+    "id": 1087,
+    "pergunta": "Paulo afirma que o evangelho foi revelado para que a multiforme sabedoria de Deus fosse conhecida por:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 3:10"
+  },
+  {
+    "explicacao": "O fortalecimento espiritual acontece no interior do ser humano pela ação do Espírito.",
+    "alternativas": [
+      "Corpo físico",
+      "Homem interior",
+      "Conhecimento humano",
+      "Ministério apostólico"
+    ],
+    "id": 1088,
+    "pergunta": "Paulo pede que os efésios sejam fortalecidos com poder mediante o Espírito no:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 3:16"
+  },
+  {
+    "explicacao": "Paulo deseja que os cristãos compreendam a grandeza do amor de Cristo.",
+    "alternativas": [
+      "A sabedoria dos anjos",
+      "O amor de Cristo",
+      "A glória dos reis",
+      "A história de Israel"
+    ],
+    "id": 1089,
+    "pergunta": "Qual é a largura, comprimento, altura e profundidade que Paulo deseja que os cristãos conheçam?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 3:18"
+  },
+  {
+    "explicacao": "Paulo destaca a unidade dos cristãos em torno de um só Senhor, fé e batismo.",
+    "alternativas": [
+      "Reino",
+      "Batismo",
+      "Templo",
+      "Sacrifício"
+    ],
+    "id": 1090,
+    "pergunta": "Segundo Efésios 4, há um só Senhor, uma só fé e um só:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:5"
+  },
+  {
+    "explicacao": "Paulo ensina que a maturidade protege contra enganos e falsas doutrinas.",
+    "alternativas": [
+      "Crianças, levados por todo vento de doutrina",
+      "Servos obedientes",
+      "Discípulos fiéis",
+      "Pregadores do evangelho"
+    ],
+    "id": 1091,
+    "pergunta": "O objetivo da maturidade cristã é que não sejamos mais como:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:14"
+  },
+  {
+    "explicacao": "A nova natureza em Cristo é caracterizada por justiça e santidade.",
+    "alternativas": [
+      "Justiça e santidade da verdade",
+      "Riqueza e poder",
+      "Sabedoria dos homens",
+      "Conhecimento político"
+    ],
+    "id": 1092,
+    "pergunta": "O novo homem é criado segundo Deus em:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 4:24"
+  },
+  {
+    "explicacao": "Os cristãos são chamados a imitar Deus vivendo como seus filhos amados.",
+    "alternativas": [
+      "Guerreiros",
+      "Filhos amados",
+      "Sacerdotes",
+      "Governantes"
+    ],
+    "id": 1093,
+    "pergunta": "Paulo ensina que os cristãos devem ser imitadores de Deus como:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 5:1"
+  },
+  {
+    "explicacao": "Cristo entregou-se pela igreja para santificá-la e purificá-la.",
+    "alternativas": [
+      "Torná-la rica",
+      "Santificá-la e apresentá-la gloriosa, sem mácula nem defeito",
+      "Fazê-la dominar os povos",
+      "Livrá-la de todo trabalho"
+    ],
+    "id": 1094,
+    "pergunta": "Cristo amou a igreja e se entregou por ela para:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 5:25-27"
+  },
+  {
+    "explicacao": "Paulo usa o casamento como figura da união entre Cristo e a igreja.",
+    "alternativas": [
+      "Rei e súdito",
+      "Mestre e discípulo",
+      "Marido e esposa, sendo um grande mistério referente a Cristo e à igreja",
+      "Pastor e ovelha"
+    ],
+    "id": 1095,
+    "pergunta": "Paulo compara a união entre Cristo e a igreja a qual relação?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 5:31-32"
+  },
+  {
+    "explicacao": "Paulo ensina que o conflito principal do cristão é espiritual.",
+    "alternativas": [
+      "Governos humanos apenas",
+      "Principados, potestades e forças espirituais da maldade nos lugares celestiais",
+      "Pessoas incrédulas",
+      "Problemas financeiros"
+    ],
+    "id": 1096,
+    "pergunta": "A batalha do cristão não é contra carne e sangue, mas contra:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 6:12"
+  },
+  {
+    "explicacao": "A espada do Espírito é identificada como a Palavra de Deus.",
+    "alternativas": [
+      "Escudo da fé",
+      "Espada do Espírito",
+      "Capacete da salvação",
+      "Couraça da justiça"
+    ],
+    "id": 1097,
+    "pergunta": "Qual parte da armadura de Deus representa a Palavra de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 6:17"
+  },
+  {
+    "explicacao": "Paulo pede coragem e clareza para anunciar a mensagem de Cristo.",
+    "alternativas": [
+      "Riqueza e autoridade",
+      "Ousadia e clareza ao falar o mistério do evangelho",
+      "Sabedoria política",
+      "Poder militar"
+    ],
+    "id": 1098,
+    "pergunta": "Paulo pede oração para que ele anunciasse o evangelho com:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 6:19"
+  },
+  {
+    "explicacao": "Paulo encerra desejando paz, amor e graça aos que permanecem fiéis a Cristo.",
+    "alternativas": [
+      "Desejando riquezas aos irmãos",
+      "Desejando paz, amor com fé e graça aos que amam nosso Senhor Jesus Cristo com amor incorruptível",
+      "Ordenando uma guerra espiritual",
+      "Anunciando sua viagem a Roma"
+    ],
+    "id": 1099,
+    "pergunta": "Como Paulo encerra a carta aos Efésios?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Efésios 6:23-24"
+  }
+]

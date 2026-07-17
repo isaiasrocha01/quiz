@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 4582,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a mensagem central da visão do candelabro e das oliveiras?",
+    "alternativas": [
+      "A vitória viria pelo poder militar",
+      "A obra de Deus seria realizada pelo Espírito do Senhor",
+      "O templo não deveria ser reconstruído",
+      "Os reis governariam pela força"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 4:6",
+    "explicacao": "Deus revelou que a reconstrução e o cumprimento da sua obra aconteceriam pelo Espírito, não pela força humana."
+  },
+  {
+    "id": 4583,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Quem era Zorobabel no contexto da visão do candelabro?",
+    "alternativas": [
+      "Rei da Babilônia",
+      "Governador de Judá que lançou os fundamentos do templo",
+      "Sacerdote do Egito",
+      "Profeta de Israel antes do exílio"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 4:9",
+    "explicacao": "Zorobabel era o governador de Judá responsável por iniciar a reconstrução do templo."
+  },
+  {
+    "id": 4584,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "O que representava o rolo voante visto por Zacarias?",
+    "alternativas": [
+      "A bênção sobre os sacerdotes",
+      "A maldição contra os pecadores que praticavam injustiça",
+      "A restauração do templo",
+      "A chegada do Messias"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 5:3-4",
+    "explicacao": "O rolo voante representava o juízo de Deus contra aqueles que roubavam e juravam falsamente."
+  },
+  {
+    "id": 4585,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "O que aconteceu com o efa (cesto) que continha a mulher chamada 'iniquidade'?",
+    "alternativas": [
+      "Foi levado para Jerusalém",
+      "Foi levado para a terra de Sinar para ser estabelecido ali",
+      "Foi destruído no fogo",
+      "Foi guardado no templo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 5:8-11",
+    "explicacao": "O efa foi levado para a terra de Sinar, onde seria estabelecido, representando a remoção da iniquidade."
+  },
+  {
+    "id": 4586,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Quantos carros saíram entre dois montes de bronze na visão final?",
+    "alternativas": [
+      "Dois carros",
+      "Três carros",
+      "Quatro carros",
+      "Sete carros"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Zacarias 6:1",
+    "explicacao": "Zacarias viu quatro carros saindo entre dois montes de bronze."
+  },
+  {
+    "id": 4587,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "O que os quatro carros representavam?",
+    "alternativas": [
+      "Os quatro evangelhos",
+      "Os quatro ventos dos céus que saem diante do Senhor",
+      "Quatro reis humanos",
+      "Quatro exércitos de Israel"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 6:5",
+    "explicacao": "Os quatro carros representavam os quatro ventos dos céus enviados diante do Senhor."
+  },
+  {
+    "id": 4588,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "O que Deus exigia do povo ao tratar sobre os jejuns?",
+    "alternativas": [
+      "Apenas cumprir cerimônias religiosas",
+      "Praticar justiça, misericórdia e compaixão",
+      "Construir grandes monumentos",
+      "Fazer guerras contra seus inimigos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 7:9-10",
+    "explicacao": "Deus mostrou que o verdadeiro culto envolve justiça, misericórdia e cuidado com o próximo."
+  },
+  {
+    "id": 4589,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Qual promessa aparece em Zacarias sobre a cidade de Jerusalém?",
+    "alternativas": [
+      "Seria chamada Cidade da Verdade",
+      "Seria destruída novamente",
+      "Ficaria sem habitantes",
+      "Seria entregue aos estrangeiros"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 8:3",
+    "explicacao": "Deus prometeu voltar a Sião e fazer de Jerusalém uma cidade chamada Cidade da Verdade."
+  },
+  {
+    "id": 4590,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Qual valor foi pago ao pastor rejeitado na profecia de Zacarias?",
+    "alternativas": [
+      "Dez moedas de ouro",
+      "Trinta moedas de prata",
+      "Cinquenta moedas de prata",
+      "Cem moedas de bronze"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 11:12",
+    "explicacao": "O pastor rejeitado recebeu trinta moedas de prata, valor associado à rejeição do Messias."
+  },
+  {
+    "id": 4591,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "O que acontecerá no final quando o Senhor reinar sobre toda a terra?",
+    "alternativas": [
+      "Haverá muitos deuses governando",
+      "O Senhor será o único Deus e seu nome será único",
+      "Jerusalém desaparecerá",
+      "As nações deixarão de existir"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 14:9",
+    "explicacao": "A profecia declara que o Senhor será Rei sobre toda a terra e haverá um único nome."
+  },
+  {
+    "id": 4592,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Em qual período Zacarias recebeu a primeira mensagem profética registrada no livro?",
+    "alternativas": [
+      "Quinto ano de Ciro, rei da Pérsia",
+      "Segundo ano de Dario, rei da Pérsia, no oitavo mês",
+      "Primeiro ano de Artaxerxes",
+      "Décimo ano de Nabucodonosor"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:1",
+    "explicacao": "A primeira mensagem de Zacarias veio no segundo ano do rei Dario, no oitavo mês."
+  },
+  {
+    "id": 4593,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era o nome do pai de Zacarias e do seu avô?",
+    "alternativas": [
+      "Berequias, filho de Ido",
+      "Ido, filho de Berequias",
+      "Josué, filho de Ido",
+      "Zorobabel, filho de Berequias"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 1:1",
+    "explicacao": "Zacarias era filho de Berequias e neto de Ido."
+  },
+  {
+    "id": 4594,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Na primeira visão, onde estavam os cavalos vistos por Zacarias?",
+    "alternativas": [
+      "No monte Sião",
+      "Entre as murtas no vale",
+      "Diante do templo destruído",
+      "No deserto da Arábia"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:8",
+    "explicacao": "Os cavalos estavam entre as murtas no vale, onde Zacarias teve sua primeira visão."
+  },
+  {
+    "id": 4595,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "O que os cavaleiros relataram ao anjo do Senhor após percorrerem a terra?",
+    "alternativas": [
+      "Que todas as nações estavam em guerra",
+      "Que toda a terra estava tranquila e em descanso",
+      "Que Jerusalém havia sido destruída novamente",
+      "Que Israel havia perdido sua identidade"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:11",
+    "explicacao": "Os cavaleiros informaram que toda a terra estava tranquila e em descanso."
+  },
+  {
+    "id": 4596,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Quantos anos de indignação contra Jerusalém são mencionados na oração do anjo?",
+    "alternativas": [
+      "40 anos",
+      "50 anos",
+      "70 anos",
+      "100 anos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Zacarias 1:12",
+    "explicacao": "O período mencionado é de 70 anos de indignação contra Jerusalém."
+  },
+  {
+    "id": 4597,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "O que os quatro chifres simbolizavam na visão de Zacarias?",
+    "alternativas": [
+      "Quatro reis de Israel",
+      "As forças que espalharam Judá, Israel e Jerusalém",
+      "Quatro profetas principais",
+      "Quatro alianças de Deus"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:18-19",
+    "explicacao": "Os quatro chifres representavam os poderes que espalharam o povo de Deus."
+  },
+  {
+    "id": 4598,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Por que o homem com o cordel de medir foi impedido de medir Jerusalém?",
+    "alternativas": [
+      "Porque Jerusalém seria abandonada",
+      "Porque a cidade seria tão grande que não teria muros suficientes",
+      "Porque o templo seria destruído",
+      "Porque os inimigos ocupariam a cidade"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 2:4-5",
+    "explicacao": "Jerusalém seria expandida de tal forma que não caberia dentro de muros."
+  },
+  {
+    "id": 4599,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Qual promessa Deus fez aos que tocassem no povo de Israel?",
+    "alternativas": [
+      "Seriam recompensados",
+      "Tocariam na menina dos olhos de Deus",
+      "Seriam julgados pelo Senhor",
+      "Receberiam terras"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 2:8",
+    "explicacao": "Deus declarou que quem tocasse no seu povo tocava na menina dos seus olhos."
+  },
+  {
+    "id": 4600,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Na visão de Josué, o sumo sacerdote, quais eram as condições das suas vestes?",
+    "alternativas": [
+      "Eram novas e brilhantes",
+      "Eram sujas",
+      "Eram de ouro",
+      "Eram sacerdotais perfeitas"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 3:3",
+    "explicacao": "As vestes sujas representavam a condição de pecado que Deus iria purificar."
+  },
+  {
+    "id": 4601,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Difícil",
+    "pergunta": "Qual pedra foi colocada diante de Josué na visão?",
+    "alternativas": [
+      "Uma pedra com sete olhos",
+      "Uma pedra de fogo",
+      "Uma pedra de ouro puro",
+      "Uma pedra escrita com a lei"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 3:9",
+    "explicacao": "A pedra com sete olhos simbolizava a supervisão e ação completa de Deus."
+  },
+  {
+    "id": 4602,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "O que as duas oliveiras da visão do candelabro representavam?",
+    "alternativas": [
+      "Dois reis estrangeiros",
+      "Os dois ungidos que estão diante do Senhor",
+      "Dois sacerdotes corruptos",
+      "Dois profetas falsos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 4:11-14",
+    "explicacao": "As duas oliveiras representavam os dois ungidos que estavam diante do Senhor."
+  },
+  {
+    "id": 4603,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Quem eram os dois ungidos ligados ao candelabro?",
+    "alternativas": [
+      "Josué e Zorobabel",
+      "Davi e Salomão",
+      "Moisés e Elias",
+      "Pedro e João"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 4:14",
+    "explicacao": "Os dois ungidos eram Josué, o sumo sacerdote, e Zorobabel, o governador."
+  },
+  {
+    "id": 4604,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "O que aconteceria com o grande monte diante de Zorobabel?",
+    "alternativas": [
+      "Tornar-se-ia maior",
+      "Tornar-se-ia uma planície",
+      "Destruiria Jerusalém",
+      "Ficaria escondido"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 4:7",
+    "explicacao": "Deus prometeu remover os obstáculos diante de Zorobabel, tornando o monte uma planície."
+  },
+  {
+    "id": 4605,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Qual objeto voador Zacarias viu na visão do capítulo 5?",
+    "alternativas": [
+      "Um rolo voante",
+      "Uma espada voadora",
+      "Um carro de fogo",
+      "Uma nuvem de ouro"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 5:1-2",
+    "explicacao": "Zacarias viu um rolo voante como parte de uma visão de julgamento."
+  },
+  {
+    "id": 4606,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "O que representava o rolo voante?",
+    "alternativas": [
+      "A bênção sobre Israel",
+      "A maldição sobre os que roubavam e juravam falsamente",
+      "A construção do templo",
+      "A vitória militar"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 5:3",
+    "explicacao": "O rolo representava a maldição de Deus contra a injustiça e a falsidade."
+  },
+  {
+    "id": 4607,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Para onde a mulher dentro do efa seria levada?",
+    "alternativas": [
+      "Egito",
+      "Babilônia",
+      "Jerusalém",
+      "Samaria"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 5:9-11",
+    "explicacao": "A mulher dentro do efa seria levada para a terra de Sinar, associada à Babilônia."
+  },
+  {
+    "id": 4608,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Qual era o nome do sumo sacerdote que recebeu a coroa?",
+    "alternativas": [
+      "Arão",
+      "Josué",
+      "Esdras",
+      "Samuel"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 6:11",
+    "explicacao": "Josué, o sumo sacerdote, recebeu a coroa como parte de uma mensagem profética."
+  },
+  {
+    "id": 4609,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Qual era a mensagem de Zacarias sobre o jejum?",
+    "alternativas": [
+      "O jejum deveria ser apenas uma tradição humana",
+      "O povo deveria jejuar com sinceridade para Deus",
+      "O jejum era proibido",
+      "O jejum substituía a obediência"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 7:5-6",
+    "explicacao": "Deus ensinou que o jejum deveria ser feito com o coração voltado para Ele, não apenas como ritual."
+  },
+  {
+    "id": 4610,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "O que o povo deveria amar segundo Zacarias 8:19?",
+    "alternativas": [
+      "A riqueza e o poder",
+      "A verdade e a paz",
+      "As guerras e conquistas",
+      "As tradições humanas"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 8:19",
+    "explicacao": "Deus declarou que os jejuns seriam transformados em alegria e chamou o povo a amar a verdade e a paz."
+  },
+  {
+    "id": 4611,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Quem entraria em Jerusalém montado em um jumento?",
+    "alternativas": [
+      "Um guerreiro poderoso",
+      "O Rei justo e salvador",
+      "Um sacerdote comum",
+      "Um rei estrangeiro"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 9:9",
+    "explicacao": "A profecia anuncia a chegada do Rei justo, humilde e salvador montado em um jumento."
+  },
+  {
+    "id": 4612,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Quem era o avô de Zacarias, segundo sua genealogia?",
+    "alternativas": [
+      "Ido",
+      "Berequias",
+      "Josué",
+      "Zorobabel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 1:1",
+    "explicacao": "Zacarias é apresentado como filho de Berequias e neto de Ido."
+  },
+  {
+    "id": 4613,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Qual era a mensagem principal da primeira palavra de Deus dada a Zacarias?",
+    "alternativas": [
+      "O povo deveria construir uma nova cidade",
+      "O povo deveria voltar para Deus e abandonar os maus caminhos",
+      "O povo deveria sair de Jerusalém",
+      "O povo deveria procurar alianças com outras nações"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:3-4",
+    "explicacao": "Deus chamou o povo ao arrependimento e a voltar para Ele."
+  },
+  {
+    "id": 4614,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "O que representavam os cavaleiros da primeira visão de Zacarias?",
+    "alternativas": [
+      "Os exércitos de Israel em batalha",
+      "Mensageiros enviados pelo Senhor para percorrer a terra",
+      "Os reis da Pérsia",
+      "Os sacerdotes do templo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:8-11",
+    "explicacao": "Os cavaleiros representavam mensageiros de Deus enviados para observar a terra."
+  },
+  {
+    "id": 4615,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "O que o anjo do Senhor perguntou sobre Jerusalém e as cidades de Judá?",
+    "alternativas": [
+      "Até quando ficariam sem rei?",
+      "Até quando Deus não teria compaixão delas?",
+      "Até quando seriam destruídas?",
+      "Até quando ficariam sem templo?"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:12",
+    "explicacao": "O anjo perguntou até quando Deus não teria misericórdia de Jerusalém e Judá."
+  },
+  {
+    "id": 4616,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "O que Deus prometeu fazer com Jerusalém?",
+    "alternativas": [
+      "Abandoná-la para sempre",
+      "Voltar-se para ela com misericórdia",
+      "Entregá-la aos inimigos",
+      "Mudar sua localização"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:16",
+    "explicacao": "Deus prometeu retornar a Jerusalém com misericórdia e reconstruir sua casa."
+  },
+  {
+    "id": 4617,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Na visão dos quatro chifres, o que os quatro ferreiros fariam?",
+    "alternativas": [
+      "Construiriam o templo",
+      "Lançariam fora os chifres que espalharam Judá",
+      "Coroariam novos reis",
+      "Destruiriam Jerusalém"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:20-21",
+    "explicacao": "Os ferreiros representavam aqueles que derrotariam os poderes que espalharam Judá."
+  },
+  {
+    "id": 4618,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Qual era o propósito do homem com o cordel de medir?",
+    "alternativas": [
+      "Medir Jerusalém para mostrar seu tamanho",
+      "Dividir a terra entre as tribos",
+      "Construir o templo",
+      "Preparar uma guerra"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 2:2",
+    "explicacao": "O homem media Jerusalém como sinal de sua futura expansão."
+  },
+  {
+    "id": 4619,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "O que Deus prometeu ser para Jerusalém?",
+    "alternativas": [
+      "Uma fortaleza de pedra",
+      "Um muro de fogo ao redor dela e sua glória no meio",
+      "Um novo templo",
+      "Um exército poderoso"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 2:5",
+    "explicacao": "Deus prometeu proteger Jerusalém como um muro de fogo e habitar no meio dela."
+  },
+  {
+    "id": 4620,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "Quem estava acusando Josué, o sumo sacerdote, na visão?",
+    "alternativas": [
+      "O rei da Pérsia",
+      "Satanás",
+      "Zorobabel",
+      "Um falso profeta"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 3:1",
+    "explicacao": "Satanás aparece como acusador de Josué diante do anjo do Senhor."
+  },
+  {
+    "id": 4621,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Médio",
+    "pergunta": "O que o Senhor disse a Satanás sobre Josué?",
+    "alternativas": [
+      "\"O Senhor te repreenda\"",
+      "\"Ele pertence a você\"",
+      "\"Leve-o para longe\"",
+      "\"Julgue-o imediatamente\""
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 3:2",
+    "explicacao": "O Senhor repreendeu Satanás e demonstrou sua escolha por Jerusalém."
+  },
+  {
+    "id": 4622,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Quem disse que Jerusalém seria uma cidade sem muros?",
+    "alternativas": [
+      "Um sacerdote",
+      "Um anjo do Senhor",
+      "Um rei estrangeiro",
+      "Zacarias"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 2:4-5",
+    "explicacao": "Um anjo anunciou que Jerusalém seria habitada sem muros por causa da proteção de Deus."
+  },
+  {
+    "id": 4623,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus prometeu ser para Jerusalém?",
+    "alternativas": [
+      "Um muro de fogo ao redor dela",
+      "Um rio dentro da cidade",
+      "Uma torre de pedra",
+      "Um palácio real"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 2:5",
+    "explicacao": "Deus prometeu ser como um muro de fogo protegendo Jerusalém."
+  },
+  {
+    "id": 4624,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Quem aparece na visão de Josué, o sumo sacerdote?",
+    "alternativas": [
+      "Josué diante do anjo do Senhor e Satanás à sua direita",
+      "Davi diante do povo",
+      "Moisés diante do faraó",
+      "Elias diante dos profetas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 3:1",
+    "explicacao": "Josué aparece diante do anjo do Senhor, enquanto Satanás estava para acusá-lo."
+  },
+  {
+    "id": 4625,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu com as vestes sujas de Josué?",
+    "alternativas": [
+      "Foram guardadas",
+      "Foram retiradas e ele recebeu vestes limpas",
+      "Foram queimadas",
+      "Foram entregues ao povo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 3:4",
+    "explicacao": "Deus removeu as vestes sujas de Josué e colocou roupas limpas nele, simbolizando purificação."
+  },
+  {
+    "id": 4626,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "O que Zacarias viu em uma visão com sete lâmpadas?",
+    "alternativas": [
+      "Um altar de pedra",
+      "Um candelabro de ouro",
+      "Uma espada de fogo",
+      "Uma coroa de prata"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 4:2",
+    "explicacao": "Zacarias viu um candelabro de ouro com sete lâmpadas."
+  },
+  {
+    "id": 4627,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Qual frase famosa aparece em Zacarias 4:6?",
+    "alternativas": [
+      "O justo viverá pela fé",
+      "Não por força nem por poder, mas pelo meu Espírito",
+      "Tudo posso naquele que me fortalece",
+      "O Senhor é meu pastor"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 4:6",
+    "explicacao": "Deus ensinou que a obra seria realizada não pela força humana, mas pelo Espírito."
+  },
+  {
+    "id": 4628,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Quem recebeu uma coroa na presença de Zacarias?",
+    "alternativas": [
+      "Josué, o sumo sacerdote",
+      "Zorobabel",
+      "Dario",
+      "Esdras"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 6:11",
+    "explicacao": "Josué, o sumo sacerdote, recebeu uma coroa como sinal profético."
+  },
+  {
+    "id": 4629,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Qual animal Jesus montou na entrada de Jerusalém, conforme profecia de Zacarias?",
+    "alternativas": [
+      "Cavalo",
+      "Camelo",
+      "Jumenta e seu jumentinho",
+      "Boi"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Zacarias 9:9",
+    "explicacao": "A profecia fala do rei vindo humilde, montado em um jumento."
+  },
+  {
+    "id": 4630,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Quem seria vendido por trinta moedas de prata segundo Zacarias?",
+    "alternativas": [
+      "Um rei de Israel",
+      "O Messias",
+      "Um sacerdote",
+      "Um profeta falso"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 11:12",
+    "explicacao": "A profecia aponta para o Messias sendo avaliado em trinta moedas de prata."
+  },
+  {
+    "id": 4631,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Quem o povo olharia e choraria, segundo a profecia de Zacarias?",
+    "alternativas": [
+      "Aquele a quem traspassaram",
+      "Um rei estrangeiro",
+      "Um anjo do céu",
+      "Um profeta antigo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 12:10",
+    "explicacao": "A profecia anuncia que olharão para aquele que foi traspassado e haverá arrependimento."
+  },
+  {
+    "id": 4632,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi o profeta que escreveu o livro de Zacarias?",
+    "alternativas": [
+      "Zacarias",
+      "Jeremias",
+      "Isaías",
+      "Daniel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 1:1",
+    "explicacao": "O livro foi escrito pelo profeta Zacarias."
+  },
+  {
+    "id": 4633,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Zacarias era filho de quem?",
+    "alternativas": [
+      "Berequias",
+      "Josias",
+      "Hilquias",
+      "Esdras"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 1:1",
+    "explicacao": "Zacarias é apresentado como filho de Berequias."
+  },
+  {
+    "id": 4634,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Zacarias começou seu ministério em qual período?",
+    "alternativas": [
+      "No reinado de Davi",
+      "No segundo ano de Dario, rei da Pérsia",
+      "No reinado de Salomão",
+      "Durante o cativeiro egípcio"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:1",
+    "explicacao": "Zacarias iniciou seu ministério no segundo ano do rei Dario da Pérsia."
+  },
+  {
+    "id": 4635,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Qual mensagem Deus deu ao povo por meio de Zacarias?",
+    "alternativas": [
+      "Voltem para mim, e eu voltarei para vocês",
+      "Construam um palácio para o rei",
+      "Abandonem Jerusalém",
+      "Procurem riquezas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 1:3",
+    "explicacao": "Deus chamou o povo ao arrependimento e prometeu se aproximar daqueles que voltassem para Ele."
+  },
+  {
+    "id": 4636,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus pediu ao povo que fizesse?",
+    "alternativas": [
+      "Que buscassem riquezas",
+      "Que se convertessem dos maus caminhos",
+      "Que formassem um exército",
+      "Que deixassem Jerusalém"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:4",
+    "explicacao": "Deus pediu que o povo abandonasse seus maus caminhos e práticas."
+  },
+  {
+    "id": 4637,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "O que Zacarias viu em uma das suas visões iniciais?",
+    "alternativas": [
+      "Um homem montado num cavalo vermelho",
+      "Um grande navio",
+      "Uma escada para o céu",
+      "Uma arca de ouro"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 1:8",
+    "explicacao": "Na primeira visão, Zacarias viu um homem montado em um cavalo vermelho."
+  },
+  {
+    "id": 4638,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Onde estava o homem montado no cavalo vermelho?",
+    "alternativas": [
+      "No templo",
+      "Entre as murtas no vale",
+      "No deserto",
+      "No monte Sinai"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:8",
+    "explicacao": "O homem estava entre as murtas em um vale."
+  },
+  {
+    "id": 4639,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "Quantos chifres Zacarias viu em uma de suas visões?",
+    "alternativas": [
+      "Dois",
+      "Três",
+      "Quatro",
+      "Sete"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Zacarias 1:18",
+    "explicacao": "Zacarias viu quatro chifres em uma visão."
+  },
+  {
+    "id": 4640,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "O que representavam os quatro chifres?",
+    "alternativas": [
+      "Quatro reis de Israel",
+      "As nações que espalharam Judá, Israel e Jerusalém",
+      "Quatro sacerdotes",
+      "Quatro profetas"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Zacarias 1:19",
+    "explicacao": "Os quatro chifres representavam as nações que dispersaram o povo de Deus."
+  },
+  {
+    "id": 4641,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Zacarias",
+    "nivel": "Fácil",
+    "pergunta": "O que Zacarias viu na terceira visão?",
+    "alternativas": [
+      "Um homem com um cordel de medir",
+      "Um anjo com uma espada",
+      "Um livro voando",
+      "Um candelabro de ouro"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Zacarias 2:1-2",
+    "explicacao": "Na terceira visão, Zacarias viu um homem com um cordel de medir Jerusalém."
+  }
+]

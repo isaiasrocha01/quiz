@@ -1,0 +1,1090 @@
+[
+  {
+    "explicacao": "A genealogia menciona Jabes como mais ilustre que seus irmãos, mas não informa o nome de seu pai.",
+    "alternativas": [
+      "Hur",
+      "Coz",
+      "O texto não informa",
+      "Quelube"
+    ],
+    "id": 2049,
+    "pergunta": "Quem era o pai de Jabes, mencionado na genealogia de Judá?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 4:9-10"
+  },
+  {
+    "explicacao": "Deus escolheu a tribo de Levi para transportar a Arca da Aliança e ministrar diante dela.",
+    "alternativas": [
+      "Judá",
+      "Benjamim",
+      "Levi",
+      "Efraim"
+    ],
+    "id": 2050,
+    "pergunta": "Qual tribo foi escolhida por Deus para levar a Arca da Aliança e ministrar diante dela?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 15:2"
+  },
+  {
+    "explicacao": "Davi reconheceu que Deus castigou Israel porque a Arca não foi transportada conforme a ordenança divina.",
+    "alternativas": [
+      "Porque os bois tropeçaram.",
+      "Porque a Arca estava descoberta.",
+      "Porque não consultaram o Senhor segundo a ordenança.",
+      "Porque os filisteus a tocaram."
+    ],
+    "id": 2051,
+    "pergunta": "Segundo Davi, por que Deus castigou Israel quando a Arca foi transportada pela primeira vez?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 15:13"
+  },
+  {
+    "explicacao": "Quenanias foi escolhido para dirigir o canto dos levitas por ser perito nessa função.",
+    "alternativas": [
+      "Asafe",
+      "Hemã",
+      "Quenanias",
+      "Jedutum"
+    ],
+    "id": 2052,
+    "pergunta": "Quem foi nomeado chefe dos levitas para dirigir o canto, por ser perito nessa função?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 15:22"
+  },
+  {
+    "explicacao": "Davi entregou a Asafe um cântico de ações de graças formado por trechos que correspondem aos Salmos 96, 105 e 106.",
+    "alternativas": [
+      "Salmo 23",
+      "Um cântico composto por trechos que aparecem nos Salmos 96, 105 e 106.",
+      "Salmo 91",
+      "Salmo 150"
+    ],
+    "id": 2053,
+    "pergunta": "Qual salmo de ações de graças Davi entregou a Asafe e seus irmãos quando a Arca foi colocada em Jerusalém?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 16:7-36"
+  },
+  {
+    "explicacao": "Deus prometeu que Salomão edificaria o templo e teria seu reino estabelecido.",
+    "alternativas": [
+      "Absalão",
+      "Adonias",
+      "Salomão",
+      "Amnom"
+    ],
+    "id": 2054,
+    "pergunta": "Qual filho de Davi Deus prometeu estabelecer para sempre no trono?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 17:11-14"
+  },
+  {
+    "explicacao": "Toú, rei de Hamate, enviou presentes a Davi após a derrota de Hadadezer.",
+    "alternativas": [
+      "Hirão",
+      "Toú (Toi)",
+      "Aquis",
+      "Naás"
+    ],
+    "id": 2055,
+    "pergunta": "Qual rei enviou presentes a Davi depois que Hadadezer foi derrotado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 18:9-10"
+  },
+  {
+    "explicacao": "Jônatas, filho de Simeia, matou o gigante que possuía seis dedos em cada mão e em cada pé.",
+    "alternativas": [
+      "Joabe",
+      "Sibecai",
+      "Jônatas, filho de Simeia",
+      "Eleazar"
+    ],
+    "id": 2056,
+    "pergunta": "Quem matou o gigante que tinha seis dedos em cada mão e em cada pé?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 20:6-7"
+  },
+  {
+    "explicacao": "O profeta Gade foi enviado para apresentar a Davi as três opções de castigo após o censo.",
+    "alternativas": [
+      "Natã",
+      "Samuel",
+      "Gade",
+      "Abiatar"
+    ],
+    "id": 2057,
+    "pergunta": "Quem foi encarregado de anunciar a Davi as três opções de castigo após o censo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 21:9-12"
+  },
+  {
+    "explicacao": "As três opções eram três anos de fome, três meses de derrota diante dos inimigos ou três dias de peste.",
+    "alternativas": [
+      "Fome, derrota diante dos inimigos ou peste.",
+      "Exílio, fome ou seca.",
+      "Guerra, seca ou terremoto.",
+      "Cativeiro, peste ou fome."
+    ],
+    "id": 2058,
+    "pergunta": "Quais eram as três opções de castigo oferecidas a Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 21:11-12"
+  },
+  {
+    "explicacao": "O anjo do Senhor interrompeu a destruição junto à eira de Ornã, o jebuseu.",
+    "alternativas": [
+      "Monte Sião",
+      "Eira de Ornã, o jebuseu",
+      "Hebrom",
+      "Gilgal"
+    ],
+    "id": 2059,
+    "pergunta": "Em qual local o anjo do Senhor parou com a espada estendida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 21:15"
+  },
+  {
+    "explicacao": "Davi pagou a Ornã seiscentos siclos de ouro pelo local onde edificou o altar ao Senhor.",
+    "alternativas": [
+      "50 siclos de prata",
+      "600 siclos de ouro",
+      "400 siclos de prata",
+      "100 talentos de ouro"
+    ],
+    "id": 2060,
+    "pergunta": "Quanto Davi pagou a Ornã pelo lugar do altar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 21:25"
+  },
+  {
+    "explicacao": "Davi designou vinte e quatro mil levitas para supervisionar a obra da Casa do Senhor.",
+    "alternativas": [
+      "18.000",
+      "24.000",
+      "6.000",
+      "4.000"
+    ],
+    "id": 2061,
+    "pergunta": "Quantos levitas foram designados por Davi para supervisionar a obra da Casa do Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 23:4"
+  },
+  {
+    "explicacao": "Seis mil levitas foram designados como oficiais e juízes em Israel.",
+    "alternativas": [
+      "4.000",
+      "6.000",
+      "24.000",
+      "2.000"
+    ],
+    "id": 2062,
+    "pergunta": "Quantos levitas foram designados como oficiais e juízes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 23:4"
+  },
+  {
+    "explicacao": "Quatro mil levitas foram separados para louvar ao Senhor com os instrumentos preparados por Davi.",
+    "alternativas": [
+      "2.000",
+      "3.000",
+      "4.000",
+      "5.000"
+    ],
+    "id": 2063,
+    "pergunta": "Quantos levitas foram encarregados de louvar ao Senhor com instrumentos feitos por Davi?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 23:5"
+  },
+  {
+    "explicacao": "Davi organizou os sacerdotes descendentes de Arão em vinte e quatro turmas para o serviço do templo.",
+    "alternativas": [
+      "12",
+      "18",
+      "24",
+      "48"
+    ],
+    "id": 2064,
+    "pergunta": "Em quantas turmas Davi dividiu os sacerdotes descendentes de Arão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 24:3-19"
+  },
+  {
+    "explicacao": "Os músicos do templo foram distribuídos em vinte e quatro divisões para o serviço.",
+    "alternativas": [
+      "12",
+      "18",
+      "24",
+      "30"
+    ],
+    "id": 2065,
+    "pergunta": "Quantas divisões de músicos foram organizadas para o serviço do templo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 25:8-31"
+  },
+  {
+    "explicacao": "Zadoque, Aimeleque e os chefes das famílias participaram do lançamento das sortes para organizar os turnos sacerdotais.",
+    "alternativas": [
+      "Samuel",
+      "Zadoque, Aimeleque e os chefes das famílias",
+      "Joabe",
+      "Gade"
+    ],
+    "id": 2066,
+    "pergunta": "Quem lançou as sortes juntamente com os chefes dos sacerdotes e dos levitas para organizar os turnos do serviço?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 24:5-6"
+  },
+  {
+    "explicacao": "Davi declarou que o próprio Senhor lhe deu, por escrito, o plano de todas as obras do templo.",
+    "alternativas": [
+      "O profeta Natã",
+      "O sacerdote Zadoque",
+      "O Senhor",
+      "O anjo Gabriel"
+    ],
+    "id": 2067,
+    "pergunta": "Segundo Davi, quem lhe deu por escrito o plano de todas as obras do templo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 28:19"
+  },
+  {
+    "explicacao": "O livro encerra relatando que Davi morreu em boa velhice, cheio de dias, riquezas e honra.",
+    "alternativas": [
+      "Morreu em batalha.",
+      "Morreu no exílio.",
+      "Morreu em boa velhice, cheio de dias, riquezas e honra.",
+      "Morreu durante a construção do templo."
+    ],
+    "id": 2068,
+    "pergunta": "Como o livro de 1 Crônicas descreve o fim da vida de Davi?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 29:28"
+  },
+  {
+    "explicacao": "Joabe foi o primeiro a subir contra os jebuseus em Jerusalém e, por isso, tornou-se comandante do exército de Davi.",
+    "alternativas": [
+      "Abisai",
+      "Joabe",
+      "Benaia",
+      "Asael"
+    ],
+    "id": 2069,
+    "pergunta": "Quem era o comandante do exército de Davi que conquistou Jerusalém primeiro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 11:6"
+  },
+  {
+    "explicacao": "Os gigantes filisteus descendentes de Rafa foram derrotados por Davi e seus valentes.",
+    "alternativas": [
+      "Apenas Davi",
+      "Apenas Joabe",
+      "Davi e seus valentes",
+      "Apenas Jônatas"
+    ],
+    "id": 2070,
+    "pergunta": "Quem matou os gigantes filisteus descendentes de Rafa?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 20:4-8"
+  },
+  {
+    "explicacao": "O profeta Natã transmitiu a Davi a mensagem de que seu filho, e não ele, construiria o templo.",
+    "alternativas": [
+      "Samuel",
+      "Natã",
+      "Gade",
+      "Elias"
+    ],
+    "id": 2071,
+    "pergunta": "Quem era o profeta que anunciou a Davi que Deus não permitiria que ele construísse o templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 17:1-15"
+  },
+  {
+    "explicacao": "Hirão, rei de Tiro, enviou madeira de cedro, carpinteiros e pedreiros para Davi.",
+    "alternativas": [
+      "Hirão",
+      "Hamate",
+      "Hadade",
+      "Toí"
+    ],
+    "id": 2072,
+    "pergunta": "Qual era o nome do rei de Tiro que enviou madeira de cedro para Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 14:1"
+  },
+  {
+    "explicacao": "Uzá morreu ao tocar na Arca da Aliança de forma indevida.",
+    "alternativas": [
+      "Uzá",
+      "Obede-Edom",
+      "Eleazar",
+      "Abinadabe"
+    ],
+    "id": 2073,
+    "pergunta": "Quem morreu ao tocar na Arca da Aliança?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 13:9-10"
+  },
+  {
+    "explicacao": "Após a morte de Uzá, a Arca permaneceu na casa de Obede-Edom, que foi abençoado pelo Senhor.",
+    "alternativas": [
+      "Asafe",
+      "Obede-Edom",
+      "Zadoque",
+      "Abiatar"
+    ],
+    "id": 2074,
+    "pergunta": "Na casa de quem permaneceu a Arca após a morte de Uzá?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 13:13-14"
+  },
+  {
+    "explicacao": "A Arca permaneceu três meses na casa de Obede-Edom antes de ser levada a Jerusalém.",
+    "alternativas": [
+      "Um mês",
+      "Seis meses",
+      "Três meses",
+      "Um ano"
+    ],
+    "id": 2075,
+    "pergunta": "Durante quanto tempo a Arca permaneceu na casa de Obede-Edom?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 13:14"
+  },
+  {
+    "explicacao": "A Arca foi transportada corretamente pelos levitas, conforme a ordem do Senhor.",
+    "alternativas": [
+      "Os sacerdotes e levitas",
+      "Os soldados",
+      "Os anciãos",
+      "Os juízes"
+    ],
+    "id": 2076,
+    "pergunta": "Quem carregava a Arca da Aliança quando ela foi levada corretamente para Jerusalém?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 15:2; 15:15"
+  },
+  {
+    "explicacao": "Davi consultou o Senhor duas vezes antes de enfrentar os filisteus.",
+    "alternativas": [
+      "Uma vez",
+      "Duas vezes",
+      "Três vezes",
+      "Quatro vezes"
+    ],
+    "id": 2077,
+    "pergunta": "Quantas vezes Davi consultou o Senhor antes de lutar contra os filisteus em 1 Crônicas 14?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 14:10; 14:14"
+  },
+  {
+    "explicacao": "Asafe foi nomeado chefe dos músicos para ministrar louvores diante da Arca.",
+    "alternativas": [
+      "Hemã",
+      "Etã",
+      "Asafe",
+      "Jedutum"
+    ],
+    "id": 2078,
+    "pergunta": "Qual levita foi nomeado chefe dos músicos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 16:5"
+  },
+  {
+    "explicacao": "Benaia era o comandante dos queretitas e peletitas durante o reinado de Davi.",
+    "alternativas": [
+      "Joabe",
+      "Benaia",
+      "Abisai",
+      "Amasa"
+    ],
+    "id": 2079,
+    "pergunta": "Quem era o comandante dos queretitas e peletitas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 18:17"
+  },
+  {
+    "explicacao": "O pecado de Davi foi realizar o censo de Israel, confiando no número do povo em vez de confiar em Deus.",
+    "alternativas": [
+      "Casar-se com mulheres estrangeiras",
+      "Contar o povo de Israel",
+      "Tomar a Arca à força",
+      "Fazer aliança com os filisteus"
+    ],
+    "id": 2080,
+    "pergunta": "Qual foi o pecado de Davi que trouxe juízo sobre Israel no final do livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 21:1-2"
+  },
+  {
+    "explicacao": "Satanás incitou Davi a fazer o censo de Israel.",
+    "alternativas": [
+      "Um profeta",
+      "Joabe",
+      "Satanás",
+      "Saul"
+    ],
+    "id": 2081,
+    "pergunta": "Quem incitou Davi a realizar o censo de Israel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 21:1"
+  },
+  {
+    "explicacao": "Joabe tentou convencer Davi a desistir da ideia de realizar o censo.",
+    "alternativas": [
+      "Benaia",
+      "Joabe",
+      "Zadoque",
+      "Natã"
+    ],
+    "id": 2082,
+    "pergunta": "Quem tentou convencer Davi a não fazer o censo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 21:3"
+  },
+  {
+    "explicacao": "Como consequência do julgamento de Deus, morreram setenta mil homens de Israel.",
+    "alternativas": [
+      "24.000",
+      "50.000",
+      "70.000",
+      "100.000"
+    ],
+    "id": 2083,
+    "pergunta": "Quantos homens de Israel morreram por causa do julgamento após o censo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 21:14"
+  },
+  {
+    "explicacao": "Davi ergueu um altar na eira de Ornã, o jebuseu, onde mais tarde seria construído o templo.",
+    "alternativas": [
+      "Monte Sinai",
+      "Eira de Ornã, o jebuseu",
+      "Hebrom",
+      "Betel"
+    ],
+    "id": 2084,
+    "pergunta": "Em qual lugar Davi ergueu um altar ao Senhor após o censo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 21:18-28"
+  },
+  {
+    "explicacao": "Davi afirmou que não ofereceria ao Senhor sacrifícios que não lhe custassem nada.",
+    "alternativas": [
+      "Animais sem defeito",
+      "Sacrifícios que nada lhe custassem",
+      "Ouro refinado",
+      "Incenso estrangeiro"
+    ],
+    "id": 2085,
+    "pergunta": "O que Davi disse que não ofereceria ao Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 21:24"
+  },
+  {
+    "explicacao": "Davi contou trinta e oito mil levitas de vinte anos para cima para o serviço do templo.",
+    "alternativas": [
+      "18.000",
+      "24.000",
+      "30.000",
+      "38.000"
+    ],
+    "id": 2086,
+    "pergunta": "Aproximadamente quantos levitas, de vinte anos para cima, foram contados por Davi?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 23:3"
+  },
+  {
+    "explicacao": "Deus escolheu Salomão para suceder Davi no trono de Israel.",
+    "alternativas": [
+      "Adonias",
+      "Absalão",
+      "Salomão",
+      "Amnom"
+    ],
+    "id": 2087,
+    "pergunta": "Quem foi designado por Davi para sucedê-lo no trono?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 28:5"
+  },
+  {
+    "explicacao": "Após a consagração de Salomão, todo o povo ofereceu sacrifícios e alegrou-se diante do Senhor.",
+    "alternativas": [
+      "Jejuou por sete dias",
+      "Ofereceu sacrifícios e alegrou-se diante do Senhor",
+      "Voltou para suas casas em silêncio",
+      "Saiu para a guerra"
+    ],
+    "id": 2088,
+    "pergunta": "O que todo o povo fez após a consagração de Salomão como rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 29:21-22"
+  },
+  {
+    "explicacao": "Jessé foi o pai de Davi, conforme a genealogia registrada em 1 Crônicas.",
+    "alternativas": [
+      "Jessé",
+      "Saul",
+      "Samuel",
+      "Obede"
+    ],
+    "id": 2089,
+    "pergunta": "Quem foi o pai de Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 2:15"
+  },
+  {
+    "explicacao": "Jessé teve oito filhos, sendo Davi o mais novo.",
+    "alternativas": [
+      "Cinco",
+      "Seis",
+      "Sete",
+      "Oito"
+    ],
+    "id": 2090,
+    "pergunta": "Quantos filhos tinha Jessé?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 2:13-15"
+  },
+  {
+    "explicacao": "Saul foi o primeiro rei de Israel mencionado na narrativa de 1 Crônicas.",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Saul",
+      "Roboão"
+    ],
+    "id": 2091,
+    "pergunta": "Quem foi o primeiro rei de Israel mencionado em 1 Crônicas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 10:1"
+  },
+  {
+    "explicacao": "Saul morreu porque foi infiel ao Senhor e não guardou a sua palavra.",
+    "alternativas": [
+      "Porque perdeu uma batalha",
+      "Porque foi desobediente ao Senhor",
+      "Porque ficou doente",
+      "Porque foi traído"
+    ],
+    "id": 2092,
+    "pergunta": "Por que Saul morreu, segundo 1 Crônicas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 10:13-14"
+  },
+  {
+    "explicacao": "Após a morte de Saul, todo Israel ungiu Davi como rei.",
+    "alternativas": [
+      "Abner",
+      "Jônatas",
+      "Salomão",
+      "Davi"
+    ],
+    "id": 2093,
+    "pergunta": "Quem foi escolhido para reinar depois de Saul?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 11:1-3"
+  },
+  {
+    "explicacao": "Davi conquistou Jerusalém e ela passou a ser chamada Cidade de Davi.",
+    "alternativas": [
+      "Hebrom",
+      "Jericó",
+      "Jerusalém",
+      "Betel"
+    ],
+    "id": 2094,
+    "pergunta": "Qual cidade Davi conquistou e chamou de Cidade de Davi?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 11:4-7"
+  },
+  {
+    "explicacao": "O Senhor dos Exércitos fazia Davi prosperar e tornar-se cada vez mais poderoso.",
+    "alternativas": [
+      "O povo",
+      "Os sacerdotes",
+      "O Senhor dos Exércitos",
+      "Samuel"
+    ],
+    "id": 2095,
+    "pergunta": "Quem ajudou Davi a se tornar cada vez mais poderoso?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 11:9"
+  },
+  {
+    "explicacao": "A Arca da Aliança foi levada para Jerusalém com grande alegria e celebração.",
+    "alternativas": [
+      "Samaria",
+      "Jerusalém",
+      "Belém",
+      "Betel"
+    ],
+    "id": 2096,
+    "pergunta": "Para onde Davi levou a Arca da Aliança?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 15:25-28"
+  },
+  {
+    "explicacao": "Davi celebrou diante da Arca tocando instrumentos e adorando ao Senhor.",
+    "alternativas": [
+      "Saul",
+      "Davi",
+      "Salomão",
+      "Natã"
+    ],
+    "id": 2097,
+    "pergunta": "Quem tocava diante da Arca durante a celebração?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 15:28-29"
+  },
+  {
+    "explicacao": "Mical desprezou Davi ao vê-lo dançando e celebrando diante da Arca.",
+    "alternativas": [
+      "Abigail",
+      "Mical",
+      "Bate-Seba",
+      "Tamar"
+    ],
+    "id": 2098,
+    "pergunta": "Quem desprezou Davi quando ele dançava diante da Arca?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 15:29"
+  },
+  {
+    "explicacao": "Hirão, rei de Tiro, enviou madeira, pedreiros e carpinteiros para construir o palácio de Davi.",
+    "alternativas": [
+      "Hirão",
+      "Acabe",
+      "Hamã",
+      "Ben-Hadade"
+    ],
+    "id": 2099,
+    "pergunta": "Quem era o rei de Tiro que enviou madeira para Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 14:1"
+  },
+  {
+    "explicacao": "Os filisteus enfrentaram Davi em diversas batalhas registradas em 1 Crônicas.",
+    "alternativas": [
+      "Egípcios",
+      "Filisteus",
+      "Babilônios",
+      "Assírios"
+    ],
+    "id": 2100,
+    "pergunta": "Contra qual povo Davi lutou diversas vezes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 14:8-17"
+  },
+  {
+    "explicacao": "Antes das batalhas, Davi consultava ao Senhor para receber direção.",
+    "alternativas": [
+      "Saul",
+      "Joabe",
+      "Davi",
+      "Absalão"
+    ],
+    "id": 2101,
+    "pergunta": "Quem consultava a Deus antes das batalhas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 14:10"
+  },
+  {
+    "explicacao": "Deus escolheu Salomão para construir o templo em Jerusalém.",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Samuel",
+      "Natã"
+    ],
+    "id": 2102,
+    "pergunta": "Quem Deus escolheu para construir o templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 22:9-10"
+  },
+  {
+    "explicacao": "Davi não construiria o templo porque havia derramado muito sangue em guerras.",
+    "alternativas": [
+      "Porque era muito velho",
+      "Porque era pobre",
+      "Porque havia derramado muito sangue",
+      "Porque estava doente"
+    ],
+    "id": 2103,
+    "pergunta": "Por que Davi não construiria o templo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 22:8"
+  },
+  {
+    "explicacao": "Davi preparou Salomão para sucedê-lo como rei de Israel.",
+    "alternativas": [
+      "Absalão",
+      "Adonias",
+      "Salomão",
+      "Amnom"
+    ],
+    "id": 2104,
+    "pergunta": "Quem foi preparado por Davi para sucedê-lo no reino?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 22:6"
+  },
+  {
+    "explicacao": "Davi reuniu grandes quantidades de ouro, prata e bronze para a construção do templo.",
+    "alternativas": [
+      "Ouro, prata e bronze",
+      "Cavalos",
+      "Trigo",
+      "Navios"
+    ],
+    "id": 2105,
+    "pergunta": "O que Davi reuniu em grande quantidade para o templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 22:14"
+  },
+  {
+    "explicacao": "Asafe foi designado por Davi para ministrar louvores diante da Arca do Senhor.",
+    "alternativas": [
+      "Asafe",
+      "Gideão",
+      "Elias",
+      "Eliseu"
+    ],
+    "id": 2106,
+    "pergunta": "Quem foi encarregado do louvor na Casa do Senhor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 16:4-7"
+  },
+  {
+    "explicacao": "Antes de morrer, Davi reuniu o povo e bendisse ao Senhor diante de toda a congregação.",
+    "alternativas": [
+      "Fugiu",
+      "Abençoou o Senhor",
+      "Escondeu-se",
+      "Ofereceu apenas incenso"
+    ],
+    "id": 2107,
+    "pergunta": "O que Davi fez diante de toda a congregação antes de morrer?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 29:10-13"
+  },
+  {
+    "explicacao": "Após a morte de Davi, Salomão foi proclamado rei de Israel.",
+    "alternativas": [
+      "Roboão",
+      "Salomão",
+      "Absalão",
+      "Joás"
+    ],
+    "id": 2108,
+    "pergunta": "Quem foi proclamado rei após Davi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 29:22-23"
+  },
+  {
+    "explicacao": "Os primeiros nove capítulos de 1 Crônicas são repletos de árvores genealógicas que reafirmam a identidade de Israel.",
+    "alternativas": [
+      "1 Crônicas",
+      "2 Crônicas",
+      "Gênesis",
+      "Mateus"
+    ],
+    "id": 2109,
+    "pergunta": "Qual livro começa com extensas genealogias desde Adão e reconta a história sob a perspectiva do Templo e da linhagem de Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 1-9"
+  },
+  {
+    "explicacao": "E este é o número dos poderosos que Davi tinha: Jasobeão, hacmonita, chefe dos capitães, o qual, brandindo a sua lança contra trezentos, de uma vez os matou.",
+    "alternativas": [
+      "Asafe",
+      "Efraim",
+      "Jasobeão",
+      "Áquila"
+    ],
+    "id": 2110,
+    "pergunta": "Como é chamado o herói de Davi que se destacou por ferir trezentos homens com a sua lança de uma só vez ",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 11:11"
+  },
+  {
+    "explicacao": "Porém, veio a mim a palavra do Senhor, dizendo: Tu derramaste sangue em abundância, e fizeste grandes guerras; não edificarás casa ao meu nome; porquanto muito sangue tens derramado na terra, perante mim.",
+    "alternativas": [
+      "Cometeu adultério com Bate-Seba",
+      "Derramou sangue em abundância",
+      "Cortou um pedaço do manto de Saul ",
+      "Davi casou com estrangeiras"
+    ],
+    "id": 2111,
+    "pergunta": "Por que motivo o rei Davi não pôde construir o Templo do Senhor, embora fosse o seu desejo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 22:8 "
+  },
+  {
+    "explicacao": "Assim morreu Saul por causa da transgressão que cometeu contra o Senhor, por causa da palavra do Senhor, a qual não havia guardado; e também porque buscou a adivinhadora para a consultar. ",
+    "alternativas": [
+      "Perseguiu Davi",
+      "Escondeu-se no deserto de Zife",
+      "Fez o machado flutuar",
+      "Transgressão contra o Senhor"
+    ],
+    "id": 2112,
+    "pergunta": "O que causou a morte do rei Saul?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "1 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Crônicas 10:13"
+  }
+]

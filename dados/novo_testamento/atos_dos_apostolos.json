@@ -1,0 +1,1158 @@
+[
+  {
+    "explicacao": "Saulo, depois chamado Paulo, teve um encontro transformador com Jesus.",
+    "alternativas": [
+      "Pedro",
+      "Estêvão",
+      "Paulo",
+      "Tiago"
+    ],
+    "id": 912,
+    "pergunta": "Quem perseguiu a igreja, viu Jesus no caminho de Damasco e tornou-se missionário?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 9:1-6"
+  },
+  {
+    "explicacao": "Estêvão foi cheio do Espírito Santo e deu sua vida pelo Evangelho.",
+    "alternativas": [
+      "Filipe",
+      "Estêvão",
+      "Barnabé",
+      "Marcos"
+    ],
+    "id": 913,
+    "pergunta": "Quem foi o primeiro mártir da igreja, apedrejado enquanto via os céus abertos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 7:55-59"
+  },
+  {
+    "explicacao": "Matias foi sorteado para completar o número dos doze apóstolos.",
+    "alternativas": [
+      "Silas",
+      "Matias",
+      "Barnabé",
+      "Timóteo"
+    ],
+    "id": 914,
+    "pergunta": "Quem foi escolhido para ocupar o lugar deixado por Judas Iscariotes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:26"
+  },
+  {
+    "explicacao": "A ascensão ocorreu no Monte das Oliveiras.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte das Oliveiras",
+      "Monte Carmelo",
+      "Monte Tabor"
+    ],
+    "id": 915,
+    "pergunta": "De qual monte Jesus subiu aos céus (Ascensão)?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:9-12"
+  },
+  {
+    "explicacao": "Saulo estava a caminho de Damasco para perseguir cristãos.",
+    "alternativas": [
+      "Antioquia",
+      "Damasco",
+      "Tarso",
+      "Atenas"
+    ],
+    "id": 916,
+    "pergunta": "Para qual cidade Saulo viajava quando teve seu encontro com Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 9:3"
+  },
+  {
+    "explicacao": "Um som de vento veemente e línguas como de fogo marcaram o evento.",
+    "alternativas": [
+      "Chuvas torrenciais",
+      "Vento e línguas de fogo",
+      "Terremoto constante",
+      "Eclipse solar"
+    ],
+    "id": 917,
+    "pergunta": "Que fenômeno marcou a descida do Espírito Santo no Pentecostes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2:1-4"
+  },
+  {
+    "explicacao": "Atos funciona como uma continuação histórica do Evangelho de Lucas.",
+    "alternativas": [
+      "Romanos",
+      "Atos dos Apóstolos",
+      "Apocalipse",
+      "Hebreus"
+    ],
+    "id": 918,
+    "pergunta": "Qual é o livro que relata a história da igreja primitiva após a ascensão de Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:1"
+  },
+  {
+    "explicacao": "O derramamento do Espírito Santo é o evento central do capítulo 2 de Atos.",
+    "alternativas": [
+      "Mateus",
+      "Apocalipse",
+      "Atos dos Apóstolos",
+      "1 Coríntios"
+    ],
+    "id": 919,
+    "pergunta": "Em qual livro encontramos o relato detalhado do dia de Pentecostes?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2"
+  },
+  {
+    "explicacao": "O livro de Atos foi escrito por Lucas, o mesmo autor do Evangelho de Lucas.",
+    "alternativas": [
+      "Pedro",
+      "Lucas",
+      "Paulo",
+      "João"
+    ],
+    "id": 920,
+    "pergunta": "Quem escreveu o livro de Atos dos Apóstolos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:1"
+  },
+  {
+    "explicacao": "Jesus ordenou que os discípulos esperassem a promessa do Pai, o Espírito Santo.",
+    "alternativas": [
+      "Ouro e riquezas",
+      "A promessa do Pai (o Espírito Santo)",
+      "A chegada de um rei",
+      "A construção de um templo"
+    ],
+    "id": 921,
+    "pergunta": "Antes de subir ao céu, Jesus ordenou aos discípulos que esperassem:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:4"
+  },
+  {
+    "explicacao": "Jesus declarou que o testemunho alcançaria Jerusalém, Judeia, Samaria e os confins da terra.",
+    "alternativas": [
+      "Somente em Jerusalém",
+      "Jerusalém, Judeia, Samaria e até os confins da terra",
+      "Apenas na Galileia",
+      "Somente em Roma"
+    ],
+    "id": 922,
+    "pergunta": "Onde Jesus disse que os discípulos receberiam poder ao receber o Espírito Santo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:8"
+  },
+  {
+    "explicacao": "Cerca de cento e vinte irmãos estavam reunidos.",
+    "alternativas": [
+      "Cerca de 50",
+      "Cerca de 120",
+      "Cerca de 500",
+      "Cerca de 1000"
+    ],
+    "id": 923,
+    "pergunta": "Quantos discípulos estavam reunidos quando Matias foi escolhido?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:15"
+  },
+  {
+    "explicacao": "Matias foi escolhido para ocupar o lugar deixado por Judas.",
+    "alternativas": [
+      "Barnabé",
+      "Matias",
+      "Silas",
+      "Estêvão"
+    ],
+    "id": 924,
+    "pergunta": "Quem foi escolhido para substituir Judas Iscariotes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:26"
+  },
+  {
+    "explicacao": "O Espírito Santo desceu no dia de Pentecostes.",
+    "alternativas": [
+      "Páscoa",
+      "Pentecostes",
+      "Sábado",
+      "Natal"
+    ],
+    "id": 925,
+    "pergunta": "Em qual dia o Espírito Santo desceu sobre os discípulos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2:1-4"
+  },
+  {
+    "explicacao": "Foram vistas línguas como de fogo que pousaram sobre cada um deles.",
+    "alternativas": [
+      "Estrelas",
+      "Línguas como de fogo",
+      "Nuvens",
+      "Pombas"
+    ],
+    "id": 926,
+    "pergunta": "O que apareceu sobre os discípulos quando receberam o Espírito Santo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2:3"
+  },
+  {
+    "explicacao": "Pedro levantou-se com os onze e pregou ao povo.",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "Paulo",
+      "Tiago"
+    ],
+    "id": 927,
+    "pergunta": "Quem pregou o primeiro grande sermão após a descida do Espírito Santo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2:14"
+  },
+  {
+    "explicacao": "Cerca de três mil pessoas aceitaram a mensagem e foram batizadas.",
+    "alternativas": [
+      "500",
+      "1000",
+      "3000",
+      "7000"
+    ],
+    "id": 928,
+    "pergunta": "Aproximadamente quantas pessoas foram acrescentadas à igreja no dia de Pentecostes?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2:41"
+  },
+  {
+    "explicacao": "Pedro e João curaram um homem que era coxo desde o nascimento.",
+    "alternativas": [
+      "Curaram um cego",
+      "Curaram um homem coxo",
+      "Ressuscitaram um morto",
+      "Multiplicaram alimentos"
+    ],
+    "id": 929,
+    "pergunta": "Qual milagre Pedro e João realizaram na porta do templo chamada Formosa?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 3:1-8"
+  },
+  {
+    "explicacao": "Ananias e Safira mentiram ao Espírito Santo sobre a oferta entregue.",
+    "alternativas": [
+      "Ananias e Safira",
+      "Pedro e João",
+      "Paulo e Barnabé",
+      "Félix e Festo"
+    ],
+    "id": 930,
+    "pergunta": "Quem mentiu sobre o valor da oferta e morreu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 5:1-10"
+  },
+  {
+    "explicacao": "Estêvão foi morto por causa de sua fé em Cristo.",
+    "alternativas": [
+      "Pedro",
+      "Estêvão",
+      "Tiago",
+      "Barnabé"
+    ],
+    "id": 931,
+    "pergunta": "Quem foi o primeiro mártir cristão registrado em Atos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 7:54-60"
+  },
+  {
+    "explicacao": "Saulo perseguia os cristãos antes de encontrar Jesus.",
+    "alternativas": [
+      "Pedro",
+      "Saulo",
+      "Lucas",
+      "Marcos"
+    ],
+    "id": 932,
+    "pergunta": "Quem perseguia a igreja antes de sua conversão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 8:3; 9:1-2"
+  },
+  {
+    "explicacao": "Saulo estava a caminho de Damasco quando Jesus apareceu a ele.",
+    "alternativas": [
+      "Roma",
+      "Damasco",
+      "Jerusalém",
+      "Antioquia"
+    ],
+    "id": 933,
+    "pergunta": "Para qual cidade Saulo estava indo quando encontrou Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 9:3"
+  },
+  {
+    "explicacao": "Ananias foi enviado por Deus para orar por Saulo e batizá-lo.",
+    "alternativas": [
+      "Pedro",
+      "Ananias",
+      "Barnabé",
+      "Filipe"
+    ],
+    "id": 934,
+    "pergunta": "Quem batizou Saulo após sua conversão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 9:17-18"
+  },
+  {
+    "explicacao": "Filipe foi guiado pelo Espírito para anunciar o evangelho ao eunuco.",
+    "alternativas": [
+      "Filipe",
+      "Paulo",
+      "Pedro",
+      "Estêvão"
+    ],
+    "id": 935,
+    "pergunta": "Quem foi levado pelo Espírito para evangelizar o eunuco etíope?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 8:26-35"
+  },
+  {
+    "explicacao": "Foi em Antioquia que os discípulos foram chamados cristãos pela primeira vez.",
+    "alternativas": [
+      "Jerusalém",
+      "Antioquia",
+      "Roma",
+      "Corinto"
+    ],
+    "id": 936,
+    "pergunta": "Em qual cidade os discípulos foram chamados cristãos pela primeira vez?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 11:26"
+  },
+  {
+    "explicacao": "Pedro foi libertado milagrosamente da prisão por um anjo.",
+    "alternativas": [
+      "Paulo",
+      "Pedro",
+      "Barnabé",
+      "Silas"
+    ],
+    "id": 937,
+    "pergunta": "Quem foi libertado da prisão por um anjo do Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 12:6-7"
+  },
+  {
+    "explicacao": "Barnabé acompanhou Paulo na primeira viagem missionária.",
+    "alternativas": [
+      "Barnabé",
+      "Lucas",
+      "Timóteo",
+      "Tito"
+    ],
+    "id": 938,
+    "pergunta": "Quem acompanhou Paulo em sua primeira viagem missionária?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 13:2-3"
+  },
+  {
+    "explicacao": "Um terremoto enviado por Deus abriu as portas da prisão e soltou as correntes.",
+    "alternativas": [
+      "Foram libertados por soldados",
+      "Houve um terremoto e as portas se abriram",
+      "Foram levados para Roma",
+      "Foram condenados à morte"
+    ],
+    "id": 939,
+    "pergunta": "O que aconteceu com Paulo e Silas enquanto estavam presos em Filipos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 16:25-26"
+  },
+  {
+    "explicacao": "Jesus prometeu que os discípulos seriam batizados com o Espírito Santo.",
+    "alternativas": [
+      "Receberem riquezas",
+      "Serem batizados com o Espírito Santo",
+      "Construírem um templo",
+      "Governarem Jerusalém"
+    ],
+    "id": 940,
+    "pergunta": "O que Jesus prometeu aos discípulos antes de subir ao céu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:5"
+  },
+  {
+    "explicacao": "Jesus enviou os discípulos para serem suas testemunhas em todo o mundo.",
+    "alternativas": [
+      "Conquistar cidades",
+      "Serem testemunhas até os confins da terra",
+      "Criar uma nova religião",
+      "Dominar os povos"
+    ],
+    "id": 941,
+    "pergunta": "Qual foi a principal missão dada por Jesus aos discípulos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:8"
+  },
+  {
+    "explicacao": "Pedro tomou a iniciativa de orientar a escolha do substituto de Judas.",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "Tiago",
+      "Paulo"
+    ],
+    "id": 942,
+    "pergunta": "Quem tomou a palavra para escolher um substituto para Judas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:15-22"
+  },
+  {
+    "explicacao": "Os discípulos foram cheios do Espírito Santo e falaram conforme o Espírito concedia.",
+    "alternativas": [
+      "Todos ficaram em silêncio",
+      "Todos foram cheios do Espírito Santo e começaram a falar em outras línguas",
+      "Todos saíram de Jerusalém",
+      "Todos receberam riquezas"
+    ],
+    "id": 943,
+    "pergunta": "O que aconteceu quando o Espírito Santo desceu no dia de Pentecostes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2:4"
+  },
+  {
+    "explicacao": "Pedro declarou que o acontecimento cumpria a profecia de Joel.",
+    "alternativas": [
+      "Isaías",
+      "Joel",
+      "Jeremias",
+      "Daniel"
+    ],
+    "id": 944,
+    "pergunta": "Segundo Pedro, o derramamento do Espírito Santo cumpria a profecia de qual profeta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2:16-17"
+  },
+  {
+    "explicacao": "A igreja primitiva permanecia firme no ensino, comunhão, refeições e orações.",
+    "alternativas": [
+      "Separação entre os irmãos",
+      "Perseverança na doutrina dos apóstolos, comunhão, partir do pão e orações",
+      "Busca por riquezas",
+      "Construção de palácios"
+    ],
+    "id": 945,
+    "pergunta": "Qual era uma das características da igreja primitiva?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2:42"
+  },
+  {
+    "explicacao": "Eles foram perseguidos por anunciarem Jesus e a ressurreição.",
+    "alternativas": [
+      "Porque roubavam ofertas",
+      "Porque ensinavam sobre Jesus e a ressurreição dos mortos",
+      "Porque fugiram da cidade",
+      "Porque recusaram o templo"
+    ],
+    "id": 946,
+    "pergunta": "Por que Pedro e João foram levados perante o Sinédrio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 4:1-2"
+  },
+  {
+    "explicacao": "Pedro e João afirmaram que não poderiam deixar de testemunhar sobre Cristo.",
+    "alternativas": [
+      "Fugiram para outra cidade",
+      "Disseram que não podiam deixar de falar do que tinham visto e ouvido",
+      "Aceitaram a proibição",
+      "Negaram Jesus"
+    ],
+    "id": 947,
+    "pergunta": "Qual foi a resposta de Pedro e João quando foram proibidos de falar de Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 4:19-20"
+  },
+  {
+    "explicacao": "Estêvão foi escolhido como um dos sete homens para servir a igreja.",
+    "alternativas": [
+      "Estêvão",
+      "Barnabé",
+      "Silas",
+      "Timóteo"
+    ],
+    "id": 948,
+    "pergunta": "Quem foi escolhido como um dos sete diáconos e era cheio de fé e do Espírito Santo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 6:5"
+  },
+  {
+    "explicacao": "Pedro recebeu a visão do lençol enquanto orava.",
+    "alternativas": [
+      "Paulo",
+      "Pedro",
+      "João",
+      "Filipe"
+    ],
+    "id": 949,
+    "pergunta": "Quem teve a visão de um lençol descendo do céu com animais?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 10:9-16"
+  },
+  {
+    "explicacao": "Deus ensinou a Pedro que não deveria considerar impuro aquilo que Ele purificou.",
+    "alternativas": [
+      "Que os judeus eram superiores",
+      "Que não deveria chamar impuro o que Deus purificou",
+      "Que os animais deveriam ser sacrificados",
+      "Que a Lei deveria ser abandonada"
+    ],
+    "id": 950,
+    "pergunta": "O que Deus mostrou a Pedro através da visão do lençol?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 10:15"
+  },
+  {
+    "explicacao": "Cornélio era um centurião romano conhecido por temer a Deus.",
+    "alternativas": [
+      "Um sacerdote judeu",
+      "Um centurião romano temente a Deus",
+      "Um rei estrangeiro",
+      "Um apóstolo"
+    ],
+    "id": 951,
+    "pergunta": "Quem era Cornélio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 10:1-2"
+  },
+  {
+    "explicacao": "Em Listra, Paulo e Barnabé foram reconhecidos como apóstolos.",
+    "alternativas": [
+      "Antioquia",
+      "Listra",
+      "Jerusalém",
+      "Filipos"
+    ],
+    "id": 952,
+    "pergunta": "Em qual cidade Paulo e Barnabé foram chamados pela primeira vez de apóstolos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 14:14"
+  },
+  {
+    "explicacao": "O concílio decidiu não exigir dos gentios a total observância da Lei judaica.",
+    "alternativas": [
+      "Obrigar todos a seguir toda a Lei de Moisés",
+      "Não impor aos gentios um peso além do necessário",
+      "Proibir a evangelização dos gentios",
+      "Encerrar as missões"
+    ],
+    "id": 953,
+    "pergunta": "Qual foi a decisão principal do Concílio de Jerusalém?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 15:19-20"
+  },
+  {
+    "explicacao": "Paulo escolheu Silas para acompanhá-lo na viagem missionária.",
+    "alternativas": [
+      "Silas",
+      "Lucas",
+      "Tito",
+      "Apolo"
+    ],
+    "id": 954,
+    "pergunta": "Quem acompanhou Paulo depois da separação de Barnabé?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 15:40"
+  },
+  {
+    "explicacao": "Lídia foi a primeira convertida registrada na Europa.",
+    "alternativas": [
+      "Priscila",
+      "Lídia",
+      "Maria",
+      "Dorcas"
+    ],
+    "id": 955,
+    "pergunta": "Quem foi a primeira pessoa convertida na Europa durante a viagem de Paulo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 16:14-15"
+  },
+  {
+    "explicacao": "Enquanto oravam e cantavam, Deus enviou um terremoto que abriu as portas da prisão.",
+    "alternativas": [
+      "Foram esquecidos pelos guardas",
+      "Oravam e cantavam louvores a Deus quando houve um terremoto",
+      "Foram mortos",
+      "Foram enviados para Roma"
+    ],
+    "id": 956,
+    "pergunta": "O que aconteceu com Paulo e Silas na prisão em Filipos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 16:25-26"
+  },
+  {
+    "explicacao": "Os bereanos examinavam as Escrituras para verificar o que Paulo ensinava.",
+    "alternativas": [
+      "Rejeitaram tudo",
+      "Examinaram diariamente as Escrituras para confirmar o ensino",
+      "Prenderam Paulo",
+      "Fugiram da cidade"
+    ],
+    "id": 957,
+    "pergunta": "O que aconteceu com os judeus de Bereia quando ouviram Paulo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 17:11"
+  },
+  {
+    "explicacao": "Paulo anunciou o Deus criador do mundo e de tudo que existe.",
+    "alternativas": [
+      "Habitava somente no templo",
+      "Fez o mundo e tudo que nele existe",
+      "Era apenas dos judeus",
+      "Precisava de imagens feitas por homens"
+    ],
+    "id": 958,
+    "pergunta": "Em Atenas, Paulo pregou sobre o Deus que:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 17:24"
+  },
+  {
+    "explicacao": "Jesus apareceu a Paulo e afirmou que ele testemunharia também em Roma.",
+    "alternativas": [
+      "Jesus apareceu e disse que ele também testemunharia em Roma",
+      "Paulo abandonou o ministério",
+      "Pedro foi libertá-lo",
+      "A igreja foi destruída"
+    ],
+    "id": 959,
+    "pergunta": "O que aconteceu quando Paulo estava preso em Jerusalém e testemunhou diante das autoridades?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 23:11"
+  },
+  {
+    "explicacao": "Jesus prometeu que o Espírito Santo daria poder aos discípulos para testemunharem até os confins da terra.",
+    "alternativas": [
+      "Riquezas e poder político",
+      "Poder para serem suas testemunhas até os confins da terra",
+      "Autoridade sobre os reis",
+      "Conhecimento de todas as línguas"
+    ],
+    "id": 960,
+    "pergunta": "O que Jesus prometeu que os discípulos receberiam quando o Espírito Santo viesse sobre eles?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:8"
+  },
+  {
+    "explicacao": "Matias foi escolhido por sorteio para ocupar o lugar deixado por Judas.",
+    "alternativas": [
+      "Paulo",
+      "Barnabé",
+      "Matias",
+      "Silas"
+    ],
+    "id": 961,
+    "pergunta": "Quem foi escolhido para substituir Judas Iscariotes entre os apóstolos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 1:26"
+  },
+  {
+    "explicacao": "Os discípulos foram cheios do Espírito Santo e falaram em outras línguas.",
+    "alternativas": [
+      "Sabedoria humana",
+      "Espírito Santo",
+      "Poder dos anjos",
+      "Conhecimento da Lei"
+    ],
+    "id": 962,
+    "pergunta": "No dia de Pentecostes, os discípulos foram cheios de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2:4"
+  },
+  {
+    "explicacao": "A igreja primitiva perseverava no ensino dos apóstolos, comunhão, refeições e orações.",
+    "alternativas": [
+      "Separaram-se dos demais",
+      "Permaneceram na doutrina dos apóstolos, comunhão, partir do pão e orações",
+      "Construíram um templo",
+      "Deixaram Jerusalém"
+    ],
+    "id": 963,
+    "pergunta": "Qual foi a atitude dos primeiros cristãos após receberem a Palavra?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 2:42"
+  },
+  {
+    "explicacao": "Pedro curou um homem que era coxo desde o nascimento.",
+    "alternativas": [
+      "Um cego",
+      "Um paralítico de nascimento",
+      "Um leproso",
+      "Um surdo"
+    ],
+    "id": 964,
+    "pergunta": "Quem Pedro curou na porta do templo chamada Formosa?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 3:2-8"
+  },
+  {
+    "explicacao": "Eles foram presos por anunciarem Jesus e a ressurreição.",
+    "alternativas": [
+      "Porque destruíram o templo",
+      "Porque ensinavam sobre Jesus e a ressurreição dos mortos",
+      "Porque fugiram da cidade",
+      "Porque recusaram pagar impostos"
+    ],
+    "id": 965,
+    "pergunta": "Por que Pedro e João foram presos pelos líderes religiosos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 4:1-3"
+  },
+  {
+    "explicacao": "Após orarem, foram cheios do Espírito Santo e anunciaram a Palavra com coragem.",
+    "alternativas": [
+      "Medo e silêncio",
+      "Foram cheios do Espírito Santo e anunciavam a Palavra com ousadia",
+      "Abandonaram a fé",
+      "Fugiram de Jerusalém"
+    ],
+    "id": 966,
+    "pergunta": "Qual era o sentimento dos cristãos quando oraram após as ameaças?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 4:31"
+  },
+  {
+    "explicacao": "Ananias mentiu sobre o valor entregue e foi julgado por sua atitude.",
+    "alternativas": [
+      "Estêvão",
+      "Ananias",
+      "Filipe",
+      "Gamaliel"
+    ],
+    "id": 967,
+    "pergunta": "Quem mentiu ao Espírito Santo sobre o valor da oferta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 5:1-5"
+  },
+  {
+    "explicacao": "Estêvão foi escolhido como diácono por ser cheio de fé e do Espírito Santo.",
+    "alternativas": [
+      "Estêvão",
+      "Tiago",
+      "Marcos",
+      "Lucas"
+    ],
+    "id": 968,
+    "pergunta": "Quem era conhecido como homem cheio de fé e do Espírito Santo, escolhido como diácono?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 6:5"
+  },
+  {
+    "explicacao": "Saulo perseguia a igreja antes de sua conversão ao encontrar Jesus.",
+    "alternativas": [
+      "Pedro",
+      "Paulo (Saulo)",
+      "Herodes",
+      "Pilatos"
+    ],
+    "id": 969,
+    "pergunta": "Quem autorizou a perseguição contra os cristãos antes de sua conversão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 8:3"
+  },
+  {
+    "explicacao": "Filipe anunciou o evangelho ao eunuco e o batizou.",
+    "alternativas": [
+      "Pedro",
+      "Filipe",
+      "Paulo",
+      "Barnabé"
+    ],
+    "id": 970,
+    "pergunta": "Quem pregou para o eunuco da Etiópia e o batizou?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 8:35-38"
+  },
+  {
+    "explicacao": "Jesus apareceu a Saulo, levando-o a uma transformação de vida.",
+    "alternativas": [
+      "Recebeu uma carta dos apóstolos",
+      "Teve uma visão de Jesus e foi transformado",
+      "Foi preso pelos romanos",
+      "Encontrou Pedro"
+    ],
+    "id": 971,
+    "pergunta": "O que aconteceu com Saulo no caminho para Damasco?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 9:3-6"
+  },
+  {
+    "explicacao": "Ananias foi enviado por Deus para orar por Saulo.",
+    "alternativas": [
+      "Ananias",
+      "Barnabé",
+      "Tiago",
+      "Estêvão"
+    ],
+    "id": 972,
+    "pergunta": "Quem foi enviado para orar por Saulo para que recuperasse a visão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 9:17"
+  },
+  {
+    "explicacao": "Cornélio foi um dos primeiros gentios a receber o evangelho através do ministério de Pedro.",
+    "alternativas": [
+      "Cornélio",
+      "Félix",
+      "Timóteo",
+      "Tito"
+    ],
+    "id": 973,
+    "pergunta": "Qual foi o primeiro gentio convertido através do ministério de Pedro?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 10:1-48"
+  },
+  {
+    "explicacao": "O Espírito Santo veio sobre todos os que ouviam a mensagem.",
+    "alternativas": [
+      "Houve um terremoto",
+      "O Espírito Santo caiu sobre todos que ouviam a Palavra",
+      "Todos fugiram",
+      "Pedro foi preso"
+    ],
+    "id": 974,
+    "pergunta": "O que aconteceu enquanto Pedro pregava na casa de Cornélio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 10:44"
+  },
+  {
+    "explicacao": "Foi em Antioquia que os discípulos receberam o nome de cristãos pela primeira vez.",
+    "alternativas": [
+      "Jerusalém",
+      "Antioquia",
+      "Roma",
+      "Éfeso"
+    ],
+    "id": 975,
+    "pergunta": "Em qual cidade os discípulos foram chamados cristãos pela primeira vez?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 11:26"
+  },
+  {
+    "explicacao": "Pedro foi libertado da prisão por intervenção de um anjo do Senhor.",
+    "alternativas": [
+      "Paulo",
+      "Pedro",
+      "João",
+      "Filipe"
+    ],
+    "id": 976,
+    "pergunta": "Quem foi libertado milagrosamente da prisão por um anjo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 12:7"
+  },
+  {
+    "explicacao": "Paulo trabalhava fazendo tendas para se sustentar.",
+    "alternativas": [
+      "Pescador",
+      "Fabricante de tendas",
+      "Sacerdote",
+      "Soldado"
+    ],
+    "id": 977,
+    "pergunta": "Qual era a profissão de Paulo antes de ser chamado apóstolo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 18:3"
+  },
+  {
+    "explicacao": "Paulo anunciou o verdadeiro Deus e a ressurreição de Jesus aos atenienses.",
+    "alternativas": [
+      "Ele discutiu sobre o Deus desconhecido e anunciou Cristo",
+      "Foi coroado rei",
+      "Destruiu os templos",
+      "Foi preso imediatamente"
+    ],
+    "id": 978,
+    "pergunta": "O que aconteceu quando Paulo pregou em Atenas no Areópago?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 17:22-34"
+  },
+  {
+    "explicacao": "Mesmo preso, Paulo continuou anunciando o Reino de Deus e ensinando sobre Jesus.",
+    "alternativas": [
+      "Sem falar com ninguém",
+      "Pregando o Reino de Deus e ensinando sobre Jesus Cristo com liberdade",
+      "Fugindo dos soldados",
+      "Abandonando o ministério"
+    ],
+    "id": 979,
+    "pergunta": "Como Paulo permaneceu durante sua prisão em Roma?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos dos Apóstolos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Atos 28:30-31"
+  }
+]

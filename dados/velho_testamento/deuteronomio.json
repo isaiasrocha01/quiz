@@ -1,0 +1,996 @@
+[
+  {
+    "explicacao": "Moisés lembrou que Deus falou com Israel no meio do fogo no monte, mostrando Sua grandeza e poder.",
+    "alternativas": [
+      "A criação do templo",
+      "Deus falando do meio do fogo no monte Sinai",
+      "A construção da arca de Noé"
+    ],
+    "id": 2762,
+    "pergunta": "Qual acontecimento Moisés usou para mostrar a grandeza de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 4:33"
+  },
+  {
+    "explicacao": "Israel deveria ensinar aos filhos os mandamentos e feitos do Senhor continuamente.",
+    "alternativas": [
+      "Os feitos e mandamentos do Senhor",
+      "As leis dos povos vizinhos",
+      "Apenas histórias dos reis"
+    ],
+    "id": 2763,
+    "pergunta": "O que Israel deveria ensinar cuidadosamente aos seus filhos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 6:7"
+  },
+  {
+    "explicacao": "Deus proibiu Israel de fazer imagens de escultura para evitar a idolatria.",
+    "alternativas": [
+      "Poderiam ser adoradas em certas ocasiões",
+      "Israel não deveria fazer nem adorar imagens",
+      "Somente reis poderiam possuí-las"
+    ],
+    "id": 2764,
+    "pergunta": "Qual era a advertência de Deus sobre imagens de escultura?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 4:15-16"
+  },
+  {
+    "explicacao": "As festas do Senhor eram momentos de reunião do povo para celebrar diante de Deus.",
+    "alternativas": [
+      "Reunir o povo para celebrar diante de Deus",
+      "Escolher novos reis",
+      "Treinar soldados"
+    ],
+    "id": 2765,
+    "pergunta": "Qual era a finalidade das festas do Senhor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 16:16-17"
+  },
+  {
+    "explicacao": "As três festas principais eram a Páscoa, a Festa das Semanas e a Festa dos Tabernáculos.",
+    "alternativas": [
+      "Páscoa, Festa das Semanas e Festa dos Tabernáculos",
+      "Purim, Hanucá e Pentecostes",
+      "Lua Nova, Sábado e Jubileu"
+    ],
+    "id": 2766,
+    "pergunta": "Quais eram as três festas em que todos os homens deveriam comparecer diante do Senhor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 16:16"
+  },
+  {
+    "explicacao": "A lei determinava juízo contra quem conduzisse o povo à idolatria.",
+    "alternativas": [
+      "Ser honrado",
+      "Ser morto",
+      "Ser colocado como sacerdote"
+    ],
+    "id": 2767,
+    "pergunta": "O que deveria ser feito com um falso profeta que levasse o povo à idolatria?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 13:1-5"
+  },
+  {
+    "explicacao": "A lei estabelecia que uma acusação deveria ser confirmada por duas ou três testemunhas.",
+    "alternativas": [
+      "Uma pessoa sozinha era suficiente para condenar alguém",
+      "Duas ou três testemunhas eram necessárias",
+      "Somente o rei poderia julgar"
+    ],
+    "id": 2768,
+    "pergunta": "Qual era a regra para uma testemunha em um julgamento?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 19:15"
+  },
+  {
+    "explicacao": "Moisés escreveu toda a lei em um livro antes de entregar a liderança a Josué.",
+    "alternativas": [
+      "Toda a lei de Deus",
+      "Apenas as histórias de Israel",
+      "Os nomes das tribos"
+    ],
+    "id": 2769,
+    "pergunta": "O que Moisés escreveu em um livro antes de entregar a liderança a Josué?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 31:24"
+  },
+  {
+    "explicacao": "A bênção de Moisés sobre Levi destacou seu serviço de ensinar a lei e guardar a aliança.",
+    "alternativas": [
+      "Receber riquezas dos povos",
+      "Ensinar os juízos de Deus e guardar Sua aliança",
+      "Governar todas as tribos"
+    ],
+    "id": 2770,
+    "pergunta": "Qual foi a bênção dada por Moisés à tribo de Levi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 33:8-10"
+  },
+  {
+    "explicacao": "Deuteronômio termina descrevendo Moisés como um grande profeta que teve uma relação única com Deus.",
+    "alternativas": [
+      "Como o maior profeta que Israel conheceu, com quem Deus falava face a face",
+      "Como um rei poderoso",
+      "Como um sacerdote do templo"
+    ],
+    "id": 2771,
+    "pergunta": "Como Deuteronômio descreve Moisés no final do livro?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 34:10"
+  },
+  {
+    "explicacao": "Moisés declarou suas palavras ao povo de Israel nas campinas de Moabe, além do Jordão, antes da entrada na Terra Prometida.",
+    "alternativas": [
+      "Nas campinas de Moabe, além do Jordão",
+      "No monte Sinai",
+      "No deserto do Egito"
+    ],
+    "id": 2772,
+    "pergunta": "Em que local Moisés declarou estas palavras ao povo de Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 1:5"
+  },
+  {
+    "explicacao": "O monte Nebo foi o local onde Moisés subiu para contemplar a Terra Prometida antes de sua morte.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte Nebo",
+      "Monte Carmelo"
+    ],
+    "id": 2773,
+    "pergunta": "Qual foi o nome do monte onde Moisés subiu para ver a Terra Prometida antes de morrer?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 34:1"
+  },
+  {
+    "explicacao": "A tribo de Levi foi separada por Deus para carregar a arca da aliança e servir no ministério sagrado.",
+    "alternativas": [
+      "Judá",
+      "Levi",
+      "Benjamim"
+    ],
+    "id": 2774,
+    "pergunta": "Qual foi a tribo que Deus separou para carregar a arca da aliança?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 10:8"
+  },
+  {
+    "explicacao": "Deus ordenou que Israel circuncidasse o coração, mostrando uma transformação interior de fidelidade ao Senhor.",
+    "alternativas": [
+      "Suas mãos",
+      "Seus ouvidos",
+      "O coração"
+    ],
+    "id": 2775,
+    "pergunta": "O que Deus pediu que Israel circuncidasse além da carne?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 10:16"
+  },
+  {
+    "explicacao": "Moisés não entrou na Terra Prometida porque desobedeceu a Deus nas águas de Meribá.",
+    "alternativas": [
+      "Porque perdeu uma batalha",
+      "Porque desobedeceu a Deus junto às águas de Meribá",
+      "Porque recusou liderar Israel"
+    ],
+    "id": 2776,
+    "pergunta": "Por que Moisés não entrou na Terra Prometida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 32:51-52"
+  },
+  {
+    "explicacao": "Moisés ensinou que a verdadeira vida estava em amar e obedecer aos mandamentos do Senhor.",
+    "alternativas": [
+      "A riqueza da terra",
+      "Guardar os mandamentos do Senhor",
+      "Ter muitos soldados"
+    ],
+    "id": 2777,
+    "pergunta": "O que Moisés chamou de 'vida' para o povo de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 30:15-16"
+  },
+  {
+    "explicacao": "A permanência de Israel na terra estava ligada à obediência aos mandamentos do Senhor.",
+    "alternativas": [
+      "Construir grandes cidades",
+      "Obedecer aos mandamentos do Senhor",
+      "Fazer alianças com outras nações"
+    ],
+    "id": 2778,
+    "pergunta": "Qual era a condição para Israel permanecer na Terra Prometida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 11:8"
+  },
+  {
+    "explicacao": "Ogue, rei de Basã, foi derrotado por Israel durante a conquista dos territórios antes do Jordão.",
+    "alternativas": [
+      "Ogue",
+      "Seom",
+      "Balaque"
+    ],
+    "id": 2779,
+    "pergunta": "Qual rei de Basã foi derrotado por Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 3:3"
+  },
+  {
+    "explicacao": "Seom era o rei dos amorreus derrotado por Israel antes de atravessar o Jordão.",
+    "alternativas": [
+      "Saul",
+      "Seom",
+      "Dario"
+    ],
+    "id": 2780,
+    "pergunta": "Qual rei dos amorreus foi vencido por Israel antes de atravessar o Jordão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 2:32-33"
+  },
+  {
+    "explicacao": "Deus ordenou que Israel não acrescentasse nem diminuísse nada das palavras da lei.",
+    "alternativas": [
+      "Nada das palavras de Deus",
+      "Apenas as leis de guerra",
+      "Somente os sacrifícios"
+    ],
+    "id": 2781,
+    "pergunta": "O que Moisés disse que Israel não deveria acrescentar nem diminuir da lei?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 4:2"
+  },
+  {
+    "explicacao": "Os sacerdotes e levitas foram separados por Deus para servir no ministério do Senhor e cuidar das coisas sagradas.",
+    "alternativas": [
+      "Governar todos os reis",
+      "Servir no ministério do Senhor",
+      "Liderar os exércitos"
+    ],
+    "id": 2782,
+    "pergunta": "Qual era a função dos sacerdotes e levitas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 18:5-7"
+  },
+  {
+    "explicacao": "Moisés anunciou que Deus levantaria um profeta semelhante a ele no meio do povo para transmitir Sua palavra.",
+    "alternativas": [
+      "Um profeta no meio do povo",
+      "Um novo faraó",
+      "Um guerreiro estrangeiro"
+    ],
+    "id": 2783,
+    "pergunta": "O que Deus prometeu levantar semelhante a Moisés?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 18:15"
+  },
+  {
+    "explicacao": "A idolatria era uma grave violação da aliança, e quem conduzisse outros à adoração de falsos deuses deveria ser julgado.",
+    "alternativas": [
+      "Receber uma recompensa",
+      "Ser julgada conforme a lei",
+      "Tornar-se líder do povo"
+    ],
+    "id": 2784,
+    "pergunta": "O que deveria acontecer com uma pessoa que adorasse outros deuses?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 13:6-10"
+  },
+  {
+    "explicacao": "As cidades de refúgio foram estabelecidas para proteger aqueles que matassem alguém sem intenção.",
+    "alternativas": [
+      "Guardar tesouros do povo",
+      "Proteger quem matasse alguém sem intenção",
+      "Servir como cidades dos reis"
+    ],
+    "id": 2785,
+    "pergunta": "Qual era o propósito das cidades de refúgio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 19:4-5"
+  },
+  {
+    "explicacao": "O rei de Israel deveria ter uma cópia da lei para ler e aprender a temer ao Senhor todos os dias.",
+    "alternativas": [
+      "Ter muitos cavalos e riquezas",
+      "Escrever uma cópia da lei e lê-la todos os dias",
+      "Abandonar os mandamentos"
+    ],
+    "id": 2786,
+    "pergunta": "O que um rei de Israel deveria fazer quando fosse estabelecido?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 17:18-19"
+  },
+  {
+    "explicacao": "A obediência aos mandamentos traria a bênção de Deus sobre Israel, colocando-o acima das nações.",
+    "alternativas": [
+      "Ser colocado acima das nações",
+      "Nunca precisar trabalhar",
+      "Não enfrentar dificuldades"
+    ],
+    "id": 2787,
+    "pergunta": "Qual era uma das bênçãos da obediência descritas por Moisés?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 28:1"
+  },
+  {
+    "explicacao": "A obediência à voz de Deus traria bênçãos sobre a vida diária do povo, tanto na cidade quanto no campo.",
+    "alternativas": [
+      "Receberia bênçãos na cidade e no campo",
+      "Seria levado para outro país",
+      "Perderia sua terra"
+    ],
+    "id": 2788,
+    "pergunta": "O que aconteceria se Israel obedecesse à voz de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 28:3-6"
+  },
+  {
+    "explicacao": "Moisés ensinou que a Palavra de Deus estava acessível ao povo, próxima de sua boca e coração.",
+    "alternativas": [
+      "Que era difícil demais para o povo conhecer",
+      "Que estava perto do povo, em sua boca e coração",
+      "Que pertencia apenas aos sacerdotes"
+    ],
+    "id": 2789,
+    "pergunta": "Qual declaração Moisés fez sobre a Palavra de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 30:14"
+  },
+  {
+    "explicacao": "Moisés colocou diante de Israel uma escolha entre vida e morte, bênção e maldição, incentivando o povo a escolher a vida.",
+    "alternativas": [
+      "Vida e morte, bênção e maldição",
+      "Riqueza e pobreza apenas",
+      "Guerra e paz apenas"
+    ],
+    "id": 2790,
+    "pergunta": "Qual escolha Moisés colocou diante do povo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 30:19"
+  },
+  {
+    "explicacao": "Moisés encorajou Josué a ser forte e corajoso, pois Deus estaria com ele na liderança de Israel.",
+    "alternativas": [
+      "Ser forte e corajoso porque Deus estaria com ele",
+      "Construir um palácio",
+      "Abandonar o povo"
+    ],
+    "id": 2791,
+    "pergunta": "Qual foi uma das últimas orientações de Moisés a Josué?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 31:7-8"
+  },
+  {
+    "explicacao": "Moisés repetiu a lei porque uma nova geração de israelitas precisava conhecer a aliança e os mandamentos do Senhor antes de entrar na terra prometida.",
+    "alternativas": [
+      "Porque uma nova geração precisava conhecer a aliança de Deus",
+      "Porque a lei havia sido perdida",
+      "Porque os egípcios pediram uma cópia"
+    ],
+    "id": 2792,
+    "pergunta": "Por que Moisés explicou novamente a lei ao povo de Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 1:34-39"
+  },
+  {
+    "explicacao": "A primeira geração não entrou na Terra Prometida porque se rebelou contra Deus e não confiou na promessa dele.",
+    "alternativas": [
+      "Não tinha armas suficientes",
+      "Desobedeceu e não confiou em Deus",
+      "Não conhecia o caminho"
+    ],
+    "id": 2793,
+    "pergunta": "Qual foi o motivo pelo qual a primeira geração de Israel não entrou na Terra Prometida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 1:26-32"
+  },
+  {
+    "explicacao": "Moisés relembrou que foram enviados doze homens para examinar a terra de Canaã.",
+    "alternativas": [
+      "10",
+      "12",
+      "70"
+    ],
+    "id": 2794,
+    "pergunta": "Quantos homens foram enviados para espiar a terra de Canaã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 1:22-23"
+  },
+  {
+    "explicacao": "Moisés ensinou que Israel deveria reconhecer que era Deus quem dava poder e vitória, não a própria força.",
+    "alternativas": [
+      "Que tudo seria conquistado pela própria força deles",
+      "Que Deus era quem lhes dava a vitória",
+      "Que deveriam fazer alianças com todos os povos"
+    ],
+    "id": 2795,
+    "pergunta": "O que Moisés pediu ao povo para lembrar ao entrar na terra prometida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 8:17-18"
+  },
+  {
+    "explicacao": "Moisés alertou que a prosperidade poderia levar Israel a esquecer o Senhor e seguir outros deuses.",
+    "alternativas": [
+      "Seria levado novamente ao Egito",
+      "Poderia se afastar de Deus e seguir outros deuses",
+      "Perderia apenas suas riquezas"
+    ],
+    "id": 2796,
+    "pergunta": "Qual era o perigo de Israel esquecer o Senhor depois de prosperar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 8:11-14"
+  },
+  {
+    "explicacao": "Deus desejava que Israel vivesse em temor, amor e obediência diante dele.",
+    "alternativas": [
+      "Apenas ofertas de animais",
+      "Temor, amor e obediência",
+      "Construção de grandes cidades"
+    ],
+    "id": 2797,
+    "pergunta": "O que Deus exigia do povo de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 10:12"
+  },
+  {
+    "explicacao": "As tábuas da lei foram colocadas dentro da arca da aliança como sinal da aliança de Deus com Israel.",
+    "alternativas": [
+      "As tábuas da lei",
+      "A coroa de Moisés",
+      "O cajado de Josué"
+    ],
+    "id": 2798,
+    "pergunta": "Qual objeto deveria ser colocado dentro da arca da aliança?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 10:5"
+  },
+  {
+    "explicacao": "Deus ordenou que Israel demonstrasse amor e cuidado pelo estrangeiro que vivia entre eles.",
+    "alternativas": [
+      "Deveria ser rejeitado",
+      "Deveria ser amado",
+      "Não poderia entrar nas cidades"
+    ],
+    "id": 2799,
+    "pergunta": "O que Deus disse sobre o estrangeiro que habitava entre Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 10:18-19"
+  },
+  {
+    "explicacao": "Deus escolheria um lugar específico para colocar o seu nome e ali Israel deveria adorá-lo.",
+    "alternativas": [
+      "Qualquer lugar escolhido pelo povo",
+      "O lugar que o Senhor escolhesse",
+      "Apenas o deserto"
+    ],
+    "id": 2800,
+    "pergunta": "Qual era o local escolhido por Deus para colocar o Seu nome?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 12:5"
+  },
+  {
+    "explicacao": "Israel não deveria copiar as práticas de adoração dos povos pagãos ao entrar na terra.",
+    "alternativas": [
+      "Copiar as práticas dos povos pagãos",
+      "Cantar louvores",
+      "Oferecer ofertas voluntárias"
+    ],
+    "id": 2801,
+    "pergunta": "O que Israel não deveria fazer ao adorar a Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 12:29-31"
+  },
+  {
+    "explicacao": "Deus entregou a Moisés as tábuas da aliança contendo os Dez Mandamentos para ensinar Israel a obedecer.",
+    "alternativas": [
+      "As tábuas dos Dez Mandamentos",
+      "Uma coroa de ouro",
+      "Uma espada de guerra"
+    ],
+    "id": 2802,
+    "pergunta": "O que Moisés recebeu no monte Sinai?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 5:22"
+  },
+  {
+    "explicacao": "Os Dez Mandamentos são chamados de palavras da aliança que Deus ordenou a Israel.",
+    "alternativas": [
+      "Cinco",
+      "Dez",
+      "Doze"
+    ],
+    "id": 2803,
+    "pergunta": "Quantos mandamentos principais foram escritos nas tábuas da aliança?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 4:13"
+  },
+  {
+    "explicacao": "Deus proibiu Israel de seguir os falsos deuses dos povos vizinhos para permanecer fiel ao Senhor.",
+    "alternativas": [
+      "Adorar seus deuses falsos",
+      "Comer frutas",
+      "Construir casas"
+    ],
+    "id": 2804,
+    "pergunta": "O que Deus proibiu Israel de fazer com outros povos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 7:3-4"
+  },
+  {
+    "explicacao": "Canaã foi a terra prometida por Deus aos patriarcas Abraão, Isaque e Jacó.",
+    "alternativas": [
+      "Canaã",
+      "Babilônia",
+      "Assíria"
+    ],
+    "id": 2805,
+    "pergunta": "Qual era a terra que Deus prometeu a Abraão, Isaque e Jacó?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 1:8"
+  },
+  {
+    "explicacao": "Josué foi escolhido por Deus para liderar Israel após a morte de Moisés.",
+    "alternativas": [
+      "Josué",
+      "Samuel",
+      "Davi"
+    ],
+    "id": 2806,
+    "pergunta": "Quem foi escolhido para suceder Moisés?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 31:7-8"
+  },
+  {
+    "explicacao": "Deus prometeu bênçãos ao povo quando este ouvisse e obedecesse aos seus mandamentos.",
+    "alternativas": [
+      "Que traz bênçãos do Senhor",
+      "Que não tem importância",
+      "Que substitui a fé"
+    ],
+    "id": 2807,
+    "pergunta": "O que Moisés ensinou sobre a obediência?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 28:1-2"
+  },
+  {
+    "explicacao": "A desobediência traria consequências e maldições sobre Israel conforme a aliança de Deus.",
+    "alternativas": [
+      "Receberia bênçãos maiores",
+      "Sofreria consequências e maldições",
+      "Nunca teria problemas"
+    ],
+    "id": 2808,
+    "pergunta": "O que aconteceria se Israel desobedecesse a Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 28:15"
+  },
+  {
+    "explicacao": "Moisés ensinou ao povo o cântico que deveria servir como testemunho da aliança de Deus.",
+    "alternativas": [
+      "O cântico de Moisés",
+      "O cântico de Davi",
+      "O cântico de Josué"
+    ],
+    "id": 2809,
+    "pergunta": "Qual cântico Moisés ensinou ao povo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 31:19-22"
+  },
+  {
+    "explicacao": "Moisés subiu ao monte Nebo, viu a terra prometida e ali morreu conforme a palavra do Senhor.",
+    "alternativas": [
+      "No monte Nebo",
+      "No Egito",
+      "Em Jerusalém"
+    ],
+    "id": 2810,
+    "pergunta": "Onde Moisés morreu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 34:1-5"
+  },
+  {
+    "explicacao": "Moisés morreu com cento e vinte anos, mantendo sua força e vigor até o fim de sua vida.",
+    "alternativas": [
+      "70 anos",
+      "100 anos",
+      "120 anos"
+    ],
+    "id": 2811,
+    "pergunta": "Quantos anos Moisés tinha quando morreu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 34:7"
+  },
+  {
+    "explicacao": "Moisés é o principal personagem humano de Deuteronômio, pois foi ele quem transmitiu a lei ao povo de Israel antes de sua morte.",
+    "alternativas": [
+      "Josué",
+      "Moisés",
+      "Arão"
+    ],
+    "id": 2812,
+    "pergunta": "Quem é o principal personagem humano do livro de Deuteronômio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 1:1"
+  },
+  {
+    "explicacao": "Deuteronômio significa repetição ou segunda apresentação da lei dada por Deus ao povo.",
+    "alternativas": [
+      "Segunda lei ou repetição da lei",
+      "Livro dos reis",
+      "Caminho do deserto"
+    ],
+    "id": 2813,
+    "pergunta": "Qual é o significado do nome Deuteronômio?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 17:18"
+  },
+  {
+    "explicacao": "Moisés falou as palavras de Deuteronômio para toda a congregação de Israel.",
+    "alternativas": [
+      "Para os egípcios",
+      "Para todo o Israel",
+      "Para os filisteus"
+    ],
+    "id": 2814,
+    "pergunta": "Para quem Moisés falou as palavras de Deuteronômio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 1:1"
+  },
+  {
+    "explicacao": "Moisés começou seus discursos quando Israel estava nas planícies de Moabe.",
+    "alternativas": [
+      "Nas planícies de Moabe",
+      "No Egito",
+      "No monte Sinai"
+    ],
+    "id": 2815,
+    "pergunta": "Onde Israel estava quando Moisés começou a falar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 1:5"
+  },
+  {
+    "explicacao": "O grande mandamento ensina Israel a amar o Senhor de todo coração, alma e força.",
+    "alternativas": [
+      "Amar o Senhor de todo o coração, alma e força",
+      "Construir um templo",
+      "Fazer sacrifícios diariamente"
+    ],
+    "id": 2816,
+    "pergunta": "Qual mandamento é chamado de grande mandamento em Deuteronômio?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 6:5"
+  },
+  {
+    "explicacao": "Israel deveria ensinar aos filhos as palavras e mandamentos do Senhor continuamente.",
+    "alternativas": [
+      "As leis e palavras de Deus",
+      "Apenas histórias de guerras",
+      "Somente costumes dos povos vizinhos"
+    ],
+    "id": 2817,
+    "pergunta": "O que Israel deveria ensinar aos seus filhos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 6:6-7"
+  },
+  {
+    "explicacao": "O Shema declara que o Senhor é o único Deus de Israel.",
+    "alternativas": [
+      "O Senhor é o nosso Deus, o Senhor é um",
+      "O rei é poderoso",
+      "Israel vencerá todas as guerras"
+    ],
+    "id": 2818,
+    "pergunta": "Qual frase é conhecida como 'Shema'?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 6:4"
+  },
+  {
+    "explicacao": "Deus prometeu entregar a terra prometida aos descendentes de Israel.",
+    "alternativas": [
+      "A terra prometida",
+      "O reino do Egito",
+      "Todas as nações da terra imediatamente"
+    ],
+    "id": 2819,
+    "pergunta": "O que Deus prometeu dar ao povo de Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 1:8"
+  },
+  {
+    "explicacao": "Deus sustentou Israel no deserto com o maná, mostrando que o homem vive da palavra do Senhor.",
+    "alternativas": [
+      "Maná",
+      "Peixes do mar",
+      "Trigo do Egito"
+    ],
+    "id": 2820,
+    "pergunta": "Qual alimento Deus enviou para Israel no deserto?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 8:3"
+  },
+  {
+    "explicacao": "Israel passou quarenta anos peregrinando no deserto antes de entrar na terra prometida.",
+    "alternativas": [
+      "10 anos",
+      "40 anos",
+      "70 anos"
+    ],
+    "id": 2821,
+    "pergunta": "Por quanto tempo Israel caminhou pelo deserto?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 8:2"
+  },
+  {
+    "explicacao": "Deuteronômio repete e recapitula as leis de Deus para a nova geração que entraria em Canaã.",
+    "alternativas": [
+      "Deuteronômio",
+      "Levítico",
+      "Josué",
+      "Juízes"
+    ],
+    "id": 2822,
+    "pergunta": "Qual livro significa 'Segunda Lei' e traz os discursos de despedida de Moisés antes de morrer?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 1:1"
+  },
+  {
+    "explicacao": "Moisés subiu das planícies de Moabe ao topo do Pisga, no Monte Nebo, onde contemplou Canaã antes de ser recolhido pelo Senhor.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte Nebo",
+      "Monte Horebe",
+      "Monte Sião"
+    ],
+    "id": 2823,
+    "pergunta": "Em qual monte Moisés morreu após Deus lhe mostrar de longe a Terra Prometida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Deuteronômio 34:1"
+  }
+]

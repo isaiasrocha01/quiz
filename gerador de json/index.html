@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editor de Perguntas Bíblicas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Oficina Bíblica</h1>
+
+        <div class="formulario">
+
+            <div class="linha-dupla">
+                <div>
+                    <label class="obrigatorio">Testamento</label>
+                    <select id="testamento">
+                        <option value="">Selecione...</option>
+                        <option value="Velho Testamento">Velho Testamento</option>
+                        <option value="Novo Testamento">Novo Testamento</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="obrigatorio">Categoria</label>
+                    <select id="categoria">
+                        <option value="">Selecione...</option>
+                        <option value="Todas">Todas</option>
+                        <option value="Livros">Livros</option>
+                        <option value="Pessoas">Pessoas</option>
+                        <option value="Lugares">Lugares</option>
+                        <option value="Eventos">Eventos</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="linha-dupla">
+
+                <div id="areaLivro" style="display:none;">
+                    <label class="obrigatorio">Livro</label>
+                    <select id="livro">
+                        <option value="">Selecione...</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label class="obrigatorio">Nível</label>
+                    <select id="nivel">
+                        <option>Fácil</option>
+                        <option>Médio</option>
+                        <option>Difícil</option>
+                    </select>
+                </div>
+
+            </div>
+
+            <label class="obrigatorio">Pergunta</label>
+            <textarea id="pergunta"></textarea>
+
+            <div class="linha-dupla">
+                <div>
+                    <label class="obrigatorio">Alternativa A</label>
+                    <input id="a1">
+                </div>
+                <div>
+                    <label class="obrigatorio">Alternativa B</label>
+                    <input id="a2">
+                </div>
+            </div>
+
+            <div class="linha-dupla">
+                <div>
+                    <label class="obrigatorio">Alternativa C</label>
+                    <input id="a3">
+                </div>
+                <div>
+                    <label class="obrigatorio">Alternativa D</label>
+                    <input id="a4">
+                </div>
+            </div>
+
+            <div class="linha-dupla">
+                <div>
+                    <label class="obrigatorio">Resposta Correta</label>
+                    <select id="correta">
+                        <option value="0">Alternativa A</option>
+                        <option value="1">Alternativa B</option>
+                        <option value="2">Alternativa C</option>
+                        <option value="3">Alternativa D</option>
+                    </select>
+                </div>
+                <div>
+                    <label>Referência Bíblica</label>
+                    <input id="referencia">
+                </div>
+            </div>
+
+            <label>Explicação</label>
+            <textarea id="explicacao"></textarea>
+
+            <div class="linha-dupla">
+                <button onclick="adicionar()">Adicionar Pergunta</button>
+                <button onclick="exportar()">Exportar JSON</button>
+                <button onclick="baixarPDF()">Baixar PDF</button>
+                <button onclick="reiniciarConfiguracao()">Reiniciar Configuração</button>
+            </div>
+
+
+            <input type="file" id="importar">
+        </div>
+
+        <div class="preview">
+            <h2>Prévia</h2>
+            <pre id="preview"></pre>
+        </div>
+    </div>
+
+    <h2 class="perguntas">Perguntas Cadastradas</h2>
+    <div id="lista"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

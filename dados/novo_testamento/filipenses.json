@@ -1,0 +1,937 @@
+[
+  {
+    "explicacao": "Paulo é apresentado como autor da carta aos Filipenses.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 1153,
+    "pergunta": "Quem escreveu a carta aos Filipenses?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:1"
+  },
+  {
+    "explicacao": "Timóteo é citado junto com Paulo na introdução da carta.",
+    "alternativas": [
+      "Silas",
+      "Timóteo",
+      "Lucas",
+      "Tito"
+    ],
+    "id": 1154,
+    "pergunta": "Quem é mencionado junto com Paulo na saudação da carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:1"
+  },
+  {
+    "explicacao": "Paulo escreveu aos santos em Cristo Jesus que estavam em Filipos, incluindo bispos e diáconos.",
+    "alternativas": [
+      "À igreja de Roma",
+      "À igreja de Corinto",
+      "Aos santos em Cristo Jesus que estão em Filipos",
+      "À igreja de Jerusalém"
+    ],
+    "id": 1155,
+    "pergunta": "Para quem Paulo escreveu a carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:1"
+  },
+  {
+    "explicacao": "Paulo inicia a carta desejando graça e paz aos filipenses.",
+    "alternativas": [
+      "Riquezas e fama",
+      "Graça e paz da parte de Deus e de Jesus Cristo",
+      "Poder político",
+      "Vitória nas guerras"
+    ],
+    "id": 1156,
+    "pergunta": "Paulo desejava aos filipenses:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:2"
+  },
+  {
+    "explicacao": "Paulo lembrava dos filipenses com gratidão e alegria.",
+    "alternativas": [
+      "Medo",
+      "Tristeza",
+      "Alegria",
+      "Dúvida"
+    ],
+    "id": 1157,
+    "pergunta": "Paulo agradecia a Deus pelos filipenses com:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:3"
+  },
+  {
+    "explicacao": "Paulo confiava que Deus completaria a obra espiritual iniciada na vida dos filipenses.",
+    "alternativas": [
+      "A construção do templo",
+      "A boa obra que começou nos filipenses",
+      "A riqueza da igreja",
+      "O governo dos reis"
+    ],
+    "id": 1158,
+    "pergunta": "Paulo tinha confiança de que Deus completaria:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:6"
+  },
+  {
+    "explicacao": "Paulo declarou que sua vida tinha como centro e propósito Cristo.",
+    "alternativas": [
+      "Trabalhar",
+      "Cristo",
+      "Ensinar",
+      "Viajar"
+    ],
+    "id": 1159,
+    "pergunta": "Para Paulo, viver é:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:21"
+  },
+  {
+    "explicacao": "Para Paulo, a morte representava estar com Cristo e por isso era considerada ganho.",
+    "alternativas": [
+      "Perder tudo",
+      "Castigo",
+      "Ganho",
+      "Esquecimento"
+    ],
+    "id": 1160,
+    "pergunta": "Paulo disse que morrer é:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:21"
+  },
+  {
+    "explicacao": "Os cristãos deveriam demonstrar uma vida coerente com o evangelho.",
+    "alternativas": [
+      "Digno do evangelho de Cristo",
+      "Segundo os costumes romanos",
+      "Buscando riquezas",
+      "Sem preocupação com outros"
+    ],
+    "id": 1161,
+    "pergunta": "Paulo ensinou que os cristãos deveriam viver de modo:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:27"
+  },
+  {
+    "explicacao": "Paulo ensina que os cristãos devem ter a mesma atitude humilde de Cristo.",
+    "alternativas": [
+      "A sabedoria dos homens",
+      "O mesmo sentimento que houve em Cristo Jesus",
+      "O desejo de dominar",
+      "A busca por fama"
+    ],
+    "id": 1162,
+    "pergunta": "O que os filipenses deveriam ter em si?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:5"
+  },
+  {
+    "explicacao": "Jesus assumiu a forma de servo e demonstrou humildade.",
+    "alternativas": [
+      "Rei",
+      "Servo",
+      "Anjo",
+      "Sacerdote"
+    ],
+    "id": 1163,
+    "pergunta": "Jesus se humilhou e tomou a forma de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:7"
+  },
+  {
+    "explicacao": "Deus exaltou Jesus acima de tudo e lhe deu um nome superior a todo nome.",
+    "alternativas": [
+      "Conhecido apenas em Israel",
+      "Sobre todo nome",
+      "Esquecido pelos homens",
+      "Somente entre os discípulos"
+    ],
+    "id": 1164,
+    "pergunta": "Deus exaltou Jesus e lhe deu um nome que é:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:9"
+  },
+  {
+    "explicacao": "Paulo declara que toda criação reconhecerá o senhorio de Jesus Cristo.",
+    "alternativas": [
+      "Paulo é apóstolo",
+      "Jesus Cristo é o Senhor",
+      "Pedro é líder",
+      "Moisés voltou"
+    ],
+    "id": 1165,
+    "pergunta": "Todo joelho se dobrará e toda língua confessará que:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:11"
+  },
+  {
+    "explicacao": "Paulo descreveu Epafrodito como irmão, cooperador e companheiro de lutas.",
+    "alternativas": [
+      "Epafrodito",
+      "Lucas",
+      "Marcos",
+      "Tito"
+    ],
+    "id": 1166,
+    "pergunta": "Quem Paulo chamou de seu irmão, cooperador e companheiro de lutas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:25"
+  },
+  {
+    "explicacao": "A verdadeira alegria ensinada por Paulo está no Senhor.",
+    "alternativas": [
+      "Nas riquezas",
+      "No Senhor",
+      "Nas conquistas humanas",
+      "Nos prazeres do mundo"
+    ],
+    "id": 1167,
+    "pergunta": "Paulo ensinou para os filipenses se alegrarem:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:1"
+  },
+  {
+    "explicacao": "Paulo considerava todas as coisas inferiores ao valor de conhecer Cristo.",
+    "alternativas": [
+      "Sua família",
+      "Cristo",
+      "Sua cidadania romana",
+      "Seu conhecimento"
+    ],
+    "id": 1168,
+    "pergunta": "Paulo considerava tudo como perda por causa de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:8"
+  },
+  {
+    "explicacao": "Paulo ensina que os cristãos possuem cidadania celestial.",
+    "alternativas": [
+      "Em Roma",
+      "Na terra",
+      "Nos céus",
+      "Em Jerusalém"
+    ],
+    "id": 1169,
+    "pergunta": "A nossa cidadania está:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:20"
+  },
+  {
+    "explicacao": "Paulo orienta os cristãos a levarem tudo a Deus em oração com gratidão.",
+    "alternativas": [
+      "Ansiedade",
+      "Oração e súplica com ações de graças",
+      "Reclamações",
+      "Medo"
+    ],
+    "id": 1170,
+    "pergunta": "Paulo ensina que devemos apresentar nossos pedidos a Deus com:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 4:6"
+  },
+  {
+    "explicacao": "A paz de Deus protege o coração e a mente daqueles que estão em Cristo Jesus.",
+    "alternativas": [
+      "Ela guardará os corações e pensamentos em Cristo Jesus",
+      "Ela dará riquezas aos homens",
+      "Ela eliminará todo trabalho",
+      "Ela tornará todos famosos"
+    ],
+    "id": 1171,
+    "pergunta": "Qual promessa Paulo deixou sobre a paz de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 4:7"
+  },
+  {
+    "explicacao": "Paulo desejava que o amor dos filipenses crescesse acompanhado de conhecimento e discernimento espiritual.",
+    "alternativas": [
+      "Riqueza e poder",
+      "Conhecimento e toda percepção",
+      "Fama e influência",
+      "Autoridade sobre as igrejas"
+    ],
+    "id": 1172,
+    "pergunta": "Paulo orava pelos filipenses para que o amor deles aumentasse em:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:9"
+  },
+  {
+    "explicacao": "Paulo queria que os filipenses tivessem uma vida pura e preparada para o dia de Cristo.",
+    "alternativas": [
+      "Para serem ricos",
+      "Para serem sinceros e inculpáveis até o dia de Cristo",
+      "Para dominarem outras pessoas",
+      "Para serem reconhecidos pelos homens"
+    ],
+    "id": 1173,
+    "pergunta": "Qual era o desejo de Paulo para que os filipenses aprovassem as coisas excelentes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:10"
+  },
+  {
+    "explicacao": "Paulo ensinou que suas prisões serviram para que o evangelho avançasse.",
+    "alternativas": [
+      "O fim da pregação",
+      "O progresso do evangelho",
+      "Sua libertação imediata",
+      "Sua fama em Roma"
+    ],
+    "id": 1174,
+    "pergunta": "Paulo afirmou que suas prisões contribuíram para:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:12"
+  },
+  {
+    "explicacao": "Paulo se alegrava porque, apesar das intenções erradas de alguns, Cristo estava sendo proclamado.",
+    "alternativas": [
+      "Eles estavam ganhando dinheiro",
+      "Cristo estava sendo anunciado",
+      "Eles eram seus amigos",
+      "Eles tinham autoridade romana"
+    ],
+    "id": 1175,
+    "pergunta": "Mesmo alguns pregando Cristo por motivos errados, Paulo se alegrava porque:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:18"
+  },
+  {
+    "explicacao": "Paulo desejava honrar Cristo em todas as situações, vivendo ou morrendo.",
+    "alternativas": [
+      "Somente na vida",
+      "Tanto na vida como na morte",
+      "Apenas nas viagens",
+      "Apenas nas pregações"
+    ],
+    "id": 1176,
+    "pergunta": "Paulo esperava que Cristo fosse engrandecido nele:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:20"
+  },
+  {
+    "explicacao": "Paulo incentivou a unidade, humildade e comunhão entre os irmãos.",
+    "alternativas": [
+      "Seus próprios interesses",
+      "A mesma unidade e propósito em Cristo",
+      "Riquezas materiais",
+      "Reconhecimento humano"
+    ],
+    "id": 1177,
+    "pergunta": "Paulo ensinou que os filipenses deveriam ter o mesmo amor e pensamento, buscando:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:2"
+  },
+  {
+    "explicacao": "Jesus demonstrou humildade assumindo a condição de servo.",
+    "alternativas": [
+      "Rei dos homens",
+      "Servo, tornando-se semelhante aos homens",
+      "Anjo celestial",
+      "Sacerdote do templo"
+    ],
+    "id": 1178,
+    "pergunta": "Jesus, sendo em forma de Deus, tomou a forma de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:6-7"
+  },
+  {
+    "explicacao": "Paulo afirma que Deus age nos cristãos conforme sua vontade e propósito.",
+    "alternativas": [
+      "A vontade humana",
+      "O seu propósito e boa vontade",
+      "A tradição dos homens",
+      "A força da igreja"
+    ],
+    "id": 1179,
+    "pergunta": "Paulo disse que Deus opera nos cristãos tanto o querer quanto o realizar segundo:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:13"
+  },
+  {
+    "explicacao": "Paulo ensinou que os cristãos deveriam agir sem reclamações e conflitos.",
+    "alternativas": [
+      "Com orgulho",
+      "Sem murmurações nem contendas",
+      "Buscando recompensas",
+      "Sem ajudar ninguém"
+    ],
+    "id": 1180,
+    "pergunta": "Paulo orientou os filipenses a fazerem tudo:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:14"
+  },
+  {
+    "explicacao": "Paulo comparou seu sofrimento e dedicação ao serviço da fé dos filipenses.",
+    "alternativas": [
+      "O altar de Jerusalém",
+      "O sacrifício e serviço da fé dos filipenses",
+      "As riquezas da igreja",
+      "O governo romano"
+    ],
+    "id": 1181,
+    "pergunta": "Paulo comparou sua vida como uma oferta sendo derramada sobre:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:17"
+  },
+  {
+    "explicacao": "Paulo confiava em Timóteo por sua dedicação sincera aos irmãos.",
+    "alternativas": [
+      "Buscava seus próprios interesses",
+      "Tinha o mesmo sentimento e cuidava dos interesses dos filipenses",
+      "Era um soldado romano",
+      "Era o líder de Jerusalém"
+    ],
+    "id": 1182,
+    "pergunta": "Paulo esperava enviar Timóteo porque ele:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:20"
+  },
+  {
+    "explicacao": "Epafrodito colocou sua vida em risco servindo a Cristo e aos irmãos.",
+    "alternativas": [
+      "Uma perseguição romana",
+      "A obra de Cristo, arriscando sua vida pelo serviço aos irmãos",
+      "Uma viagem perigosa",
+      "Uma doença antiga"
+    ],
+    "id": 1183,
+    "pergunta": "Epafrodito quase morreu por causa de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:30"
+  },
+  {
+    "explicacao": "Paulo advertiu contra falsos ensinamentos e aqueles que distorciam a fé.",
+    "alternativas": [
+      "Soldados romanos",
+      "Cães, maus obreiros e falsa circuncisão",
+      "Governadores",
+      "Profetas antigos"
+    ],
+    "id": 1184,
+    "pergunta": "Paulo alertou os filipenses para se guardarem dos:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:2"
+  },
+  {
+    "explicacao": "Paulo considerou seus antigos privilégios como perda diante do valor de Cristo.",
+    "alternativas": [
+      "Grande vantagem permanente",
+      "Perda por causa de Cristo",
+      "Motivo de orgulho",
+      "Caminho para a salvação"
+    ],
+    "id": 1185,
+    "pergunta": "Paulo considerava sua antiga posição religiosa como:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:7"
+  },
+  {
+    "explicacao": "O maior desejo de Paulo era conhecer profundamente Cristo.",
+    "alternativas": [
+      "A sabedoria dos filósofos",
+      "Cristo, o poder da sua ressurreição e a comunhão dos seus sofrimentos",
+      "Os segredos dos reis",
+      "As riquezas do mundo"
+    ],
+    "id": 1186,
+    "pergunta": "Paulo desejava conhecer:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:10"
+  },
+  {
+    "explicacao": "Paulo continuava avançando espiritualmente em direção ao propósito de Deus.",
+    "alternativas": [
+      "Desistia da caminhada",
+      "Prosseguia para o alvo, pelo prêmio da soberana vocação de Deus",
+      "Buscava riquezas",
+      "Esperava os homens reconhecerem"
+    ],
+    "id": 1187,
+    "pergunta": "Paulo afirmou que ainda não havia alcançado a perfeição, mas:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:13-14"
+  },
+  {
+    "explicacao": "Paulo incentivou as duas irmãs a viverem em harmonia no Senhor.",
+    "alternativas": [
+      "Mais riquezas",
+      "O mesmo sentimento no Senhor",
+      "Autoridade na igreja",
+      "Distância uma da outra"
+    ],
+    "id": 1188,
+    "pergunta": "Paulo pediu que Evódia e Síntique tivessem:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 4:2"
+  },
+  {
+    "explicacao": "Paulo reconhecia que sua força vinha de Cristo.",
+    "alternativas": [
+      "Sua inteligência",
+      "Sua força física",
+      "Cristo que o fortalecia",
+      "Sua experiência humana"
+    ],
+    "id": 1189,
+    "pergunta": "Paulo disse que podia todas as coisas por meio de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 4:13"
+  },
+  {
+    "explicacao": "Paulo mostrou que sua prisão estava ligada a Cristo e que isso se tornou conhecido em vários lugares.",
+    "alternativas": [
+      "Sua autoridade como apóstolo",
+      "Sua prisão em Cristo em todo o pretório e demais lugares",
+      "Sua cidadania romana",
+      "Sua sabedoria diante dos reis"
+    ],
+    "id": 1190,
+    "pergunta": "Paulo afirmou que sua prisão serviu para que se tornasse conhecida a todos:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:13"
+  },
+  {
+    "explicacao": "Paulo reconheceu que alguns anunciavam Cristo por motivos errados, como inveja e rivalidade.",
+    "alternativas": [
+      "Amor sincero apenas",
+      "Inveja e competição, não com sinceridade",
+      "Obediência aos apóstolos",
+      "Ordem dos governantes"
+    ],
+    "id": 1191,
+    "pergunta": "Paulo declarou que alguns pregavam Cristo por:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:15"
+  },
+  {
+    "explicacao": "Paulo desejava que Cristo fosse honrado por meio de sua vida e também de sua morte.",
+    "alternativas": [
+      "Ser reconhecido pelos homens",
+      "Ser libertado imediatamente",
+      "Que Cristo fosse engrandecido em seu corpo, tanto na vida como na morte",
+      "Tornar-se líder em Roma"
+    ],
+    "id": 1192,
+    "pergunta": "Qual era a esperança de Paulo ao enfrentar sua situação de prisão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:19-20"
+  },
+  {
+    "explicacao": "Paulo considerava estar com Cristo uma realidade muito superior.",
+    "alternativas": [
+      "Porque queria abandonar o ministério",
+      "Porque considerava isso muito melhor",
+      "Porque não amava a igreja",
+      "Porque temia os romanos"
+    ],
+    "id": 1193,
+    "pergunta": "Por que Paulo tinha desejo de partir e estar com Cristo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:23"
+  },
+  {
+    "explicacao": "Paulo entendia que continuar vivo seria útil para fortalecer a fé dos filipenses.",
+    "alternativas": [
+      "Ajudar no progresso e alegria da fé deles",
+      "Receber ofertas",
+      "Construir uma igreja maior",
+      "Tornar-se conhecido"
+    ],
+    "id": 1194,
+    "pergunta": "Paulo permaneceu na carne por causa dos filipenses para:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 1:24-25"
+  },
+  {
+    "explicacao": "Paulo ensinou a humildade, considerando os outros mais importantes.",
+    "alternativas": [
+      "Menores e sem valor",
+      "Superiores a si mesmos",
+      "Dependentes deles",
+      "Como inimigos"
+    ],
+    "id": 1195,
+    "pergunta": "Paulo ensinou que os cristãos deveriam considerar os outros:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:3"
+  },
+  {
+    "explicacao": "Cristo demonstrou humildade ao assumir a forma de servo e entregar-se na cruz.",
+    "alternativas": [
+      "Buscar glória humana",
+      "Esvaziar-se, tomando forma de servo e humilhar-se até a morte de cruz",
+      "Dominar os homens",
+      "Evitar sofrimento"
+    ],
+    "id": 1196,
+    "pergunta": "Qual atitude de Cristo Paulo apresenta como exemplo de humildade?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:6-8"
+  },
+  {
+    "explicacao": "Deus exaltou Jesus acima de tudo e lhe concedeu o nome superior a todo nome.",
+    "alternativas": [
+      "Um reino terreno",
+      "Um nome acima de todo nome",
+      "Riquezas eternas",
+      "Autoridade política"
+    ],
+    "id": 1197,
+    "pergunta": "Após a humilhação de Cristo, Deus o exaltou e lhe deu:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:9"
+  },
+  {
+    "explicacao": "Paulo declara que o senhorio de Jesus será reconhecido para a glória de Deus Pai.",
+    "alternativas": [
+      "Profeta de Deus",
+      "O Senhor, para glória de Deus Pai",
+      "Rei de Israel apenas",
+      "Mestre dos judeus"
+    ],
+    "id": 1198,
+    "pergunta": "Segundo Paulo, toda língua confessará que Jesus Cristo é:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:11"
+  },
+  {
+    "explicacao": "Paulo ensina uma atitude de reverência e responsabilidade diante da obra de Deus.",
+    "alternativas": [
+      "Medo dos homens",
+      "Temor e tremor",
+      "Riquezas e sacrifícios",
+      "Sabedoria humana"
+    ],
+    "id": 1199,
+    "pergunta": "Paulo orienta os filipenses a desenvolverem a salvação com:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:12"
+  },
+  {
+    "explicacao": "Os cristãos devem brilhar mantendo a palavra da vida em um mundo corrompido.",
+    "alternativas": [
+      "São melhores que os outros",
+      "Retêm a palavra da vida em meio a uma geração corrompida",
+      "Possuem autoridade política",
+      "Conhecem todas as línguas"
+    ],
+    "id": 1200,
+    "pergunta": "O motivo pelo qual os cristãos devem resplandecer como luzes no mundo é porque:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:15"
+  },
+  {
+    "explicacao": "Paulo destacou Timóteo porque ele tinha uma preocupação sincera com Cristo e com os irmãos.",
+    "alternativas": [
+      "Procuravam os interesses de Cristo",
+      "Buscavam seus próprios interesses, não os de Cristo Jesus",
+      "Eram líderes fiéis",
+      "Eram seus companheiros de prisão"
+    ],
+    "id": 1201,
+    "pergunta": "Paulo comparou Timóteo aos outros trabalhadores porque muitos:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 2:21"
+  },
+  {
+    "explicacao": "Paulo considerava conhecer Cristo como o maior valor de sua vida.",
+    "alternativas": [
+      "Moisés",
+      "Cristo Jesus, seu Senhor",
+      "Os profetas",
+      "Os anjos"
+    ],
+    "id": 1202,
+    "pergunta": "Paulo considerava tudo como perda por causa da excelência do conhecimento de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:8"
+  },
+  {
+    "explicacao": "Paulo rejeitou a justiça baseada apenas na lei e valorizou a justiça pela fé em Cristo.",
+    "alternativas": [
+      "Na fé",
+      "Na lei, mas a justiça que vem pela fé em Cristo",
+      "No amor",
+      "Na oração"
+    ],
+    "id": 1203,
+    "pergunta": "Paulo desejava ser achado em Cristo, não tendo justiça própria baseada:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:9"
+  },
+  {
+    "explicacao": "Paulo ensinou sobre continuar avançando na caminhada com Cristo.",
+    "alternativas": [
+      "Voltava aos antigos costumes",
+      "Esquecia-se das coisas que ficavam para trás e avançava para as que estavam diante dele",
+      "Abandonava sua missão",
+      "Procurava riquezas"
+    ],
+    "id": 1204,
+    "pergunta": "Paulo afirmou que ainda não havia alcançado, mas fazia uma coisa:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:13"
+  },
+  {
+    "explicacao": "Paulo buscava o prêmio celestial concedido por Deus em Cristo.",
+    "alternativas": [
+      "A aprovação dos homens",
+      "O prêmio da soberana vocação de Deus em Cristo Jesus",
+      "A liderança das igrejas",
+      "O reconhecimento romano"
+    ],
+    "id": 1205,
+    "pergunta": "Qual era o alvo para o qual Paulo prosseguia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:14"
+  },
+  {
+    "explicacao": "Paulo ensina sobre a transformação futura do corpo dos cristãos conforme a glória de Cristo.",
+    "alternativas": [
+      "Corpo dos anjos",
+      "Corpo da sua glória",
+      "Corpo de Adão",
+      "Corpo dos profetas"
+    ],
+    "id": 1206,
+    "pergunta": "O Senhor Jesus Cristo transformará nosso corpo de humilhação para ser semelhante ao:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 3:21"
+  },
+  {
+    "explicacao": "Paulo aprendeu a estar satisfeito em qualquer circunstância por meio de Cristo.",
+    "alternativas": [
+      "Sempre ter riquezas",
+      "Viver contente em toda e qualquer situação, tanto na fartura quanto na necessidade",
+      "Nunca passar dificuldades",
+      "Depender dos homens"
+    ],
+    "id": 1207,
+    "pergunta": "Qual segredo Paulo aprendeu em relação às circunstâncias da vida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filipenses 4:11-12"
+  }
+]

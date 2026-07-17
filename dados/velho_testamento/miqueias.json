@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 3941,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a origem da palavra do Senhor que veio a Miqueias?",
+    "alternativas": [
+      "Do monte Sinai.",
+      "Do templo de Jerusalém.",
+      "De diante do Senhor em sua habitação santa.",
+      "Do palácio dos reis de Judá."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 1:2",
+    "explicacao": "A palavra do Senhor veio de Sua santa habitação, mostrando a autoridade divina da mensagem."
+  },
+  {
+    "id": 3942,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Em Miqueias 1:4, como os montes são descritos diante da presença do Senhor?",
+    "alternativas": [
+      "Como fortalezas eternas.",
+      "Como lugares de refúgio.",
+      "Como cera que se derrete diante do fogo.",
+      "Como pedras preciosas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 1:4",
+    "explicacao": "A presença poderosa do Senhor é comparada ao fogo que derrete a cera."
+  },
+  {
+    "id": 3943,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Qual cidade é mencionada como o início do pecado de Jacó?",
+    "alternativas": [
+      "Jerusalém.",
+      "Betel.",
+      "Samaria.",
+      "Hebrom."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 1:5",
+    "explicacao": "Samaria é apresentada como o início da transgressão de Jacó."
+  },
+  {
+    "id": 3944,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Por que Miqueias ordenou que não anunciassem em Gate a calamidade de Israel?",
+    "alternativas": [
+      "Porque Gate era uma cidade santa.",
+      "Porque os inimigos não deveriam saber.",
+      "Para que os inimigos não se alegrassem com a queda do povo de Deus.",
+      "Porque Gate já havia sido destruída."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 1:10",
+    "explicacao": "Miqueias lamentava que os inimigos de Israel não tivessem motivo para celebrar a queda do povo."
+  },
+  {
+    "id": 3945,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Qual cidade é comparada a uma casa de mentira em Miqueias 1?",
+    "alternativas": [
+      "Jerusalém.",
+      "Samaria.",
+      "Bete-Leafra.",
+      "Moresete."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 1:14",
+    "explicacao": "Bete-Leafra é mencionada no contexto das mensagens de julgamento contra as cidades."
+  },
+  {
+    "id": 3946,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Segundo Miqueias 2:2, o que os homens cobiçavam e tomavam pela força?",
+    "alternativas": [
+      "Os animais do campo.",
+      "Os tesouros do templo.",
+      "Campos e casas.",
+      "As coroas dos reis."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 2:2",
+    "explicacao": "Os perversos cobiçavam propriedades e tomavam campos e casas injustamente."
+  },
+  {
+    "id": 3947,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Que tipo de profetas o povo preferia ouvir, segundo Miqueias?",
+    "alternativas": [
+      "Profetas que anunciavam juízo.",
+      "Profetas que pregavam arrependimento.",
+      "Profetas que falavam coisas falsas e prometiam vinho e bebida forte.",
+      "Profetas que falavam apenas da lei."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 2:11",
+    "explicacao": "O povo preferia ouvir mensagens agradáveis, mesmo que fossem falsas."
+  },
+  {
+    "id": 3948,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Quem Miqueias declarou que estava cheio de poder, do Espírito do Senhor, de justiça e força?",
+    "alternativas": [
+      "Os sacerdotes.",
+      "O rei Ezequias.",
+      "O próprio profeta Miqueias.",
+      "Os anciãos de Israel."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 3:8",
+    "explicacao": "Miqueias afirmou que falava com autoridade dada pelo Espírito do Senhor."
+  },
+  {
+    "id": 3949,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Por causa de quem Sião seria lavrada como campo?",
+    "alternativas": [
+      "Dos estrangeiros.",
+      "Dos comerciantes.",
+      "Dos chefes, sacerdotes e profetas corruptos.",
+      "Dos soldados inimigos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 3:9-12",
+    "explicacao": "A corrupção dos líderes de Jerusalém trouxe o anúncio de destruição."
+  },
+  {
+    "id": 3950,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Segundo Miqueias 4:6, Deus reuniria quem no futuro?",
+    "alternativas": [
+      "Apenas os reis.",
+      "Os povos estrangeiros.",
+      "Os coxos, os expulsos e os afligidos.",
+      "Os guerreiros de Israel."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 4:6",
+    "explicacao": "Deus promete restaurar aqueles que estavam feridos e rejeitados."
+  },
+  {
+    "id": 3951,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Qual promessa foi feita à 'torre do rebanho'?",
+    "alternativas": [
+      "Seria destruída pelos inimigos.",
+      "Receberia riquezas das nações.",
+      "O antigo domínio voltaria à filha de Jerusalém.",
+      "Seria transformada em templo."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 4:8",
+    "explicacao": "A promessa aponta para a restauração do domínio de Jerusalém."
+  },
+  {
+    "id": 3952,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Por que a filha de Sião teria de sofrer dores como uma mulher de parto?",
+    "alternativas": [
+      "Porque abandonou suas terras.",
+      "Porque perderia sua identidade.",
+      "Porque seria levada para Babilônia, mas depois seria libertada.",
+      "Porque seus reis seriam mortos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 4:10",
+    "explicacao": "O sofrimento viria com o exílio, mas Deus prometia libertação."
+  },
+  {
+    "id": 3953,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "O que as nações não sabiam quando se reuniram contra Sião?",
+    "alternativas": [
+      "Que Jerusalém tinha muitos soldados.",
+      "Que Israel possuía riquezas.",
+      "Que Deus tinha outro propósito e ajuntaria as nações para julgamento.",
+      "Que o templo era protegido por anjos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 4:11-12",
+    "explicacao": "As nações não compreendiam que Deus as reuniria para executar Seu julgamento."
+  },
+  {
+    "id": 3954,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Segundo Miqueias 5:5, quando a Assíria entrasse na terra, Deus levantaria:",
+    "alternativas": [
+      "Sete sacerdotes.",
+      "Cinco reis.",
+      "Sete pastores e oito príncipes.",
+      "Doze profetas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 5:5",
+    "explicacao": "Deus prometeu levantar líderes para proteger o povo contra a Assíria."
+  },
+  {
+    "id": 3955,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "O que aconteceria com o restante de Jacó entre muitos povos?",
+    "alternativas": [
+      "Seria destruído completamente.",
+      "Ficaria escondido para sempre.",
+      "Seria como orvalho e chuva sobre a relva.",
+      "Perderia sua identidade."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 5:7",
+    "explicacao": "O restante de Jacó seria uma bênção entre os povos."
+  },
+  {
+    "id": 3956,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "O que Deus prometeu eliminar do meio do povo para purificá-lo?",
+    "alternativas": [
+      "Os rios e montanhas.",
+      "Os estrangeiros e viajantes.",
+      "Os cavalos, carros, cidades fortificadas e feitiçarias.",
+      "Os agricultores e pastores."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 5:10-12",
+    "explicacao": "Deus removeria elementos de falsa confiança e práticas idólatras."
+  },
+  {
+    "id": 3957,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Em Miqueias 6:8, qual palavra descreve a maneira como o homem deve andar com Deus?",
+    "alternativas": [
+      "Poderosamente.",
+      "Ruidosamente.",
+      "Humildemente.",
+      "Secretamente."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 6:8",
+    "explicacao": "Deus requer que o homem ande humildemente com Ele."
+  },
+  {
+    "id": 3958,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Segundo Miqueias 7:3, os líderes julgavam por qual motivo?",
+    "alternativas": [
+      "Pela verdade.",
+      "Pela justiça.",
+      "Por recompensa e suborno.",
+      "Pela sabedoria."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 7:3",
+    "explicacao": "Os líderes eram corrompidos por interesses e recompensas."
+  },
+  {
+    "id": 3959,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Qual declaração de confiança Miqueias faz diante das dificuldades?",
+    "alternativas": [
+      "Minha força está nos homens.",
+      "Meu exército me salvará.",
+      "Ainda que eu tenha caído, levantar-me-ei.",
+      "Nunca enfrentarei problemas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 7:8",
+    "explicacao": "Miqueias demonstra fé na restauração que vem do Senhor."
+  },
+  {
+    "id": 3960,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Difícil",
+    "pergunta": "Qual característica de Deus é destacada no encerramento do livro de Miqueias?",
+    "alternativas": [
+      "Sua ira contra todos.",
+      "Sua força militar.",
+      "Sua fidelidade e misericórdia para com Jacó e Abraão.",
+      "Seu julgamento sem perdão."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 7:18-20",
+    "explicacao": "O livro termina destacando a fidelidade, compaixão e misericórdia de Deus."
+  },
+  {
+    "id": 3961,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Qual era a principal mensagem de Miqueias contra Samaria e Jerusalém?",
+    "alternativas": [
+      "Que seriam fortalecidas por Deus sem mudança.",
+      "Que receberiam riquezas das nações.",
+      "Que seriam julgadas por causa dos seus pecados.",
+      "Que seriam sempre protegidas dos inimigos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 1:5",
+    "explicacao": "Miqueias anunciou julgamento contra Samaria e Jerusalém por causa das transgressões do povo."
+  },
+  {
+    "id": 3962,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "O que Miqueias declarou que faria por causa da transgressão de Jacó e do pecado de Israel?",
+    "alternativas": [
+      "Ficaria em silêncio.",
+      "Se esconderia no deserto.",
+      "Prantearia e andaria descalço e nu.",
+      "Fugiria para o Egito."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 1:8",
+    "explicacao": "Miqueias expressou profundo lamento pelo pecado do povo."
+  },
+  {
+    "id": 3963,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Por que os líderes de Israel foram condenados por Miqueias?",
+    "alternativas": [
+      "Porque não construíram o templo.",
+      "Porque não fizeram sacrifícios.",
+      "Porque odiavam o bem e amavam o mal.",
+      "Porque deixaram de guerrear."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 3:1-2",
+    "explicacao": "Os líderes eram condenados porque rejeitavam o bem e praticavam o mal."
+  },
+  {
+    "id": 3964,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Segundo Miqueias 3:3, como os líderes tratavam o povo?",
+    "alternativas": [
+      "Como irmãos.",
+      "Como servos de Deus.",
+      "Como carne para ser consumida.",
+      "Como soldados."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 3:3",
+    "explicacao": "Miqueias usa uma linguagem forte para mostrar a exploração cruel dos líderes."
+  },
+  {
+    "id": 3965,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "O que aconteceria aos falsos profetas quando clamassem ao Senhor?",
+    "alternativas": [
+      "Deus os exaltaria.",
+      "Receberiam novas revelações.",
+      "Deus não lhes responderia.",
+      "Seriam enviados para outras nações."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 3:4",
+    "explicacao": "Deus esconderia Seu rosto deles por causa das suas más obras."
+  },
+  {
+    "id": 3966,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "O que aconteceria com Jerusalém por causa da corrupção dos seus líderes?",
+    "alternativas": [
+      "Tornar-se-ia a maior cidade do mundo.",
+      "Seria protegida por anjos.",
+      "Seria lavrada como um campo.",
+      "Receberia riquezas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 3:12",
+    "explicacao": "Jerusalém seria destruída e se tornaria como um campo arado."
+  },
+  {
+    "id": 3967,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Nos últimos dias, o monte da casa do Senhor seria estabelecido:",
+    "alternativas": [
+      "No deserto.",
+      "Sobre os mares.",
+      "No cume dos montes.",
+      "Dentro das cidades estrangeiras."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 4:1",
+    "explicacao": "A casa do Senhor seria exaltada acima dos montes."
+  },
+  {
+    "id": 3968,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "O que muitas nações diriam ao subir ao monte do Senhor?",
+    "alternativas": [
+      "Vamos conquistar Israel.",
+      "Vamos construir um reino.",
+      "Vinde, e subamos ao monte do Senhor.",
+      "Vamos abandonar a terra."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 4:2",
+    "explicacao": "As nações buscariam aprender os caminhos do Senhor."
+  },
+  {
+    "id": 3969,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Segundo Miqueias 4:3, o que as nações transformariam?",
+    "alternativas": [
+      "Casas em palácios.",
+      "Templos em fortalezas.",
+      "Espadas em arados e lanças em foices.",
+      "Campos em cidades."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 4:3",
+    "explicacao": "As armas seriam transformadas em instrumentos de agricultura, simbolizando paz."
+  },
+  {
+    "id": 3970,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Como cada pessoa viveria no período de paz prometido por Deus?",
+    "alternativas": [
+      "Construindo fortalezas.",
+      "Vivendo em cavernas.",
+      "Debaixo da sua videira e da sua figueira.",
+      "Viajando entre as nações."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 4:4",
+    "explicacao": "A promessa descreve um tempo de segurança e paz."
+  },
+  {
+    "id": 3971,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "De onde viria o domínio do futuro governante de Israel?",
+    "alternativas": [
+      "Desde o reinado de Saul.",
+      "Desde o templo de Jerusalém.",
+      "Desde os tempos antigos, desde os dias da eternidade.",
+      "Desde o cativeiro babilônico."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 5:2",
+    "explicacao": "A origem do governante prometido é descrita como sendo desde a eternidade."
+  },
+  {
+    "id": 3972,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "O que o governante prometido faria ao povo de Israel?",
+    "alternativas": [
+      "Espalharia o povo.",
+      "Apascentaria o povo na força do Senhor.",
+      "Destruiria as cidades inimigas.",
+      "Construiria um novo templo."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Miqueias 5:4",
+    "explicacao": "O governante cuidaria do povo como um pastor, na força do Senhor."
+  },
+  {
+    "id": 3973,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Contra quem Deus levantaria juízo em Miqueias 6?",
+    "alternativas": [
+      "Contra os anjos.",
+      "Contra os animais.",
+      "Contra o seu próprio povo.",
+      "Contra os sacerdotes estrangeiros."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 6:2",
+    "explicacao": "Deus apresenta uma acusação contra Seu próprio povo por sua infidelidade."
+  },
+  {
+    "id": 3974,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "O que Deus lembrou ao povo ao apresentar sua defesa?",
+    "alternativas": [
+      "A construção do templo.",
+      "A riqueza de Israel.",
+      "A libertação do Egito e os líderes que enviou.",
+      "As conquistas militares."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 6:4",
+    "explicacao": "Deus relembra Sua libertação do Egito e o cuidado por meio de Moisés, Arão e Miriã."
+  },
+  {
+    "id": 3975,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "O que o povo perguntou se deveria oferecer ao Senhor?",
+    "alternativas": [
+      "Apenas orações.",
+      "Somente cânticos.",
+      "Milhares de carneiros e rios de azeite.",
+      "Ouro e pedras preciosas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 6:6-7",
+    "explicacao": "O povo questionou se grandes sacrifícios poderiam agradar a Deus."
+  },
+  {
+    "id": 3976,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Segundo Miqueias 6:10-11, qual prática injusta Deus condenou?",
+    "alternativas": [
+      "A agricultura.",
+      "A pesca.",
+      "O uso de medidas e pesos falsos.",
+      "A criação de animais."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 6:10-11",
+    "explicacao": "Deus condenou a desonestidade comercial praticada pelo povo."
+  },
+  {
+    "id": 3977,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Como Miqueias descreve a situação moral do povo?",
+    "alternativas": [
+      "Todos eram justos.",
+      "Havia grande fidelidade.",
+      "O piedoso havia desaparecido da terra.",
+      "Todos serviam ao Senhor."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 7:2",
+    "explicacao": "Miqueias lamenta a ausência de pessoas piedosas e justas."
+  },
+  {
+    "id": 3978,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "O que Miqueias disse que faria enquanto esperava em Deus?",
+    "alternativas": [
+      "Fugiria dos inimigos.",
+      "Construiria uma cidade.",
+      "Olharia para o Senhor e esperaria no Deus da sua salvação.",
+      "Procuraria ajuda dos reis."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 7:7",
+    "explicacao": "Miqueias demonstrou confiança e esperança no Senhor."
+  },
+  {
+    "id": 3979,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Segundo Miqueias 7:9, por que o profeta aceitaria a ira do Senhor?",
+    "alternativas": [
+      "Porque Deus havia esquecido dele.",
+      "Porque não havia esperança.",
+      "Porque havia pecado contra Deus e esperaria sua justiça.",
+      "Porque os inimigos eram mais fortes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 7:9",
+    "explicacao": "O profeta reconhece o pecado e confia que Deus traria justiça e restauração."
+  },
+  {
+    "id": 3980,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Médio",
+    "pergunta": "Qual pergunta de louvor aparece no final da mensagem de Miqueias?",
+    "alternativas": [
+      "Quem vencerá nossos inimigos?",
+      "Quem governará Israel?",
+      "Quem restaurará Jerusalém?",
+      "Quem é Deus semelhante a ti?"
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 7:18",
+    "explicacao": "Miqueias termina exaltando a incomparável misericórdia de Deus."
+  },
+  {
+    "id": 3981,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Durante o reinado de quais reis de Judá Miqueias profetizou?",
+    "alternativas": [
+      "Saul, Davi e Salomão",
+      "Acaz, Manassés e Josias",
+      "Jotão, Acaz e Ezequias",
+      "Roboão, Abias e Asa"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 1:1",
+    "explicacao": "Miqueias profetizou durante os reinados de Jotão, Acaz e Ezequias, reis de Judá."
+  },
+  {
+    "id": 3982,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "De onde era o profeta Miqueias?",
+    "alternativas": [
+      "Belém",
+      "Jerusalém",
+      "Samaria",
+      "Moresete"
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 1:1",
+    "explicacao": "Miqueias era natural de Moresete."
+  },
+  {
+    "id": 3983,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Contra quais cidades Miqueias profetizou principalmente?",
+    "alternativas": [
+      "Nínive e Babilônia",
+      "Samaria e Jerusalém",
+      "Jericó e Ai",
+      "Tiro e Sidom"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Miqueias 1:1",
+    "explicacao": "A mensagem de Miqueias era contra Samaria e Jerusalém."
+  },
+  {
+    "id": 3984,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Segundo Miqueias, Samaria seria transformada em:",
+    "alternativas": [
+      "Um jardim florido.",
+      "Uma cidade fortificada.",
+      "Um montão de pedras no campo.",
+      "Um grande palácio."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 1:6",
+    "explicacao": "Deus anunciou que Samaria seria destruída e ficaria como um montão de pedras."
+  },
+  {
+    "id": 3985,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceria com as imagens de escultura de Samaria?",
+    "alternativas": [
+      "Seriam levadas para Jerusalém.",
+      "Seriam escondidas.",
+      "Seriam vendidas.",
+      "Seriam despedaçadas."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 1:7",
+    "explicacao": "As imagens seriam destruídas porque eram objetos de idolatria."
+  },
+  {
+    "id": 3986,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "O que as pessoas perversas planejavam em suas camas?",
+    "alternativas": [
+      "Festas.",
+      "Viagens.",
+      "A maldade.",
+      "Casamentos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 2:1",
+    "explicacao": "Os perversos planejavam praticar o mal enquanto estavam em seus leitos."
+  },
+  {
+    "id": 3987,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "O que os perversos faziam pela manhã após planejarem o mal?",
+    "alternativas": [
+      "Iam ao templo.",
+      "Pediam perdão.",
+      "Dormiam novamente.",
+      "Executavam seus planos."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 2:1",
+    "explicacao": "Eles colocavam em prática o mal que haviam planejado."
+  },
+  {
+    "id": 3988,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Segundo Miqueias, Deus reuniria seu povo como:",
+    "alternativas": [
+      "Águias no céu.",
+      "Peixes no mar.",
+      "Cavalos em batalha.",
+      "Ovelhas no aprisco."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 2:12",
+    "explicacao": "Deus promete reunir o restante de Israel como ovelhas em um aprisco."
+  },
+  {
+    "id": 3989,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Quem Miqueias repreendeu por desviarem o povo?",
+    "alternativas": [
+      "Apenas os reis.",
+      "Apenas os comerciantes.",
+      "Os líderes e governantes.",
+      "Apenas os soldados."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 3:1",
+    "explicacao": "Miqueias denunciou os líderes de Israel por sua injustiça."
+  },
+  {
+    "id": 3990,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Segundo Miqueias, os falsos profetas anunciavam paz quando:",
+    "alternativas": [
+      "O povo jejuava.",
+      "O rei orava.",
+      "Tinham o que comer.",
+      "Chovia sobre a terra."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Miqueias 3:5",
+    "explicacao": "Os falsos profetas anunciavam paz para aqueles que os alimentavam."
+  },
+  {
+    "id": 3991,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Quem seria o governante de Israel que sairia de Belém?",
+    "alternativas": [
+      "Saul.",
+      "Salomão.",
+      "Davi.",
+      "O Messias."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 5:2",
+    "explicacao": "A profecia aponta para o Messias, que nasceria em Belém."
+  },
+  {
+    "id": 3992,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Em qual cidade nasceria o futuro governante de Israel?",
+    "alternativas": [
+      "Nazaré.",
+      "Hebrom.",
+      "Jerusalém.",
+      "Belém Efrata."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 5:2",
+    "explicacao": "O governante prometido viria de Belém Efrata."
+  },
+  {
+    "id": 3993,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus requer do homem, segundo Miqueias?",
+    "alternativas": [
+      "Apenas sacrifícios.",
+      "Apenas jejuns.",
+      "Apenas ofertas.",
+      "Praticar a justiça, amar a misericórdia e andar humildemente com Deus."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 6:8",
+    "explicacao": "Deus deseja uma vida de justiça, misericórdia e humildade."
+  },
+  {
+    "id": 3994,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Segundo Miqueias, Deus se agrada de milhares de carneiros?",
+    "alternativas": [
+      "Sempre.",
+      "Somente nas festas.",
+      "Apenas dos sacerdotes.",
+      "Não, o que Ele requer é obediência."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 6:6-8",
+    "explicacao": "Deus valoriza a obediência e o coração correto mais do que sacrifícios."
+  },
+  {
+    "id": 3995,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Quem é Deus, segundo Miqueias 7:18?",
+    "alternativas": [
+      "Um Deus distante.",
+      "Um Deus severo apenas.",
+      "Um Deus que não perdoa.",
+      "Um Deus que perdoa a iniquidade."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 7:18",
+    "explicacao": "Miqueias destaca que Deus perdoa e tem prazer na misericórdia."
+  },
+  {
+    "id": 3996,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus faz com os pecados do seu povo?",
+    "alternativas": [
+      "Escreve em um livro.",
+      "Esconde na montanha.",
+      "Guarda para julgamento.",
+      "Lança nas profundezas do mar."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 7:19",
+    "explicacao": "Deus promete lançar os pecados nas profundezas do mar."
+  },
+  {
+    "id": 3997,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Deus demonstra fidelidade a qual patriarca?",
+    "alternativas": [
+      "Isaque.",
+      "José.",
+      "Noé.",
+      "Jacó."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 7:20",
+    "explicacao": "Deus demonstra fidelidade à promessa feita a Jacó."
+  },
+  {
+    "id": 3998,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Deus demonstra misericórdia prometida a qual patriarca?",
+    "alternativas": [
+      "Moisés.",
+      "Davi.",
+      "Elias.",
+      "Abraão."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 7:20",
+    "explicacao": "Deus cumpre a misericórdia prometida a Abraão."
+  },
+  {
+    "id": 3999,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Segundo Miqueias, Deus não retém sua ira para sempre porque:",
+    "alternativas": [
+      "O povo é forte.",
+      "Os sacerdotes intercedem.",
+      "Israel merece.",
+      "Tem prazer na misericórdia."
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 7:18",
+    "explicacao": "Deus não permanece irado para sempre porque se alegra em demonstrar misericórdia."
+  },
+  {
+    "id": 4000,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Miqueias",
+    "nivel": "Fácil",
+    "pergunta": "Como Miqueias descreve Deus no final do livro?",
+    "alternativas": [
+      "O Deus das batalhas.",
+      "O Deus dos céus.",
+      "O Deus de Israel.",
+      "Quem é Deus semelhante a Ti?"
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Miqueias 7:18",
+    "explicacao": "O profeta termina exaltando a singularidade de Deus: 'Quem é Deus semelhante a ti?'"
+  }
+]

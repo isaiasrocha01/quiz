@@ -1,0 +1,1039 @@
+[
+  {
+    "explicacao": "A segunda carta aos Coríntios foi escrita pelo apóstolo Paulo.",
+    "alternativas": [
+      "Pedro.",
+      "Paulo.",
+      "João.",
+      "Tiago."
+    ],
+    "id": 605,
+    "pergunta": "Quem escreveu a segunda carta aos Coríntios?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 1:1"
+  },
+  {
+    "explicacao": "Paulo inicia a carta mencionando Timóteo como irmão e companheiro.",
+    "alternativas": [
+      "Tito.",
+      "Timóteo.",
+      "Silas.",
+      "Lucas."
+    ],
+    "id": 606,
+    "pergunta": "Quem é mencionado com Paulo na saudação da carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 1:1"
+  },
+  {
+    "explicacao": "Paulo louva a Deus como Pai das misericórdias e Deus de toda consolação.",
+    "alternativas": [
+      "Deus da guerra.",
+      "Deus do deserto.",
+      "Pai das misericórdias e Deus de toda consolação.",
+      "Deus da justiça."
+    ],
+    "id": 607,
+    "pergunta": "Deus é chamado de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 1:3"
+  },
+  {
+    "explicacao": "O consolo recebido de Deus nos capacita a consolar outras pessoas em suas dificuldades.",
+    "alternativas": [
+      "Descansar mais.",
+      "Viajar pelo mundo.",
+      "Consolar os que estiverem em qualquer tribulação.",
+      "Enriquecer."
+    ],
+    "id": 608,
+    "pergunta": "Deus nos consola para que possamos:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 1:4"
+  },
+  {
+    "explicacao": "Todas as promessas de Deus encontram seu cumprimento em Cristo.",
+    "alternativas": [
+      "Talvez.",
+      "Não.",
+      "Sim e Amém.",
+      "Apenas para Israel."
+    ],
+    "id": 609,
+    "pergunta": "Em Cristo, todas as promessas de Deus são:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 1:20"
+  },
+  {
+    "explicacao": "É Deus quem confirma os crentes em Cristo, sela-os e lhes concede o Espírito como garantia.",
+    "alternativas": [
+      "Os apóstolos.",
+      "Os anjos.",
+      "Deus.",
+      "A igreja."
+    ],
+    "id": 610,
+    "pergunta": "Quem nos selou e deu o penhor do Espírito?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 1:21-22"
+  },
+  {
+    "explicacao": "Paulo orienta a igreja a perdoar e consolar aquele que se arrependeu.",
+    "alternativas": [
+      "Perdoar apenas uma vez.",
+      "Perdoar e consolar.",
+      "Nunca perdoar.",
+      "Perdoar somente após muitos anos."
+    ],
+    "id": 611,
+    "pergunta": "O que Paulo diz que devemos fazer ao arrependido?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 2:7"
+  },
+  {
+    "explicacao": "Os cristãos são descritos como o bom perfume de Cristo diante de Deus.",
+    "alternativas": [
+      "Sal da terra.",
+      "Luz do mundo.",
+      "O bom perfume de Cristo.",
+      "Filhos da promessa."
+    ],
+    "id": 612,
+    "pergunta": "Paulo afirma que somos:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 2:15"
+  },
+  {
+    "explicacao": "Paulo ensina que o Espírito concede vida, enquanto a letra, por si só, não pode salvar.",
+    "alternativas": [
+      "A Lei.",
+      "A sabedoria.",
+      "O Espírito.",
+      "A tradição."
+    ],
+    "id": 613,
+    "pergunta": "A letra mata, mas o que vivifica?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 3:6"
+  },
+  {
+    "explicacao": "A presença do Espírito do Senhor traz verdadeira liberdade.",
+    "alternativas": [
+      "Riquezas.",
+      "Paz.",
+      "Liberdade.",
+      "Justiça."
+    ],
+    "id": 614,
+    "pergunta": "Onde está o Espírito do Senhor, aí há:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 3:17"
+  },
+  {
+    "explicacao": "Paulo afirma que o evangelho está encoberto para aqueles que estão se perdendo.",
+    "alternativas": [
+      "Os discípulos.",
+      "Os profetas.",
+      "Os que se perdem.",
+      "Os anjos."
+    ],
+    "id": 615,
+    "pergunta": "Nosso evangelho está encoberto para quem?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 4:3"
+  },
+  {
+    "explicacao": "Paulo identifica o deus deste século como aquele que cegou o entendimento dos incrédulos.",
+    "alternativas": [
+      "O mundo.",
+      "O deus deste século.",
+      "Os fariseus.",
+      "Os romanos."
+    ],
+    "id": 616,
+    "pergunta": "Quem cegou o entendimento dos incrédulos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 4:4"
+  },
+  {
+    "explicacao": "O evangelho é comparado a um tesouro colocado em vasos de barro, mostrando que o poder vem de Deus.",
+    "alternativas": [
+      "Vasos de ouro.",
+      "Vasos de prata.",
+      "Vasos de barro.",
+      "Vasos de bronze."
+    ],
+    "id": 617,
+    "pergunta": "Temos este tesouro em:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 4:7"
+  },
+  {
+    "explicacao": "A vida cristã é guiada pela fé, e não apenas pelo que pode ser visto.",
+    "alternativas": [
+      "Vista.",
+      "Fé.",
+      "Sentimentos.",
+      "Emoções."
+    ],
+    "id": 618,
+    "pergunta": "Andamos por:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 5:7"
+  },
+  {
+    "explicacao": "Quem está em Cristo recebe uma nova vida; as coisas antigas passaram.",
+    "alternativas": [
+      "Um profeta.",
+      "Um discípulo.",
+      "Nova criatura.",
+      "Um sacerdote."
+    ],
+    "id": 619,
+    "pergunta": "Se alguém está em Cristo, é:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 5:17"
+  },
+  {
+    "explicacao": "Cristo levou sobre si o pecado para que, nele, fôssemos feitos justiça de Deus.",
+    "alternativas": [
+      "Sacerdotes.",
+      "Justiça de Deus.",
+      "Reis.",
+      "Profetas."
+    ],
+    "id": 620,
+    "pergunta": "Deus fez Cristo pecado por nós para que fôssemos:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 5:21"
+  },
+  {
+    "explicacao": "Deus ama quem contribui com alegria e de coração voluntário.",
+    "alternativas": [
+      "Muito dinheiro.",
+      "Apenas ofertas.",
+      "Com alegria.",
+      "Obrigado."
+    ],
+    "id": 621,
+    "pergunta": "Deus ama a quem dá:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 9:7"
+  },
+  {
+    "explicacao": "Deus declarou a Paulo que Seu poder se aperfeiçoa na fraqueza.",
+    "alternativas": [
+      "Na riqueza.",
+      "Na inteligência.",
+      "Na fraqueza.",
+      "Na força humana."
+    ],
+    "id": 622,
+    "pergunta": "Qual é o poder de Deus aperfeiçoado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 12:9"
+  },
+  {
+    "explicacao": "Paulo rogou ao Senhor três vezes para que o espinho fosse retirado.",
+    "alternativas": [
+      "Uma vez.",
+      "Duas vezes.",
+      "Três vezes.",
+      "Sete vezes."
+    ],
+    "id": 623,
+    "pergunta": "Quantas vezes Paulo pediu que o espinho na carne fosse retirado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 12:8"
+  },
+  {
+    "explicacao": "Paulo encerra a carta com uma bênção trinitária sobre todos os irmãos.",
+    "alternativas": [
+      "A paz do Senhor seja convosco.",
+      "Maranata.",
+      "A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo sejam com todos vós. Amém.",
+      "Ide por todo o mundo."
+    ],
+    "id": 624,
+    "pergunta": "Como termina a segunda carta aos Coríntios?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 13:13"
+  },
+  {
+    "explicacao": "Paulo expressa confiança de que Deus, que já o livrou da morte, continuará a livrá-lo.",
+    "alternativas": [
+      "O abandonará.",
+      "O recompensará.",
+      "Continuará a livrá-lo.",
+      "O enviará para Roma."
+    ],
+    "id": 625,
+    "pergunta": "Paulo afirma que Deus o livrou de tão grande morte e ainda:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 1:10"
+  },
+  {
+    "explicacao": "As tribulações ensinaram Paulo e seus companheiros a dependerem de Deus, que ressuscita os mortos.",
+    "alternativas": [
+      "Torná-los famosos.",
+      "Castigá-los.",
+      "Para que não confiassem em si mesmos, mas em Deus.",
+      "Enriquecê-los."
+    ],
+    "id": 626,
+    "pergunta": "Segundo Paulo, qual era o propósito de Deus ao permitir que passassem por tribulações?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 1:9"
+  },
+  {
+    "explicacao": "Os cristãos são comparados a cartas vivas, escritas pelo Espírito de Deus em seus corações.",
+    "alternativas": [
+      "Escrita em pergaminho.",
+      "Escrita por Moisés.",
+      "Escrita pelo Espírito do Deus vivo nos corações.",
+      "Escrita em tábuas de pedra."
+    ],
+    "id": 627,
+    "pergunta": "Paulo diz que o cristão é uma carta:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 3:2-3"
+  },
+  {
+    "explicacao": "Paulo explica que Moisés usava o véu para que os israelitas não vissem o desaparecimento daquele resplendor.",
+    "alternativas": [
+      "Para esconder sua identidade.",
+      "Para que os israelitas não contemplassem o fim do resplendor.",
+      "Para proteger os olhos.",
+      "Porque estava doente."
+    ],
+    "id": 628,
+    "pergunta": "Quando Moisés colocava um véu sobre o rosto?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 3:13"
+  },
+  {
+    "explicacao": "Paulo afirma que renunciou às práticas vergonhosas e ocultas, anunciando a verdade com sinceridade.",
+    "alternativas": [
+      "À riqueza.",
+      "Ao casamento.",
+      "Às coisas ocultas e vergonhosas.",
+      "À cidadania romana."
+    ],
+    "id": 629,
+    "pergunta": "O que Paulo diz que renunciou?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 4:2"
+  },
+  {
+    "explicacao": "As tribulações presentes produzem um eterno peso de glória incomparavelmente maior.",
+    "alternativas": [
+      "As riquezas.",
+      "O conhecimento.",
+      "A leve e momentânea tribulação.",
+      "Os milagres."
+    ],
+    "id": 630,
+    "pergunta": "O que produz o peso eterno de glória?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 4:17"
+  },
+  {
+    "explicacao": "Paulo compara o corpo terreno a uma tenda temporária, contrastando-o com a habitação eterna preparada por Deus.",
+    "alternativas": [
+      "Um castelo.",
+      "Um templo de pedra.",
+      "Um tabernáculo (tenda).",
+      "Um barco."
+    ],
+    "id": 631,
+    "pergunta": "Paulo compara nosso corpo terreno a:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 5:1"
+  },
+  {
+    "explicacao": "Deus confiou aos cristãos o ministério da reconciliação entre Ele e a humanidade.",
+    "alternativas": [
+      "Ministério da profecia.",
+      "Ministério da adoração.",
+      "Ministério da reconciliação.",
+      "Ministério da justiça."
+    ],
+    "id": 632,
+    "pergunta": "O ministério confiado aos cristãos é chamado de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 5:18"
+  },
+  {
+    "explicacao": "Os cristãos representam Cristo no mundo, anunciando a mensagem da reconciliação.",
+    "alternativas": [
+      "Israel.",
+      "Jerusalém.",
+      "Cristo.",
+      "Roma."
+    ],
+    "id": 633,
+    "pergunta": "Paulo afirma que somos embaixadores de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 5:20"
+  },
+  {
+    "explicacao": "Paulo destaca a urgência da salvação, afirmando que agora é o tempo aceitável e o dia da salvação.",
+    "alternativas": [
+      "Amanhã.",
+      "No fim dos tempos.",
+      "Agora, o dia da salvação.",
+      "No sábado."
+    ],
+    "id": 634,
+    "pergunta": "Em que ocasião Paulo diz que agora é o tempo aceitável?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 6:2"
+  },
+  {
+    "explicacao": "Paulo ensina que não há comunhão entre a luz e as trevas, incentivando a separação do pecado.",
+    "alternativas": [
+      "Estrelas.",
+      "Trevas.",
+      "Nuvens.",
+      "Montanhas."
+    ],
+    "id": 635,
+    "pergunta": "Paulo pergunta: 'Que comunhão tem a luz com as...'",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 6:14"
+  },
+  {
+    "explicacao": "A tristeza segundo Deus leva ao arrependimento e à salvação, enquanto a tristeza do mundo produz morte.",
+    "alternativas": [
+      "A tristeza do mundo.",
+      "A tristeza segundo Deus.",
+      "A tristeza da pobreza.",
+      "A tristeza da doença."
+    ],
+    "id": 636,
+    "pergunta": "Qual tristeza produz arrependimento para a salvação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 7:10"
+  },
+  {
+    "explicacao": "Apesar da pobreza, as igrejas da Macedônia contribuíram com grande alegria e generosidade.",
+    "alternativas": [
+      "Apenas quando sobrava dinheiro.",
+      "Obrigadas por Paulo.",
+      "Com alegria, mesmo em profunda pobreza.",
+      "Somente uma vez."
+    ],
+    "id": 637,
+    "pergunta": "As igrejas da Macedônia deram suas ofertas:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 8:2-3"
+  },
+  {
+    "explicacao": "Paulo usa as igrejas da Macedônia como exemplo de generosidade e dedicação.",
+    "alternativas": [
+      "Jerusalém.",
+      "As igrejas da Macedônia.",
+      "Corinto.",
+      "Éfeso."
+    ],
+    "id": 638,
+    "pergunta": "Qual igreja Paulo apresenta como exemplo de generosidade?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 8:1-2"
+  },
+  {
+    "explicacao": "Paulo ensina que existe uma relação entre a generosidade na semeadura e a colheita.",
+    "alternativas": [
+      "Trabalha pouco.",
+      "Ceifará pouco.",
+      "Descansará pouco.",
+      "Sofrerá pouco."
+    ],
+    "id": 639,
+    "pergunta": "Quem semeia pouco também:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 9:6"
+  },
+  {
+    "explicacao": "As armas do cristão não são humanas, mas espirituais e poderosas em Deus.",
+    "alternativas": [
+      "Espadas e lanças.",
+      "Arcos e flechas.",
+      "Armas espirituais, poderosas em Deus.",
+      "Apenas palavras."
+    ],
+    "id": 640,
+    "pergunta": "Com que armas Paulo diz que combate?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 10:4"
+  },
+  {
+    "explicacao": "As armas espirituais derrubam fortalezas, argumentos e toda altivez que se levanta contra o conhecimento de Deus.",
+    "alternativas": [
+      "Cidades.",
+      "Exércitos.",
+      "Fortalezas e sofismas.",
+      "Templos."
+    ],
+    "id": 641,
+    "pergunta": "O que as armas espirituais são capazes de destruir?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 10:4-5"
+  },
+  {
+    "explicacao": "Paulo alerta que Satanás se disfarça de anjo de luz para enganar as pessoas.",
+    "alternativas": [
+      "Leão.",
+      "Serpente.",
+      "Anjo de luz.",
+      "Pomba."
+    ],
+    "id": 642,
+    "pergunta": "Paulo diz que Satanás se transforma em:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 11:14"
+  },
+  {
+    "explicacao": "Paulo se gloria em suas fraquezas para que o poder de Cristo seja evidenciado.",
+    "alternativas": [
+      "Em suas vitórias.",
+      "Em seus milagres.",
+      "Em suas fraquezas.",
+      "Em sua sabedoria."
+    ],
+    "id": 643,
+    "pergunta": "Em que Paulo se gloria?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 11:30"
+  },
+  {
+    "explicacao": "O Senhor respondeu que Sua graça era suficiente, pois Seu poder se aperfeiçoa na fraqueza.",
+    "alternativas": [
+      "Espere mais um pouco.",
+      "Seu pedido será atendido.",
+      "A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza.",
+      "Você não sofrerá mais."
+    ],
+    "id": 644,
+    "pergunta": "Qual foi a resposta do Senhor ao pedido de Paulo sobre o espinho na carne?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 12:9"
+  },
+  {
+    "explicacao": "Paulo relata que enfrentou uma tribulação tão intensa na Ásia que chegou a desesperar da própria vida.",
+    "alternativas": [
+      "Pensar em abandonar o ministério.",
+      "Fugir da cidade.",
+      "Desesperar até da própria vida.",
+      "Ser preso por vários anos."
+    ],
+    "id": 645,
+    "pergunta": "Na província da Ásia, Paulo disse que foi atribulado acima de sua força, a ponto de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 1:8"
+  },
+  {
+    "explicacao": "Paulo afirma que todas as promessas de Deus encontram seu 'sim' e seu cumprimento em Cristo.",
+    "alternativas": [
+      "A Lei de Moisés.",
+      "A aliança com Abraão.",
+      "Todas as promessas de Deus.",
+      "Apenas a salvação dos judeus."
+    ],
+    "id": 646,
+    "pergunta": "Segundo Paulo, qual era o 'sim' de Deus em Cristo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 1:19-20"
+  },
+  {
+    "explicacao": "Paulo agradece a Deus, que sempre conduz os seus servos em triunfo por meio de Cristo.",
+    "alternativas": [
+      "Os anjos.",
+      "A igreja.",
+      "Deus.",
+      "O Espírito Santo."
+    ],
+    "id": 647,
+    "pergunta": "Quem Paulo diz que sempre nos conduz em triunfo em Cristo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 2:14"
+  },
+  {
+    "explicacao": "O novo pacto é escrito pelo Espírito de Deus nos corações, e não em tábuas de pedra.",
+    "alternativas": [
+      "Em tábuas de pedra.",
+      "Em pergaminhos.",
+      "Nas tábuas de carne do coração.",
+      "Em livros."
+    ],
+    "id": 648,
+    "pergunta": "As tábuas do novo pacto são escritas:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 3:3"
+  },
+  {
+    "explicacao": "Ao voltar-se para o Senhor, o véu espiritual é removido, permitindo compreender a verdade de Deus.",
+    "alternativas": [
+      "Recebe uma nova Lei.",
+      "Passa a falar novas línguas.",
+      "O véu é retirado.",
+      "Nunca mais peca."
+    ],
+    "id": 649,
+    "pergunta": "O que acontece quando alguém se converte ao Senhor, segundo Paulo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 3:16"
+  },
+  {
+    "explicacao": "Paulo esclarece que não pregava a si mesmo, mas a Cristo Jesus como Senhor.",
+    "alternativas": [
+      "João Batista.",
+      "Pedro.",
+      "A si mesmo.",
+      "Os profetas."
+    ],
+    "id": 650,
+    "pergunta": "Quem Paulo afirma que não pregava?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 4:5"
+  },
+  {
+    "explicacao": "Paulo descreve que, apesar das dificuldades, Deus o sustentava em todas elas.",
+    "alternativas": [
+      "Feridos, porém mortos.",
+      "Presos, porém vencidos.",
+      "Atribulados, mas não angustiados; perplexos, mas não desanimados.",
+      "Humilhados, mas esquecidos."
+    ],
+    "id": 651,
+    "pergunta": "Qual expressão Paulo usa para mostrar que o sofrimento não o derrotava?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 4:8-9"
+  },
+  {
+    "explicacao": "Todos comparecerão perante o tribunal de Cristo para receber conforme o que tiverem feito.",
+    "alternativas": [
+      "Tribunal de Moisés.",
+      "Tribunal dos apóstolos.",
+      "Tribunal de Cristo.",
+      "Tribunal dos anjos."
+    ],
+    "id": 652,
+    "pergunta": "O tribunal diante do qual todos comparecerão é o:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 5:10"
+  },
+  {
+    "explicacao": "Deus confiou aos seus servos a mensagem da reconciliação entre Ele e a humanidade.",
+    "alternativas": [
+      "Justiça.",
+      "Esperança.",
+      "Reconciliação.",
+      "Santificação."
+    ],
+    "id": 653,
+    "pergunta": "Deus confiou aos cristãos a palavra da:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 5:19"
+  },
+  {
+    "explicacao": "Paulo cita profecias do Antigo Testamento que conclamam o povo de Deus a separar-se da impureza.",
+    "alternativas": [
+      "Abraão e Sara.",
+      "Isaque e Rebeca.",
+      "Nenhum casal; é uma citação dos profetas sobre a separação do povo de Deus.",
+      "Jacó e Raquel."
+    ],
+    "id": 654,
+    "pergunta": "Qual casal do Antigo Testamento Paulo cita ao dizer: 'Saí do meio deles'?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 6:17"
+  },
+  {
+    "explicacao": "A tristeza segundo Deus leva ao arrependimento genuíno e produz transformação de vida.",
+    "alternativas": [
+      "Medo e dúvida.",
+      "Apenas lágrimas.",
+      "Arrependimento para a salvação e mudança de atitude.",
+      "Castigo imediato."
+    ],
+    "id": 655,
+    "pergunta": "Segundo Paulo, a tristeza segundo Deus produz:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 7:10-11"
+  },
+  {
+    "explicacao": "Paulo apresenta Cristo como o maior exemplo de generosidade ao abrir mão de suas riquezas por amor aos homens.",
+    "alternativas": [
+      "Abraão.",
+      "A igreja de Jerusalém.",
+      "Jesus Cristo, que sendo rico se fez pobre por amor de nós.",
+      "Moisés."
+    ],
+    "id": 656,
+    "pergunta": "O exemplo supremo de generosidade apresentado por Paulo foi:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 8:9"
+  },
+  {
+    "explicacao": "Deus é poderoso para fazer abundar toda graça, suprindo os seus filhos para toda boa obra.",
+    "alternativas": [
+      "Apenas riquezas.",
+      "Apenas saúde.",
+      "Toda graça.",
+      "Apenas sabedoria."
+    ],
+    "id": 657,
+    "pergunta": "O que Deus é poderoso para fazer abundar sobre nós?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 9:8"
+  },
+  {
+    "explicacao": "As armas espirituais servem para destruir argumentos contrários a Deus e levar todo pensamento à obediência de Cristo.",
+    "alternativas": [
+      "Conquistar nações.",
+      "Vencer guerras físicas.",
+      "Levar cativo todo pensamento à obediência de Cristo.",
+      "Defender Jerusalém."
+    ],
+    "id": 658,
+    "pergunta": "Segundo Paulo, as armas da nossa milícia servem para:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 10:5"
+  },
+  {
+    "explicacao": "Paulo denuncia os falsos apóstolos como obreiros fraudulentos que se disfarçavam de servos de Cristo.",
+    "alternativas": [
+      "Homens sinceros.",
+      "Bons mestres.",
+      "Obreiros fraudulentos, disfarçados de apóstolos de Cristo.",
+      "Discípulos de João."
+    ],
+    "id": 659,
+    "pergunta": "Paulo afirma que os falsos apóstolos eram:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 11:13"
+  },
+  {
+    "explicacao": "Paulo relata que recebeu dos judeus cinco vezes a pena de quarenta açoites menos um.",
+    "alternativas": [
+      "Três vezes.",
+      "Quatro vezes.",
+      "Cinco vezes.",
+      "Sete vezes."
+    ],
+    "id": 660,
+    "pergunta": "Quantas vezes Paulo recebeu dos judeus quarenta açoites menos um?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 11:24"
+  },
+  {
+    "explicacao": "Paulo menciona um homem em Cristo que foi arrebatado até o terceiro céu.",
+    "alternativas": [
+      "Primeiro céu.",
+      "Segundo céu.",
+      "Terceiro céu.",
+      "Sétimo céu."
+    ],
+    "id": 661,
+    "pergunta": "Até qual céu Paulo diz que foi arrebatado um homem em Cristo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 12:2"
+  },
+  {
+    "explicacao": "Paulo descreve o espinho na carne como um mensageiro de Satanás permitido por Deus para mantê-lo humilde.",
+    "alternativas": [
+      "Uma doença hereditária.",
+      "Um castigo divino.",
+      "Um mensageiro de Satanás para o esbofetear.",
+      "Uma perseguição romana."
+    ],
+    "id": 662,
+    "pergunta": "O espinho na carne de Paulo é descrito como:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 12:7"
+  },
+  {
+    "explicacao": "Paulo exorta cada cristão a examinar a própria vida para verificar se permanece firme na fé.",
+    "alternativas": [
+      "Jejuarem quarenta dias.",
+      "Construírem um templo.",
+      "Examinarem a si mesmos se permanecem na fé.",
+      "Venderem seus bens."
+    ],
+    "id": 663,
+    "pergunta": "Antes de encerrar a carta, Paulo orienta os coríntios a:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 13:5"
+  },
+  {
+    "explicacao": "Paulo encerra a carta desejando aos coríntios a graça de Cristo, o amor de Deus e a comunhão do Espírito Santo.",
+    "alternativas": [
+      "Fé, esperança e amor.",
+      "Paz, justiça e alegria.",
+      "A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo.",
+      "Misericórdia, verdade e poder."
+    ],
+    "id": 664,
+    "pergunta": "Segundo a bênção final de Paulo, quais três elementos são desejados aos coríntios?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Coríntios",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Coríntios 13:13"
+  },
+  {
+    "explicacao": "O capítulo 13 de 1 Coríntios é frequentemente citado como o 'hino ao amor'.",
+    "alternativas": [
+      "Romanos",
+      "Efésios",
+      "1 Coríntios",
+      "Gálatas"
+    ],
+    "id": 665,
+    "pergunta": "Qual carta contém o famoso capítulo sobre a supremacia do amor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Coríntios",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Coríntios 13"
+  }
+]

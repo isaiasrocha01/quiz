@@ -1,0 +1,3929 @@
+[
+  {
+    "id": 1818,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Efésios",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo chamou de 'irmão amado e fiel ministro'?",
+    "alternativas": [
+      "Tíquico",
+      "Onésimo",
+      "Epafras",
+      "Aristarco"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Efésios 6:21",
+    "explicacao": "Tíquico era um cooperador de Paulo enviado para informar os irmãos sobre a situação do apóstolo."
+  },
+  {
+    "id": 1819,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo deixou em Mileto por estar enfermo?",
+    "alternativas": [
+      "Trófimo",
+      "Timóteo",
+      "Lucas",
+      "Demas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Timóteo 4:20",
+    "explicacao": "Trófimo era um companheiro de Paulo que ficou doente em Mileto durante uma viagem missionária."
+  },
+  {
+    "id": 1820,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Filipenses",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo chamou de 'meu cooperador' e que lutou junto com ele pelo evangelho?",
+    "alternativas": [
+      "Epafrodito",
+      "Tíquico",
+      "Demas",
+      "Crescente"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Filipenses 2:25",
+    "explicacao": "Epafrodito era um cooperador fiel que serviu a Paulo e levou ajuda da igreja de Filipos."
+  },
+  {
+    "id": 1821,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "1 Coríntios",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo mencionou como tendo sido batizado por ele em Corinto?",
+    "alternativas": [
+      "Gaio",
+      "Apolo",
+      "Crispo",
+      "Estéfanas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Coríntios 1:14",
+    "explicacao": "Paulo menciona Gaio entre poucas pessoas que ele mesmo batizou em Corinto."
+  },
+  {
+    "id": 1822,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Romanos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era a mulher que Paulo recomendou aos cristãos de Roma?",
+    "alternativas": [
+      "Febe",
+      "Maria Madalena",
+      "Marta",
+      "Isabel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Romanos 16:1-2",
+    "explicacao": "Febe era serva da igreja em Cencreia e foi recomendada por Paulo aos cristãos de Roma."
+  },
+  {
+    "id": 1823,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo chamou de 'meu companheiro de lutas'?",
+    "alternativas": [
+      "Arquipo",
+      "Lucas",
+      "Marcos",
+      "Silas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Filemom 1:2",
+    "explicacao": "Arquipo é mencionado por Paulo como companheiro de lutas na fé cristã."
+  },
+  {
+    "id": 1824,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que tinha o apelido de 'Barnabé', que significa filho da consolação?",
+    "alternativas": [
+      "José",
+      "João",
+      "Simão",
+      "André"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 4:36",
+    "explicacao": "José, um levita de Chipre, recebeu dos apóstolos o nome Barnabé, que significa filho da consolação."
+  },
+  {
+    "id": 1825,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo deixou em Creta para estabelecer presbíteros?",
+    "alternativas": [
+      "Tito",
+      "Timóteo",
+      "Lucas",
+      "Silas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Tito 1:5",
+    "explicacao": "Paulo deixou Tito em Creta para organizar as igrejas e estabelecer líderes."
+  },
+  {
+    "id": 1826,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que foi chamado de 'amado médico' e permaneceu com Paulo até o fim?",
+    "alternativas": [
+      "Lucas",
+      "Marcos",
+      "Tíquico",
+      "Aristarco"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Timóteo 4:11",
+    "explicacao": "Lucas permaneceu fiel ao lado de Paulo quando outros colaboradores haviam partido."
+  },
+  {
+    "id": 1827,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Colossenses",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo mencionou como seu companheiro de prisão em Roma?",
+    "alternativas": [
+      "Aristarco",
+      "Demas",
+      "Apolo",
+      "Erasto"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Colossenses 4:10",
+    "explicacao": "Aristarco era um companheiro de Paulo e é citado como estando preso com ele."
+  },
+  {
+    "id": 1828,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que caiu aos pés de Pedro e foi curado após oito anos paralítico?",
+    "alternativas": [
+      "Enéias",
+      "Êutico",
+      "Trófimo",
+      "Bartimeu"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 9:33-34",
+    "explicacao": "Enéias era paralítico havia oito anos e foi curado por Pedro em nome de Jesus Cristo."
+  },
+  {
+    "id": 1829,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era a mulher que vendia tecidos de púrpura e se converteu em Filipos?",
+    "alternativas": [
+      "Lídia",
+      "Dorcas",
+      "Febe",
+      "Priscila"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 16:14-15",
+    "explicacao": "Lídia era uma comerciante de púrpura que creu na mensagem de Paulo e foi batizada com sua casa."
+  },
+  {
+    "id": 1830,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que tinha quatro filhas virgens que profetizavam?",
+    "alternativas": [
+      "Filipe, o evangelista",
+      "Barnabé",
+      "Silas",
+      "Estêvão"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 21:8-9",
+    "explicacao": "Filipe, o evangelista, tinha quatro filhas que profetizavam."
+  },
+  {
+    "id": 1831,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o grupo que tentou matar Paulo durante um tumulto em Jerusalém?",
+    "alternativas": [
+      "Os judeus que se levantaram contra ele",
+      "Demétrio",
+      "Herodes Agripa",
+      "Félix"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 21:31",
+    "explicacao": "Alguns judeus de Jerusalém provocaram um tumulto e tentaram matar Paulo por causa de sua pregação."
+  },
+  {
+    "id": 1832,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que escreveu uma carta para Teófilo relatando a vida de Jesus e a história da igreja?",
+    "alternativas": [
+      "Lucas",
+      "Marcos",
+      "João",
+      "Mateus"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 1:3; Atos 1:1",
+    "explicacao": "Lucas escreveu o Evangelho de Lucas e o livro de Atos, ambos direcionados a Teófilo."
+  },
+  {
+    "id": 1833,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "1 Coríntios",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo chamou de 'filho amado' e fiel no Senhor?",
+    "alternativas": [
+      "Timóteo",
+      "Tito",
+      "Marcos",
+      "Tíquico"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Coríntios 4:17",
+    "explicacao": "Paulo considerava Timóteo um filho espiritual e um cooperador fiel no ministério."
+  },
+  {
+    "id": 1834,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que recebeu Paulo em sua casa depois do terremoto em Filipos?",
+    "alternativas": [
+      "O carcereiro de Filipos",
+      "Lídia",
+      "Jasom",
+      "Crispo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 16:30-34",
+    "explicacao": "O carcereiro de Filipos creu em Jesus após o terremoto e recebeu Paulo e Silas em sua casa."
+  },
+  {
+    "id": 1835,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o chefe da sinagoga de Corinto que creu no Senhor?",
+    "alternativas": [
+      "Crispo",
+      "Sóstenes",
+      "Gaio",
+      "Tício Justo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 18:8",
+    "explicacao": "Crispo era chefe da sinagoga e creu no Senhor juntamente com sua família."
+  },
+  {
+    "id": 1836,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que substituiu Judas Iscariotes como apóstolo?",
+    "alternativas": [
+      "Matias",
+      "Barnabé",
+      "Paulo",
+      "Silas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 1:26",
+    "explicacao": "Matias foi escolhido para ocupar o lugar deixado por Judas entre os doze apóstolos."
+  },
+  {
+    "id": 1837,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Hebreus",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que escreveu a carta aos cristãos hebreus?",
+    "alternativas": [
+      "Autor desconhecido",
+      "Pedro",
+      "Paulo",
+      "Tiago"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Hebreus 1:1",
+    "explicacao": "A carta aos Hebreus não identifica seu autor no texto bíblico, embora existam tradições que sugerem diferentes nomes."
+  },
+  {
+    "id": 1838,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo chamou de 'meu filho' e que recebeu a carta de Filemom?",
+    "alternativas": [
+      "Onésimo",
+      "Tíquico",
+      "Epafras",
+      "Aristarco"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Filemom 1:10",
+    "explicacao": "Onésimo era um escravo que se converteu por meio de Paulo, que o chamou de filho na fé."
+  },
+  {
+    "id": 1839,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que foi levado ao governador Félix acusado pelos judeus?",
+    "alternativas": [
+      "Paulo",
+      "Pedro",
+      "Estêvão",
+      "Barnabé"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 24:1-2",
+    "explicacao": "Paulo foi levado diante do governador Félix, onde se defendeu das acusações feitas pelos líderes judeus."
+  },
+  {
+    "id": 1840,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que tentou comprar o dom de Deus e foi repreendido por Pedro?",
+    "alternativas": [
+      "Simão, o mágico",
+      "Elimas",
+      "Demétrio",
+      "Alexandre"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 8:18-23",
+    "explicacao": "Simão, o mágico, tentou comprar com dinheiro o poder de conceder o Espírito Santo e foi repreendido por Pedro."
+  },
+  {
+    "id": 1841,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o ourives que provocou um tumulto contra Paulo em Éfeso?",
+    "alternativas": [
+      "Demétrio",
+      "Alexandre",
+      "Gaio",
+      "Aristarco"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 19:24-29",
+    "explicacao": "Demétrio era um ourives que fabricava imagens de prata da deusa Diana e provocou oposição contra Paulo."
+  },
+  {
+    "id": 1842,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo deixou doente em Mileto?",
+    "alternativas": [
+      "Trófimo",
+      "Erasto",
+      "Tíquico",
+      "Aristarco"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Timóteo 4:20",
+    "explicacao": "Paulo mencionou que deixou Trófimo doente em Mileto durante suas viagens missionárias."
+  },
+  {
+    "id": 1843,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o companheiro de Paulo que permaneceu com ele durante uma prisão?",
+    "alternativas": [
+      "Silas",
+      "Barnabé",
+      "Apolo",
+      "Tito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 16:25",
+    "explicacao": "Silas acompanhou Paulo na prisão em Filipos, onde ambos oravam e cantavam louvores a Deus."
+  },
+  {
+    "id": 1844,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo mencionou como tendo abandonado o ministério por amar o mundo?",
+    "alternativas": [
+      "Demas",
+      "Lucas",
+      "Marcos",
+      "Crescente"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Timóteo 4:10",
+    "explicacao": "Demas abandonou Paulo porque amou o presente século, deixando o trabalho ministerial."
+  },
+  {
+    "id": 1845,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Colossenses",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo chamou de 'médico amado' e companheiro de viagens?",
+    "alternativas": [
+      "Lucas",
+      "Marcos",
+      "Tito",
+      "Epafras"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Colossenses 4:14",
+    "explicacao": "Lucas era médico e companheiro fiel de Paulo em várias viagens missionárias."
+  },
+  {
+    "id": 1846,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo deixou em Éfeso para combater falsos ensinamentos?",
+    "alternativas": [
+      "Timóteo",
+      "Tito",
+      "Apolo",
+      "Silas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Timóteo 1:3",
+    "explicacao": "Paulo deixou Timóteo em Éfeso para orientar a igreja e combater doutrinas falsas."
+  },
+  {
+    "id": 1847,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo chamou de 'meu companheiro de prisão'?",
+    "alternativas": [
+      "Epafras",
+      "Tíquico",
+      "Aristarco",
+      "Gaio"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Filemom 1:23",
+    "explicacao": "Epafras era um cooperador de Paulo e foi chamado por ele de companheiro de prisão."
+  },
+  {
+    "id": 1848,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que ajudou a carregar a cruz de Jesus e era pai de Alexandre e Rufo?",
+    "alternativas": [
+      "Simão Cireneu",
+      "José de Arimateia",
+      "Jairo",
+      "Bartimeu"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Marcos 15:21",
+    "explicacao": "Simão Cireneu foi obrigado pelos soldados a carregar a cruz de Jesus e era pai de Alexandre e Rufo."
+  },
+  {
+    "id": 1849,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o jovem que fugiu nu quando Jesus foi preso?",
+    "alternativas": [
+      "João Marcos",
+      "Timóteo",
+      "Êutico",
+      "Lucas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Marcos 14:51-52",
+    "explicacao": "Um jovem seguiu Jesus durante sua prisão, mas fugiu deixando para trás o lençol que o cobria. Muitos estudiosos associam esse jovem a João Marcos."
+  },
+  {
+    "id": 1850,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que foi escolhido junto com Paulo e Barnabé para levar a decisão do concílio de Jerusalém?",
+    "alternativas": [
+      "Judas Barsabás",
+      "Silas",
+      "Tito",
+      "Apolo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 15:22",
+    "explicacao": "Judas Barsabás foi escolhido pelos apóstolos e presbíteros para acompanhar a mensagem do concílio às igrejas."
+  },
+  {
+    "id": 1851,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o profeta que anunciou uma grande fome nos dias do imperador Cláudio?",
+    "alternativas": [
+      "Ágabo",
+      "Silas",
+      "Filipe",
+      "Barnabé"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 11:27-28",
+    "explicacao": "Ágabo era um profeta que anunciou pelo Espírito Santo uma grande fome que aconteceria no tempo do imperador Cláudio."
+  },
+  {
+    "id": 1852,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo deixou em Creta para corrigir problemas nas igrejas?",
+    "alternativas": [
+      "Tito",
+      "Timóteo",
+      "Lucas",
+      "Marcos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Tito 1:5",
+    "explicacao": "Paulo deixou Tito em Creta para organizar a liderança e corrigir assuntos pendentes nas igrejas."
+  },
+  {
+    "id": 1853,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o judeu natural de Alexandria conhecido por sua eloquência e conhecimento das Escrituras?",
+    "alternativas": [
+      "Apolo",
+      "Barnabé",
+      "Silas",
+      "Estêvão"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 18:24",
+    "explicacao": "Apolo era um judeu de Alexandria, poderoso nas Escrituras e grande pregador da Palavra."
+  },
+  {
+    "id": 1854,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era a mulher que caiu morta após Ananias?",
+    "alternativas": [
+      "Safira",
+      "Dorcas",
+      "Lídia",
+      "Priscila"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 5:7-10",
+    "explicacao": "Safira era esposa de Ananias e também morreu após mentir sobre o valor da propriedade vendida."
+  },
+  {
+    "id": 1855,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o jovem que acompanhou Paulo e Barnabé, mas depois Paulo não quis levá-lo novamente?",
+    "alternativas": [
+      "João Marcos",
+      "Timóteo",
+      "Lucas",
+      "Tito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 15:37-39",
+    "explicacao": "João Marcos havia abandonado a primeira viagem missionária, causando uma divergência entre Paulo e Barnabé."
+  },
+  {
+    "id": 1856,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o homem que Paulo chamou de 'meu cooperador' e enviou para a Macedônia?",
+    "alternativas": [
+      "Erasto",
+      "Onésimo",
+      "Filemom",
+      "Demas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 19:22",
+    "explicacao": "Erasto era um cooperador de Paulo e foi enviado junto com Timóteo para a Macedônia."
+  },
+  {
+    "id": 1857,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o discípulo que Paulo circuncidou por causa dos judeus daquela região?",
+    "alternativas": [
+      "Timóteo",
+      "Tito",
+      "Silas",
+      "Lucas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 16:1-3",
+    "explicacao": "Paulo circuncidou Timóteo por causa dos judeus que conheciam sua origem familiar."
+  },
+  {
+    "id": 1858,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o jovem que abandonou Paulo durante uma viagem missionária?",
+    "alternativas": [
+      "João Marcos",
+      "Timóteo",
+      "Tito",
+      "Silas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 15:37-38",
+    "explicacao": "João Marcos deixou Paulo e Barnabé durante uma viagem missionária, causando uma separação entre os dois missionários."
+  },
+  {
+    "id": 1859,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que Paulo deixou em Creta para organizar as igrejas?",
+    "alternativas": [
+      "Tito",
+      "Pedro",
+      "Lucas",
+      "Apolo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Tito 1:5",
+    "explicacao": "Paulo deixou Tito em Creta para estabelecer líderes e organizar as igrejas daquela região."
+  },
+  {
+    "id": 1860,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o pregador eloquente que conhecia apenas o batismo de João?",
+    "alternativas": [
+      "Apolo",
+      "Silas",
+      "Timóteo",
+      "Estêvão"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 18:24-25",
+    "explicacao": "Apolo era um homem instruído nas Escrituras e poderoso no ensino, mas conhecia apenas o batismo de João até ser instruído por Priscila e Áquila."
+  },
+  {
+    "id": 1861,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Romanos",
+    "nivel": "Médio",
+    "pergunta": "Quem era a mulher que hospedava a igreja em sua casa em Cencreia?",
+    "alternativas": [
+      "Febe",
+      "Marta",
+      "Maria",
+      "Dorcas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Romanos 16:1-2",
+    "explicacao": "Febe era serva da igreja em Cencreia e foi recomendada por Paulo aos cristãos de Roma."
+  },
+  {
+    "id": 1862,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que caiu morto por mentir sobre o dinheiro da venda de uma propriedade?",
+    "alternativas": [
+      "Ananias",
+      "Safira",
+      "Demétrio",
+      "Herodes"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 5:3-5",
+    "explicacao": "Ananias mentiu ao Espírito Santo sobre o valor entregue aos apóstolos e morreu como consequência de sua atitude."
+  },
+  {
+    "id": 1863,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era a mulher que morreu e foi ressuscitada por Pedro em Jope?",
+    "alternativas": [
+      "Tabita (Dorcas)",
+      "Lídia",
+      "Priscila",
+      "Marta"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 9:36-41",
+    "explicacao": "Tabita, também chamada Dorcas, era uma discípula conhecida por suas boas obras e foi ressuscitada por Pedro."
+  },
+  {
+    "id": 1864,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o jovem discípulo cuja mãe era judia e o pai grego?",
+    "alternativas": [
+      "Timóteo",
+      "Tito",
+      "Marcos",
+      "Lucas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 16:1",
+    "explicacao": "Timóteo era filho de uma mulher judia e de um homem grego, tornando-se um importante colaborador de Paulo."
+  },
+  {
+    "id": 1865,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que tentou impedir Paulo de pregar ao governador Sérgio Paulo?",
+    "alternativas": [
+      "Elimas, o mágico",
+      "Simão, o mágico",
+      "Demétrio",
+      "Alexandre"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 13:8",
+    "explicacao": "Elimas tentou impedir que o governador Sérgio Paulo ouvisse a mensagem de Paulo, mas foi repreendido pelo apóstolo."
+  },
+  {
+    "id": 1866,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que Paulo deixou doente em Mileto?",
+    "alternativas": [
+      "Trófimo",
+      "Timóteo",
+      "Tito",
+      "Aristarco"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Timóteo 4:20",
+    "explicacao": "Paulo menciona que deixou Trófimo doente em Mileto durante suas viagens."
+  },
+  {
+    "id": 1867,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o jovem que Paulo ressuscitou após cair da janela?",
+    "alternativas": [
+      "Êutico",
+      "Trófimo",
+      "Onésimo",
+      "Demétrio"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 20:9-12",
+    "explicacao": "Êutico caiu de uma janela durante uma longa pregação de Paulo e foi restaurado à vida pelo poder de Deus."
+  },
+  {
+    "id": 1868,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "pergunta": "Quem era o escravo fugitivo que Paulo enviou de volta ao seu senhor, mas como irmão em Cristo?",
+    "alternativas": [
+      "Onésimo",
+      "Filemom",
+      "Tito",
+      "Aristarco"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Filemom 1:10-16",
+    "explicacao": "Onésimo era um escravo que se converteu através de Paulo e foi enviado de volta a Filemom como irmão na fé."
+  },
+  {
+    "id": 1869,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que ajudou Saulo após sua conversão e o apresentou aos apóstolos?",
+    "alternativas": [
+      "Barnabé",
+      "Silas",
+      "Filipe",
+      "Marcos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 9:27",
+    "explicacao": "Barnabé acreditou na conversão de Saulo e o levou aos apóstolos, ajudando a integrá-lo à comunidade cristã."
+  },
+  {
+    "id": 1870,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o casal que acompanhou Paulo em seu trabalho missionário e trabalhava fazendo tendas?",
+    "alternativas": [
+      "Áquila e Priscila",
+      "Ananias e Safira",
+      "José e Maria",
+      "Félix e Drusila"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 18:2-3",
+    "explicacao": "Áquila e Priscila eram cristãos que trabalhavam como fabricantes de tendas e cooperaram com Paulo na missão."
+  },
+  {
+    "id": 1871,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o governador romano que ouviu Paulo falar sobre sua fé e ficou assustado?",
+    "alternativas": [
+      "Félix",
+      "Festo",
+      "Pilatos",
+      "Herodes"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 24:24-25",
+    "explicacao": "O governador Félix ouviu Paulo falar sobre justiça, domínio próprio e juízo futuro, ficando amedrontado."
+  },
+  {
+    "id": 1872,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o rei que ouviu Paulo explicar o evangelho e disse quase ser convencido?",
+    "alternativas": [
+      "Herodes Agripa II",
+      "César Augusto",
+      "Herodes Antipas",
+      "Nero"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 26:27-28",
+    "explicacao": "Herodes Agripa II ouviu a defesa de Paulo e declarou que quase foi persuadido a se tornar cristão."
+  },
+  {
+    "id": 1873,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem escolhido pelos apóstolos para substituir Judas?",
+    "alternativas": [
+      "Matias",
+      "Barnabé",
+      "Estêvão",
+      "Paulo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 1:26",
+    "explicacao": "Matias foi escolhido por sorteio pelos apóstolos para ocupar o lugar deixado por Judas Iscariotes."
+  },
+  {
+    "id": 1874,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o primeiro mártir cristão registrado em Atos?",
+    "alternativas": [
+      "Estêvão",
+      "Tiago",
+      "Pedro",
+      "Paulo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 7:59-60",
+    "explicacao": "Estêvão foi morto por sua fé em Cristo e é considerado o primeiro mártir registrado da igreja cristã."
+  },
+  {
+    "id": 1875,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que Paulo encontrou em Atenas e pregou no Areópago?",
+    "alternativas": [
+      "Dionísio",
+      "Cornélio",
+      "Demétrio",
+      "Alexandre"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 17:34",
+    "explicacao": "Dionísio, membro do Areópago, creu na mensagem pregada por Paulo em Atenas."
+  },
+  {
+    "id": 1876,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o oficial romano que recebeu a visita de Pedro e se converteu?",
+    "alternativas": [
+      "Cornélio",
+      "Júlio",
+      "Félix",
+      "Sérgio Paulo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 10:1-2, 44-48",
+    "explicacao": "Cornélio era um centurião romano que recebeu Pedro e foi uma das primeiras pessoas gentias convertidas ao cristianismo."
+  },
+  {
+    "id": 1877,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Colossenses",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que Paulo chamou de 'médico amado'?",
+    "alternativas": [
+      "Lucas",
+      "Marcos",
+      "Tito",
+      "Timóteo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Colossenses 4:14",
+    "explicacao": "Lucas era companheiro de Paulo e conhecido como médico amado."
+  },
+  {
+    "id": 1878,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que preparou o caminho para Jesus pregando no deserto?",
+    "alternativas": [
+      "João Batista",
+      "Pedro",
+      "Paulo",
+      "André"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 3:1-3",
+    "explicacao": "João Batista pregava no deserto anunciando a chegada do Messias e preparando o caminho para Jesus."
+  },
+  {
+    "id": 1879,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "pergunta": "Quem era o discípulo que antes era cobrador de impostos?",
+    "alternativas": [
+      "Mateus",
+      "Filipe",
+      "Bartolomeu",
+      "Tomé"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 9:9",
+    "explicacao": "Mateus era cobrador de impostos antes de ser chamado por Jesus para segui-lo."
+  },
+  {
+    "id": 1880,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "João",
+    "nivel": "Médio",
+    "pergunta": "Quem foi o primeiro discípulo chamado por Jesus segundo o Evangelho de João?",
+    "alternativas": [
+      "André",
+      "Pedro",
+      "João",
+      "Tiago"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 1:40-42",
+    "explicacao": "André foi um dos primeiros discípulos a seguir Jesus e levou seu irmão Pedro até Ele."
+  },
+  {
+    "id": 1881,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que pediu o corpo de Jesus a Pilatos?",
+    "alternativas": [
+      "José de Arimateia",
+      "Nicodemos",
+      "Jairo",
+      "Zaqueu"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Marcos 15:43-46",
+    "explicacao": "José de Arimateia pediu a Pilatos o corpo de Jesus e providenciou seu sepultamento."
+  },
+  {
+    "id": 1882,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "João",
+    "nivel": "Médio",
+    "pergunta": "Quem era o mestre da lei que visitou Jesus durante a noite?",
+    "alternativas": [
+      "Nicodemos",
+      "Gamaliel",
+      "Caifás",
+      "Anás"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 3:1-2",
+    "explicacao": "Nicodemos era fariseu e membro do conselho dos judeus que procurou Jesus à noite."
+  },
+  {
+    "id": 1883,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "pergunta": "Quem era o pai de João Batista?",
+    "alternativas": [
+      "Zacarias",
+      "José",
+      "Simeão",
+      "Joaquim"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 1:13",
+    "explicacao": "Zacarias era sacerdote e recebeu a promessa do nascimento de João Batista."
+  },
+  {
+    "id": 1884,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que ajudou Paulo e Barnabé em algumas viagens missionárias?",
+    "alternativas": [
+      "Marcos",
+      "Lucas",
+      "Tito",
+      "Silas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 12:25",
+    "explicacao": "João Marcos acompanhou Paulo e Barnabé em parte das viagens missionárias."
+  },
+  {
+    "id": 1885,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o governador romano que julgou Paulo e o manteve preso?",
+    "alternativas": [
+      "Félix",
+      "Pilatos",
+      "Herodes",
+      "César"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 24:1-3",
+    "explicacao": "Félix era governador romano da Judeia e manteve Paulo preso por um período."
+  },
+  {
+    "id": 1886,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o rei que mandou prender Pedro e matou Tiago?",
+    "alternativas": [
+      "Herodes Agripa I",
+      "Herodes Antipas",
+      "César Nero",
+      "Pilatos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 12:1-2",
+    "explicacao": "Herodes Agripa I perseguiu a igreja e mandou matar Tiago, irmão de João."
+  },
+  {
+    "id": 1887,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o casal que ajudou Apolo a entender melhor o caminho de Deus?",
+    "alternativas": [
+      "Priscila e Áquila",
+      "Ananias e Safira",
+      "Lídia e Dorcas",
+      "Maria e Marta"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 18:24-26",
+    "explicacao": "Priscila e Áquila ensinaram Apolo com mais precisão sobre o caminho de Deus."
+  },
+  {
+    "id": 1888,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o jovem que caiu da janela enquanto Paulo pregava?",
+    "alternativas": [
+      "Êutico",
+      "Timóteo",
+      "Tito",
+      "Demétrio"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 20:9-12",
+    "explicacao": "Êutico caiu de uma janela durante uma longa pregação de Paulo e foi restaurado com vida."
+  },
+  {
+    "id": 1889,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o discípulo que acompanhou Paulo depois da separação de Barnabé?",
+    "alternativas": [
+      "Silas",
+      "João",
+      "Lucas",
+      "Apolo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 15:40",
+    "explicacao": "Silas acompanhou Paulo em sua segunda viagem missionária."
+  },
+  {
+    "id": 1890,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que batizou Saulo após sua conversão?",
+    "alternativas": [
+      "Ananias",
+      "Barnabé",
+      "Filipe",
+      "Pedro"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 9:17-18",
+    "explicacao": "Ananias foi enviado por Deus para ajudar Saulo após sua experiência com Jesus."
+  },
+  {
+    "id": 1891,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o líder da igreja em Jerusalém que deu sua opinião no concílio de Atos 15?",
+    "alternativas": [
+      "Tiago",
+      "Pedro",
+      "João",
+      "Paulo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 15:13-19",
+    "explicacao": "Tiago, líder da igreja em Jerusalém, apresentou a decisão final no concílio."
+  },
+  {
+    "id": 1892,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que caiu morto após mentir sobre uma oferta?",
+    "alternativas": [
+      "Ananias",
+      "Estêvão",
+      "Barnabé",
+      "Alexandre"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 5:1-5",
+    "explicacao": "Ananias mentiu sobre o valor entregue e morreu após o julgamento de Deus."
+  },
+  {
+    "id": 1893,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era a mulher que vendeu púrpura e recebeu Paulo em sua casa?",
+    "alternativas": [
+      "Lídia",
+      "Priscila",
+      "Dorcas",
+      "Febe"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 16:14-15",
+    "explicacao": "Lídia era vendedora de púrpura e foi uma das primeiras convertidas na Europa."
+  },
+  {
+    "id": 1894,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que Paulo chamou de 'meu verdadeiro filho na fé'?",
+    "alternativas": [
+      "Timóteo",
+      "Tito",
+      "Marcos",
+      "Lucas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Timóteo 1:2",
+    "explicacao": "Paulo considerava Timóteo um filho espiritual na fé."
+  },
+  {
+    "id": 1895,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem que tentou comprar o poder do Espírito Santo dos apóstolos?",
+    "alternativas": [
+      "Simão, o mágico",
+      "Demétrio",
+      "Félix",
+      "Alexandre"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 8:18-19",
+    "explicacao": "Simão tentou comprar com dinheiro o poder de conceder o Espírito Santo."
+  },
+  {
+    "id": 1896,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "pergunta": "Quem era o centurião romano cuja fé Jesus elogiou?",
+    "alternativas": [
+      "O centurião de Cafarnaum",
+      "Cornélio",
+      "Júlio",
+      "Cláudio"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 8:5-10",
+    "explicacao": "Jesus elogiou a fé do centurião de Cafarnaum que confiou no poder de sua palavra."
+  },
+  {
+    "id": 1897,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "pergunta": "Quem era o homem convertido por Paulo que se tornou cooperador no ministério?",
+    "alternativas": [
+      "Tito",
+      "Caifás",
+      "Herodes",
+      "Jairo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Tito 1:4",
+    "explicacao": "Tito foi um cooperador de Paulo e recebeu uma carta pastoral com seu nome."
+  },
+  {
+    "id": 1898,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o filho de Zacarias e Isabel que preparou o caminho para Jesus?",
+    "alternativas": [
+      "João Batista",
+      "Pedro",
+      "Paulo",
+      "Tiago"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 1:13-17",
+    "explicacao": "João Batista foi escolhido por Deus para preparar o caminho para o ministério de Jesus."
+  },
+  {
+    "id": 1899,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "pergunta": "Quem encontrou Jesus no templo quando Ele era criança e falou sobre Ele ao povo?",
+    "alternativas": [
+      "Simeão",
+      "Nicodemos",
+      "José de Arimateia",
+      "Bartimeu"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 2:25-32",
+    "explicacao": "Simeão reconheceu Jesus como o Salvador quando Ele foi apresentado no templo."
+  },
+  {
+    "id": 1900,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "pergunta": "Quem era a profetisa que falou sobre Jesus no templo quando Ele era bebê?",
+    "alternativas": [
+      "Ana",
+      "Marta",
+      "Maria Madalena",
+      "Isabel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 2:36-38",
+    "explicacao": "Ana era uma profetisa que falou sobre Jesus a todos que esperavam a redenção de Jerusalém."
+  },
+  {
+    "id": 1901,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o irmão de João que também foi chamado por Jesus para ser discípulo?",
+    "alternativas": [
+      "Tiago",
+      "Mateus",
+      "Filipe",
+      "Tomé"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 4:21-22",
+    "explicacao": "Tiago era irmão de João e foi chamado por Jesus junto com ele."
+  },
+  {
+    "id": 1902,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "João",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi chamado por Jesus enquanto estava debaixo de uma figueira?",
+    "alternativas": [
+      "Natanael",
+      "Pedro",
+      "André",
+      "Judas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 1:47-48",
+    "explicacao": "Natanael foi chamado por Jesus e ficou impressionado ao saber que Jesus o havia visto debaixo da figueira."
+  },
+  {
+    "id": 1903,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o homem cego que Jesus curou perto de Jericó?",
+    "alternativas": [
+      "Bartimeu",
+      "Zaqueu",
+      "Lázaro",
+      "Jairo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Marcos 10:46-52",
+    "explicacao": "Bartimeu era cego e recebeu a cura de Jesus perto de Jericó."
+  },
+  {
+    "id": 1904,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o chefe da sinagoga cuja filha Jesus ressuscitou?",
+    "alternativas": [
+      "Jairo",
+      "Nicodemos",
+      "Zaqueu",
+      "Caifás"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Marcos 5:22-23",
+    "explicacao": "Jairo pediu ajuda a Jesus para sua filha, que estava doente e depois foi ressuscitada."
+  },
+  {
+    "id": 1905,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "João",
+    "nivel": "Fácil",
+    "pergunta": "Quem ajudou José de Arimateia a preparar o corpo de Jesus para o sepultamento?",
+    "alternativas": [
+      "Nicodemos",
+      "Pedro",
+      "João",
+      "André"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 19:39-40",
+    "explicacao": "Nicodemos ajudou José de Arimateia preparando o corpo de Jesus para o sepultamento."
+  },
+  {
+    "id": 1906,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o sumo sacerdote que participou do julgamento de Jesus?",
+    "alternativas": [
+      "Caifás",
+      "Anás",
+      "Gamaliel",
+      "Félix"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 26:57",
+    "explicacao": "Caifás era o sumo sacerdote durante o julgamento de Jesus."
+  },
+  {
+    "id": 1907,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o rei que mandou matar João Batista?",
+    "alternativas": [
+      "Herodes Antipas",
+      "Herodes Agripa",
+      "César Augusto",
+      "Pilatos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Marcos 6:27",
+    "explicacao": "Herodes Antipas ordenou a morte de João Batista."
+  },
+  {
+    "id": 1908,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem era a esposa de Pilatos que teve um sonho sobre Jesus?",
+    "alternativas": [
+      "Cláudia",
+      "Maria",
+      "Marta",
+      "Joana"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 27:19",
+    "explicacao": "A esposa de Pilatos enviou uma mensagem dizendo que havia sofrido em sonho por causa de Jesus."
+  },
+  {
+    "id": 1909,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o homem que carregou a cruz de Jesus?",
+    "alternativas": [
+      "Simão Cireneu",
+      "Simão Pedro",
+      "José de Arimateia",
+      "André"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Marcos 15:21",
+    "explicacao": "Simão Cireneu foi obrigado a carregar a cruz de Jesus durante o caminho da crucificação."
+  },
+  {
+    "id": 1910,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "pergunta": "Quem era a mulher que Jesus libertou de sete demônios?",
+    "alternativas": [
+      "Maria Madalena",
+      "Marta",
+      "Isabel",
+      "Salomé"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 8:2",
+    "explicacao": "Maria Madalena foi libertada por Jesus de sete demônios e tornou-se sua seguidora."
+  },
+  {
+    "id": 1911,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi escolhido para substituir Judas Iscariotes entre os apóstolos?",
+    "alternativas": [
+      "Matias",
+      "Barnabé",
+      "Silas",
+      "Estêvão"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 1:26",
+    "explicacao": "Matias foi escolhido pelos apóstolos para ocupar o lugar deixado por Judas."
+  },
+  {
+    "id": 1912,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Colossenses",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o companheiro de Paulo conhecido como médico?",
+    "alternativas": [
+      "Lucas",
+      "Marcos",
+      "Timóteo",
+      "Tito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Colossenses 4:14",
+    "explicacao": "Lucas era médico e acompanhou Paulo em parte de seu ministério."
+  },
+  {
+    "id": 1913,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o jovem discípulo que acompanhou Paulo em algumas viagens?",
+    "alternativas": [
+      "Timóteo",
+      "Pedro",
+      "João Batista",
+      "Apolo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 16:1-3",
+    "explicacao": "Timóteo acompanhou Paulo e tornou-se um importante cooperador no ministério."
+  },
+  {
+    "id": 1914,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o homem que batizou o oficial etíope?",
+    "alternativas": [
+      "Filipe",
+      "Paulo",
+      "Pedro",
+      "Barnabé"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 8:35-38",
+    "explicacao": "Filipe explicou as Escrituras ao oficial etíope e o batizou."
+  },
+  {
+    "id": 1915,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o casal que mentiu sobre o valor da oferta e morreu?",
+    "alternativas": [
+      "Ananias e Safira",
+      "Áquila e Priscila",
+      "Félix e Drusila",
+      "Herodes e Herodias"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 5:1-10",
+    "explicacao": "Ananias e Safira mentiram sobre a oferta e foram julgados por Deus."
+  },
+  {
+    "id": 1916,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o homem que abriu sua casa para Paulo em Filipos após sua conversão?",
+    "alternativas": [
+      "Lídia",
+      "Marta",
+      "Dorcas",
+      "Priscila"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 16:14-15",
+    "explicacao": "Lídia recebeu a mensagem de Paulo e abriu sua casa para os missionários."
+  },
+  {
+    "id": 1917,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era a mulher discípula conhecida por fazer boas obras e ajudar os necessitados?",
+    "alternativas": [
+      "Dorcas (Tabita)",
+      "Maria Madalena",
+      "Febe",
+      "Eunice"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 9:36",
+    "explicacao": "Dorcas, também chamada Tabita, era conhecida por suas boas obras e ajuda aos necessitados."
+  },
+  {
+    "id": 1918,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem era a mãe de Jesus?",
+    "alternativas": [
+      "Marta",
+      "Maria",
+      "Isabel",
+      "Ana"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 1:18; Lucas 1:30-31",
+    "explicacao": "Maria foi escolhida por Deus para ser a mãe de Jesus."
+  },
+  {
+    "id": 1919,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o pai adotivo de Jesus?",
+    "alternativas": [
+      "José",
+      "João",
+      "Pedro",
+      "Zacarias"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 1:19-21",
+    "explicacao": "José era o pai terreno de Jesus e cuidou dele como filho."
+  },
+  {
+    "id": 1920,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem batizou Jesus no rio Jordão?",
+    "alternativas": [
+      "Pedro",
+      "João Batista",
+      "Tiago",
+      "Paulo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 3:13-16",
+    "explicacao": "João Batista batizou Jesus no rio Jordão."
+  },
+  {
+    "id": 1921,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem traiu Jesus por trinta moedas de prata?",
+    "alternativas": [
+      "Pedro",
+      "Judas Iscariotes",
+      "Tomé",
+      "André"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 26:14-16",
+    "explicacao": "Judas Iscariotes entregou Jesus aos líderes religiosos por trinta moedas de prata."
+  },
+  {
+    "id": 1922,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem negou Jesus três vezes antes da crucificação?",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "Mateus",
+      "Filipe"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 26:69-75",
+    "explicacao": "Pedro negou conhecer Jesus três vezes antes do galo cantar."
+  },
+  {
+    "id": 1923,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "João",
+    "nivel": "Fácil",
+    "pergunta": "Quem era conhecido como o discípulo amado?",
+    "alternativas": [
+      "João",
+      "Tiago",
+      "André",
+      "Bartolomeu"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 21:20-24",
+    "explicacao": "João é identificado no Evangelho como o discípulo amado por Jesus."
+  },
+  {
+    "id": 1924,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o cobrador de impostos que se tornou discípulo de Jesus?",
+    "alternativas": [
+      "Mateus",
+      "Lucas",
+      "Marcos",
+      "Filipe"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 9:9",
+    "explicacao": "Mateus era cobrador de impostos antes de seguir Jesus."
+  },
+  {
+    "id": 1925,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o irmão de Pedro?",
+    "alternativas": [
+      "João",
+      "André",
+      "Tiago",
+      "Judas"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 4:18",
+    "explicacao": "André era irmão de Pedro e também foi chamado por Jesus."
+  },
+  {
+    "id": 1926,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Romanos",
+    "nivel": "Fácil",
+    "pergunta": "Quem escreveu muitas cartas do Novo Testamento?",
+    "alternativas": [
+      "Paulo",
+      "Pedro",
+      "João Batista",
+      "Tiago"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Romanos 1:1",
+    "explicacao": "Paulo escreveu várias cartas que fazem parte do Novo Testamento."
+  },
+  {
+    "id": 1927,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o homem que ajudou Jesus a carregar a cruz?",
+    "alternativas": [
+      "Simão Cireneu",
+      "Nicodemos",
+      "José de Arimateia",
+      "Bartimeu"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 23:26",
+    "explicacao": "Simão Cireneu foi obrigado a ajudar Jesus a carregar a cruz."
+  },
+  {
+    "id": 1928,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "pergunta": "Quem era a irmã de Marta e Lázaro que ficou aos pés de Jesus?",
+    "alternativas": [
+      "Maria",
+      "Isabel",
+      "Salomé",
+      "Ana"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 10:39",
+    "explicacao": "Maria escolheu ouvir Jesus enquanto Marta cuidava dos afazeres."
+  },
+  {
+    "id": 1929,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "João",
+    "nivel": "Fácil",
+    "pergunta": "Quem Jesus ressuscitou depois de quatro dias morto?",
+    "alternativas": [
+      "Lázaro",
+      "Jairo",
+      "Estêvão",
+      "Bartimeu"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 11:43-44",
+    "explicacao": "Jesus ressuscitou Lázaro, que estava morto há quatro dias."
+  },
+  {
+    "id": 1930,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "João",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o homem que visitou Jesus à noite para conversar sobre nascer de novo?",
+    "alternativas": [
+      "Nicodemos",
+      "Zaqueu",
+      "José",
+      "Pilatos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 3:1-3",
+    "explicacao": "Nicodemos procurou Jesus durante a noite e conversou sobre o novo nascimento."
+  },
+  {
+    "id": 1931,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o governador romano que autorizou a crucificação de Jesus?",
+    "alternativas": [
+      "Herodes",
+      "Pilatos",
+      "César",
+      "Félix"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 27:24-26",
+    "explicacao": "Pôncio Pilatos autorizou a crucificação de Jesus."
+  },
+  {
+    "id": 1932,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi o primeiro mártir cristão registrado no livro de Atos?",
+    "alternativas": [
+      "Paulo",
+      "Pedro",
+      "Estêvão",
+      "Tiago"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Atos 7:59-60",
+    "explicacao": "Estêvão foi morto por sua fé em Jesus e é considerado o primeiro mártir cristão registrado."
+  },
+  {
+    "id": 1933,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o homem pequeno que subiu em uma árvore para ver Jesus?",
+    "alternativas": [
+      "Zaqueu",
+      "Bartimeu",
+      "Jairo",
+      "Nicodemos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 19:2-4",
+    "explicacao": "Zaqueu subiu em uma árvore para conseguir ver Jesus passando."
+  },
+  {
+    "id": 1934,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o pai de João Batista?",
+    "alternativas": [
+      "Zacarias",
+      "José",
+      "Simeão",
+      "Joaquim"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 1:13",
+    "explicacao": "Zacarias era sacerdote e pai de João Batista."
+  },
+  {
+    "id": 1935,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "João",
+    "nivel": "Fácil",
+    "pergunta": "Quem era a mulher que ungiu Jesus com perfume precioso?",
+    "alternativas": [
+      "Maria de Betânia",
+      "Marta",
+      "Maria Madalena",
+      "Isabel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 12:3",
+    "explicacao": "Maria de Betânia ungiu os pés de Jesus com perfume precioso."
+  },
+  {
+    "id": 1936,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi o anjo que anunciou a Maria o nascimento de Jesus?",
+    "alternativas": [
+      "Miguel",
+      "Gabriel",
+      "Rafael",
+      "Uriel"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Lucas 1:26-27",
+    "explicacao": "O anjo Gabriel anunciou a Maria que ela daria à luz Jesus."
+  },
+  {
+    "id": 1937,
+    "testamento": "Novo Testamento",
+    "categoria": "Pessoas",
+    "livro": "João",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o apóstolo conhecido por duvidar da ressurreição de Jesus até vê-lo?",
+    "alternativas": [
+      "Tomé",
+      "Pedro",
+      "João",
+      "Mateus"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 20:24-29",
+    "explicacao": "Tomé duvidou da ressurreição até ver Jesus ressuscitado e tocar suas marcas."
+  },
+  {
+    "explicacao": "Jacó e Esaú nasceram gêmeos, sendo Jacó o mais novo.",
+    "alternativas": [
+      "José",
+      "Jacó",
+      "Benjamim",
+      "Ismael"
+    ],
+    "id": 1938,
+    "pergunta": "Quem era o irmão gêmeo de Esaú?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 25:24-26"
+  },
+  {
+    "explicacao": "Ana orou fervorosamente ao Senhor e deu à luz Samuel.",
+    "alternativas": [
+      "Débora",
+      "Ana",
+      "Noemi",
+      "Raquel"
+    ],
+    "id": 1939,
+    "pergunta": "Quem foi a mãe de Samuel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 1:20"
+  },
+  {
+    "explicacao": "Elcana era o pai de Samuel e marido de Ana.",
+    "alternativas": [
+      "Elcana",
+      "Jessé",
+      "Eli",
+      "Anrão"
+    ],
+    "id": 1940,
+    "pergunta": "Quem foi o pai de Samuel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 1:1-2"
+  },
+  {
+    "explicacao": "Jessé era o pai de Davi e foi visitado por Samuel para a escolha do novo rei.",
+    "alternativas": [
+      "Saul",
+      "Jessé",
+      "Samuel",
+      "Obede"
+    ],
+    "id": 1941,
+    "pergunta": "Quem foi o pai do rei Davi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 16:1"
+  },
+  {
+    "explicacao": "Anrão era o pai de Moisés, Arão e Miriã.",
+    "alternativas": [
+      "Levi",
+      "Anrão",
+      "Arão",
+      "Coate"
+    ],
+    "id": 1942,
+    "pergunta": "Quem foi o pai de Moisés?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Êxodo 6:20"
+  },
+  {
+    "explicacao": "Joquebede foi a mãe de Moisés e o escondeu quando bebê para salvá-lo.",
+    "alternativas": [
+      "Joquebede",
+      "Miriã",
+      "Ana",
+      "Rebeca"
+    ],
+    "id": 1943,
+    "pergunta": "Quem foi a mãe de Moisés?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Êxodo 6:20"
+  },
+  {
+    "explicacao": "Miriã era irmã de Moisés e participou da celebração após a travessia do Mar Vermelho.",
+    "alternativas": [
+      "Débora",
+      "Miriã",
+      "Ester",
+      "Noemi"
+    ],
+    "id": 1944,
+    "pergunta": "Quem era a irmã de Moisés?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Êxodo 15:20"
+  },
+  {
+    "explicacao": "Eliseu sucedeu Elias como profeta e recebeu uma porção dobrada do seu espírito.",
+    "alternativas": [
+      "Samuel",
+      "Isaías",
+      "Eliseu",
+      "Jeremias"
+    ],
+    "id": 1945,
+    "pergunta": "Quem sucedeu Elias como profeta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 2:9-15"
+  },
+  {
+    "explicacao": "Abede-Nego foi lançado na fornalha ardente juntamente com Sadraque e Mesaque por não adorar a estátua do rei.",
+    "alternativas": [
+      "Daniel",
+      "Abede-Nego",
+      "Esdras",
+      "Neemias"
+    ],
+    "id": 1946,
+    "pergunta": "Quem foi lançado na fornalha ardente junto com Sadraque e Mesaque?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Daniel 3:23"
+  },
+  {
+    "explicacao": "Daniel interpretou a escrita na parede durante o reinado de Belsazar.",
+    "alternativas": [
+      "Jeremias",
+      "Daniel",
+      "Isaías",
+      "Esdras"
+    ],
+    "id": 1947,
+    "pergunta": "Quem interpretou a escrita na parede para o rei Belsazar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Daniel 5:25-28"
+  },
+  {
+    "explicacao": "Neemias liderou a reconstrução dos muros de Jerusalém após o exílio.",
+    "alternativas": [
+      "Esdras",
+      "Neemias",
+      "Zorobabel",
+      "Ageu"
+    ],
+    "id": 1948,
+    "pergunta": "Quem reconstruiu os muros de Jerusalém?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Neemias 2:17-18"
+  },
+  {
+    "explicacao": "Zorobabel liderou a reconstrução do templo em Jerusalém após o retorno do exílio.",
+    "alternativas": [
+      "Josué, filho de Num",
+      "Zorobabel",
+      "Elias",
+      "Samuel"
+    ],
+    "id": 1949,
+    "pergunta": "Quem liderou a reconstrução do templo após o exílio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Esdras 3:8"
+  },
+  {
+    "explicacao": "Josué, filho de Jozadaque, serviu como sumo sacerdote ao lado de Zorobabel.",
+    "alternativas": [
+      "Eli",
+      "Josué, filho de Jozadaque",
+      "Fineias",
+      "Abiatar"
+    ],
+    "id": 1950,
+    "pergunta": "Quem era o sacerdote que ajudou Zorobabel na reconstrução do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Esdras 3:2"
+  },
+  {
+    "explicacao": "Jetro, sacerdote de Midiã, era sogro de Moisés.",
+    "alternativas": [
+      "Labão",
+      "Jetro",
+      "Eli",
+      "Anrão"
+    ],
+    "id": 1951,
+    "pergunta": "Quem foi o sogro de Moisés?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Êxodo 3:1"
+  },
+  {
+    "explicacao": "Rebeca tornou-se esposa de Isaque após ser conduzida pelo servo de Abraão.",
+    "alternativas": [
+      "Lia",
+      "Raquel",
+      "Rebeca",
+      "Sara"
+    ],
+    "id": 1952,
+    "pergunta": "Quem foi a esposa de Isaque?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 24:67"
+  },
+  {
+    "explicacao": "Isaque era o pai de Jacó e Esaú.",
+    "alternativas": [
+      "Abraão",
+      "Isaque",
+      "José",
+      "Labão"
+    ],
+    "id": 1953,
+    "pergunta": "Quem foi o pai de Jacó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 25:26"
+  },
+  {
+    "explicacao": "Benjamim era o irmão mais novo de José e filho de Raquel.",
+    "alternativas": [
+      "Judá",
+      "Benjamim",
+      "Rúben",
+      "Levi"
+    ],
+    "id": 1954,
+    "pergunta": "Quem era o irmão mais novo de José?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 35:18"
+  },
+  {
+    "explicacao": "Raquel era a esposa que Jacó mais amava e por quem trabalhou quatorze anos.",
+    "alternativas": [
+      "Lia",
+      "Raquel",
+      "Diná",
+      "Mical"
+    ],
+    "id": 1955,
+    "pergunta": "Quem foi a esposa de Jacó que ele mais amava?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 29:18"
+  },
+  {
+    "explicacao": "Jael matou Sísera com uma estaca enquanto ele descansava em sua tenda.",
+    "alternativas": [
+      "Débora",
+      "Jael",
+      "Rute",
+      "Ester"
+    ],
+    "id": 1956,
+    "pergunta": "Quem derrotou Sísera com uma estaca?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Juízes",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Juízes 4:21"
+  },
+  {
+    "explicacao": "Débora foi juíza e profetisa, liderando Israel ao lado de Baraque.",
+    "alternativas": [
+      "Ana",
+      "Débora",
+      "Miriã",
+      "Jael"
+    ],
+    "id": 1957,
+    "pergunta": "Quem foi a juíza que liderou Israel ao lado de Baraque?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Juízes",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Juízes 4:4-9"
+  },
+  {
+    "explicacao": "Deus ordenou que Noé construísse uma arca para preservar sua família e os animais do dilúvio.",
+    "alternativas": [
+      "Abraão",
+      "Moisés",
+      "Noé",
+      "Davi"
+    ],
+    "id": 1958,
+    "pergunta": "Quem construiu a arca por ordem de Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 6:13-14"
+  },
+  {
+    "explicacao": "Deus chamou Abraão para deixar sua terra e seguir para a terra que Ele lhe mostraria.",
+    "alternativas": [
+      "José",
+      "Abraão",
+      "Isaque",
+      "Jacó"
+    ],
+    "id": 1959,
+    "pergunta": "Quem foi chamado por Deus para sair da sua terra e ir para uma terra prometida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 12:1-4"
+  },
+  {
+    "explicacao": "José foi vendido como escravo por seus irmãos, mas Deus transformou essa situação em bênção.",
+    "alternativas": [
+      "Esaú",
+      "José",
+      "Benjamim",
+      "Isaque"
+    ],
+    "id": 1960,
+    "pergunta": "Quem foi vendido como escravo por seus irmãos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 37:27-28"
+  },
+  {
+    "explicacao": "Deus usou Moisés para abrir o Mar Vermelho e libertar o povo de Israel da perseguição egípcia.",
+    "alternativas": [
+      "Arão",
+      "Josué",
+      "Moisés",
+      "Samuel"
+    ],
+    "id": 1961,
+    "pergunta": "Quem abriu o Mar Vermelho com o poder de Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Êxodo 14:21"
+  },
+  {
+    "explicacao": "Sara foi a esposa de Abraão e recebeu a promessa de que teria um filho na velhice.",
+    "alternativas": [
+      "Rebeca",
+      "Lia",
+      "Sara",
+      "Raquel"
+    ],
+    "id": 1962,
+    "pergunta": "Quem foi a esposa de Abraão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 17:15-16"
+  },
+  {
+    "explicacao": "Davi derrotou Golias com uma funda e uma pedra, confiando no poder de Deus.",
+    "alternativas": [
+      "Saul",
+      "Davi",
+      "Salomão",
+      "Jônatas"
+    ],
+    "id": 1963,
+    "pergunta": "Quem derrotou o gigante Golias?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 17:49-50"
+  },
+  {
+    "explicacao": "Sansão recebeu de Deus uma força extraordinária enquanto manteve seu voto de nazireu.",
+    "alternativas": [
+      "Gideão",
+      "Sansão",
+      "Josué",
+      "Elias"
+    ],
+    "id": 1964,
+    "pergunta": "Quem foi o homem mais forte da Bíblia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Juízes",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Juízes 16:17"
+  },
+  {
+    "explicacao": "Moisés recebeu de Deus as Tábuas da Lei no Monte Sinai.",
+    "alternativas": [
+      "Josué",
+      "Arão",
+      "Moisés",
+      "Calebe"
+    ],
+    "id": 1965,
+    "pergunta": "Quem recebeu as Tábuas da Lei no Monte Sinai?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Êxodo 31:18"
+  },
+  {
+    "explicacao": "José interpretou os sonhos do faraó, revelando os anos de fartura e de fome.",
+    "alternativas": [
+      "Daniel",
+      "José",
+      "Samuel",
+      "Elias"
+    ],
+    "id": 1966,
+    "pergunta": "Quem interpretou os sonhos do faraó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 41:25-32"
+  },
+  {
+    "explicacao": "Saul foi escolhido por Deus como o primeiro rei de Israel.",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Saul",
+      "Samuel"
+    ],
+    "id": 1967,
+    "pergunta": "Quem foi o primeiro rei de Israel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 10:24"
+  },
+  {
+    "explicacao": "Josué foi escolhido para suceder Moisés e conduzir Israel à Terra Prometida.",
+    "alternativas": [
+      "Calebe",
+      "Josué",
+      "Arão",
+      "Gideão"
+    ],
+    "id": 1968,
+    "pergunta": "Quem sucedeu Moisés na liderança de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Deuteronômio 31:7-8"
+  },
+  {
+    "explicacao": "Abraão foi o pai de Isaque, o filho da promessa.",
+    "alternativas": [
+      "Jacó",
+      "Noé",
+      "Abraão",
+      "José"
+    ],
+    "id": 1969,
+    "pergunta": "Quem era o pai de Isaque?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 21:1-3"
+  },
+  {
+    "explicacao": "Daniel foi lançado na cova dos leões por permanecer fiel a Deus, mas foi preservado.",
+    "alternativas": [
+      "Elias",
+      "Daniel",
+      "Neemias",
+      "Jeremias"
+    ],
+    "id": 1970,
+    "pergunta": "Quem foi lançado na cova dos leões?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Daniel 6:16-23"
+  },
+  {
+    "explicacao": "Arão era irmão de Moisés e serviu como seu porta-voz diante do faraó.",
+    "alternativas": [
+      "Josué",
+      "Arão",
+      "Calebe",
+      "Samuel"
+    ],
+    "id": 1971,
+    "pergunta": "Quem era o irmão de Moisés?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Êxodo 4:14"
+  },
+  {
+    "explicacao": "Salomão ficou conhecido por sua grande sabedoria concedida por Deus.",
+    "alternativas": [
+      "Saul",
+      "Roboão",
+      "Salomão",
+      "Davi"
+    ],
+    "id": 1972,
+    "pergunta": "Quem foi o rei conhecido por sua grande sabedoria?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 3:12"
+  },
+  {
+    "explicacao": "O profeta Samuel ungiu Davi como futuro rei de Israel por ordem de Deus.",
+    "alternativas": [
+      "Natã",
+      "Elias",
+      "Samuel",
+      "Eliseu"
+    ],
+    "id": 1973,
+    "pergunta": "Quem ungiu Davi como rei?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 16:13"
+  },
+  {
+    "explicacao": "Jonas foi engolido por um grande peixe após tentar fugir da missão dada por Deus.",
+    "alternativas": [
+      "Jonas",
+      "Elias",
+      "Amós",
+      "Oséias"
+    ],
+    "id": 1974,
+    "pergunta": "Quem foi engolido por um grande peixe?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jonas",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Jonas 1:17"
+  },
+  {
+    "explicacao": "Ester intercedeu diante do rei e salvou o povo judeu da destruição.",
+    "alternativas": [
+      "Rute",
+      "Débora",
+      "Ester",
+      "Mical"
+    ],
+    "id": 1975,
+    "pergunta": "Quem foi a rainha que salvou o povo judeu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Ester 7:3-6"
+  },
+  {
+    "explicacao": "Noemi era a sogra de Rute, que permaneceu fiel a ela e ao Deus de Israel.",
+    "alternativas": [
+      "Ana",
+      "Noemi",
+      "Rebeca",
+      "Sara"
+    ],
+    "id": 1976,
+    "pergunta": "Quem foi a sogra de Rute?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Rute 1:16-17"
+  },
+  {
+    "explicacao": "Elias desafiou os profetas de Baal no Monte Carmelo e Deus respondeu com fogo do céu.",
+    "alternativas": [
+      "Eliseu",
+      "Isaías",
+      "Elias",
+      "Jeremias"
+    ],
+    "id": 1977,
+    "pergunta": "Quem foi o profeta que enfrentou os profetas de Baal no Monte Carmelo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 18:20-39"
+  },
+  {
+    "explicacao": "Após lutar com o anjo, Deus mudou o nome de Jacó para Israel.",
+    "alternativas": [
+      "Israel",
+      "Judá",
+      "Benjamim",
+      "Efraim"
+    ],
+    "id": 1978,
+    "pergunta": "Qual foi o nome dado por Deus a Jacó?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 32:28"
+  },
+  {
+    "explicacao": "Saul passou a perseguir Davi por inveja após suas vitórias e popularidade.",
+    "alternativas": [
+      "Salomão",
+      "Saul",
+      "Roboão",
+      "Absalão"
+    ],
+    "id": 1979,
+    "pergunta": "Quem foi o rei que tentou matar Davi por inveja?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 18:10-11"
+  },
+  {
+    "explicacao": "Joás era o pai de Gideão e foi mencionado quando o anjo do Senhor chamou Gideão.",
+    "alternativas": [
+      "Joás",
+      "Abner",
+      "Elcana",
+      "Jessé"
+    ],
+    "id": 1980,
+    "pergunta": "Quem foi o pai de Gideão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Juízes",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Juízes 6:11"
+  },
+  {
+    "explicacao": "Jetro aconselhou Moisés a estabelecer líderes para ajudá-lo a julgar o povo.",
+    "alternativas": [
+      "Arão",
+      "Josué",
+      "Jetro",
+      "Calebe"
+    ],
+    "id": 1981,
+    "pergunta": "Quem aconselhou Moisés a escolher líderes para ajudá-lo a julgar o povo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Êxodo 18:17-24"
+  },
+  {
+    "explicacao": "Boaz casou-se com Rute, preservando a linhagem da família de Elimeleque.",
+    "alternativas": [
+      "Noemi",
+      "Rute",
+      "Raquel",
+      "Débora"
+    ],
+    "id": 1982,
+    "pergunta": "Qual era o nome da esposa de Boaz?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Rute 4:13"
+  },
+  {
+    "explicacao": "Davi foi o pai de Salomão, filho que teve com Bate-Seba.",
+    "alternativas": [
+      "Saul",
+      "Samuel",
+      "Davi",
+      "Jessé"
+    ],
+    "id": 1983,
+    "pergunta": "Quem foi o pai de Salomão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Samuel 12:24"
+  },
+  {
+    "explicacao": "Salomão pediu sabedoria a Deus para governar o povo, em vez de riquezas.",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Ezequias",
+      "Josias"
+    ],
+    "id": 1984,
+    "pergunta": "Quem pediu sabedoria a Deus em vez de riquezas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 3:9-12"
+  },
+  {
+    "explicacao": "Naamã, comandante do exército da Síria, foi curado da lepra ao obedecer à palavra do profeta Eliseu.",
+    "alternativas": [
+      "Naamã",
+      "Hamã",
+      "Geazi",
+      "Nebuzaradã"
+    ],
+    "id": 1985,
+    "pergunta": "Quem foi o comandante do exército de Síria curado da lepra?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 5:1-14"
+  },
+  {
+    "explicacao": "Geazi foi punido com lepra por agir com ganância após a cura de Naamã.",
+    "alternativas": [
+      "Geazi",
+      "Eliabe",
+      "Joabe",
+      "Abner"
+    ],
+    "id": 1986,
+    "pergunta": "Quem era o servo de Eliseu que ficou leproso por causa da ganância?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 5:26-27"
+  },
+  {
+    "explicacao": "Grande parte do livro de Provérbios é atribuída ao rei Salomão.",
+    "alternativas": [
+      "Davi",
+      "Samuel",
+      "Salomão",
+      "Esdras"
+    ],
+    "id": 1987,
+    "pergunta": "Quem escreveu grande parte do livro de Provérbios?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Provérbios 1:1"
+  },
+  {
+    "explicacao": "Agar era a serva de Sara e mãe de Ismael.",
+    "alternativas": [
+      "Sara",
+      "Rebeca",
+      "Agar",
+      "Lia"
+    ],
+    "id": 1988,
+    "pergunta": "Quem foi a mãe de Ismael?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 16:15"
+  },
+  {
+    "explicacao": "Lameque foi o pai de Noé e profetizou sobre o alívio que seu filho traria.",
+    "alternativas": [
+      "Enoque",
+      "Lameque",
+      "Matusalém",
+      "Sete"
+    ],
+    "id": 1989,
+    "pergunta": "Quem foi o pai de Noé?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 5:28-29"
+  },
+  {
+    "explicacao": "Abner era o comandante do exército do rei Saul.",
+    "alternativas": [
+      "Joabe",
+      "Abner",
+      "Urias",
+      "Benaia"
+    ],
+    "id": 1990,
+    "pergunta": "Quem era o capitão do exército do rei Saul?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 14:50"
+  },
+  {
+    "explicacao": "Joabe serviu como comandante do exército durante o reinado de Davi.",
+    "alternativas": [
+      "Abner",
+      "Joabe",
+      "Benaia",
+      "Asael"
+    ],
+    "id": 1991,
+    "pergunta": "Quem foi o comandante do exército do rei Davi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Samuel 8:16"
+  },
+  {
+    "explicacao": "Durante a seca, Deus sustentou Elias enviando corvos para alimentá-lo.",
+    "alternativas": [
+      "Eliseu",
+      "Isaías",
+      "Elias",
+      "Jeremias"
+    ],
+    "id": 1992,
+    "pergunta": "Qual profeta foi alimentado por corvos durante um período de seca?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 17:2-6"
+  },
+  {
+    "explicacao": "Durante o reinado de Josias, o Livro da Lei foi encontrado no templo e motivou uma grande reforma espiritual.",
+    "alternativas": [
+      "Acabe",
+      "Josias",
+      "Ezequias",
+      "Manassés"
+    ],
+    "id": 1993,
+    "pergunta": "Quem foi o rei que encontrou o Livro da Lei durante a reforma do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 22:8-11"
+  },
+  {
+    "explicacao": "Eliseu enviou um dos filhos dos profetas para ungir Jeú como rei de Israel.",
+    "alternativas": [
+      "Elias",
+      "Eliseu",
+      "Samuel",
+      "Natã"
+    ],
+    "id": 1994,
+    "pergunta": "Quem foi o profeta enviado para ungir Jeú como rei de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 9:1-3"
+  },
+  {
+    "explicacao": "Esdras era escriba e dedicou sua vida ao estudo e ensino da Lei do Senhor.",
+    "alternativas": [
+      "Neemias",
+      "Esdras",
+      "Ageu",
+      "Zacarias"
+    ],
+    "id": 1995,
+    "pergunta": "Quem foi o escriba que ensinou a Lei ao povo após o exílio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Esdras 7:10"
+  },
+  {
+    "explicacao": "Ezequias orou ao Senhor e recebeu mais quinze anos de vida.",
+    "alternativas": [
+      "Uzias",
+      "Josias",
+      "Ezequias",
+      "Acaz"
+    ],
+    "id": 1996,
+    "pergunta": "Quem foi o rei que teve sua vida prolongada em quinze anos após orar ao Senhor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 20:1-6"
+  },
+  {
+    "explicacao": "Natã foi enviado por Deus para confrontar Davi por seu pecado envolvendo Bate-Seba e Urias.",
+    "alternativas": [
+      "Samuel",
+      "Natã",
+      "Elias",
+      "Gad"
+    ],
+    "id": 1997,
+    "pergunta": "Quem foi o profeta enviado por Deus para confrontar o rei Davi após o pecado com Bate-Seba?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Samuel 12:1-7"
+  },
+  {
+    "explicacao": "A Bíblia relata que um profeta anônimo de Judá foi enviado para profetizar contra o altar em Betel, onde Jeroboão estava oferecendo incenso.",
+    "alternativas": [
+      "Um homem de Deus vindo de Judá",
+      "Elias",
+      "Eliseu",
+      "Amós"
+    ],
+    "id": 1998,
+    "pergunta": "Qual profeta confrontou o rei Jeroboão por causa do altar em Betel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 13:1-3"
+  },
+  {
+    "explicacao": "Embora o anjo do Senhor tenha aparecido a ela para anunciar o nascimento de Sansão, o texto bíblico refere-se a ela apenas como a mulher de Manoá.",
+    "alternativas": [
+      "Dalila",
+      "Seu nome não é mencionado",
+      "Jael",
+      "Débora"
+    ],
+    "id": 1999,
+    "pergunta": "Quem foi a esposa de Manoá e mãe de Sansão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Juízes",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Juízes 13:2-3"
+  },
+  {
+    "explicacao": "Davi, um jovem pastor, confiou em Deus e usou sua funda para derrotar o campeão filisteu, atingindo-o na testa.",
+    "alternativas": [
+      "Jônatas",
+      "Davi",
+      "Abisai",
+      "Joabe"
+    ],
+    "id": 2000,
+    "pergunta": "Quem matou o gigante Golias com uma funda e uma pedra?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 17:49"
+  },
+  {
+    "explicacao": "Quis era um benjamita, homem de posses, cujo filho Saul foi escolhido para ser o primeiro monarca de Israel.",
+    "alternativas": [
+      "Quis",
+      "Abner",
+      "Ner",
+      "Eliabe"
+    ],
+    "id": 2001,
+    "pergunta": "Quem foi o pai de Saul, o primeiro rei de Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 9:1-2"
+  },
+  {
+    "explicacao": "Hilquias era um dos sacerdotes que viviam em Anatote, e seu filho Jeremias foi chamado por Deus desde o ventre para ser profeta.",
+    "alternativas": [
+      "Hilquias",
+      "Safã",
+      "Azarias",
+      "Baraque"
+    ],
+    "id": 2002,
+    "pergunta": "Quem era o pai do profeta Jeremias?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jeremias",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Jeremias 1:1"
+  },
+  {
+    "explicacao": "Daniel recebeu a revelação divina para descrever e interpretar o sonho do rei sobre a estátua que representava impérios mundiais.",
+    "alternativas": [
+      "Sadraque",
+      "Daniel",
+      "Ezequiel",
+      "Esdras"
+    ],
+    "id": 2003,
+    "pergunta": "Quem interpretou o sonho de Nabucodonosor sobre a grande estátua?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Daniel 2:31-45"
+  },
+  {
+    "explicacao": "Mefibosete era filho de Jônatas e neto de Saul, e foi acolhido por Davi em sua mesa por causa da aliança entre Davi e Jônatas.",
+    "alternativas": [
+      "Saul",
+      "Abner",
+      "Jônatas",
+      "Isbosete"
+    ],
+    "id": 2004,
+    "pergunta": "Quem era o pai de Mefibosete?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Samuel 4:4"
+  },
+  {
+    "explicacao": "Absalão arquitetou uma rebelião para tomar o trono de seu pai, Davi, forçando o rei a fugir de Jerusalém temporariamente.",
+    "alternativas": [
+      "Salomão",
+      "Amnom",
+      "Absalão",
+      "Adonias"
+    ],
+    "id": 2005,
+    "pergunta": "Quem foi o filho de Davi que se rebelou contra o próprio pai?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Samuel 15:10-14"
+  },
+  {
+    "explicacao": "Ismael foi o primeiro filho de Abraão, nascido de Hagar, serva de Sara, conforme a promessa de Deus de fazer dele uma grande nação.",
+    "alternativas": [
+      "Isaque",
+      "Abraão",
+      "Jacó",
+      "Ló"
+    ],
+    "id": 2006,
+    "pergunta": "Quem foi o pai de Ismael?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 16:15"
+  },
+  {
+    "explicacao": "Josué foi comissionado por Deus e por Moisés para liderar o povo de Israel na conquista da Terra Prometida após a morte de Moisés.",
+    "alternativas": [
+      "Samuel",
+      "Josué",
+      "Arão",
+      "Calebe"
+    ],
+    "id": 2007,
+    "pergunta": "Quem foi o profeta que sucedeu Moisés na liderança espiritual antes da entrada em Canaã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Deuteronômio 31:23"
+  },
+  {
+    "explicacao": "No primeiro ano de seu reinado, Ciro, o rei da Pérsia, emitiu um decreto cumprindo a profecia de Jeremias para a reconstrução do templo.",
+    "alternativas": [
+      "Dario",
+      "Assuero",
+      "Ciro",
+      "Artaxerxes"
+    ],
+    "id": 2008,
+    "pergunta": "Quem foi o rei persa que autorizou os judeus a reconstruírem o templo em Jerusalém?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Esdras 1:1-4"
+  },
+  {
+    "explicacao": "Enoque andou com Deus e foi trasladado por Ele, não passando pela morte, conforme registrado em Gênesis.",
+    "alternativas": [
+      "Noé",
+      "Enoque",
+      "Matusalém",
+      "Lameque"
+    ],
+    "id": 2009,
+    "pergunta": "Quem foi o homem que andou com Deus e foi trasladado sem ver a morte?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 5:24"
+  },
+  {
+    "explicacao": "Deus ordenou ao profeta Oséias que tomasse Gômer como esposa, representando a infidelidade espiritual de Israel.",
+    "alternativas": [
+      "Gômer",
+      "Jezabel",
+      "Abigail",
+      "Mical"
+    ],
+    "id": 2010,
+    "pergunta": "Qual era o nome da esposa de Oséias que Deus mandou que ele tomasse por mulher?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Oséias 1:2-3"
+  },
+  {
+    "explicacao": "Melquisedeque era rei de Salém e sacerdote do Deus Altíssimo, tendo abençoado Abraão após sua vitória.",
+    "alternativas": [
+      "Arão",
+      "Melquisedeque",
+      "Zadoque",
+      "Eli"
+    ],
+    "id": 2011,
+    "pergunta": "Quem era o sacerdote que abençoou Abraão depois da batalha contra os reis?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Gênesis 14:18-19"
+  },
+  {
+    "explicacao": "Jael matou Sísera, comandante do exército de Jabim, usando uma estaca de tenda enquanto ele dormia.",
+    "alternativas": [
+      "Gideão",
+      "Baraque",
+      "Jael",
+      "Jefté"
+    ],
+    "id": 2012,
+    "pergunta": "Quem foi o homem que matou Sísera, comandante do exército de Jabim?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Juízes",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Juízes 4:21"
+  },
+  {
+    "explicacao": "A mãe do rei Lemuel é mencionada em Provérbios 31 e tradicionalmente identificada como Bate-Seba.",
+    "alternativas": [
+      "Bate-Seba",
+      "Mical",
+      "Abigail",
+      "Rute"
+    ],
+    "id": 2013,
+    "pergunta": "Qual era o nome da mãe do rei Lemuel, citada no livro de Provérbios?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Provérbios 31:1"
+  },
+  {
+    "explicacao": "Ezequiel recebeu uma visão de um vale cheio de ossos secos que representava a restauração de Israel.",
+    "alternativas": [
+      "Daniel",
+      "Isaías",
+      "Ezequiel",
+      "Jeremias"
+    ],
+    "id": 2014,
+    "pergunta": "Quem foi o profeta que viu uma visão de um vale cheio de ossos secos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ezequiel",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Ezequiel 37:1-3"
+  },
+  {
+    "explicacao": "Amom foi pai de Josias e rei de Judá antes dele.",
+    "alternativas": [
+      "Manassés",
+      "Amom",
+      "Acaz",
+      "Ezequias"
+    ],
+    "id": 2015,
+    "pergunta": "Quem era o pai do rei Josias?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 21:19"
+  },
+  {
+    "explicacao": "O profeta Elias anunciou ao rei Acabe que não haveria chuva em Israel durante um período determinado.",
+    "alternativas": [
+      "Eliseu",
+      "Elias",
+      "Micaías",
+      "Joel"
+    ],
+    "id": 2016,
+    "pergunta": "Qual profeta enfrentou o rei Acabe e anunciou uma grande seca em Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 17:1"
+  },
+  {
+    "explicacao": "Zinri reinou sobre Israel por apenas sete dias antes de sua morte.",
+    "alternativas": [
+      "Zinri",
+      "Jeú",
+      "Nadabe",
+      "Onri"
+    ],
+    "id": 2017,
+    "pergunta": "Quem foi o rei de Israel que reinou por apenas sete dias?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 16:15"
+  },
+  {
+    "explicacao": "Etbaal era rei dos sidônios e pai de Jezabel, esposa do rei Acabe.",
+    "alternativas": [
+      "Etbaal",
+      "Ben-Hadade",
+      "Hirão",
+      "Abimeleque"
+    ],
+    "id": 2018,
+    "pergunta": "Quem era o pai de Jezabel, esposa do rei Acabe?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 16:31"
+  },
+  {
+    "explicacao": "Samuel recebeu de Deus a mensagem de julgamento contra a casa de Eli por causa dos pecados de seus filhos.",
+    "alternativas": [
+      "Samuel",
+      "Natã",
+      "Gade",
+      "Aías"
+    ],
+    "id": 2019,
+    "pergunta": "Quem foi o profeta que anunciou a queda da casa de Eli?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 3:11-14"
+  },
+  {
+    "explicacao": "Josias começou a reinar em Judá aos oito anos de idade e promoveu uma grande reforma religiosa.",
+    "alternativas": [
+      "Josias",
+      "Joás",
+      "Ezequias",
+      "Manassés"
+    ],
+    "id": 2020,
+    "pergunta": "Quem foi o rei de Judá que começou a reinar com apenas oito anos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 22:1"
+  },
+  {
+    "explicacao": "Micaías, filho de Inlá, foi o profeta que declarou a verdade contra os falsos profetas diante de Acabe.",
+    "alternativas": [
+      "Inlá",
+      "Hilquias",
+      "Urias",
+      "Safã"
+    ],
+    "id": 2021,
+    "pergunta": "Quem era o pai de Micaías, o profeta que falou contra os falsos profetas de Acabe?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 22:8"
+  },
+  {
+    "explicacao": "Saul consultou uma médium em En-Dor para tentar obter orientação antes de uma batalha contra os filisteus.",
+    "alternativas": [
+      "Davi",
+      "Saul",
+      "Acabe",
+      "Jeroboão"
+    ],
+    "id": 2022,
+    "pergunta": "Qual rei de Israel consultou uma médium em En-Dor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 28:7"
+  },
+  {
+    "explicacao": "Samuel foi escolhido por Deus para ungir Saul como o primeiro rei de Israel.",
+    "alternativas": [
+      "Elias",
+      "Samuel",
+      "Natã",
+      "Eliseu"
+    ],
+    "id": 2023,
+    "pergunta": "Quem foi o profeta que ungiu Saul como primeiro rei de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 10:1"
+  },
+  {
+    "explicacao": "Amasa era comandante do exército de Absalão durante a revolta contra o rei Davi.",
+    "alternativas": [
+      "Joabe",
+      "Amasa",
+      "Abner",
+      "Benaia"
+    ],
+    "id": 2024,
+    "pergunta": "Quem era o comandante do exército de Absalão durante sua revolta contra Davi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Samuel 17:25"
+  },
+  {
+    "explicacao": "Raabe escondeu os dois espias enviados por Josué e ajudou Israel durante a conquista de Jericó.",
+    "alternativas": [
+      "Raabe",
+      "Rute",
+      "Tamar",
+      "Abigail"
+    ],
+    "id": 2025,
+    "pergunta": "Qual mulher escondeu os espias enviados por Josué em Jericó?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Josué 2:1-4"
+  },
+  {
+    "explicacao": "O rei Ezequias pediu um sinal ao profeta Isaías, e Deus fez a sombra voltar dez graus.",
+    "alternativas": [
+      "Ezequias",
+      "Manassés",
+      "Josias",
+      "Uzias"
+    ],
+    "id": 2026,
+    "pergunta": "Quem foi o rei que pediu ao profeta Isaías para voltar dez graus a sombra como sinal de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 20:8-11"
+  },
+  {
+    "explicacao": "Uzá tocou na arca da aliança quando ela estava sendo transportada e morreu por causa da sua irreverência.",
+    "alternativas": [
+      "Uzá",
+      "Obede-Edom",
+      "Eleazar",
+      "Hofni"
+    ],
+    "id": 2027,
+    "pergunta": "Quem foi o homem que tocou na arca da aliança e morreu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Samuel 6:6-7"
+  },
+  {
+    "explicacao": "Natã foi o profeta enviado por Deus para confrontar Davi pelo pecado cometido com Bate-Seba.",
+    "alternativas": [
+      "Elias",
+      "Samuel",
+      "Natã",
+      "Gade"
+    ],
+    "id": 2028,
+    "pergunta": "Quem foi o profeta que repreendeu Davi pelo pecado com Bate-Seba?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Samuel 12:1-7"
+  },
+  {
+    "explicacao": "Uzá morreu ao tocar na arca da aliança quando tentou segurá-la, pois Deus havia determinado que a arca não deveria ser tocada diretamente.",
+    "alternativas": [
+      "Uzá",
+      "Eleazar",
+      "Fineias",
+      "Hofni"
+    ],
+    "id": 2029,
+    "pergunta": "Quem foi o homem que encontrou a morte por tocar na arca da aliança?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Samuel 6:6-7"
+  },
+  {
+    "explicacao": "Eli era o sacerdote que cuidava do templo e foi responsável pela criação espiritual de Samuel desde sua infância.",
+    "alternativas": [
+      "Arão",
+      "Eli",
+      "Zadoque",
+      "Abiatar"
+    ],
+    "id": 2030,
+    "pergunta": "Quem foi o sacerdote que criou Samuel no templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 3:1-5"
+  },
+  {
+    "explicacao": "O rei Acabe foi atingido por uma flecha lançada ao acaso durante a batalha contra os sírios.",
+    "alternativas": [
+      "Acabe",
+      "Saul",
+      "Jorão",
+      "Jeroboão"
+    ],
+    "id": 2031,
+    "pergunta": "Qual rei de Israel foi morto por uma flecha disparada ao acaso durante uma batalha?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 22:34-37"
+  },
+  {
+    "explicacao": "O profeta Gade confrontou Davi após o rei realizar o censo de Israel sem a aprovação de Deus.",
+    "alternativas": [
+      "Natã",
+      "Gade",
+      "Samuel",
+      "Elias"
+    ],
+    "id": 2032,
+    "pergunta": "Quem foi o profeta que confrontou Davi após ele fazer o censo de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Samuel 24:11-13"
+  },
+  {
+    "explicacao": "Josué era filho de Num e foi escolhido por Deus para suceder Moisés na liderança de Israel.",
+    "alternativas": [
+      "Num",
+      "Calebe",
+      "Eleazar",
+      "Arão"
+    ],
+    "id": 2033,
+    "pergunta": "Quem era o pai de Josué, sucessor de Moisés?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Êxodo 33:11"
+  },
+  {
+    "explicacao": "Jefté foi um juiz de Israel que fez um voto precipitado antes de uma batalha contra os amonitas.",
+    "alternativas": [
+      "Sansão",
+      "Gideão",
+      "Jefté",
+      "Otniel"
+    ],
+    "id": 2034,
+    "pergunta": "Quem foi o juiz de Israel que fez um voto precipitado antes de uma batalha?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Juízes",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Juízes 11:30-31"
+  },
+  {
+    "explicacao": "Ana era a mãe de Samuel e orou a Deus pedindo um filho antes de seu nascimento.",
+    "alternativas": [
+      "Ana",
+      "Abigail",
+      "Mical",
+      "Débora"
+    ],
+    "id": 2035,
+    "pergunta": "Qual era o nome da mãe de Samuel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 1:20"
+  },
+  {
+    "explicacao": "Dario foi o rei que ordenou que Daniel fosse lançado na cova dos leões.",
+    "alternativas": [
+      "Nabucodonosor",
+      "Belsazar",
+      "Dario",
+      "Ciro"
+    ],
+    "id": 2036,
+    "pergunta": "Quem foi o rei que mandou lançar Daniel na cova dos leões?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Daniel 6:16"
+  },
+  {
+    "explicacao": "Joás era o pai de Gideão e pertencia à família de Abiezer.",
+    "alternativas": [
+      "Joás",
+      "Abner",
+      "Quis",
+      "Manoá"
+    ],
+    "id": 2037,
+    "pergunta": "Quem era o pai de Gideão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Juízes",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Juízes 6:11"
+  },
+  {
+    "explicacao": "Samuel foi o profeta escolhido por Deus para ungir Davi como rei de Israel.",
+    "alternativas": [
+      "Elias",
+      "Eliseu",
+      "Samuel",
+      "Natã"
+    ],
+    "id": 2038,
+    "pergunta": "Quem foi o profeta que ungiu Davi como rei?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 16:12-13"
+  },
+  {
+    "explicacao": "Jônatas era filho de Saul e morreu junto com seu pai na batalha contra os filisteus.",
+    "alternativas": [
+      "Joabe",
+      "Abner",
+      "Jônatas",
+      "Benaia"
+    ],
+    "id": 2039,
+    "pergunta": "Quem era o comandante do exército de Saul que morreu junto com ele?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 31:2"
+  },
+  {
+    "explicacao": "Abigail aconselhou Davi a não matar Nabal e evitou uma vingança contra sua família.",
+    "alternativas": [
+      "Abigail",
+      "Bate-Seba",
+      "Mical",
+      "Tamar"
+    ],
+    "id": 2040,
+    "pergunta": "Quem foi a mulher que aconselhou Davi a não matar Nabal?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 25:23-33"
+  },
+  {
+    "explicacao": "Hanani foi o profeta enviado por Deus para repreender o rei Asa por confiar no rei da Síria em vez de buscar ajuda em Deus.",
+    "alternativas": [
+      "Hanani",
+      "Azarias",
+      "Micaías",
+      "Joel"
+    ],
+    "id": 2041,
+    "pergunta": "Quem foi o profeta que repreendeu o rei Asa por confiar no rei da Síria?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Crônicas 16:7-10"
+  },
+  {
+    "explicacao": "Ezequias pediu um sinal a Deus e recebeu como confirmação a sombra retornando dez graus no relógio de Acaz.",
+    "alternativas": [
+      "Ezequias",
+      "Josias",
+      "Acaz",
+      "Uzias"
+    ],
+    "id": 2042,
+    "pergunta": "Quem foi o rei de Judá que pediu a Deus um sinal e recebeu a sombra voltando dez graus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 20:8-11"
+  },
+  {
+    "explicacao": "Eli perdeu seus filhos Hofni e Fineias quando a arca da aliança foi tomada pelos filisteus.",
+    "alternativas": [
+      "Eli",
+      "Samuel",
+      "Saul",
+      "Davi"
+    ],
+    "id": 2043,
+    "pergunta": "Quem foi o homem que perdeu seus filhos quando a arca foi tomada pelos filisteus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Samuel 4:17-18"
+  },
+  {
+    "explicacao": "Elias enfrentou os 450 profetas de Baal no Monte Carmelo e demonstrou o poder de Deus diante do povo de Israel.",
+    "alternativas": [
+      "Eliseu",
+      "Elias",
+      "Isaías",
+      "Jeremias"
+    ],
+    "id": 2044,
+    "pergunta": "Quem era o profeta que enfrentou os 450 profetas de Baal no Monte Carmelo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 18:19-24"
+  },
+  {
+    "explicacao": "Hiel reconstruiu Jericó durante o reinado de Acabe, cumprindo uma profecia sobre as consequências dessa reconstrução.",
+    "alternativas": [
+      "Hiel",
+      "Acã",
+      "Sambalate",
+      "Zorobabel"
+    ],
+    "id": 2045,
+    "pergunta": "Quem foi o homem que reconstruiu Jericó nos dias do rei Acabe?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 16:34"
+  },
+  {
+    "explicacao": "Hilquias era o sacerdote que encontrou o Livro da Lei no templo durante a reforma feita pelo rei Josias.",
+    "alternativas": [
+      "Hilquias",
+      "Esdras",
+      "Zadoque",
+      "Joiada"
+    ],
+    "id": 2046,
+    "pergunta": "Quem foi o sacerdote que encontrou o Livro da Lei no templo nos dias do rei Josias?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "2 Reis 22:8"
+  },
+  {
+    "explicacao": "Jeremias foi o profeta conhecido como o profeta das lágrimas, pois lamentou profundamente a destruição de Jerusalém.",
+    "alternativas": [
+      "Isaías",
+      "Jeremias",
+      "Ezequiel",
+      "Daniel"
+    ],
+    "id": 2047,
+    "pergunta": "Quem foi o profeta que chorou a destruição de Jerusalém e escreveu lamentações?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jeremias",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "Jeremias 9:1; Lamentações 1:1"
+  },
+  {
+    "explicacao": "Salomão pediu a Deus sabedoria e um coração entendido para governar o povo de Israel com justiça.",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Roboão",
+      "Josafá"
+    ],
+    "id": 2048,
+    "pergunta": "Quem foi o rei que pediu a Deus um coração entendido para governar o povo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Pessoas",
+    "referenciaBiblica": "1 Reis 3:9-12"
+  }
+]

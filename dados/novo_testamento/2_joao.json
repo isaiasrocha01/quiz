@@ -1,0 +1,597 @@
+[
+  {
+    "explicacao": "A carta foi escrita pelo presbítero João, conforme ele se identifica no início da epístola.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "O presbítero João",
+      "Tiago"
+    ],
+    "id": 666,
+    "pergunta": "Quem escreveu a segunda carta de João?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:1"
+  },
+  {
+    "explicacao": "João direciona sua carta à senhora eleita e aos seus filhos.",
+    "alternativas": [
+      "Aos reis da terra",
+      "À senhora eleita e seus filhos",
+      "Aos sacerdotes de Israel",
+      "Aos apóstolos"
+    ],
+    "id": 667,
+    "pergunta": "Para quem João escreveu esta carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:1"
+  },
+  {
+    "explicacao": "João afirma que os amava por causa da verdade que permanecia neles.",
+    "alternativas": [
+      "Porque eram ricos",
+      "Porque conheciam os reis",
+      "Por causa da verdade que estava neles",
+      "Porque moravam em Jerusalém"
+    ],
+    "id": 668,
+    "pergunta": "Por que João amava a senhora eleita e seus filhos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:1"
+  },
+  {
+    "explicacao": "A verdade permanece conosco para sempre.",
+    "alternativas": [
+      "A riqueza",
+      "A verdade",
+      "A fama",
+      "O poder humano"
+    ],
+    "id": 669,
+    "pergunta": "O que permanece conosco para sempre?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:2"
+  },
+  {
+    "explicacao": "João deseja graça, misericórdia e paz vindas de Deus Pai e de Jesus Cristo.",
+    "alternativas": [
+      "Graça, misericórdia e paz da parte de Deus e de Jesus Cristo",
+      "Riquezas e prosperidade",
+      "Poder sobre as nações",
+      "Honra dos homens"
+    ],
+    "id": 670,
+    "pergunta": "João desejava que os irmãos tivessem:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:3"
+  },
+  {
+    "explicacao": "João se alegrou porque encontrou alguns vivendo de acordo com a verdade.",
+    "alternativas": [
+      "Construindo templos",
+      "Andando na verdade",
+      "Fazendo riquezas",
+      "Governando cidades"
+    ],
+    "id": 671,
+    "pergunta": "João ficou muito alegre ao encontrar alguns filhos da senhora eleita:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:4"
+  },
+  {
+    "explicacao": "João relembra o mandamento de amar uns aos outros.",
+    "alternativas": [
+      "Guardar os sábados",
+      "Amar uns aos outros",
+      "Construir templos",
+      "Fazer sacrifícios"
+    ],
+    "id": 672,
+    "pergunta": "Qual mandamento João lembra aos cristãos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:5"
+  },
+  {
+    "explicacao": "João ensina que amar é viver segundo os mandamentos de Deus.",
+    "alternativas": [
+      "Ter muitos bens",
+      "Andar segundo os mandamentos de Deus",
+      "Ser conhecido pelos homens",
+      "Ter muitos seguidores"
+    ],
+    "id": 673,
+    "pergunta": "O amor consiste em:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:6"
+  },
+  {
+    "explicacao": "João alerta sobre muitos enganadores que haviam saído pelo mundo.",
+    "alternativas": [
+      "Muitos falsos enganadores",
+      "Os profetas antigos",
+      "Os apóstolos",
+      "Os reis"
+    ],
+    "id": 674,
+    "pergunta": "Quem saiu pelo mundo enganando as pessoas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:7"
+  },
+  {
+    "explicacao": "Os enganadores negavam que Jesus Cristo havia vindo em carne.",
+    "alternativas": [
+      "Que Deus criou o mundo",
+      "Que Jesus Cristo veio em carne",
+      "Que Moisés existiu",
+      "Que os anjos existem"
+    ],
+    "id": 675,
+    "pergunta": "O que os enganadores não confessavam?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:7"
+  },
+  {
+    "explicacao": "João chama essas pessoas de enganadores e anticristo.",
+    "alternativas": [
+      "Sábios",
+      "Enganadores e anticristo",
+      "Profetas",
+      "Sacerdotes"
+    ],
+    "id": 676,
+    "pergunta": "Como João chama aqueles que negam Jesus Cristo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:7"
+  },
+  {
+    "explicacao": "João orienta a cuidar para não perder o fruto do trabalho realizado.",
+    "alternativas": [
+      "Suas riquezas",
+      "O fruto do trabalho recebido",
+      "Sua posição social",
+      "Sua fama"
+    ],
+    "id": 677,
+    "pergunta": "O que os cristãos deveriam cuidar para não perder?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:8"
+  },
+  {
+    "explicacao": "Quem permanece na doutrina de Cristo possui tanto o Pai quanto o Filho.",
+    "alternativas": [
+      "O Pai e o Filho",
+      "Apenas os anjos",
+      "A sabedoria humana",
+      "O poder dos reis"
+    ],
+    "id": 678,
+    "pergunta": "Quem permanece na doutrina de Cristo possui:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:9"
+  },
+  {
+    "explicacao": "João afirma que quem não permanece na doutrina não tem Deus.",
+    "alternativas": [
+      "Tem pouca fé",
+      "Não tem Deus",
+      "É sempre rico",
+      "É um apóstolo"
+    ],
+    "id": 679,
+    "pergunta": "Quem não permanece na doutrina de Cristo:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:9"
+  },
+  {
+    "explicacao": "João orienta não receber nem saudar quem traz ensino contrário à doutrina de Cristo.",
+    "alternativas": [
+      "Recebê-lo em casa e ajudá-lo",
+      "Não recebê-lo nem saudá-lo",
+      "Torná-lo líder",
+      "Dar-lhe riquezas"
+    ],
+    "id": 680,
+    "pergunta": "O que João orienta fazer com quem não traz a doutrina de Cristo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:10"
+  },
+  {
+    "explicacao": "João declara que ama a senhora eleita e seus filhos por causa da verdade que permanece neles.",
+    "alternativas": [
+      "Sua posição na igreja.",
+      "A verdade que permanece neles.",
+      "Suas riquezas.",
+      "Sua influência entre os povos."
+    ],
+    "id": 681,
+    "pergunta": "João afirma que ama a senhora eleita e seus filhos por causa de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:1"
+  },
+  {
+    "explicacao": "João afirma que a verdade permanece conosco para sempre.",
+    "alternativas": [
+      "Apenas durante a vida.",
+      "Até o fim dos tempos.",
+      "Para sempre.",
+      "Somente entre os apóstolos."
+    ],
+    "id": 682,
+    "pergunta": "A verdade permanece conosco e estará conosco:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:2"
+  },
+  {
+    "explicacao": "João deseja que graça, misericórdia e paz estejam com os irmãos.",
+    "alternativas": [
+      "Poder, riqueza e sabedoria.",
+      "Graça, misericórdia e paz.",
+      "Fé, esperança e dons.",
+      "Saúde, prosperidade e honra."
+    ],
+    "id": 683,
+    "pergunta": "Quais três bênçãos João deseja aos irmãos da parte de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:3"
+  },
+  {
+    "explicacao": "A alegria de João veio ao ver alguns filhos andando na verdade.",
+    "alternativas": [
+      "Pregando nas cidades.",
+      "Andando na verdade conforme o mandamento recebido do Pai.",
+      "Construindo igrejas.",
+      "Fazendo milagres."
+    ],
+    "id": 684,
+    "pergunta": "João se alegrou porque encontrou alguns filhos da senhora eleita:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:4"
+  },
+  {
+    "explicacao": "João relembra o mandamento de amar uns aos outros.",
+    "alternativas": [
+      "Amar uns aos outros.",
+      "Fazer sacrifícios.",
+      "Guardar as festas judaicas.",
+      "Construir templos."
+    ],
+    "id": 685,
+    "pergunta": "Qual mandamento João diz que não era novo, mas que eles tinham desde o princípio?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:5"
+  },
+  {
+    "explicacao": "João ensina que o amor consiste em andar segundo os mandamentos de Deus.",
+    "alternativas": [
+      "Seguir os mandamentos de Deus.",
+      "Ter conhecimento dos mistérios.",
+      "Fazer grandes obras públicas.",
+      "Ser reconhecido pelos homens."
+    ],
+    "id": 686,
+    "pergunta": "Segundo João, o amor verdadeiro é demonstrado por:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:6"
+  },
+  {
+    "explicacao": "Os enganadores negavam a encarnação de Jesus Cristo.",
+    "alternativas": [
+      "Deus era o Criador.",
+      "Jesus Cristo veio em carne.",
+      "Os profetas existiam.",
+      "A igreja deveria crescer."
+    ],
+    "id": 687,
+    "pergunta": "Muitos enganadores haviam saído pelo mundo negando que:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:7"
+  },
+  {
+    "explicacao": "João identifica como enganador e anticristo quem nega Cristo vindo em carne.",
+    "alternativas": [
+      "Discípulo fraco.",
+      "Enganador e anticristo.",
+      "Falso sacerdote.",
+      "Inimigo romano."
+    ],
+    "id": 688,
+    "pergunta": "Como João chama aquele que nega que Jesus Cristo veio em carne?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:7"
+  },
+  {
+    "explicacao": "João aconselha vigilância para que não percam o fruto do trabalho realizado.",
+    "alternativas": [
+      "Abandoná-los e buscar novidades.",
+      "Cuidar para não perder o fruto do trabalho.",
+      "Guardá-los apenas para si.",
+      "Trocar por novos ensinamentos."
+    ],
+    "id": 689,
+    "pergunta": "O que João recomenda aos cristãos em relação aos ensinamentos recebidos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:8"
+  },
+  {
+    "explicacao": "Quem permanece na doutrina de Cristo possui o Pai e o Filho.",
+    "alternativas": [
+      "O Pai e o Filho.",
+      "O poder dos anjos.",
+      "A autoridade dos reis.",
+      "A sabedoria dos homens."
+    ],
+    "id": 690,
+    "pergunta": "Quem permanece na doutrina de Cristo possui:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:9"
+  },
+  {
+    "explicacao": "João se apresenta como o presbítero no início da carta.",
+    "alternativas": [
+      "O apóstolo amado.",
+      "O presbítero.",
+      "O discípulo de Pedro.",
+      "O servo de Cristo."
+    ],
+    "id": 691,
+    "pergunta": "Quem João identifica como autor da carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:1"
+  },
+  {
+    "explicacao": "João declara amar todos os que conhecem a verdade.",
+    "alternativas": [
+      "Somente aos apóstolos.",
+      "A todos os que conhecem a verdade.",
+      "Somente aos líderes da igreja.",
+      "Aos moradores de Jerusalém."
+    ],
+    "id": 692,
+    "pergunta": "A quem João declara amar, além da senhora eleita?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:1"
+  },
+  {
+    "explicacao": "A verdade permanece porque estará conosco para sempre.",
+    "alternativas": [
+      "Porque recebemos conhecimento humano.",
+      "Porque temos tradição religiosa.",
+      "Porque ela está conosco para sempre.",
+      "Porque seguimos os costumes antigos."
+    ],
+    "id": 693,
+    "pergunta": "Por qual motivo a verdade permanece em nós?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:2"
+  },
+  {
+    "explicacao": "João menciona graça, misericórdia e paz vindas de Deus Pai e de Jesus Cristo.",
+    "alternativas": [
+      "Poder, riqueza e autoridade.",
+      "Graça, misericórdia e paz.",
+      "Sabedoria, força e vitória.",
+      "Fé, dons e prosperidade."
+    ],
+    "id": 694,
+    "pergunta": "Qual combinação de bênçãos João associa ao relacionamento com Deus e Jesus Cristo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:3"
+  },
+  {
+    "explicacao": "João se alegrou ao encontrar filhos da senhora eleita vivendo na verdade.",
+    "alternativas": [
+      "Ver muitos templos construídos.",
+      "Encontrar os filhos da senhora eleita andando na verdade.",
+      "Ver muitos seguidores reunidos.",
+      "Receber reconhecimento das igrejas."
+    ],
+    "id": 695,
+    "pergunta": "O que João considera uma grande alegria?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:4"
+  },
+  {
+    "explicacao": "O mandamento do amor já era conhecido desde o princípio.",
+    "alternativas": [
+      "Um novo ensinamento criado pelos apóstolos.",
+      "Um mandamento desde o princípio.",
+      "Uma tradição dos judeus.",
+      "Uma recomendação opcional."
+    ],
+    "id": 696,
+    "pergunta": "João afirma que o mandamento de amar uns aos outros é:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:5"
+  },
+  {
+    "explicacao": "O amor verdadeiro é demonstrado pela obediência aos mandamentos de Deus.",
+    "alternativas": [
+      "Fazer grandes obras diante dos homens.",
+      "Andar segundo os mandamentos de Deus.",
+      "Ter conhecimento das Escrituras.",
+      "Demonstrar emoções religiosas."
+    ],
+    "id": 697,
+    "pergunta": "Como João define o amor verdadeiro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:6"
+  },
+  {
+    "explicacao": "João combate os que negavam que Jesus Cristo veio em carne.",
+    "alternativas": [
+      "A negação da existência de Deus.",
+      "A negação de que Jesus Cristo veio em carne.",
+      "A rejeição dos profetas antigos.",
+      "A falta de ofertas na igreja."
+    ],
+    "id": 698,
+    "pergunta": "Qual erro doutrinário João combate diretamente na carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:7"
+  },
+  {
+    "explicacao": "Eles eram chamados anticristo porque negavam Cristo vindo em carne.",
+    "alternativas": [
+      "Porque perseguiam os cristãos.",
+      "Porque negavam a pessoa e a encarnação de Cristo.",
+      "Porque não frequentavam reuniões.",
+      "Porque eram estrangeiros."
+    ],
+    "id": 699,
+    "pergunta": "Por que João chama alguns enganadores de anticristo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:7"
+  },
+  {
+    "explicacao": "João orienta os cristãos a permanecerem firmes para não perderem o fruto do trabalho.",
+    "alternativas": [
+      "Permanecerem firmes na verdade recebida.",
+      "Acumularem riquezas.",
+      "Evitarem todos os relacionamentos.",
+      "Buscarem novos ensinamentos."
+    ],
+    "id": 700,
+    "pergunta": "Qual advertência João faz para que os cristãos não percam o fruto do trabalho?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 João 1:8"
+  }
+]

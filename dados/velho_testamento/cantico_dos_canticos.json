@@ -1,0 +1,979 @@
+[
+  {
+    "explicacao": "O jardim da amada é descrito com várias especiarias aromáticas, mostrando beleza e riqueza.",
+    "alternativas": [
+      "Nardo, açafrão, cálamo e canela",
+      "Sal, trigo e azeite",
+      "Cedro, ouro e prata"
+    ],
+    "id": 2626,
+    "pergunta": "Quais especiarias são citadas junto ao jardim da amada?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 4:13-14"
+  },
+  {
+    "explicacao": "A expressão 'jardim fechado' representa pureza, exclusividade e intimidade dentro da poesia do livro.",
+    "alternativas": [
+      "Um jardim abandonado",
+      "Uma imagem de pureza, exclusividade e intimidade",
+      "Um jardim público"
+    ],
+    "id": 2627,
+    "pergunta": "O que significa a expressão 'jardim fechado' dentro da poesia do livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 4:12"
+  },
+  {
+    "explicacao": "O pescoço da sulamita é comparado à torre de Davi, destacando beleza e majestade.",
+    "alternativas": [
+      "Seu pescoço",
+      "Seu cabelo",
+      "Seus pés"
+    ],
+    "id": 2628,
+    "pergunta": "Qual parte do corpo da amada é comparada a uma torre?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 4:4"
+  },
+  {
+    "explicacao": "A sulamita descreve seu amado como branco e rosado, destacado entre dez mil.",
+    "alternativas": [
+      "Branco e rosado, o mais destacado entre dez mil",
+      "Forte como um leão",
+      "Rico como um rei"
+    ],
+    "id": 2629,
+    "pergunta": "Como o amado é descrito pela sulamita em Cântico 5:10?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 5:10"
+  },
+  {
+    "explicacao": "Os olhos do amado são comparados a pombas junto às correntes de águas, transmitindo beleza e pureza.",
+    "alternativas": [
+      "A rios de águas",
+      "A pombas junto às correntes de águas",
+      "A estrelas do céu"
+    ],
+    "id": 2630,
+    "pergunta": "O que a sulamita diz que seus olhos são semelhantes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 5:12"
+  },
+  {
+    "explicacao": "O cabelo da sulamita é comparado a um rebanho de cabras descendo do monte Gileade.",
+    "alternativas": [
+      "Como um rebanho de cabras que descem do monte Gileade",
+      "Como fios de ouro",
+      "Como uma coroa real"
+    ],
+    "id": 2631,
+    "pergunta": "Como o amado descreve os cabelos da sulamita?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 4:1"
+  },
+  {
+    "explicacao": "A sulamita compara seu amado a uma macieira entre as árvores do bosque, destacando sua superioridade.",
+    "alternativas": [
+      "Que ele é como uma macieira entre as árvores do bosque",
+      "Que ele é como uma torre de marfim",
+      "Que ele é como um cedro do Líbano"
+    ],
+    "id": 2632,
+    "pergunta": "O que a sulamita diz sobre seu amado no capítulo 2?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:3"
+  },
+  {
+    "explicacao": "O amado pede que ela mostre seu rosto e deixe sua voz ser ouvida, pois são agradáveis.",
+    "alternativas": [
+      "Seu rosto e sua voz",
+      "Suas riquezas",
+      "Seu jardim"
+    ],
+    "id": 2633,
+    "pergunta": "O que o amado pede à sulamita para mostrar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:14"
+  },
+  {
+    "explicacao": "Depois de encontrar o amado, a sulamita o segura e não o deixa ir até levá-lo à casa de sua mãe.",
+    "alternativas": [
+      "Ela o segura e não o deixa ir até levá-lo à casa de sua mãe",
+      "Ela foge dele",
+      "Ela o entrega ao rei"
+    ],
+    "id": 2634,
+    "pergunta": "O que acontece quando a sulamita encontra o amado depois de procurá-lo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 3:4"
+  },
+  {
+    "explicacao": "A conclusão do livro destaca que o amor verdadeiro é precioso, fiel, forte e não pode ser destruído.",
+    "alternativas": [
+      "O amor verdadeiro é precioso, fiel e não pode ser destruído",
+      "A riqueza é maior que o amor",
+      "O poder dos reis é eterno"
+    ],
+    "id": 2635,
+    "pergunta": "Qual é a conclusão principal do livro de Cântico dos Cânticos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 8:6-7"
+  },
+  {
+    "explicacao": "O primeiro versículo identifica o livro como o Cântico dos Cânticos de Salomão.",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Asafe"
+    ],
+    "id": 2636,
+    "pergunta": "Quem é identificado como autor do Cântico dos Cânticos no primeiro versículo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 1:1"
+  },
+  {
+    "explicacao": "O texto menciona que Salomão possuía sessenta rainhas e oitenta concubinas.",
+    "alternativas": [
+      "60 rainhas e 80 concubinas",
+      "70 rainhas e 90 concubinas",
+      "100 rainhas e 200 concubinas"
+    ],
+    "id": 2637,
+    "pergunta": "Quantas mulheres são mencionadas como pertencentes ao rei Salomão em Cântico dos Cânticos 6:8?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 6:8"
+  },
+  {
+    "explicacao": "A sulamita é apresentada como única e especial entre muitas mulheres.",
+    "alternativas": [
+      "A sulamita, a única entre muitas",
+      "A filha do faraó",
+      "A mãe do rei"
+    ],
+    "id": 2638,
+    "pergunta": "Além das rainhas e concubinas, quem é mencionada como especial?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 6:9"
+  },
+  {
+    "explicacao": "A sulamita afirma que é morena, semelhante às tendas de Quedar.",
+    "alternativas": [
+      "Branca como a neve",
+      "Escura, como as tendas de Quedar",
+      "Dourada como o ouro"
+    ],
+    "id": 2639,
+    "pergunta": "Como a sulamita descreve sua cor de pele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 1:5"
+  },
+  {
+    "explicacao": "Ela explica que ficou escura porque seus irmãos a colocaram para cuidar das vinhas, ficando exposta ao sol.",
+    "alternativas": [
+      "Porque ficou exposta ao sol cuidando das vinhas",
+      "Porque estava doente",
+      "Porque vivia no deserto"
+    ],
+    "id": 2640,
+    "pergunta": "Por que a sulamita afirma estar escurecida?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 1:6"
+  },
+  {
+    "explicacao": "A sulamita pede que o amor não seja despertado antes do tempo apropriado.",
+    "alternativas": [
+      "Que a ajudem a encontrar o rei",
+      "Que não despertem nem acordem o amor até que queira",
+      "Que preparem uma festa"
+    ],
+    "id": 2641,
+    "pergunta": "O que a sulamita pede para suas irmãs fazerem com ela?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:7"
+  },
+  {
+    "explicacao": "O amor é descrito como forte como a morte e como brasas de fogo intenso.",
+    "alternativas": [
+      "O amor é como uma sombra passageira",
+      "O amor é forte como a morte e suas brasas são fogo intenso",
+      "O amor depende das riquezas"
+    ],
+    "id": 2642,
+    "pergunta": "Qual frase descreve a força do amor em Cântico dos Cânticos 8?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 8:6"
+  },
+  {
+    "explicacao": "O amor verdadeiro não pode ser comprado com riquezas ou bens materiais.",
+    "alternativas": [
+      "Recebe mais amor",
+      "É honrado pelo amado",
+      "Seria desprezado, pois o amor não pode ser comprado"
+    ],
+    "id": 2643,
+    "pergunta": "O que acontece com quem tenta comprar o amor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 8:7"
+  },
+  {
+    "explicacao": "As filhas de Jerusalém fazem a pergunta sobre aquela que sobe do deserto.",
+    "alternativas": [
+      "As filhas de Jerusalém",
+      "Os sacerdotes",
+      "Os soldados do rei"
+    ],
+    "id": 2644,
+    "pergunta": "Quem pergunta 'Quem é esta que sobe do deserto?'?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 3:6"
+  },
+  {
+    "explicacao": "O cortejo é descrito como uma nuvem de fumaça perfumada com incenso e especiarias.",
+    "alternativas": [
+      "A uma nuvem de incenso e perfumes",
+      "A um exército de cavalos",
+      "A uma tempestade"
+    ],
+    "id": 2645,
+    "pergunta": "Com que o cortejo de Salomão é comparado quando sobe do deserto?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 3:6"
+  },
+  {
+    "explicacao": "A liteira de Salomão foi feita de madeira do Líbano, mostrando sua beleza e valor.",
+    "alternativas": [
+      "De madeira do Líbano",
+      "De ouro puro apenas",
+      "De pedras preciosas"
+    ],
+    "id": 2646,
+    "pergunta": "De que era feita a liteira de Salomão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 3:9"
+  },
+  {
+    "explicacao": "A liteira de Salomão era acompanhada por sessenta valentes de Israel.",
+    "alternativas": [
+      "Sessenta valentes",
+      "Cem sacerdotes",
+      "Doze servas"
+    ],
+    "id": 2647,
+    "pergunta": "Quantas mulheres são mencionadas como acompanhando Salomão na liteira?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 3:7"
+  },
+  {
+    "explicacao": "O amado declara que a sulamita é totalmente formosa e que nela não há defeito.",
+    "alternativas": [
+      "Que ela é totalmente formosa e sem defeito",
+      "Que ela é famosa entre as nações",
+      "Que ela é a mais rica das mulheres"
+    ],
+    "id": 2648,
+    "pergunta": "O que o amado declara sobre a beleza da sulamita?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 4:7"
+  },
+  {
+    "explicacao": "A sulamita é comparada a um jardim fechado e uma fonte selada, representando exclusividade e pureza.",
+    "alternativas": [
+      "A um jardim fechado e uma fonte selada",
+      "A uma torre de guerra",
+      "A uma cidade grande"
+    ],
+    "id": 2649,
+    "pergunta": "Como a amada é comparada em Cântico 4:12?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 4:12"
+  },
+  {
+    "explicacao": "O amado declara que desceu ao jardim para ver os frutos e as plantas do vale.",
+    "alternativas": [
+      "Para observar os frutos e flores",
+      "Para construir uma casa",
+      "Para procurar riquezas"
+    ],
+    "id": 2650,
+    "pergunta": "O que o amado diz que desceu ao jardim?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 6:2"
+  },
+  {
+    "explicacao": "A sulamita é descrita como formosa como a lua, brilhante como o sol e admirável como um exército com bandeiras.",
+    "alternativas": [
+      "Ao sol, à lua e a um exército com bandeiras",
+      "A uma estrela e ao mar",
+      "A uma montanha e um rio"
+    ],
+    "id": 2651,
+    "pergunta": "A quem a sulamita é comparada em Cântico 6:10?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 6:10"
+  },
+  {
+    "explicacao": "Os olhos da sulamita são comparados aos olhos das pombas, destacando delicadeza e beleza.",
+    "alternativas": [
+      "Que são como os das pombas",
+      "Que brilham como ouro",
+      "Que são como o mar"
+    ],
+    "id": 2652,
+    "pergunta": "O que o amado diz sobre os olhos da sulamita?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 4:1"
+  },
+  {
+    "explicacao": "A sulamita afirma que o amor verdadeiro não pode ser comprado nem apagado pelas muitas águas.",
+    "alternativas": [
+      "Que pode ser comprado com riquezas",
+      "Que não pode ser apagado nem comprado",
+      "Que é passageiro"
+    ],
+    "id": 2653,
+    "pergunta": "O que a sulamita afirma sobre seu amor no final do livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 8:6-7"
+  },
+  {
+    "explicacao": "O amor é comparado a um selo sobre o coração, mostrando compromisso e profundidade.",
+    "alternativas": [
+      "A sabedoria",
+      "O amor",
+      "A riqueza"
+    ],
+    "id": 2654,
+    "pergunta": "O que é comparado a um selo sobre o coração?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 8:6"
+  },
+  {
+    "explicacao": "O livro ensina sobre o amor fiel, comprometido e a união entre duas pessoas.",
+    "alternativas": [
+      "A importância do amor fiel e comprometido",
+      "A conquista de territórios",
+      "A história dos reis de Israel"
+    ],
+    "id": 2655,
+    "pergunta": "Qual ensinamento principal aparece no livro de Cântico dos Cânticos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 8:6-7"
+  },
+  {
+    "explicacao": "O livro começa apresentando o Cântico dos Cânticos de Salomão.",
+    "alternativas": [
+      "Com uma oração de Salomão",
+      "Com o cântico dos cânticos de Salomão",
+      "Com uma história de guerra"
+    ],
+    "id": 2656,
+    "pergunta": "Como começa o livro de Cântico dos Cânticos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 1:1"
+  },
+  {
+    "explicacao": "A amada deseja ser levada pelo amado para a sua câmara, expressando desejo de proximidade e comunhão.",
+    "alternativas": [
+      "Que a leve ao deserto",
+      "Que a leve para a sua câmara",
+      "Que a deixe sozinha"
+    ],
+    "id": 2657,
+    "pergunta": "O que a amada deseja que o amado faça com ela?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 1:4"
+  },
+  {
+    "explicacao": "A sulamita se descreve como uma rosa de Sarom e um lírio dos vales.",
+    "alternativas": [
+      "Como uma rosa do campo e um lírio dos vales",
+      "Como uma palmeira do deserto",
+      "Como uma estrela brilhante"
+    ],
+    "id": 2658,
+    "pergunta": "Como a sulamita descreve sua aparência?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:1"
+  },
+  {
+    "explicacao": "O amado é comparado a um lírio entre os espinhos, mostrando sua superioridade e beleza.",
+    "alternativas": [
+      "Um rei distante",
+      "Um lírio entre os espinhos",
+      "Um guerreiro poderoso"
+    ],
+    "id": 2659,
+    "pergunta": "O que o amado representa para a sulamita entre outros homens?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:2"
+  },
+  {
+    "explicacao": "O amado chama a sulamita para levantar-se e ir com ele.",
+    "alternativas": [
+      "Uma canção de guerra",
+      "A voz dele chamando para ir com ele",
+      "Uma ordem para partir"
+    ],
+    "id": 2660,
+    "pergunta": "O que a sulamita ouviu do seu amado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:10"
+  },
+  {
+    "explicacao": "A primavera é apresentada como tempo de renovação, quando as flores aparecem e a natureza desperta.",
+    "alternativas": [
+      "Inverno",
+      "Primavera",
+      "Outono"
+    ],
+    "id": 2661,
+    "pergunta": "Qual estação do ano é mencionada como tempo de renovação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:11-13"
+  },
+  {
+    "explicacao": "As pequenas raposas representam aquilo que pode prejudicar a vinha e deve ser removido.",
+    "alternativas": [
+      "As raposas pequenas que fazem mal às vinhas",
+      "As aves do campo",
+      "Os animais selvagens"
+    ],
+    "id": 2662,
+    "pergunta": "O que o amado pede para que sejam capturadas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:15"
+  },
+  {
+    "explicacao": "A expressão demonstra união, amor e pertencimento mútuo entre o casal.",
+    "alternativas": [
+      "Uma relação de posse e amor mútuo",
+      "Uma relação de servidão",
+      "Uma promessa de riqueza"
+    ],
+    "id": 2663,
+    "pergunta": "O que significa a expressão 'o meu amado é meu, e eu sou dele'?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:16"
+  },
+  {
+    "explicacao": "No sonho, a sulamita procura seu amado pelas ruas da cidade.",
+    "alternativas": [
+      "No campo",
+      "Pelas ruas da cidade",
+      "No templo"
+    ],
+    "id": 2664,
+    "pergunta": "Em seu sonho, onde a sulamita procurava o amado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 3:2"
+  },
+  {
+    "explicacao": "Durante sua busca, a sulamita encontrou os guardas que percorriam a cidade.",
+    "alternativas": [
+      "Seus amigos",
+      "Os guardas da cidade",
+      "O rei Salomão"
+    ],
+    "id": 2665,
+    "pergunta": "O que a sulamita encontrou depois de procurar seu amado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 3:3"
+  },
+  {
+    "explicacao": "O primeiro versículo identifica o livro como o Cântico dos Cânticos de Salomão.",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Moisés"
+    ],
+    "id": 2666,
+    "pergunta": "Quem é tradicionalmente identificado como autor de Cântico dos Cânticos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 1:1"
+  },
+  {
+    "explicacao": "O livro também é conhecido como Cântico de Salomão por causa da referência ao rei Salomão.",
+    "alternativas": [
+      "O Cântico de Salomão",
+      "O Livro da Sabedoria",
+      "O Livro dos Reis"
+    ],
+    "id": 2667,
+    "pergunta": "Qual é outro nome pelo qual o livro de Cântico dos Cânticos é conhecido?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 1:1"
+  },
+  {
+    "explicacao": "O livro apresenta diálogos poéticos sobre o amor entre um homem e uma mulher.",
+    "alternativas": [
+      "Guerras de Israel",
+      "O amor entre um homem e uma mulher",
+      "A construção do templo"
+    ],
+    "id": 2668,
+    "pergunta": "O livro de Cântico dos Cânticos fala principalmente sobre:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:16"
+  },
+  {
+    "explicacao": "A personagem feminina principal é identificada como a sulamita.",
+    "alternativas": [
+      "Rute",
+      "A sulamita",
+      "Ester"
+    ],
+    "id": 2669,
+    "pergunta": "Quem é a personagem feminina principal do livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 6:13"
+  },
+  {
+    "explicacao": "A amada declara a união e pertencimento mútuo entre ela e seu amado.",
+    "alternativas": [
+      "Que ele é seu pastor",
+      "Que ele pertence a ela e ela pertence a ele",
+      "Que ele é seu rei apenas"
+    ],
+    "id": 2670,
+    "pergunta": "O que a mulher diz sobre seu amado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:16"
+  },
+  {
+    "explicacao": "O amor é apresentado como algo forte, precioso e que não pode ser facilmente destruído.",
+    "alternativas": [
+      "Como algo sem importância",
+      "Como forte e valioso",
+      "Como uma obrigação"
+    ],
+    "id": 2671,
+    "pergunta": "Como o amor é descrito em Cântico dos Cânticos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 8:6"
+  },
+  {
+    "explicacao": "A amada é comparada a um jardim fechado, simbolizando beleza e pureza.",
+    "alternativas": [
+      "A beleza e pureza da amada",
+      "O palácio do rei",
+      "A cidade de Jerusalém"
+    ],
+    "id": 2672,
+    "pergunta": "O que é comparado a um jardim fechado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 4:12"
+  },
+  {
+    "explicacao": "O cavalo é usado como comparação de beleza e destaque nos poemas do livro.",
+    "alternativas": [
+      "Leão",
+      "Cervo",
+      "Cavalo"
+    ],
+    "id": 2673,
+    "pergunta": "Qual animal é mencionado em comparações de beleza e força?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 1:9"
+  },
+  {
+    "explicacao": "A mulher pede que o amor não seja despertado antes do tempo certo.",
+    "alternativas": [
+      "Que procurem o rei",
+      "Que não despertem o amor até que este o queira",
+      "Que construam um jardim"
+    ],
+    "id": 2674,
+    "pergunta": "O que a amada pede às filhas de Jerusalém?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:7"
+  },
+  {
+    "explicacao": "O amado é comparado a um lírio entre os espinhos, destacando sua beleza.",
+    "alternativas": [
+      "A um lírio entre os espinhos",
+      "A uma árvore entre as montanhas",
+      "A uma estrela do céu"
+    ],
+    "id": 2675,
+    "pergunta": "A quem a mulher compara seu amado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:2"
+  },
+  {
+    "explicacao": "Também conhecido como Cantares de Salomão, o livro exalta os sentimentos de afeto puro entre o noivo e a noiva, interpretado tradicionalmente como a relação de Deus e Seu povo.",
+    "alternativas": [
+      "Lamentações",
+      "Cântico dos Cânticos",
+      "Salmos",
+      "Rute"
+    ],
+    "id": 2676,
+    "pergunta": "Qual livro poético da Bíblia celebra o amor romântico e conjugal por meio de diálogos líricos e alegóricos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cantares 1:1"
+  },
+  {
+    "explicacao": "O homem compara sua amada a uma égua entre os carros de Faraó, destacando sua beleza e singularidade.",
+    "alternativas": [
+      "A uma cidade fortificada",
+      "A uma égua entre os carros de Faraó",
+      "A uma rainha estrangeira"
+    ],
+    "id": 2677,
+    "pergunta": "A quem o homem compara sua amada?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 1:9"
+  },
+  {
+    "explicacao": "Jerusalém é uma das cidades mencionadas no livro, especialmente nas cenas envolvendo o rei.",
+    "alternativas": [
+      "Jerusalém",
+      "Nínive",
+      "Babilônia"
+    ],
+    "id": 2678,
+    "pergunta": "Qual cidade é mencionada no livro?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 3:10-11"
+  },
+  {
+    "explicacao": "A mulher descreve seu amado como seu amigo e como o mais excelente entre muitos.",
+    "alternativas": [
+      "Que ele é o seu amigo e o mais excelente entre muitos",
+      "Que ele é um guerreiro",
+      "Que ele é um sacerdote"
+    ],
+    "id": 2679,
+    "pergunta": "O que a amada diz sobre seu amado em Cântico 5?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 5:16"
+  },
+  {
+    "explicacao": "O homem declara que sua amada é completamente formosa e nela não há defeito.",
+    "alternativas": [
+      "Que ela é formosa e agradável",
+      "Que ela é poderosa como um exército",
+      "Que ela é rica acima de todos"
+    ],
+    "id": 2680,
+    "pergunta": "O que o homem diz sobre a beleza da mulher?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 4:7"
+  },
+  {
+    "explicacao": "O amor é comparado a brasas de fogo, mostrando sua intensidade e força.",
+    "alternativas": [
+      "O amor",
+      "A tristeza",
+      "A guerra"
+    ],
+    "id": 2681,
+    "pergunta": "O que é comparado ao fogo em Cântico dos Cânticos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 8:6"
+  },
+  {
+    "explicacao": "As filhas de Jerusalém aparecem conversando e interagindo com a sulamita.",
+    "alternativas": [
+      "As filhas de Jerusalém",
+      "Os profetas",
+      "Os sacerdotes"
+    ],
+    "id": 2682,
+    "pergunta": "Quem aparece conversando com a sulamita?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 5:8"
+  },
+  {
+    "explicacao": "No capítulo 2, a amada ouve o convite do amado para levantar-se e ir com ele.",
+    "alternativas": [
+      "Que ele fuja para longe",
+      "Que ele venha com ela",
+      "Que ele construa uma casa"
+    ],
+    "id": 2683,
+    "pergunta": "O que a mulher pede ao amado no capítulo 2?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 2:10"
+  },
+  {
+    "explicacao": "O jardim descrito no livro possui plantas, flores e frutos agradáveis.",
+    "alternativas": [
+      "Flores e frutos agradáveis",
+      "Armas e tesouros",
+      "Animais selvagens"
+    ],
+    "id": 2684,
+    "pergunta": "O que aparece no jardim mencionado no livro?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 4:13-14"
+  },
+  {
+    "explicacao": "O livro afirma que o amor verdadeiro é forte como a morte e não pode ser apagado facilmente.",
+    "alternativas": [
+      "Fraco e passageiro",
+      "Mais forte que a morte",
+      "Fácil de esquecer"
+    ],
+    "id": 2685,
+    "pergunta": "Como o amor verdadeiro é descrito em Cântico 8?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 8:6"
+  },
+  {
+    "explicacao": "Uma das principais mensagens do livro é mostrar o valor do amor, da união e do relacionamento entre o casal.",
+    "alternativas": [
+      "O valor do amor e da união entre o casal",
+      "A história dos reis de Israel",
+      "As leis do templo"
+    ],
+    "id": 2686,
+    "pergunta": "Qual é uma das principais mensagens de Cântico dos Cânticos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Cântico dos Cânticos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Cântico dos Cânticos 8:6-7"
+  }
+]

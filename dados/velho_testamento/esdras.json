@@ -1,0 +1,1056 @@
+[
+  {
+    "explicacao": "Dario encontrou nos registros reais o decreto de Ciro autorizando a reconstrução do templo em Jerusalém.",
+    "alternativas": [
+      "Que a obra deveria ser destruída",
+      "Que Ciro havia autorizado a reconstrução",
+      "Que os judeus não tinham permissão",
+      "Que Jerusalém deveria permanecer vazia"
+    ],
+    "id": 2881,
+    "pergunta": "O que Dario encontrou nos arquivos reais sobre o templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 6:2-5"
+  },
+  {
+    "explicacao": "Dario ordenou que a obra continuasse e que Tatenai ajudasse com recursos para a reconstrução.",
+    "alternativas": [
+      "Parar a reconstrução",
+      "Deixar a obra continuar e ajudar financeiramente",
+      "Prender os líderes judeus",
+      "Destruir o altar"
+    ],
+    "id": 2882,
+    "pergunta": "Qual foi a ordem de Dario para Tatenai?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 6:6-12"
+  },
+  {
+    "explicacao": "Esdras era conhecido por sua dedicação e habilidade no ensino da Lei de Moisés.",
+    "alternativas": [
+      "Era um grande guerreiro",
+      "Era hábil na Lei de Moisés",
+      "Era um rei poderoso",
+      "Era um construtor famoso"
+    ],
+    "id": 2883,
+    "pergunta": "Qual característica de Esdras é destacada no livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 7:6"
+  },
+  {
+    "explicacao": "Esdras declarou que confiava na proteção de Deus e por isso não pediu soldados ao rei.",
+    "alternativas": [
+      "Porque confiava na proteção de Deus",
+      "Porque não havia soldados disponíveis",
+      "Porque tinha medo do rei",
+      "Porque queria viajar sozinho"
+    ],
+    "id": 2884,
+    "pergunta": "Por que Esdras não pediu soldados ao rei para protegê-los na viagem?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 8:22"
+  },
+  {
+    "explicacao": "A lista de Esdras 8 apresenta doze chefes de famílias que retornaram com ele para Jerusalém.",
+    "alternativas": [
+      "12",
+      "20",
+      "30",
+      "40"
+    ],
+    "id": 2885,
+    "pergunta": "Quantos chefes de famílias acompanharam Esdras na viagem de retorno?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 8:1-14"
+  },
+  {
+    "explicacao": "Antes de partir para Jerusalém, Esdras reuniu o povo junto ao rio Aava para organizar a viagem.",
+    "alternativas": [
+      "Rio Quebar",
+      "Rio Aava",
+      "Monte Sinai",
+      "Vale de Cedrom"
+    ],
+    "id": 2886,
+    "pergunta": "Onde Esdras reuniu o povo antes de partir para Jerusalém?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 8:15"
+  },
+  {
+    "explicacao": "Esdras enviou pessoas para buscar levitas e servidores do templo para acompanharem a viagem.",
+    "alternativas": [
+      "Mandou chamar levitas e servidores do templo",
+      "Cancelou a viagem",
+      "Pediu ajuda aos inimigos",
+      "Voltou para a Babilônia"
+    ],
+    "id": 2887,
+    "pergunta": "O que Esdras fez ao perceber que não havia levitas suficientes entre os viajantes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 8:15-20"
+  },
+  {
+    "explicacao": "Esdras descobriu que muitos israelitas haviam se misturado com povos estrangeiros através de casamentos.",
+    "alternativas": [
+      "Construção de ídolos no templo",
+      "Casamentos com povos estrangeiros",
+      "Abandono da agricultura",
+      "Falta de sacerdotes"
+    ],
+    "id": 2888,
+    "pergunta": "Qual pecado Esdras encontrou entre o povo após seu retorno?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 9:1-2"
+  },
+  {
+    "explicacao": "Secanias reconheceu o pecado do povo e incentivou Esdras a agir conforme a Lei de Deus.",
+    "alternativas": [
+      "Secanias, filho de Jeiel",
+      "Zorobabel",
+      "Josué, o sumo sacerdote",
+      "Tatenai"
+    ],
+    "id": 2889,
+    "pergunta": "Quem se levantou para apoiar Esdras na separação dos casamentos mistos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 10:2-4"
+  },
+  {
+    "explicacao": "Após a convocação de Esdras, o povo reconheceu seu erro e decidiu obedecer à Palavra de Deus.",
+    "alternativas": [
+      "O povo decidiu obedecer à Palavra de Deus",
+      "O povo abandonou Jerusalém",
+      "O templo foi destruído",
+      "O rei da Pérsia tomou o controle do povo"
+    ],
+    "id": 2890,
+    "pergunta": "Qual foi o resultado da reunião convocada por Esdras?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 10:10-12"
+  },
+  {
+    "explicacao": "O decreto de Ciro permitiu que os judeus retornassem a Jerusalém e reconstruíssem a Casa do Senhor.",
+    "alternativas": [
+      "Dario",
+      "Artaxerxes",
+      "Ciro",
+      "Assuero"
+    ],
+    "id": 2891,
+    "pergunta": "Qual rei da Pérsia publicou o decreto para reconstrução da Casa do Senhor em Jerusalém?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1:1-2"
+  },
+  {
+    "explicacao": "A permissão de Ciro para o retorno dos judeus cumpriu a profecia de Isaías sobre ele ser usado por Deus.",
+    "alternativas": [
+      "A profecia de Isaías sobre Ciro libertar Israel",
+      "A profecia de Jonas sobre Nínive",
+      "A profecia de Elias sobre o Carmelo",
+      "A profecia de Samuel sobre Saul"
+    ],
+    "id": 2892,
+    "pergunta": "Qual profecia se cumpriu quando Ciro permitiu o retorno dos judeus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1:1; Isaías 44:28"
+  },
+  {
+    "explicacao": "Zorobabel liderou o povo no início da reconstrução do templo como governador de Judá.",
+    "alternativas": [
+      "Esdras",
+      "Zorobabel",
+      "Neemias",
+      "Mardoqueu"
+    ],
+    "id": 2893,
+    "pergunta": "Quem era o governador de Judá durante o início da reconstrução do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 2:2; 3:8"
+  },
+  {
+    "explicacao": "Josué, filho de Jozadaque, serviu como sumo sacerdote junto com Zorobabel.",
+    "alternativas": [
+      "Eliasibe",
+      "Josué, filho de Jozadaque",
+      "Hilquias",
+      "Abiatar"
+    ],
+    "id": 2894,
+    "pergunta": "Quem era o sumo sacerdote que acompanhou Zorobabel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 3:2"
+  },
+  {
+    "explicacao": "Quando o fundamento do templo foi lançado, o povo celebrou com louvor, mas também chorou ao lembrar do antigo templo.",
+    "alternativas": [
+      "Reclamaram contra Deus",
+      "Louvaram ao Senhor com cânticos e choro",
+      "Abandonaram a obra",
+      "Pediram para voltar à Babilônia"
+    ],
+    "id": 2895,
+    "pergunta": "Qual era a atitude dos sacerdotes e levitas ao verem o fundamento do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 3:10-13"
+  },
+  {
+    "explicacao": "Os samaritanos e outros povos da terra tentaram participar da reconstrução, mas foram rejeitados pelos líderes judeus.",
+    "alternativas": [
+      "Os samaritanos e povos da terra",
+      "Os egípcios",
+      "Os filisteus",
+      "Os amalequitas"
+    ],
+    "id": 2896,
+    "pergunta": "Quem eram os povos que se ofereceram para ajudar na construção do templo, mas foram rejeitados?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 4:1-3"
+  },
+  {
+    "explicacao": "A oposição fez a obra do templo ficar parada por muitos anos até o reinício no governo de Dario.",
+    "alternativas": [
+      "A obra ficou interrompida por muitos anos",
+      "O templo foi destruído novamente",
+      "O povo foi levado ao Egito",
+      "Zorobabel perdeu seu cargo"
+    ],
+    "id": 2897,
+    "pergunta": "Qual foi a consequência da oposição dos inimigos durante a reconstrução?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 4:24"
+  },
+  {
+    "explicacao": "Artaxerxes recebeu uma carta acusando Jerusalém de rebeldia e ordenou a interrupção da obra.",
+    "alternativas": [
+      "Ciro",
+      "Dario",
+      "Artaxerxes",
+      "Belsazar"
+    ],
+    "id": 2898,
+    "pergunta": "Qual rei recebeu uma carta acusando Jerusalém de ser uma cidade rebelde?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 4:11-12"
+  },
+  {
+    "explicacao": "Os profetas Ageu e Zacarias animaram o povo a continuar a reconstrução do templo.",
+    "alternativas": [
+      "Jeremias e Daniel",
+      "Ageu e Zacarias",
+      "Elias e Eliseu",
+      "Oséias e Joel"
+    ],
+    "id": 2899,
+    "pergunta": "Quais profetas incentivaram Zorobabel e Jesua a retomarem a obra?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 5:1-2"
+  },
+  {
+    "explicacao": "Tatenai era o governador da região além do rio e investigou a situação da reconstrução.",
+    "alternativas": [
+      "Ageu",
+      "Tatenai",
+      "Esdras",
+      "Ciro"
+    ],
+    "id": 2900,
+    "pergunta": "Quem investigou a reclamação contra a reconstrução do templo no governo de Dario?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 5:3"
+  },
+  {
+    "explicacao": "Esdras reuniu o povo junto ao rio Aava e proclamou um jejum para buscar a proteção de Deus durante a viagem.",
+    "alternativas": [
+      "Jejuou e buscou ao Senhor",
+      "Formou um exército de soldados",
+      "Pediu ajuda aos inimigos",
+      "Construiu uma fortaleza"
+    ],
+    "id": 2901,
+    "pergunta": "O que Esdras fez antes de conduzir o povo na viagem para Jerusalém?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 8:21-23"
+  },
+  {
+    "explicacao": "Esdras separou sacerdotes para levarem os utensílios de prata e ouro destinados ao templo.",
+    "alternativas": [
+      "Entregar os utensílios aos reis persas",
+      "Guardar os utensílios para uso no templo",
+      "Vender os utensílios em Babilônia",
+      "Esconder os objetos no deserto"
+    ],
+    "id": 2902,
+    "pergunta": "Qual era a responsabilidade dos sacerdotes durante a viagem de retorno?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 8:24-30"
+  },
+  {
+    "explicacao": "Ao chegar a Jerusalém, os exilados ofereceram sacrifícios ao Deus de Israel.",
+    "alternativas": [
+      "Ofereceram holocaustos ao Senhor",
+      "Construíram um palácio",
+      "Escolheram um novo rei",
+      "Declararam guerra aos povos vizinhos"
+    ],
+    "id": 2903,
+    "pergunta": "O que os judeus fizeram depois de chegarem a Jerusalém?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 8:35"
+  },
+  {
+    "explicacao": "Os líderes informaram a Esdras que muitos israelitas haviam se misturado com povos estrangeiros através de casamentos.",
+    "alternativas": [
+      "Tinham abandonado Jerusalém",
+      "Tinham se casado com mulheres de outros povos",
+      "Tinham destruído o templo",
+      "Tinham rejeitado Zorobabel"
+    ],
+    "id": 2904,
+    "pergunta": "Qual pecado foi comunicado a Esdras após sua chegada?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 9:1-2"
+  },
+  {
+    "explicacao": "Esdras demonstrou profundo arrependimento diante do pecado do povo.",
+    "alternativas": [
+      "Rasgou suas vestes e arrancou cabelos da cabeça",
+      "Fugiu para a Pérsia",
+      "Começou uma guerra",
+      "Abandonou seu sacerdócio"
+    ],
+    "id": 2905,
+    "pergunta": "Qual foi a reação de Esdras ao ouvir sobre a infidelidade do povo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 9:3"
+  },
+  {
+    "explicacao": "Esdras orou reconhecendo a culpa do povo e a misericórdia de Deus.",
+    "alternativas": [
+      "Uma oração de confissão pelos pecados de Israel",
+      "Uma oração pedindo riquezas",
+      "Uma oração pedindo vitória militar",
+      "Uma oração de coroação de um rei"
+    ],
+    "id": 2906,
+    "pergunta": "Que tipo de oração Esdras fez diante de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 9:5-15"
+  },
+  {
+    "explicacao": "Secanias reconheceu o pecado do povo e propôs uma aliança para obedecer à Lei.",
+    "alternativas": [
+      "Secanias, filho de Jeiel",
+      "Zorobabel",
+      "Josué, filho de Jozadaque",
+      "Ageu"
+    ],
+    "id": 2907,
+    "pergunta": "Quem sugeriu que o povo fizesse uma aliança com Deus para corrigir o pecado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 10:2-3"
+  },
+  {
+    "explicacao": "O povo decidiu obedecer à orientação de Esdras e resolver a situação conforme a Lei.",
+    "alternativas": [
+      "Fazer uma aliança e obedecer à Lei de Deus",
+      "Voltar para Babilônia",
+      "Construir outro templo",
+      "Escolher um novo líder"
+    ],
+    "id": 2908,
+    "pergunta": "Qual decisão o povo tomou após ouvir Esdras?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 10:3-4"
+  },
+  {
+    "explicacao": "Esdras fez os líderes jurarem cumprir a decisão tomada diante de Deus.",
+    "alternativas": [
+      "Fez os sacerdotes e líderes jurarem cumprir a palavra",
+      "Mandou todos deixarem Jerusalém",
+      "Escolheu novos reis",
+      "Cancelou a reconstrução"
+    ],
+    "id": 2909,
+    "pergunta": "O que Esdras fez depois de receber apoio do povo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 10:5"
+  },
+  {
+    "explicacao": "O livro termina mostrando uma restauração espiritual através do retorno à obediência à Palavra de Deus.",
+    "alternativas": [
+      "A restauração do templo e a renovação da aliança com Deus",
+      "A criação de um novo império",
+      "A conquista militar de outras nações",
+      "A mudança da capital para Babilônia"
+    ],
+    "id": 2910,
+    "pergunta": "Qual é a principal mensagem espiritual do livro de Esdras?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 10:10-12"
+  },
+  {
+    "explicacao": "Ciro reconheceu que Deus havia lhe dado autoridade e permitiu que os judeus voltassem para reconstruir o templo.",
+    "alternativas": [
+      "Porque queria conquistar Judá novamente",
+      "Porque Deus despertou seu coração para cumprir Sua palavra",
+      "Porque os judeus pagaram uma grande recompensa",
+      "Porque desejava destruir a Babilônia"
+    ],
+    "id": 2911,
+    "pergunta": "Por que Ciro permitiu que os judeus retornassem a Jerusalém?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1:1-3"
+  },
+  {
+    "explicacao": "Os utensílios que Nabucodonosor havia levado do templo foram entregues novamente para o retorno dos judeus.",
+    "alternativas": [
+      "Utensílios da casa do Senhor",
+      "Armas do exército de Judá",
+      "Coroas dos reis",
+      "Riquezas dos sacerdotes"
+    ],
+    "id": 2912,
+    "pergunta": "O que Sesbazar recebeu de Ciro para levar a Jerusalém?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1:7-8"
+  },
+  {
+    "explicacao": "O primeiro retorno foi liderado por Zorobabel, descendente da linhagem real de Judá.",
+    "alternativas": [
+      "Esdras",
+      "Zorobabel",
+      "Neemias",
+      "Ageu"
+    ],
+    "id": 2913,
+    "pergunta": "Quem liderou o primeiro grupo de judeus que voltou do exílio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 2:1-2"
+  },
+  {
+    "explicacao": "Antes da construção do templo, o povo restaurou a adoração ao Senhor levantando o altar.",
+    "alternativas": [
+      "Construíram os muros",
+      "Levantaram o altar do Senhor",
+      "Construíram um palácio",
+      "Escolheram um novo rei"
+    ],
+    "id": 2914,
+    "pergunta": "Qual foi a primeira obra religiosa feita pelos judeus ao chegar em Jerusalém?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 3:2"
+  },
+  {
+    "explicacao": "Os inimigos tentaram se unir ao povo, mas foram rejeitados porque não adoravam ao mesmo Deus.",
+    "alternativas": [
+      "Queriam ajudar na reconstrução",
+      "Queriam participar da adoração sem compromisso verdadeiro",
+      "Queriam entregar riquezas",
+      "Queriam proteger Jerusalém"
+    ],
+    "id": 2915,
+    "pergunta": "Por que Zorobabel recusou a ajuda dos povos da terra na construção do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 4:1-3"
+  },
+  {
+    "explicacao": "Os adversários escreveram acusações contra os judeus aos reis persas para impedir a obra.",
+    "alternativas": [
+      "Usaram acusações e cartas contra Jerusalém",
+      "Destruíram imediatamente o templo",
+      "Expulsaram os sacerdotes",
+      "Roubaram a arca da aliança"
+    ],
+    "id": 2916,
+    "pergunta": "Como os inimigos tentaram impedir a reconstrução do templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 4:4-6"
+  },
+  {
+    "explicacao": "Os profetas Ageu e Zacarias fortaleceram o povo para continuar a obra de Deus.",
+    "alternativas": [
+      "Ageu e Zacarias",
+      "Isaías e Jeremias",
+      "Daniel e Ezequiel",
+      "Elias e Eliseu"
+    ],
+    "id": 2917,
+    "pergunta": "Quais profetas incentivaram Zorobabel e o povo a reconstruir o templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 5:1-2"
+  },
+  {
+    "explicacao": "Dario pesquisou os registros e encontrou o decreto de Ciro autorizando a reconstrução.",
+    "alternativas": [
+      "Mandou destruir o templo",
+      "Encontrou o decreto de Ciro e confirmou a obra",
+      "Expulsou os judeus",
+      "Prendeu Zorobabel"
+    ],
+    "id": 2918,
+    "pergunta": "O que Dario fez após investigar o decreto sobre o templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 6:1-12"
+  },
+  {
+    "explicacao": "Esdras era sacerdote e escriba especializado na Lei de Moisés.",
+    "alternativas": [
+      "General do exército persa",
+      "Sacerdote e escriba da Lei",
+      "Governador de Jerusalém",
+      "Construtor do templo"
+    ],
+    "id": 2919,
+    "pergunta": "Qual era a função principal de Esdras?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 7:6"
+  },
+  {
+    "explicacao": "Esdras dedicou sua vida a estudar, praticar e ensinar a Palavra de Deus.",
+    "alternativas": [
+      "Buscar, cumprir e ensinar a Lei do Senhor",
+      "Conquistar novos territórios",
+      "Construir fortalezas",
+      "Formar um exército"
+    ],
+    "id": 2920,
+    "pergunta": "Qual propósito Esdras colocou em seu coração?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 7:10"
+  },
+  {
+    "explicacao": "Os povos que habitavam a região tentaram desanimar e impedir a reconstrução do templo.",
+    "alternativas": [
+      "Os egípcios",
+      "Os povos da terra",
+      "Os romanos",
+      "Os moabitas"
+    ],
+    "id": 2921,
+    "pergunta": "Quem tentou impedir a reconstrução do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 4:4"
+  },
+  {
+    "explicacao": "Artaxerxes recebeu uma acusação contra os judeus e ordenou a interrupção da obra.",
+    "alternativas": [
+      "Artaxerxes",
+      "Davi",
+      "Saul",
+      "Ezequias"
+    ],
+    "id": 2922,
+    "pergunta": "Qual rei ordenou a paralisação da obra do templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 4:7-23"
+  },
+  {
+    "explicacao": "Ageu e Zacarias foram usados por Deus para fortalecer o povo na reconstrução.",
+    "alternativas": [
+      "Isaías e Jeremias",
+      "Ageu e Zacarias",
+      "Elias e Eliseu",
+      "Daniel e Ezequiel"
+    ],
+    "id": 2923,
+    "pergunta": "Quais profetas incentivaram o povo a continuar a reconstrução?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 5:1"
+  },
+  {
+    "explicacao": "O rei Dario confirmou o decreto que autorizava a continuidade da reconstrução do templo.",
+    "alternativas": [
+      "Dario",
+      "Ciro",
+      "Nabucodonosor",
+      "Herodes"
+    ],
+    "id": 2924,
+    "pergunta": "Qual rei confirmou a ordem para reconstruir o templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 6:6-12"
+  },
+  {
+    "explicacao": "Quando o templo foi concluído, os israelitas celebraram com alegria a restauração da casa de Deus.",
+    "alternativas": [
+      "O povo celebrou com alegria",
+      "O povo abandonou Jerusalém",
+      "O templo foi destruído",
+      "O povo voltou para a Babilônia"
+    ],
+    "id": 2925,
+    "pergunta": "O que aconteceu quando o templo foi terminado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 6:16"
+  },
+  {
+    "explicacao": "Esdras chegou a Jerusalém liderando outro grupo de pessoas que retornavam do exílio.",
+    "alternativas": [
+      "Esdras",
+      "Zorobabel",
+      "Ciro",
+      "Dario"
+    ],
+    "id": 2926,
+    "pergunta": "Quem chegou a Jerusalém depois com outro grupo de exilados?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 7:6"
+  },
+  {
+    "explicacao": "Esdras era sacerdote e escriba, conhecedor da Lei de Moisés.",
+    "alternativas": [
+      "Guerreiro",
+      "Escriba e sacerdote",
+      "Rei",
+      "Construtor"
+    ],
+    "id": 2927,
+    "pergunta": "Qual era a função de Esdras?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 7:11"
+  },
+  {
+    "explicacao": "Esdras dedicou sua vida a conhecer, praticar e ensinar a Lei do Senhor.",
+    "alternativas": [
+      "Construir um exército",
+      "Buscar prata e ouro",
+      "Buscar, cumprir e ensinar a Lei do Senhor",
+      "Tornar-se rei"
+    ],
+    "id": 2928,
+    "pergunta": "O que Esdras tinha preparado em seu coração?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 7:10"
+  },
+  {
+    "explicacao": "Esdras demonstrou tristeza e arrependimento ao perceber os pecados cometidos pelo povo.",
+    "alternativas": [
+      "Fugiu da cidade",
+      "Rasgou suas vestes e orou ao Senhor",
+      "Fez uma guerra",
+      "Deixou o povo sozinho"
+    ],
+    "id": 2929,
+    "pergunta": "O que Esdras fez quando soube dos pecados do povo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 9:3-5"
+  },
+  {
+    "explicacao": "O livro de Esdras destaca a restauração do povo, do templo e da adoração ao Senhor após o exílio.",
+    "alternativas": [
+      "A restauração do povo e da adoração a Deus após o exílio",
+      "A conquista de novos territórios",
+      "A formação de um novo império",
+      "A construção de palácios"
+    ],
+    "id": 2930,
+    "pergunta": "Qual é uma das principais mensagens do livro de Esdras?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 6:16-18"
+  },
+  {
+    "explicacao": "Esdras é apresentado como sacerdote e escriba, sendo um dos principais personagens do livro.",
+    "alternativas": [
+      "Neemias",
+      "Esdras",
+      "Zorobabel",
+      "Josué"
+    ],
+    "id": 2931,
+    "pergunta": "Quem é o personagem principal do livro de Esdras?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 7:1-6"
+  },
+  {
+    "explicacao": "Após o exílio babilônico, os judeus receberam permissão para retornar à sua terra.",
+    "alternativas": [
+      "Egípcios",
+      "Romanos",
+      "Judeus que estavam no exílio da Babilônia",
+      "Filisteus"
+    ],
+    "id": 2932,
+    "pergunta": "Qual povo retornou para Jerusalém no livro de Esdras?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1:1-3"
+  },
+  {
+    "explicacao": "Ciro, rei da Pérsia, permitiu que os judeus voltassem e reconstruíssem o templo.",
+    "alternativas": [
+      "Nabucodonosor",
+      "Ciro, rei da Pérsia",
+      "Dario",
+      "Herodes"
+    ],
+    "id": 2933,
+    "pergunta": "Qual rei permitiu que os judeus voltassem para Jerusalém?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1:1-2"
+  },
+  {
+    "explicacao": "O decreto de Ciro permitiu o retorno dos judeus para Jerusalém.",
+    "alternativas": [
+      "Samaria",
+      "Egito",
+      "Jerusalém",
+      "Babilônia"
+    ],
+    "id": 2934,
+    "pergunta": "Para onde os judeus voltaram depois do exílio?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1:3"
+  },
+  {
+    "explicacao": "O principal objetivo do retorno era restaurar a adoração a Deus por meio da reconstrução do templo.",
+    "alternativas": [
+      "O palácio do rei",
+      "Os muros da cidade",
+      "O templo do Senhor",
+      "Uma fortaleza militar"
+    ],
+    "id": 2935,
+    "pergunta": "O que os judeus foram autorizados a reconstruir?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1:2-3"
+  },
+  {
+    "explicacao": "Zorobabel liderou o primeiro grupo de judeus que retornou do exílio.",
+    "alternativas": [
+      "Esdras",
+      "Zorobabel",
+      "Neemias",
+      "Mordecai"
+    ],
+    "id": 2936,
+    "pergunta": "Quem liderou o primeiro grupo de retorno a Jerusalém?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 2:2"
+  },
+  {
+    "explicacao": "Josué, filho de Jozadaque, serviu como sacerdote junto ao povo que voltou.",
+    "alternativas": [
+      "Josué, filho de Jozadaque",
+      "Arão",
+      "Eli",
+      "Samuel"
+    ],
+    "id": 2937,
+    "pergunta": "Quem era o sacerdote que voltou com Zorobabel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 3:2"
+  },
+  {
+    "explicacao": "Antes de reconstruir o templo, o povo restaurou o altar para oferecer sacrifícios ao Senhor.",
+    "alternativas": [
+      "Construiu casas",
+      "Reconstruiu os muros",
+      "Levantou o altar do Senhor",
+      "Escolheu um rei"
+    ],
+    "id": 2938,
+    "pergunta": "O que o povo fez primeiro ao chegar em Jerusalém?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 3:2-3"
+  },
+  {
+    "explicacao": "Depois da reconstrução do altar, o povo celebrou a Páscoa ao Senhor.",
+    "alternativas": [
+      "A Páscoa",
+      "O Pentecostes",
+      "A Festa das Trombetas",
+      "O Jubileu"
+    ],
+    "id": 2939,
+    "pergunta": "O que os israelitas celebraram depois de reconstruir o altar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 6:19"
+  },
+  {
+    "explicacao": "Após o altar, começou a reconstrução do templo do Senhor em Jerusalém.",
+    "alternativas": [
+      "A reconstrução do templo",
+      "A construção do palácio",
+      "A construção dos muros",
+      "A construção de uma torre"
+    ],
+    "id": 2940,
+    "pergunta": "Qual construção começou depois do altar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 3:8"
+  },
+  {
+    "explicacao": "O livro de Esdras detalha os primeiros grupos que retornaram a Jerusalém para reconstruir a casa de Deus.",
+    "alternativas": [
+      "Esdras",
+      "Neemias",
+      "Ageu",
+      "Zacarias"
+    ],
+    "id": 2941,
+    "pergunta": "Qual livro conta a história da reconstrução do Templo de Jerusalém após o exílio babilônico?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1-6"
+  },
+  {
+    "explicacao": "Cumprindo a palavra profética de Jeremias, o rei Ciro, o Grande, decretou a repatriação dos judeus no primeiro ano do seu reinado.",
+    "alternativas": [
+      "Dário",
+      "Xerxes",
+      "Artaxerxes",
+      "Ciro"
+    ],
+    "id": 2942,
+    "pergunta": "Quem foi o rei persa que assinou o decreto permitindo que os judeus voltassem e reconstruíssem o Templo?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "Esdras",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1:1-2"
+  }
+]

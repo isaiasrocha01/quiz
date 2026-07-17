@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 4273,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "O que significa a expressão 'semeiam vento e segarão tormenta'?",
+    "alternativas": [
+      "Israel teria boas colheitas",
+      "Deus abençoaria todos os planos do povo",
+      "As ações pecaminosas de Israel trariam consequências destrutivas",
+      "A agricultura seria restaurada"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 8:7",
+    "explicacao": "A expressão mostra que as escolhas erradas de Israel produziriam consequências graves."
+  },
+  {
+    "id": 4274,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Por que Deus rejeitou o bezerro de Samaria?",
+    "alternativas": [
+      "Porque era feito de madeira",
+      "Porque era pequeno demais",
+      "Porque era um ídolo feito por homens, não o verdadeiro Deus",
+      "Porque estava fora do templo"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 8:5-6",
+    "explicacao": "O bezerro representava a idolatria de Israel e sua rejeição ao verdadeiro Deus."
+  },
+  {
+    "id": 4275,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual pecado de Israel é comparado à prostituição espiritual?",
+    "alternativas": [
+      "Construir cidades",
+      "Fazer comércio",
+      "Buscar outros deuses e abandonar o Senhor",
+      "Não possuir reis"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 9:1",
+    "explicacao": "A idolatria é apresentada como infidelidade contra Deus, semelhante à infidelidade conjugal."
+  },
+  {
+    "id": 4276,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "O que aconteceu com Israel por causa da sua rejeição a Deus?",
+    "alternativas": [
+      "Recebeu mais riquezas",
+      "Tornou-se mais poderoso",
+      "Seria levado ao exílio entre as nações",
+      "Dominaria seus inimigos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 9:3",
+    "explicacao": "A desobediência de Israel resultaria em julgamento e exílio."
+  },
+  {
+    "id": 4277,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual comparação Deus usa para falar do cuidado que teve com Efraim?",
+    "alternativas": [
+      "Como um rei com seu exército",
+      "Como um agricultor com sua plantação",
+      "Como alguém que ensina uma criança a andar",
+      "Como um juiz com um condenado"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 11:3",
+    "explicacao": "Deus descreve seu cuidado paternal ao ensinar e conduzir Efraim."
+  },
+  {
+    "id": 4278,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual pergunta revela a profunda compaixão de Deus por Israel?",
+    "alternativas": [
+      "Quem vencerá Israel?",
+      "Onde está o seu rei?",
+      "Como te deixaria, ó Efraim?",
+      "Por que construíram cidades?"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 11:8",
+    "explicacao": "A pergunta demonstra a misericórdia e o amor de Deus mesmo diante da infidelidade do povo."
+  },
+  {
+    "id": 4279,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "O que Deus prometeu ser para Israel no capítulo 14?",
+    "alternativas": [
+      "Um guerreiro contra todas as nações",
+      "Um rei humano",
+      "Como orvalho para Israel, trazendo vida e restauração",
+      "Um juiz sem misericórdia"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 14:5",
+    "explicacao": "O orvalho representa a renovação, bênção e restauração que Deus concederia ao povo arrependido."
+  },
+  {
+    "id": 4280,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual fruto espiritual aparece como resultado da restauração de Israel?",
+    "alternativas": [
+      "Poder militar",
+      "Riqueza material",
+      "Frutos de justiça e louvor a Deus",
+      "Domínio sobre outros povos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 14:8",
+    "explicacao": "A restauração produz uma vida voltada para Deus, com frutos espirituais."
+  },
+  {
+    "id": 4281,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual contraste aparece no final do livro de Oséias?",
+    "alternativas": [
+      "Rico e pobre",
+      "Israel e Egito",
+      "O sábio entende os caminhos do Senhor, mas os rebeldes tropeçam neles",
+      "Rei e servo"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 14:9",
+    "explicacao": "O final do livro destaca que os caminhos de Deus são compreendidos pelos justos, mas rejeitados pelos rebeldes."
+  },
+  {
+    "id": 4282,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a grande mensagem do livro de Oséias em nível profético?",
+    "alternativas": [
+      "A força de Israel vencerá todas as nações",
+      "Deus abandonou completamente seu povo",
+      "Mesmo diante da infidelidade humana, Deus oferece amor, disciplina e restauração ao arrependido",
+      "Apenas os sacrifícios podem salvar"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 2:19-20; 14:4-9",
+    "explicacao": "A mensagem central de Oséias é o amor fiel de Deus, que disciplina, chama ao arrependimento e restaura seu povo."
+  },
+  {
+    "id": 4283,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era o propósito simbólico do casamento de Oséias com Gômer?",
+    "alternativas": [
+      "Mostrar a riqueza dos profetas",
+      "Ensinar sobre a formação de uma família",
+      "Representar a infidelidade de Israel e o amor fiel de Deus",
+      "Representar a conquista de Canaã"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:2",
+    "explicacao": "O casamento de Oséias com Gômer simbolizava a infidelidade espiritual de Israel e o amor perseverante de Deus pelo seu povo."
+  },
+  {
+    "id": 4284,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "O que o nome Jezreel lembrava na mensagem profética de Oséias?",
+    "alternativas": [
+      "A vitória de Israel sobre os filisteus",
+      "A construção de Jerusalém",
+      "O julgamento da casa de Jeú pelo sangue derramado em Jezreel",
+      "A libertação do Egito"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:4",
+    "explicacao": "O nome Jezreel apontava para o julgamento da dinastia de Jeú pelo derramamento de sangue em Jezreel."
+  },
+  {
+    "id": 4285,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual promessa futura é associada ao nome Lo-Ami?",
+    "alternativas": [
+      "Israel seria destruído completamente",
+      "Judá governaria para sempre",
+      "A restauração da relação: vós sois filhos do Deus vivo",
+      "O fim da aliança de Deus"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:10",
+    "explicacao": "Deus prometeu restaurar o relacionamento com seu povo, chamando novamente Israel de filhos do Deus vivo."
+  },
+  {
+    "id": 4286,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "O que significa a expressão 'farei cessar os nomes dos baalins de sua boca'?",
+    "alternativas": [
+      "Deus mudaria os nomes dos reis",
+      "Israel esqueceria sua história",
+      "Deus removeria a idolatria do meio do povo",
+      "Deus destruiria todas as nações"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 2:17",
+    "explicacao": "Deus prometeu retirar a idolatria e restaurar a verdadeira adoração."
+  },
+  {
+    "id": 4287,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual mudança de relacionamento Deus prometeu a Israel em Oséias 2?",
+    "alternativas": [
+      "De servo para escravo",
+      "De inimigo para rei",
+      "De 'meu senhor' para 'meu marido', indicando restauração da aliança",
+      "De povo para estrangeiro"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 2:16",
+    "explicacao": "A mudança simboliza uma relação restaurada baseada em amor e aliança."
+  },
+  {
+    "id": 4288,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Por quantos dias Oséias deveria esperar por Gômer depois de comprá-la?",
+    "alternativas": [
+      "3 dias",
+      "7 dias",
+      "Muitos dias",
+      "40 dias"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 3:3",
+    "explicacao": "O período representava o tempo de disciplina e restauração pelo qual Israel passaria."
+  },
+  {
+    "id": 4289,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "O que simbolizava o período em que Israel ficaria sem rei, sacerdote e sacrifício?",
+    "alternativas": [
+      "Vitória sobre seus inimigos",
+      "Um novo período de prosperidade",
+      "Um tempo de disciplina e afastamento espiritual",
+      "A conquista imediata de Canaã"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 3:4",
+    "explicacao": "Israel passaria por um período de disciplina por causa do afastamento de Deus."
+  },
+  {
+    "id": 4290,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era o conhecimento que faltava ao povo segundo Oséias 4:1?",
+    "alternativas": [
+      "Conhecimento de guerra",
+      "Conhecimento de agricultura",
+      "Conhecimento de Deus e sua verdade",
+      "Conhecimento das nações"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 4:1,6",
+    "explicacao": "A falta de conhecimento de Deus levou Israel à destruição espiritual."
+  },
+  {
+    "id": 4291,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "O que os sacerdotes fizeram com o pecado do povo, segundo Oséias?",
+    "alternativas": [
+      "Rejeitaram completamente",
+      "Corrigiram o povo",
+      "Alimentaram-se do pecado do povo e desejavam sua iniquidade",
+      "Fugiram para o deserto"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 4:8",
+    "explicacao": "Os sacerdotes se beneficiavam dos pecados do povo em vez de conduzi-los ao arrependimento."
+  },
+  {
+    "id": 4292,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual metáfora Oséias usa para descrever Israel buscando ajuda de outras nações?",
+    "alternativas": [
+      "Um cavalo sem cavaleiro",
+      "Uma árvore seca",
+      "Uma pomba enganada, indo ao Egito e à Assíria",
+      "Um navio perdido"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 7:11",
+    "explicacao": "Israel buscava alianças humanas e era comparado a uma pomba simples e enganada."
+  },
+  {
+    "id": 4293,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era o propósito simbólico do casamento de Oséias com Gômer?",
+    "alternativas": [
+      "Mostrar a prosperidade de Israel",
+      "Representar a relação de Deus com Israel infiel",
+      "Ensinar sobre as leis do casamento",
+      "Demonstrar a importância da família"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Oséias 1:2",
+    "explicacao": "O casamento de Oséias representava a infidelidade de Israel para com Deus e o amor fiel do Senhor pelo seu povo."
+  },
+  {
+    "id": 4294,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era o significado do nome Jezreel na mensagem profética de Oséias?",
+    "alternativas": [
+      "Deus destruirá completamente Israel",
+      "Deus lembrará da aliança",
+      "Deus plantará novamente",
+      "Deus libertará os inimigos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Oséias 1:4-5",
+    "explicacao": "Jezreel anunciava o julgamento sobre a casa de Jeú pelo sangue derramado em Jezreel."
+  },
+  {
+    "id": 4295,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual foi a mensagem espiritual do nome Lo-Ruama?",
+    "alternativas": [
+      "Israel seria exaltado",
+      "Deus não demonstraria misericórdia naquele momento",
+      "O povo teria grande prosperidade",
+      "Judá seria destruído para sempre"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Oséias 1:6",
+    "explicacao": "Lo-Ruama significa 'não compadecida', indicando o julgamento temporário sobre Israel."
+  },
+  {
+    "id": 4296,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "O que significava o nome Lo-Ami?",
+    "alternativas": [
+      "Não meu povo",
+      "Meu povo fiel",
+      "Povo escolhido",
+      "Povo vencedor"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Oséias 1:9",
+    "explicacao": "Lo-Ami representava a quebra temporária da comunhão entre Deus e Israel devido à infidelidade."
+  },
+  {
+    "id": 4297,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a principal acusação de Deus contra Israel em Oséias 4?",
+    "alternativas": [
+      "Falta de conhecimento de Deus, mentira e idolatria",
+      "Falta de soldados para guerras",
+      "Ausência de riquezas",
+      "Falta de cidades fortificadas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Oséias 4:1-6",
+    "explicacao": "Israel havia abandonado o conhecimento de Deus e seguido caminhos de idolatria e injustiça."
+  },
+  {
+    "id": 4298,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual frase resume a causa da destruição de Israel segundo Oséias?",
+    "alternativas": [
+      "Meu povo foi destruído porque lhe faltou conhecimento",
+      "Meu povo perdeu suas guerras",
+      "Meu povo ficou sem riquezas",
+      "Meu povo não tinha reis"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Oséias 4:6",
+    "explicacao": "A falta de conhecimento de Deus levou o povo ao afastamento espiritual."
+  },
+  {
+    "id": 4299,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Qual imagem Oséias usa para descrever Israel buscando ajuda da Assíria e do Egito?",
+    "alternativas": [
+      "Uma águia ferida",
+      "Uma pomba enganada",
+      "Um leão sem força",
+      "Uma árvore seca"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Oséias 7:11",
+    "explicacao": "Israel é comparado a uma pomba simples e enganada por buscar alianças humanas."
+  },
+  {
+    "id": 4300,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "O que Deus disse que desejava mais do que sacrifícios?",
+    "alternativas": [
+      "Grandes construções",
+      "Muitos sacerdotes",
+      "Misericórdia e conhecimento de Deus",
+      "Riquezas para o templo"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 6:6",
+    "explicacao": "Deus valorizava um relacionamento verdadeiro baseado em amor e conhecimento, não apenas rituais."
+  },
+  {
+    "id": 4301,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "O que Israel semeou segundo Oséias 8:7?",
+    "alternativas": [
+      "Justiça e paz",
+      "Vento e colheria tempestade",
+      "Riqueza e segurança",
+      "Honra e vitória"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Oséias 8:7",
+    "explicacao": "As escolhas erradas de Israel trariam consequências maiores, comparadas a colher uma tempestade."
+  },
+  {
+    "id": 4302,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Difícil",
+    "pergunta": "Como Deus demonstrou seu amor por Israel em Oséias 11?",
+    "alternativas": [
+      "Como um pai que ensina e cuida de seu filho",
+      "Como um rei distante",
+      "Como um guerreiro sem compaixão",
+      "Como um juiz sem misericórdia"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Oséias 11:1-4",
+    "explicacao": "Deus é apresentado como Pai amoroso que guiou e cuidou de Israel."
+  },
+  {
+    "id": 4303,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Médio",
+    "pergunta": "Qual era o significado profético do nome do filho de Oséias chamado Jezreel?",
+    "alternativas": [
+      "Deus salvará Israel.",
+      "Deus dará uma nova aliança.",
+      "Deus julgaria a casa de Jeú pelo sangue derramado em Jezreel.",
+      "Deus aumentará a prosperidade de Israel."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:4-5",
+    "explicacao": "O nome Jezreel lembrava o juízo de Deus sobre a casa de Jeú pelo sangue derramado naquele lugar."
+  },
+  {
+    "id": 4304,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Médio",
+    "pergunta": "Qual promessa Deus fez sobre Lo-Ruama?",
+    "alternativas": [
+      "Nunca mais teria filhos.",
+      "Seria uma grande rainha.",
+      "Deus voltaria a demonstrar misericórdia para com Israel.",
+      "Seria levada para o Egito."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:6-7",
+    "explicacao": "Apesar do julgamento, Deus prometeu demonstrar misericórdia novamente ao seu povo."
+  },
+  {
+    "id": 4305,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Médio",
+    "pergunta": "O que representava o nome Lo-Ami?",
+    "alternativas": [
+      "Israel seria uma grande nação.",
+      "Judá seria destruído.",
+      "A ruptura temporária da relação entre Deus e Israel por causa da infidelidade.",
+      "O fim da promessa de Deus."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:9",
+    "explicacao": "Lo-Ami significa 'não meu povo', mostrando a consequência da infidelidade de Israel."
+  },
+  {
+    "id": 4306,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Médio",
+    "pergunta": "Qual promessa de restauração aparece após o julgamento de Israel?",
+    "alternativas": [
+      "Israel nunca mais existiria.",
+      "Apenas Judá seria salvo.",
+      "Os filhos de Israel seriam chamados novamente de filhos do Deus vivo.",
+      "Israel dominaria todas as nações."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:10",
+    "explicacao": "Deus prometeu restaurar a identidade e o relacionamento com seu povo."
+  },
+  {
+    "id": 4307,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Médio",
+    "pergunta": "Como Deus descreveu a infidelidade de Israel em Oséias 2?",
+    "alternativas": [
+      "Como uma guerra perdida.",
+      "Como uma doença.",
+      "Como uma esposa que abandona seu marido.",
+      "Como uma cidade destruída."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 2:2",
+    "explicacao": "A infidelidade de Israel é comparada ao adultério espiritual de uma esposa contra seu marido."
+  },
+  {
+    "id": 4308,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Médio",
+    "pergunta": "O que Deus prometeu fazer com o vale de Acor?",
+    "alternativas": [
+      "Torná-lo um deserto permanente.",
+      "Usá-lo como lugar de guerra.",
+      "Transformá-lo em porta de esperança.",
+      "Entregá-lo aos inimigos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 2:15",
+    "explicacao": "Deus prometeu transformar um lugar associado à tristeza em símbolo de esperança e restauração."
+  },
+  {
+    "id": 4309,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Médio",
+    "pergunta": "Qual era a acusação principal de Deus contra Israel em Oséias 4?",
+    "alternativas": [
+      "Falta de armas.",
+      "Falta de território.",
+      "Falta de conhecimento de Deus, mentira e idolatria.",
+      "Falta de reis."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 4:1-6",
+    "explicacao": "Israel havia abandonado o conhecimento de Deus e praticava injustiça e idolatria."
+  },
+  {
+    "id": 4310,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Médio",
+    "pergunta": "Segundo Oséias 4:6, quem seria rejeitado por rejeitar o conhecimento?",
+    "alternativas": [
+      "O povo comum.",
+      "Os estrangeiros.",
+      "Os sacerdotes.",
+      "Os reis de outras nações."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 4:6",
+    "explicacao": "Os sacerdotes são mencionados por rejeitarem o conhecimento e ensinarem de forma errada."
+  },
+  {
+    "id": 4311,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Médio",
+    "pergunta": "Qual comparação Oséias usa para mostrar a instabilidade de Israel?",
+    "alternativas": [
+      "Uma pedra no deserto.",
+      "Uma árvore sem raízes.",
+      "Um bolo que não foi virado.",
+      "Uma casa sem portas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 7:8",
+    "explicacao": "A comparação mostra que Israel estava incompleto, misturado e espiritualmente desequilibrado."
+  },
+  {
+    "id": 4312,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Médio",
+    "pergunta": "O que significa a comparação de Israel com um \"bolo que não foi virado\"?",
+    "alternativas": [
+      "Que Israel era rico.",
+      "Que Israel era forte.",
+      "Que Israel estava misturado e sem equilíbrio espiritual.",
+      "Que Israel era um povo unido."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 7:8",
+    "explicacao": "A imagem representa um povo que não estava totalmente preparado nem dedicado ao Senhor."
+  },
+  {
+    "id": 4313,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus desejava mais do seu povo?",
+    "alternativas": [
+      "Muitos sacrifícios.",
+      "Grandes construções.",
+      "Misericórdia e conhecimento de Deus.",
+      "Riquezas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 6:6",
+    "explicacao": "Deus mostrou que desejava um relacionamento sincero, com amor e conhecimento, mais do que rituais sem coração."
+  },
+  {
+    "id": 4314,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Qual frase mostra a falta de conhecimento espiritual de Israel?",
+    "alternativas": [
+      "Meu povo é forte.",
+      "Meu povo é rico.",
+      "O meu povo foi destruído porque lhe faltou conhecimento.",
+      "Meu povo venceu."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 4:6",
+    "explicacao": "Israel sofreu porque rejeitou o conhecimento de Deus e abandonou seus ensinamentos."
+  },
+  {
+    "id": 4315,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Qual reino de Israel é frequentemente repreendido por Oséias?",
+    "alternativas": [
+      "Reino de Judá.",
+      "Reino do Egito.",
+      "Reino do Norte (Israel).",
+      "Reino da Babilônia."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:4",
+    "explicacao": "O ministério de Oséias foi principalmente direcionado ao Reino do Norte, chamado Israel."
+  },
+  {
+    "id": 4316,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "O que Israel fazia ao se afastar de Deus?",
+    "alternativas": [
+      "Buscava somente a Lei.",
+      "Construía cidades.",
+      "Adorava outros deuses.",
+      "Protegia os profetas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 4:17",
+    "explicacao": "Israel abandonou o Senhor e se voltou para a idolatria."
+  },
+  {
+    "id": 4317,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Qual animal é usado para comparar Israel em sua busca por alianças?",
+    "alternativas": [
+      "Leão.",
+      "Cordeiro.",
+      "Pomba enganada.",
+      "Águia."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 7:11",
+    "explicacao": "Israel é comparado a uma pomba sem entendimento por buscar ajuda em outras nações."
+  },
+  {
+    "id": 4318,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus prometeu fazer se Israel se arrependesse?",
+    "alternativas": [
+      "Destruir o povo.",
+      "Retirar sua presença.",
+      "Restaurar e curar sua infidelidade.",
+      "Levá-lo ao Egito."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 14:4",
+    "explicacao": "Deus prometeu cura e restauração para aqueles que voltassem sinceramente para Ele."
+  },
+  {
+    "id": 4319,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Como Deus é descrito em Oséias 11?",
+    "alternativas": [
+      "Como um guerreiro distante.",
+      "Como um juiz sem amor.",
+      "Como um pai que ama seu filho.",
+      "Como um rei estrangeiro."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 11:1-4",
+    "explicacao": "Deus é apresentado como um Pai amoroso que cuidou de Israel desde sua juventude."
+  },
+  {
+    "id": 4320,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus disse que queria colocar no coração do povo?",
+    "alternativas": [
+      "Medo dos inimigos.",
+      "Riqueza e poder.",
+      "Amor e fidelidade.",
+      "Desejo de guerra."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 2:19-20",
+    "explicacao": "Deus desejava estabelecer uma aliança baseada em amor, justiça e fidelidade."
+  },
+  {
+    "id": 4321,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi a mensagem final de Oséias para Israel?",
+    "alternativas": [
+      "Permanecer na idolatria.",
+      "Buscar alianças humanas.",
+      "Voltar para o Senhor e andar em seus caminhos.",
+      "Abandonar a terra."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 14:1-9",
+    "explicacao": "O profeta chamou Israel ao arrependimento e ao retorno para Deus."
+  },
+  {
+    "id": 4322,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Qual é o principal tema do livro de Oséias?",
+    "alternativas": [
+      "A construção do templo.",
+      "As guerras de Israel.",
+      "O amor fiel de Deus por um povo que se afastou dele.",
+      "A conquista de novas terras."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 2:19-20; 14:4",
+    "explicacao": "O livro revela o amor persistente de Deus, que busca restaurar seu povo apesar da infidelidade."
+  },
+  {
+    "id": 4323,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi o profeta que escreveu o livro de Oséias?",
+    "alternativas": [
+      "Amós",
+      "Isaías",
+      "Oséias",
+      "Jeremias"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:1",
+    "explicacao": "O livro de Oséias foi escrito pelo próprio profeta Oséias, filho de Beeri."
+  },
+  {
+    "id": 4324,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Em qual período Oséias exerceu seu ministério?",
+    "alternativas": [
+      "Durante o cativeiro da Babilônia.",
+      "Depois da volta do exílio.",
+      "Durante os reinados dos reis de Israel e Judá mencionados no início do livro.",
+      "Durante o tempo de Moisés."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:1",
+    "explicacao": "Oséias profetizou durante os reinados de reis de Israel e Judá antes da queda do Reino do Norte."
+  },
+  {
+    "id": 4325,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o nome da esposa de Oséias?",
+    "alternativas": [
+      "Rute",
+      "Miriã",
+      "Gômer",
+      "Ester"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:3",
+    "explicacao": "Deus ordenou que Oséias se casasse com Gômer como parte da mensagem profética."
+  },
+  {
+    "id": 4326,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus mandou Oséias fazer com Gômer?",
+    "alternativas": [
+      "Abandoná-la.",
+      "Torná-la rainha.",
+      "Casar-se com ela.",
+      "Enviá-la para outra cidade."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:2-3",
+    "explicacao": "O casamento de Oséias com Gômer foi usado por Deus como símbolo da relação com Israel."
+  },
+  {
+    "id": 4327,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o significado do casamento de Oséias com Gômer?",
+    "alternativas": [
+      "Mostrar a riqueza de Israel.",
+      "Mostrar uma história de amor comum.",
+      "Representar a relação de Deus com Israel infiel.",
+      "Ensinar sobre agricultura."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:2",
+    "explicacao": "O casamento representava a infidelidade espiritual de Israel e o amor persistente de Deus."
+  },
+  {
+    "id": 4328,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi o nome do primeiro filho de Oséias e Gômer?",
+    "alternativas": [
+      "Lo-Ruama",
+      "Lo-Ami",
+      "Jezreel",
+      "Emanuel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:4",
+    "explicacao": "Jezreel foi o primeiro filho de Oséias e seu nome tinha significado profético."
+  },
+  {
+    "id": 4329,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "O que significa o nome \"Lo-Ruama\"?",
+    "alternativas": [
+      "Deus é fiel.",
+      "Deus salva.",
+      "Não compadecida / sem misericórdia.",
+      "Povo escolhido."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:6",
+    "explicacao": "O nome Lo-Ruama indicava que Israel enfrentaria um período sem misericórdia por causa de sua rebeldia."
+  },
+  {
+    "id": 4330,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "O que significa o nome \"Lo-Ami\"?",
+    "alternativas": [
+      "Filho da promessa.",
+      "Deus está comigo.",
+      "Não meu povo.",
+      "Deus é grande."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 1:9",
+    "explicacao": "Lo-Ami significa que Israel havia rompido sua relação de aliança com Deus."
+  },
+  {
+    "id": 4331,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o principal pecado de Israel denunciado por Oséias?",
+    "alternativas": [
+      "Falta de agricultura.",
+      "Falta de soldados.",
+      "Idolatria e afastamento de Deus.",
+      "Falta de reis."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 4:12",
+    "explicacao": "Israel abandonou Deus e passou a seguir ídolos e práticas contrárias à sua aliança."
+  },
+  {
+    "id": 4332,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Oséias",
+    "nivel": "Fácil",
+    "pergunta": "A quem Deus comparou Israel por causa de sua infidelidade?",
+    "alternativas": [
+      "Uma árvore seca.",
+      "Um rio poluído.",
+      "Uma esposa infiel.",
+      "Um exército derrotado."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Oséias 2:2",
+    "explicacao": "Israel é comparado a uma esposa que abandonou seu marido, representando sua infidelidade para com Deus."
+  }
+]

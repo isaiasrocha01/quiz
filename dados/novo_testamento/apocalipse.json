@@ -1,0 +1,1039 @@
+[
+  {
+    "explicacao": "Apocalipse fecha o cânon bíblico com visões da consumação dos tempos.",
+    "alternativas": [
+      "Judas",
+      "Apocalipse",
+      "1 João",
+      "Romanos"
+    ],
+    "id": 851,
+    "pergunta": "Qual é o último livro do Novo Testamento e de toda a Bíblia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:1"
+  },
+  {
+    "explicacao": "O livro de Apocalipse foi escrito por João, que recebeu a revelação de Jesus Cristo.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 852,
+    "pergunta": "Quem escreveu o livro de Apocalipse?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:1"
+  },
+  {
+    "explicacao": "O próprio texto afirma que é a revelação de Jesus Cristo.",
+    "alternativas": [
+      "Moisés",
+      "Jesus Cristo",
+      "Um anjo",
+      "Davi"
+    ],
+    "id": 853,
+    "pergunta": "Apocalipse é uma revelação de quem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:1"
+  },
+  {
+    "explicacao": "João recebeu a revelação enquanto estava na ilha de Patmos.",
+    "alternativas": [
+      "Creta",
+      "Patmos",
+      "Malta",
+      "Chipre"
+    ],
+    "id": 854,
+    "pergunta": "João estava em qual ilha quando recebeu a revelação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:9"
+  },
+  {
+    "explicacao": "João afirma que estava no Espírito no Dia do Senhor.",
+    "alternativas": [
+      "Primeiro dia da semana",
+      "Dia do Senhor",
+      "Dia de Pentecostes",
+      "Dia da Páscoa"
+    ],
+    "id": 855,
+    "pergunta": "João recebeu a revelação no:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:10"
+  },
+  {
+    "explicacao": "Jesus enviou mensagens para as sete igrejas da Ásia.",
+    "alternativas": [
+      "Cinco",
+      "Sete",
+      "Dez",
+      "Doze"
+    ],
+    "id": 856,
+    "pergunta": "Quantas igrejas receberam mensagens no início do livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:11"
+  },
+  {
+    "explicacao": "João viu Jesus, descrito como semelhante ao Filho do Homem.",
+    "alternativas": [
+      "Um anjo",
+      "Um homem semelhante ao Filho do Homem",
+      "Um profeta",
+      "Um rei terreno"
+    ],
+    "id": 857,
+    "pergunta": "O que João viu no meio dos sete candeeiros de ouro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:12-13"
+  },
+  {
+    "explicacao": "Os sete candeeiros representam as sete igrejas da Ásia.",
+    "alternativas": [
+      "Sete nações",
+      "Sete igrejas",
+      "Sete anjos",
+      "Sete montanhas"
+    ],
+    "id": 858,
+    "pergunta": "O que os sete candeeiros representam?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:20"
+  },
+  {
+    "explicacao": "Jesus declarou possuir as chaves da morte e do Hades.",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "Ele mesmo",
+      "Um anjo"
+    ],
+    "id": 859,
+    "pergunta": "O que Jesus disse que tinha as chaves da morte e do inferno?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:18"
+  },
+  {
+    "explicacao": "Jesus repreendeu a igreja de Éfeso por ter deixado o primeiro amor.",
+    "alternativas": [
+      "Éfeso",
+      "Esmirna",
+      "Filadélfia",
+      "Laodiceia"
+    ],
+    "id": 860,
+    "pergunta": "Qual igreja era conhecida por ter abandonado o primeiro amor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 2:4"
+  },
+  {
+    "explicacao": "A igreja de Laodiceia foi repreendida por ser morna espiritualmente.",
+    "alternativas": [
+      "Sardes",
+      "Laodiceia",
+      "Pérgamo",
+      "Tiatira"
+    ],
+    "id": 861,
+    "pergunta": "Qual igreja era conhecida como morna?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 3:16"
+  },
+  {
+    "explicacao": "O vencedor receberá o direito de comer da árvore da vida no paraíso de Deus.",
+    "alternativas": [
+      "Riquezas da terra",
+      "Comer da árvore da vida",
+      "Ser rei de Roma",
+      "Receber ouro"
+    ],
+    "id": 862,
+    "pergunta": "O que Jesus promete ao vencedor da igreja de Éfeso?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 2:7"
+  },
+  {
+    "explicacao": "O livro estava selado com sete selos.",
+    "alternativas": [
+      "Cinco",
+      "Sete",
+      "Dez",
+      "Doze"
+    ],
+    "id": 863,
+    "pergunta": "Quantos selos havia no livro que estava na mão de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 5:1"
+  },
+  {
+    "explicacao": "Jesus, representado como o Cordeiro, foi considerado digno.",
+    "alternativas": [
+      "João",
+      "Um anjo",
+      "Jesus, o Cordeiro",
+      "Moisés"
+    ],
+    "id": 864,
+    "pergunta": "Quem foi considerado digno de abrir o livro e os selos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 5:5-7"
+  },
+  {
+    "explicacao": "Os quatro primeiros selos revelam os quatro cavaleiros.",
+    "alternativas": [
+      "Dois",
+      "Três",
+      "Quatro",
+      "Sete"
+    ],
+    "id": 865,
+    "pergunta": "Quantos cavaleiros aparecem quando os primeiros selos são abertos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 6:1-8"
+  },
+  {
+    "explicacao": "O Cordeiro simboliza Jesus Cristo.",
+    "alternativas": [
+      "Um animal comum",
+      "Jesus Cristo",
+      "Um anjo",
+      "Um profeta"
+    ],
+    "id": 866,
+    "pergunta": "O que o Cordeiro representa?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 5:6"
+  },
+  {
+    "explicacao": "Sete anjos recebem sete trombetas.",
+    "alternativas": [
+      "Cinco",
+      "Sete",
+      "Dez",
+      "Doze"
+    ],
+    "id": 867,
+    "pergunta": "Quantas trombetas aparecem no juízo descrito em Apocalipse?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 8:2"
+  },
+  {
+    "explicacao": "João viu a Nova Jerusalém descendo do céu.",
+    "alternativas": [
+      "Nova Jerusalém",
+      "Roma",
+      "Babilônia",
+      "Nazaré"
+    ],
+    "id": 868,
+    "pergunta": "Qual cidade santa João viu descendo do céu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 21:2"
+  },
+  {
+    "explicacao": "Deus promete que a morte não existirá mais.",
+    "alternativas": [
+      "Alegria",
+      "Vida",
+      "Morte",
+      "Adoração"
+    ],
+    "id": 869,
+    "pergunta": "O que não existirá mais na nova criação?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 21:4"
+  },
+  {
+    "explicacao": "Deus estará no trono fazendo novas todas as coisas.",
+    "alternativas": [
+      "Um anjo",
+      "Deus",
+      "João",
+      "Um rei humano"
+    ],
+    "id": 870,
+    "pergunta": "Quem estará no trono no novo céu e nova terra?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 21:5"
+  },
+  {
+    "explicacao": "Jesus promete voltar em breve, e João responde: Vem, Senhor Jesus.",
+    "alternativas": [
+      "Eu voltarei em breve / Vem, Senhor Jesus",
+      "Construam um templo",
+      "Guardem a lei",
+      "Procurem riquezas"
+    ],
+    "id": 871,
+    "pergunta": "Qual é a última promessa registrada em Apocalipse?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 22:20"
+  },
+  {
+    "explicacao": "João escreveu às sete igrejas que estavam na província da Ásia.",
+    "alternativas": [
+      "Aos reis da terra",
+      "Às sete igrejas que estão na Ásia",
+      "Aos sacerdotes de Jerusalém",
+      "Aos anjos do céu"
+    ],
+    "id": 872,
+    "pergunta": "A quem João escreveu as sete igrejas da Ásia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:4"
+  },
+  {
+    "explicacao": "Jesus é apresentado como testemunha fiel, primogênito dos mortos e soberano dos reis da terra.",
+    "alternativas": [
+      "O Filho de Davi somente",
+      "A testemunha fiel, o primogênito dos mortos e o soberano dos reis da terra",
+      "O maior dos profetas",
+      "O príncipe de Israel"
+    ],
+    "id": 873,
+    "pergunta": "Como Jesus é chamado no início do livro de Apocalipse?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:5"
+  },
+  {
+    "explicacao": "Pelo seu sangue, Jesus fez seus servos reis e sacerdotes para Deus.",
+    "alternativas": [
+      "Tornou-os reis e sacerdotes para Deus",
+      "Deu-lhes riquezas materiais",
+      "Livrou-os de todas as dificuldades",
+      "Tornou-os anjos"
+    ],
+    "id": 874,
+    "pergunta": "O que Jesus fez pelos seus servos com seu sangue?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:5-6"
+  },
+  {
+    "explicacao": "A espada afiada de dois gumes representa a autoridade da palavra de Cristo.",
+    "alternativas": [
+      "Fogo",
+      "Uma espada afiada de dois gumes",
+      "Água viva",
+      "Uma trombeta"
+    ],
+    "id": 875,
+    "pergunta": "O que João viu saindo da boca do Filho do Homem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:16"
+  },
+  {
+    "explicacao": "As sete estrelas representam os anjos das sete igrejas.",
+    "alternativas": [
+      "Sete reis",
+      "Sete anjos das igrejas",
+      "Sete profetas",
+      "Sete povos"
+    ],
+    "id": 876,
+    "pergunta": "O que representavam as sete estrelas na mão direita de Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 1:20"
+  },
+  {
+    "explicacao": "A igreja de Esmirna foi elogiada por permanecer fiel durante perseguições.",
+    "alternativas": [
+      "Esmirna",
+      "Laodiceia",
+      "Sardes",
+      "Éfeso"
+    ],
+    "id": 877,
+    "pergunta": "Qual igreja sofreu perseguição e foi elogiada por sua fidelidade?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 2:8-10"
+  },
+  {
+    "explicacao": "Jesus prometeu a coroa da vida e que o vencedor não sofreria a segunda morte.",
+    "alternativas": [
+      "Riquezas abundantes",
+      "A coroa da vida e livramento da segunda morte",
+      "Poder sobre as nações",
+      "Morar em Jerusalém"
+    ],
+    "id": 878,
+    "pergunta": "O que Jesus prometeu ao vencedor da igreja de Esmirna?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 2:10-11"
+  },
+  {
+    "explicacao": "Jesus repreendeu a igreja de Tiatira por tolerar Jezabel e seus falsos ensinos.",
+    "alternativas": [
+      "Pérgamo",
+      "Tiatira",
+      "Filadélfia",
+      "Sardes"
+    ],
+    "id": 879,
+    "pergunta": "Qual igreja recebeu a acusação de tolerar Jezabel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 2:20"
+  },
+  {
+    "explicacao": "Jesus declarou que Sardes tinha aparência de vida, mas estava espiritualmente morta.",
+    "alternativas": [
+      "Falta de riquezas",
+      "Tinha nome de que vivia, mas estava morta",
+      "Não possuía dons",
+      "Não tinha líderes"
+    ],
+    "id": 880,
+    "pergunta": "O que Jesus disse que tinha contra a igreja de Sardes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 3:1"
+  },
+  {
+    "explicacao": "Jesus prometeu à igreja de Filadélfia uma porta aberta por causa da sua fidelidade.",
+    "alternativas": [
+      "Éfeso",
+      "Filadélfia",
+      "Laodiceia",
+      "Pérgamo"
+    ],
+    "id": 881,
+    "pergunta": "Qual igreja recebeu a promessa de uma porta aberta que ninguém poderia fechar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 3:7-8"
+  },
+  {
+    "explicacao": "Jesus aconselhou Laodiceia a buscar riquezas espirituais dele.",
+    "alternativas": [
+      "Ouro refinado, vestes brancas e colírio",
+      "Espadas e escudos",
+      "Templos e riquezas",
+      "Livros e pergaminhos"
+    ],
+    "id": 882,
+    "pergunta": "O que Jesus aconselhou a igreja de Laodiceia comprar dele?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 3:18"
+  },
+  {
+    "explicacao": "João viu vinte e quatro anciãos assentados em tronos ao redor do trono.",
+    "alternativas": [
+      "Sete anjos",
+      "Vinte e quatro anciãos em tronos",
+      "Doze reis",
+      "Quatro profetas"
+    ],
+    "id": 883,
+    "pergunta": "O que João viu ao redor do trono de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 4:4"
+  },
+  {
+    "explicacao": "Quatro seres viventes estavam ao redor do trono.",
+    "alternativas": [
+      "Dois",
+      "Quatro",
+      "Sete",
+      "Doze"
+    ],
+    "id": 884,
+    "pergunta": "Quantos seres viventes estavam ao redor do trono?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 4:6-8"
+  },
+  {
+    "explicacao": "Os seres viventes proclamavam a santidade e soberania de Deus.",
+    "alternativas": [
+      "Santo, Santo, Santo é o Senhor Deus Todo-Poderoso",
+      "Glória aos reis da terra",
+      "Salve Israel",
+      "Bendito seja Moisés"
+    ],
+    "id": 885,
+    "pergunta": "Qual cântico os seres viventes e anciãos proclamavam diante do trono?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 4:8"
+  },
+  {
+    "explicacao": "João viu um livro escrito por dentro e por fora, selado com sete selos.",
+    "alternativas": [
+      "Uma espada",
+      "Um livro selado com sete selos",
+      "Uma coroa",
+      "Uma trombeta"
+    ],
+    "id": 886,
+    "pergunta": "O que João viu na mão direita daquele que estava sentado no trono?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 5:1"
+  },
+  {
+    "explicacao": "Os mártires clamavam por justiça e pelo julgamento de Deus.",
+    "alternativas": [
+      "Quando receberiam riquezas",
+      "Até quando Deus não julgaria e vingaria seu sangue",
+      "Quando voltariam à terra",
+      "Quando seriam anjos"
+    ],
+    "id": 887,
+    "pergunta": "O que os mártires debaixo do altar perguntavam a Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 6:9-10"
+  },
+  {
+    "explicacao": "João ouviu que 144 mil foram selados das tribos de Israel.",
+    "alternativas": [
+      "7 mil",
+      "12 mil",
+      "144 mil",
+      "1 milhão"
+    ],
+    "id": 888,
+    "pergunta": "Quantos foram selados das tribos de Israel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 7:4"
+  },
+  {
+    "explicacao": "Foi anunciado que o reino do mundo passou a pertencer ao Senhor e ao seu Cristo.",
+    "alternativas": [
+      "O mar desapareceu",
+      "Os reinos do mundo passaram a ser de Cristo",
+      "Jerusalém foi destruída",
+      "Os anjos foram derrotados"
+    ],
+    "id": 889,
+    "pergunta": "O que aconteceu quando o sétimo anjo tocou a trombeta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 11:15"
+  },
+  {
+    "explicacao": "O grande dragão é identificado como Satanás, o diabo.",
+    "alternativas": [
+      "O anticristo",
+      "Satanás, o diabo",
+      "Um rei humano",
+      "Um falso profeta"
+    ],
+    "id": 890,
+    "pergunta": "Quem é descrito como o grande dragão, a antiga serpente?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 12:9"
+  },
+  {
+    "explicacao": "O rio da água da vida sai do trono de Deus e do Cordeiro.",
+    "alternativas": [
+      "Do templo de Jerusalém",
+      "Do trono de Deus e do Cordeiro",
+      "Do mar",
+      "Da montanha santa"
+    ],
+    "id": 891,
+    "pergunta": "O que João viu no final da revelação: o rio da água da vida saindo de onde?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 22:1"
+  },
+  {
+    "explicacao": "João viu uma porta aberta no céu e foi chamado para subir e receber a revelação.",
+    "alternativas": [
+      "Uma grande cidade",
+      "Uma porta aberta no céu",
+      "Um templo destruído",
+      "Um anjo com uma espada"
+    ],
+    "id": 892,
+    "pergunta": "O que João viu no céu aberto antes de receber a visão do trono?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 4:1"
+  },
+  {
+    "explicacao": "João descreveu aquele que estava no trono com aparência semelhante a jaspe e sardônio, com um arco-íris semelhante à esmeralda.",
+    "alternativas": [
+      "Como ouro e prata",
+      "Semelhante a jaspe e sardônio, e havia um arco-íris ao redor do trono semelhante à esmeralda",
+      "Como fogo consumidor",
+      "Como uma estrela brilhante"
+    ],
+    "id": 893,
+    "pergunta": "Qual era a aparência daquele que estava assentado no trono?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 4:3"
+  },
+  {
+    "explicacao": "Os anciãos adoravam a Deus lançando suas coroas diante do trono.",
+    "alternativas": [
+      "Tocavam trombetas",
+      "Lançavam suas coroas diante do trono e adoravam a Deus",
+      "Saíam do céu",
+      "Escreviam profecias"
+    ],
+    "id": 894,
+    "pergunta": "O que os vinte e quatro anciãos faziam quando os seres viventes davam glória a Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 4:9-10"
+  },
+  {
+    "explicacao": "Nenhuma criatura encontrada era digna de abrir o livro.",
+    "alternativas": [
+      "Porque o livro estava perdido",
+      "Porque ninguém no céu, na terra ou debaixo da terra era digno",
+      "Porque João não permitiu",
+      "Porque os anjos proibiram"
+    ],
+    "id": 895,
+    "pergunta": "Por que ninguém era digno de abrir o livro e desatar seus selos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 5:3-4"
+  },
+  {
+    "explicacao": "O Cordeiro representa Cristo morto e ressuscitado, com sete chifres e sete olhos.",
+    "alternativas": [
+      "Como um leão com sete cabeças",
+      "Como um cordeiro como tendo sido morto, com sete chifres e sete olhos",
+      "Como um anjo poderoso",
+      "Como um rei sentado no trono"
+    ],
+    "id": 896,
+    "pergunta": "Como João descreve o Cordeiro que apareceu para abrir o livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 5:6"
+  },
+  {
+    "explicacao": "Os sete olhos representam os sete espíritos de Deus enviados por toda a terra.",
+    "alternativas": [
+      "Os sete reis da terra",
+      "Os sete espíritos de Deus enviados por toda a terra",
+      "Os sete anjos das igrejas",
+      "Os sete selos"
+    ],
+    "id": 897,
+    "pergunta": "O que representam os sete olhos do Cordeiro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 5:6"
+  },
+  {
+    "explicacao": "A abertura do sexto selo trouxe sinais cósmicos e grande abalo na criação.",
+    "alternativas": [
+      "Houve silêncio no céu",
+      "Houve grande terremoto, o sol ficou negro e a lua como sangue",
+      "O mar se abriu",
+      "A nova Jerusalém apareceu"
+    ],
+    "id": 898,
+    "pergunta": "O que aconteceu quando o sexto selo foi aberto?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 6:12-14"
+  },
+  {
+    "explicacao": "São os que permaneceram fiéis durante a grande tribulação e foram purificados pelo sangue do Cordeiro.",
+    "alternativas": [
+      "Os anjos do céu",
+      "Os que vieram da grande tribulação e lavaram suas vestes no sangue do Cordeiro",
+      "Os reis da terra",
+      "Os profetas antigos"
+    ],
+    "id": 899,
+    "pergunta": "Quem são aqueles vestidos de branco diante do trono?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 7:13-14"
+  },
+  {
+    "explicacao": "Quando o sétimo selo foi aberto, houve silêncio no céu por cerca de meia hora.",
+    "alternativas": [
+      "Houve guerra na terra",
+      "Houve silêncio no céu por cerca de meia hora",
+      "Todos ressuscitaram",
+      "A besta foi destruída"
+    ],
+    "id": 900,
+    "pergunta": "O que aconteceu quando o sétimo selo foi aberto?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 8:1"
+  },
+  {
+    "explicacao": "O livrinho simbolizava a mensagem profética que era doce e também amarga.",
+    "alternativas": [
+      "Um livro doce",
+      "Um livrinho que era doce na boca e amargo no ventre",
+      "Uma pedra preciosa",
+      "Um fruto celestial"
+    ],
+    "id": 901,
+    "pergunta": "O que João comeu conforme a ordem do anjo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 10:9-10"
+  },
+  {
+    "explicacao": "Deus concedeu autoridade a duas testemunhas para profetizarem.",
+    "alternativas": [
+      "Uma",
+      "Duas",
+      "Sete",
+      "Doze"
+    ],
+    "id": 902,
+    "pergunta": "Quantas testemunhas receberam autoridade para profetizar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 11:3"
+  },
+  {
+    "explicacao": "O dragão, identificado como Satanás, foi lançado à terra com seus anjos.",
+    "alternativas": [
+      "Miguel",
+      "Satanás, o grande dragão",
+      "O falso profeta",
+      "A besta"
+    ],
+    "id": 903,
+    "pergunta": "Quem foi lançado à terra junto com seus anjos após uma batalha no céu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 12:7-9"
+  },
+  {
+    "explicacao": "O dragão deu à besta poder, trono e grande autoridade.",
+    "alternativas": [
+      "Um templo e sacerdotes",
+      "Poder, trono e grande autoridade",
+      "Uma coroa de ouro",
+      "Sabedoria divina"
+    ],
+    "id": 904,
+    "pergunta": "O que a besta que saiu do mar recebeu do dragão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 13:2"
+  },
+  {
+    "explicacao": "O número associado à besta é seiscentos e sessenta e seis.",
+    "alternativas": [
+      "777",
+      "144",
+      "666",
+      "333"
+    ],
+    "id": 905,
+    "pergunta": "Qual número é associado à besta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 13:18"
+  },
+  {
+    "explicacao": "Os 144 mil tinham escrito o nome do Cordeiro e do Pai em suas testas.",
+    "alternativas": [
+      "O nome da besta",
+      "O nome do Cordeiro e de seu Pai",
+      "O nome de João",
+      "O nome de Jerusalém"
+    ],
+    "id": 906,
+    "pergunta": "O que os cento e quarenta e quatro mil tinham escrito em suas testas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 14:1"
+  },
+  {
+    "explicacao": "A grande Babilônia caiu e tornou-se habitação de espíritos malignos.",
+    "alternativas": [
+      "Tornou-se uma cidade santa",
+      "Caiu e se tornou morada de demônios",
+      "Foi elevada ao céu",
+      "Foi governada pelos santos"
+    ],
+    "id": 907,
+    "pergunta": "O que aconteceu com a grande Babilônia segundo a visão de João?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 18:2"
+  },
+  {
+    "explicacao": "O cavaleiro é identificado como Fiel e Verdadeiro, a Palavra de Deus.",
+    "alternativas": [
+      "João",
+      "O Cordeiro",
+      "Aquele que se chama Fiel e Verdadeiro, a Palavra de Deus",
+      "Um dos anjos"
+    ],
+    "id": 908,
+    "pergunta": "Quem aparece montado em um cavalo branco no capítulo 19?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 19:11-13"
+  },
+  {
+    "explicacao": "A besta e o falso profeta foram lançados no lago de fogo.",
+    "alternativas": [
+      "Foram presos em uma cidade",
+      "Foram lançados vivos no lago de fogo que arde com enxofre",
+      "Foram transformados em anjos",
+      "Foram perdoados"
+    ],
+    "id": 909,
+    "pergunta": "O que aconteceu com a besta e o falso profeta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 19:20"
+  },
+  {
+    "explicacao": "Satanás foi lançado no lago de fogo e enxofre.",
+    "alternativas": [
+      "Foi libertado para sempre",
+      "Foi lançado no lago de fogo e enxofre",
+      "Tornou-se um anjo",
+      "Governou a nova terra"
+    ],
+    "id": 910,
+    "pergunta": "O que aconteceu com Satanás após o milênio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 20:10"
+  },
+  {
+    "explicacao": "João encerra a revelação reafirmando a promessa da volta de Cristo.",
+    "alternativas": [
+      "Vinde todos a Jerusalém",
+      "Certamente venho sem demora. Amém. Vem, Senhor Jesus!",
+      "Guardem todas as festas",
+      "Construam um novo templo"
+    ],
+    "id": 911,
+    "pergunta": "O que João declarou ao final da revelação de Apocalipse?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Apocalipse",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Apocalipse 22:20"
+  }
+]

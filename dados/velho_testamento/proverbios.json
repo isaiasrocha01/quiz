@@ -1,0 +1,1073 @@
+[
+  {
+    "id": 4333,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Qual perigo está associado ao orgulho?",
+    "alternativas": [
+      "Aumento da sabedoria",
+      "Crescimento espiritual",
+      "Precede a destruição e a queda",
+      "Traz reconhecimento eterno"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 16:18",
+    "explicacao": "O orgulho é apresentado como algo que vem antes da destruição e da queda."
+  },
+  {
+    "id": 4334,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "O que Provérbios ensina sobre receber correção?",
+    "alternativas": [
+      "Quem aceita correção é fraco",
+      "A correção deve ser ignorada",
+      "Quem aceita repreensão adquire entendimento",
+      "Apenas os jovens precisam aprender"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 15:31-32",
+    "explicacao": "Aquele que aceita a repreensão aprende e adquire entendimento."
+  },
+  {
+    "id": 4335,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a diferença entre o justo e o perverso segundo Provérbios?",
+    "alternativas": [
+      "O justo sempre será rico",
+      "O perverso nunca terá sucesso",
+      "O justo busca a justiça, enquanto o perverso segue caminhos maus",
+      "Ambos recebem o mesmo destino"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 10:6-7",
+    "explicacao": "Provérbios diferencia aqueles que seguem a justiça daqueles que escolhem o mal."
+  },
+  {
+    "id": 4336,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "O que Provérbios ensina sobre confiar nas riquezas?",
+    "alternativas": [
+      "Elas são eternas",
+      "Elas garantem segurança completa",
+      "As riquezas podem desaparecer e não devem ser a principal confiança",
+      "Elas são mais importantes que a sabedoria"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 11:28",
+    "explicacao": "As riquezas são passageiras e não devem ocupar o lugar da confiança em Deus."
+  },
+  {
+    "id": 4337,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a importância da disciplina na criação dos filhos?",
+    "alternativas": [
+      "Ela causa apenas tristeza",
+      "Deve ser evitada sempre",
+      "Ajuda a ensinar o caminho correto",
+      "Substitui o amor"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 22:6; 23:13-14",
+    "explicacao": "A disciplina é apresentada como uma forma de ensinar e orientar os filhos."
+  },
+  {
+    "id": 4338,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "O que Provérbios ensina sobre justiça e liderança?",
+    "alternativas": [
+      "Reis não precisam ouvir conselhos",
+      "Líderes devem buscar apenas riquezas",
+      "Reis governam com justiça quando seguem a sabedoria",
+      "A autoridade dispensa caráter"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 16:12",
+    "explicacao": "A liderança justa está ligada à prática da sabedoria e da justiça."
+  },
+  {
+    "id": 4339,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a mensagem de Provérbios sobre planejar o futuro?",
+    "alternativas": [
+      "O homem controla tudo sozinho",
+      "Planejamento é desnecessário",
+      "O homem faz planos, mas o Senhor dirige seus passos",
+      "Apenas os ricos devem planejar"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 16:9",
+    "explicacao": "O ser humano pode fazer planos, mas Deus orienta o caminho."
+  },
+  {
+    "id": 4340,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "O que caracteriza uma pessoa sábia diante de conflitos?",
+    "alternativas": [
+      "Procura vingança",
+      "Aumenta discussões",
+      "Evita contendas e busca a paz",
+      "Sempre quer vencer debates"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 20:3",
+    "explicacao": "A pessoa sábia evita conflitos desnecessários e busca a paz."
+  },
+  {
+    "id": 4341,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Segundo Provérbios 31, qual característica destaca a mulher virtuosa?",
+    "alternativas": [
+      "Sua riqueza e posição social",
+      "Sua beleza exterior apenas",
+      "Seu caráter, temor ao Senhor e dedicação",
+      "Seu poder sobre outras pessoas"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 31:10-30",
+    "explicacao": "A mulher virtuosa é reconhecida por seu caráter, sabedoria e temor ao Senhor."
+  },
+  {
+    "id": 4342,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a conclusão principal do livro de Provérbios?",
+    "alternativas": [
+      "O homem deve buscar somente riquezas",
+      "A inteligência humana é suficiente",
+      "A verdadeira sabedoria está em temer ao Senhor e viver conforme seus caminhos",
+      "O sucesso depende apenas da sorte"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 1:7; 9:10",
+    "explicacao": "Provérbios ensina que a verdadeira sabedoria começa no temor do Senhor e na obediência aos seus caminhos."
+  },
+  {
+    "id": 4343,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Segundo Provérbios, qual é o princípio fundamental para adquirir sabedoria?",
+    "alternativas": [
+      "Conhecer muitos livros",
+      "Ter muitos anos de experiência",
+      "O temor do Senhor",
+      "Ter muitos mestres"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 1:7",
+    "explicacao": "O temor do Senhor é apresentado como o princípio do conhecimento e da sabedoria."
+  },
+  {
+    "id": 4344,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "O que acontece com aquele que busca a sabedoria como a prata e procura como tesouros escondidos?",
+    "alternativas": [
+      "Torna-se famoso entre os homens",
+      "Recebe riquezas imediatamente",
+      "Entende o temor do Senhor e encontra o conhecimento de Deus",
+      "Nunca enfrentará dificuldades"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 2:4-5",
+    "explicacao": "A busca diligente pela sabedoria leva ao entendimento do temor do Senhor."
+  },
+  {
+    "id": 4345,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a diferença entre a sabedoria e a insensatez apresentada em Provérbios 9?",
+    "alternativas": [
+      "Ambas conduzem ao mesmo caminho",
+      "A insensatez é mais fácil de seguir",
+      "A sabedoria conduz à vida, enquanto a insensatez conduz à morte",
+      "A sabedoria pertence apenas aos ricos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 9:10-18",
+    "explicacao": "Provérbios apresenta a sabedoria como caminho de vida e a insensatez como caminho de destruição."
+  },
+  {
+    "id": 4346,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "O que Provérbios ensina sobre o coração humano?",
+    "alternativas": [
+      "Ele nunca erra",
+      "Ele sempre conhece a verdade",
+      "Ele deve ser guardado, pois dele procedem as fontes da vida",
+      "Ele é menos importante que as riquezas"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 4:23",
+    "explicacao": "O coração deve ser protegido porque influencia toda a vida da pessoa."
+  },
+  {
+    "id": 4347,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a consequência daquele que segue a mulher adúltera descrita em Provérbios?",
+    "alternativas": [
+      "Recebe honra",
+      "Encontra sabedoria",
+      "Caminha para a destruição e a morte",
+      "Torna-se poderoso"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 5:3-5",
+    "explicacao": "Provérbios alerta que esse caminho conduz à ruína."
+  },
+  {
+    "id": 4348,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "O que Provérbios recomenda sobre as palavras que falamos?",
+    "alternativas": [
+      "Falar sem pensar demonstra coragem",
+      "Muitas palavras sempre trazem benefício",
+      "Aquele que controla sua boca preserva sua vida",
+      "O silêncio é sempre errado"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 13:3",
+    "explicacao": "O domínio da fala protege a pessoa de muitos problemas."
+  },
+  {
+    "id": 4349,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Qual comparação Provérbios faz sobre uma língua perversa?",
+    "alternativas": [
+      "Como uma árvore frutífera",
+      "Como uma fonte limpa",
+      "Como fogo que causa destruição",
+      "Como uma espada de guerra"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 16:27",
+    "explicacao": "A língua perversa é comparada ao fogo por seu poder destrutivo."
+  },
+  {
+    "id": 4350,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "O que significa 'a resposta branda desvia o furor'?",
+    "alternativas": [
+      "Evitar qualquer conversa",
+      "Responder com mansidão pode acalmar conflitos",
+      "Nunca corrigir ninguém",
+      "Concordar sempre com todos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Provérbios 15:1",
+    "explicacao": "Uma resposta calma pode reduzir a ira e evitar conflitos."
+  },
+  {
+    "id": 4351,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "Qual é uma característica do verdadeiro amigo segundo Provérbios?",
+    "alternativas": [
+      "Busca vantagens pessoais",
+      "Nunca fala a verdade",
+      "Ama em todos os momentos e pode corrigir com amor",
+      "Está presente apenas quando há benefícios"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 17:17; 27:6",
+    "explicacao": "O verdadeiro amigo demonstra amor constante e correção sincera."
+  },
+  {
+    "id": 4352,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Difícil",
+    "pergunta": "O que Provérbios 27:17 ensina sobre relacionamentos?",
+    "alternativas": [
+      "Pessoas devem viver isoladas",
+      "Amigos nunca devem corrigir",
+      "Assim como o ferro afia o ferro, uma pessoa melhora outra",
+      "Somente os sábios ensinam"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 27:17",
+    "explicacao": "Relacionamentos saudáveis ajudam no crescimento e aperfeiçoamento."
+  },
+  {
+    "id": 4353,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "Segundo Provérbios, qual é o propósito da sabedoria?",
+    "alternativas": [
+      "Tornar uma pessoa famosa",
+      "Aumentar riquezas rapidamente",
+      "Ensinar a viver com justiça, juízo e retidão",
+      "Dar poder sobre outras pessoas"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 1:2-3",
+    "explicacao": "A sabedoria tem como propósito ensinar justiça, juízo e retidão."
+  },
+  {
+    "id": 4354,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que acontece com quem rejeita a sabedoria?",
+    "alternativas": [
+      "Recebe mais riquezas",
+      "Torna-se mais poderoso",
+      "Colherá as consequências do seu próprio caminho",
+      "Será sempre protegido"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 1:29-31",
+    "explicacao": "Quem rejeita a sabedoria sofre as consequências de suas próprias escolhas."
+  },
+  {
+    "id": 4355,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "Onde a sabedoria é comparada a uma mulher que clama?",
+    "alternativas": [
+      "No templo",
+      "No deserto",
+      "Nas ruas e praças da cidade",
+      "No palácio do rei"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 1:20-21",
+    "explicacao": "A sabedoria é apresentada clamando publicamente nas ruas e praças."
+  },
+  {
+    "id": 4356,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que devemos fazer com as palavras de Deus segundo Provérbios?",
+    "alternativas": [
+      "Esquecê-las com o tempo",
+      "Guardá-las apenas em livros",
+      "Guardá-las no coração e obedecer",
+      "Compartilhá-las somente com reis"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 3:1",
+    "explicacao": "As instruções de Deus devem ser guardadas no coração e praticadas."
+  },
+  {
+    "id": 4357,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que significa confiar no Senhor de todo o coração?",
+    "alternativas": [
+      "Depender apenas da própria inteligência",
+      "Buscar riquezas antes de Deus",
+      "Reconhecer Deus em todos os caminhos",
+      "Nunca pedir conselho"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 3:5-6",
+    "explicacao": "Confiar em Deus envolve reconhecê-lo em todas as decisões e caminhos."
+  },
+  {
+    "id": 4358,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que a disciplina do Senhor demonstra?",
+    "alternativas": [
+      "Rejeição de Deus",
+      "Falta de amor",
+      "O amor de Deus por seus filhos",
+      "Fraqueza espiritual"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 3:11-12",
+    "explicacao": "A disciplina do Senhor é uma demonstração de amor e cuidado."
+  },
+  {
+    "id": 4359,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "Qual é o valor da sabedoria comparada às pedras preciosas?",
+    "alternativas": [
+      "Menor que elas",
+      "Igual a elas",
+      "Mais preciosa do que elas",
+      "Sem importância"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 3:15",
+    "explicacao": "A sabedoria possui valor superior ao das pedras preciosas."
+  },
+  {
+    "id": 4360,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que acontece quando falta conselho?",
+    "alternativas": [
+      "Há vitória",
+      "Há segurança",
+      "Os planos fracassam",
+      "A riqueza aumenta"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 15:22",
+    "explicacao": "A falta de conselho pode levar ao fracasso dos planos."
+  },
+  {
+    "id": 4361,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que uma testemunha falsa faz?",
+    "alternativas": [
+      "Ajuda os inocentes",
+      "Promove a paz",
+      "Profere mentiras",
+      "Ensina sabedoria"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 14:5",
+    "explicacao": "A testemunha falsa fala mentiras e pratica injustiça."
+  },
+  {
+    "id": 4362,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "Qual é a consequência de responder antes de ouvir?",
+    "alternativas": [
+      "Recebe honra",
+      "Demonstra sabedoria",
+      "Mostra insensatez e vergonha",
+      "Ganha respeito"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 18:13",
+    "explicacao": "Responder sem ouvir primeiro demonstra falta de entendimento."
+  },
+  {
+    "id": 4363,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que é melhor do que muitas riquezas?",
+    "alternativas": [
+      "Fama entre os homens",
+      "Bom nome e boa reputação",
+      "Poder político",
+      "Muitos bens"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Provérbios 22:1",
+    "explicacao": "Um bom nome tem mais valor do que grandes riquezas."
+  },
+  {
+    "id": 4364,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "Como Provérbios descreve o amigo verdadeiro?",
+    "alternativas": [
+      "Alguém que aparece somente na alegria",
+      "Alguém que busca vantagens",
+      "Alguém que ama em todo tempo",
+      "Alguém que nunca corrige"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 17:17",
+    "explicacao": "O verdadeiro amigo demonstra amor em todos os momentos."
+  },
+  {
+    "id": 4365,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que acontece com quem controla suas palavras?",
+    "alternativas": [
+      "Demonstra falta de coragem",
+      "Demonstra conhecimento e sabedoria",
+      "Perde amigos",
+      "Torna-se fraco"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Provérbios 17:27",
+    "explicacao": "Controlar as palavras demonstra conhecimento e domínio próprio."
+  },
+  {
+    "id": 4366,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "Qual atitude causa contendas?",
+    "alternativas": [
+      "Humildade",
+      "Bondade",
+      "O orgulho",
+      "Paciência"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 13:10",
+    "explicacao": "O orgulho gera conflitos e discussões."
+  },
+  {
+    "id": 4367,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que o coração alegre produz?",
+    "alternativas": [
+      "Doença",
+      "Riqueza",
+      "Bom remédio",
+      "Medo"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 17:22",
+    "explicacao": "A alegria do coração é comparada a um bom remédio."
+  },
+  {
+    "id": 4368,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "Qual é o perigo de confiar no próprio coração?",
+    "alternativas": [
+      "Encontrar sempre a verdade",
+      "Seguir um caminho que parece certo, mas pode levar à morte",
+      "Receber sabedoria divina",
+      "Ter sucesso garantido"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Provérbios 14:12",
+    "explicacao": "Nem todo caminho que parece correto leva ao resultado certo."
+  },
+  {
+    "id": 4369,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que acontece com quem é generoso com os pobres?",
+    "alternativas": [
+      "Perde tudo",
+      "É desprezado",
+      "Recebe bênção",
+      "Torna-se inimigo dos ricos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 22:9",
+    "explicacao": "A generosidade com os necessitados é associada à bênção."
+  },
+  {
+    "id": 4370,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "Qual é a importância da correção?",
+    "alternativas": [
+      "Deve ser sempre rejeitada",
+      "Ajuda a adquirir entendimento e sabedoria",
+      "Mostra fraqueza",
+      "Impede o crescimento"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Provérbios 15:31-32",
+    "explicacao": "Aceitar a correção ajuda a obter entendimento e crescer em sabedoria."
+  },
+  {
+    "id": 4371,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "O que acontece com a pessoa que domina seu espírito?",
+    "alternativas": [
+      "É mais forte do que quem conquista cidades",
+      "Torna-se famosa",
+      "Não precisa de Deus",
+      "Nunca enfrenta problemas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Provérbios 16:32",
+    "explicacao": "O domínio próprio é apresentado como uma grande demonstração de força."
+  },
+  {
+    "id": 4372,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "pergunta": "Qual conselho Provérbios dá sobre a busca pela riqueza?",
+    "alternativas": [
+      "Buscar riquezas acima de tudo",
+      "Confiar somente no dinheiro",
+      "Não colocar a esperança nas riquezas, pois elas podem desaparecer",
+      "Abandonar todo trabalho"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 23:4-5",
+    "explicacao": "Provérbios ensina a não colocar a confiança nas riquezas, pois elas são passageiras."
+  },
+  {
+    "id": 4373,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "Quem é conhecido como o principal autor do livro de Provérbios?",
+    "alternativas": [
+      "Davi",
+      "Moisés",
+      "Salomão",
+      "Samuel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 1:1",
+    "explicacao": "Salomão é apresentado como o principal autor dos provérbios registrados no livro."
+  },
+  {
+    "id": 4374,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "Qual é o princípio do conhecimento segundo Provérbios?",
+    "alternativas": [
+      "A riqueza",
+      "A força",
+      "O temor do Senhor",
+      "A fama"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 1:7",
+    "explicacao": "O temor do Senhor é apresentado como o princípio do verdadeiro conhecimento."
+  },
+  {
+    "id": 4375,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "Para que servem os provérbios?",
+    "alternativas": [
+      "Para contar histórias de guerras",
+      "Para ensinar estratégias de batalha",
+      "Para dar sabedoria e instrução",
+      "Para registrar reis"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 1:2-3",
+    "explicacao": "Os provérbios foram dados para ensinar sabedoria, disciplina e entendimento."
+  },
+  {
+    "id": 4376,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que a pessoa sábia deve fazer com a correção?",
+    "alternativas": [
+      "Rejeitar",
+      "Ignorar",
+      "Aceitar e aprender",
+      "Esconder"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 12:1",
+    "explicacao": "Quem ama a disciplina aceita a correção para crescer em sabedoria."
+  },
+  {
+    "id": 4377,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que a preguiça causa segundo Provérbios?",
+    "alternativas": [
+      "Honra",
+      "Prosperidade",
+      "Pobreza e necessidade",
+      "Sabedoria"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 6:9-11",
+    "explicacao": "A preguiça é associada à pobreza e à falta de recursos."
+  },
+  {
+    "id": 4378,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "Quem dá sabedoria ao homem?",
+    "alternativas": [
+      "Os reis",
+      "Os amigos",
+      "O Senhor",
+      "As riquezas"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 2:6",
+    "explicacao": "A sabedoria verdadeira vem do Senhor."
+  },
+  {
+    "id": 4379,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que devemos guardar acima de tudo?",
+    "alternativas": [
+      "O dinheiro",
+      "A aparência",
+      "O coração",
+      "Os bens"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 4:23",
+    "explicacao": "O coração deve ser protegido porque dele procedem as fontes da vida."
+  },
+  {
+    "id": 4380,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que a língua pode causar?",
+    "alternativas": [
+      "Apenas alegria",
+      "Apenas silêncio",
+      "Morte ou vida",
+      "Riqueza"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 18:21",
+    "explicacao": "As palavras têm poder para produzir consequências boas ou ruins."
+  },
+  {
+    "id": 4381,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "Qual animal é citado como exemplo de trabalho e organização?",
+    "alternativas": [
+      "Leão",
+      "Cavalo",
+      "Formiga",
+      "Águia"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 6:6",
+    "explicacao": "A formiga é usada como exemplo de diligência e planejamento."
+  },
+  {
+    "id": 4382,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que a humildade vem antes de trazer?",
+    "alternativas": [
+      "Vergonha",
+      "Honra",
+      "Medo",
+      "Riqueza"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Provérbios 15:33",
+    "explicacao": "A humildade precede a honra."
+  },
+  {
+    "id": 4383,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que o filho sábio traz ao seu pai?",
+    "alternativas": [
+      "Tristeza",
+      "Vergonha",
+      "Alegria",
+      "Preocupação"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 10:1",
+    "explicacao": "O filho sábio alegra o pai."
+  },
+  {
+    "id": 4384,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que acontece com quem confia no Senhor?",
+    "alternativas": [
+      "Nunca terá dificuldades",
+      "Será dirigido por Deus",
+      "Terá sempre riquezas",
+      "Será famoso"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Provérbios 3:5-6",
+    "explicacao": "Quem confia no Senhor recebe direção para seus caminhos."
+  },
+  {
+    "id": 4385,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que devemos fazer com a sabedoria?",
+    "alternativas": [
+      "Escondê-la",
+      "Vendê-la",
+      "Buscar e adquirir",
+      "Ignorá-la"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 4:7",
+    "explicacao": "A sabedoria deve ser buscada e valorizada."
+  },
+  {
+    "id": 4386,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "Qual atitude Deus abomina?",
+    "alternativas": [
+      "Generosidade",
+      "Trabalho",
+      "Orgulho",
+      "Bondade"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 6:16-17",
+    "explicacao": "O orgulho é uma das atitudes condenadas pelo Senhor."
+  },
+  {
+    "id": 4387,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "Quem anda com os sábios será:",
+    "alternativas": [
+      "Rico",
+      "Famoso",
+      "Sábio",
+      "Poderoso"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 13:20",
+    "explicacao": "A convivência com pessoas sábias influencia positivamente."
+  },
+  {
+    "id": 4388,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que uma resposta branda faz?",
+    "alternativas": [
+      "Aumenta a raiva",
+      "Desvia o furor",
+      "Causa conflito",
+      "Traz vergonha"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Provérbios 15:1",
+    "explicacao": "Uma resposta calma pode evitar ou diminuir conflitos."
+  },
+  {
+    "id": 4389,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que acontece com quem teme ao Senhor?",
+    "alternativas": [
+      "Encontra segurança",
+      "Perde sua força",
+      "Fica sem amigos",
+      "Não aprende nada"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Provérbios 14:26",
+    "explicacao": "O temor do Senhor traz confiança e segurança."
+  },
+  {
+    "id": 4390,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que a honestidade faz com a pessoa justa?",
+    "alternativas": [
+      "Destrói sua vida",
+      "Guia seu caminho",
+      "Tira sua alegria",
+      "Dá medo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Provérbios 11:3",
+    "explicacao": "A integridade guia as pessoas justas."
+  },
+  {
+    "id": 4391,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "Qual é o valor da sabedoria comparado ao ouro?",
+    "alternativas": [
+      "Menor que o ouro",
+      "Igual ao ouro",
+      "Mais preciosa que o ouro",
+      "Sem valor"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Provérbios 16:16",
+    "explicacao": "A sabedoria é considerada mais valiosa do que riquezas materiais."
+  },
+  {
+    "id": 4392,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Provérbios",
+    "nivel": "Fácil",
+    "pergunta": "O que o Senhor detesta, mas ama?",
+    "alternativas": [
+      "Mentira e orgulho",
+      "Lábios mentirosos e pessoas que praticam a verdade",
+      "Trabalho e esforço",
+      "Conhecimento e estudo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Provérbios 12:22",
+    "explicacao": "O Senhor rejeita a mentira e se agrada da verdade."
+  },
+  {
+    "explicacao": "A obra inicia-se identificando explicitamente o rei Salomão, célebre por sua sabedoria outorgada por Deus, como o principal idealizador das máximas de conduta.",
+    "alternativas": [
+      "Rei Salomão",
+      "Rei Davi",
+      "Profeta Samuel",
+      "Esdras"
+    ],
+    "id": 4393,
+    "pergunta": "Quem é tradicionalmente reconhecido como o principal autor e compilador da maioria dos aforismos do livro de Provérbios?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Provérbios 1:1"
+  },
+  {
+    "explicacao": "Esta tese fundamental da literatura de sabedoria aponta que o respeito reverente a Deus é a base indispensável para o discernimento moral legítimo.",
+    "alternativas": [
+      "Jó",
+      "Cântico dos Cânticos",
+      "Eclesiastes",
+      "Provérbios"
+    ],
+    "id": 4394,
+    "pergunta": "Em qual famoso livro de conselhos práticos lemos a máxima: 'O temor do Senhor é o princípio da sabedoria'?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Provérbios 1:7 / Salmo 111:10"
+  },
+  {
+    "explicacao": "O capítulo final de Provérbios destaca o valor inestimável de uma mulher que teme ao Senhor e administra o seu lar com excelência.",
+    "alternativas": [
+      "Rute",
+      "Provérbios",
+      "Ester",
+      "Cantares"
+    ],
+    "id": 4395,
+    "pergunta": "Qual livro se encerra de maneira célebre com um poema acróstico dedicado a enaltecer o caráter e a diligência da 'Mulher Virtuosa'?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Provérbios",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Provérbios 31:10-31"
+  }
+]

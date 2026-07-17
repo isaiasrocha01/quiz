@@ -1,0 +1,1090 @@
+[
+  {
+    "id": 4396,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Qual comparação os anciãos fizeram ao abençoar Rute?",
+    "alternativas": [
+      "Como Sara e Rebeca",
+      "Como Moisés e Arão",
+      "Como Raquel e Lia, que edificaram a casa de Israel",
+      "Como Débora e Jael"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:11",
+    "explicacao": "Os anciãos compararam Rute às mulheres que ajudaram a formar a casa de Israel."
+  },
+  {
+    "id": 4397,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Quem foi o filho de Rute e Boaz?",
+    "alternativas": [
+      "Jessé",
+      "Davi",
+      "Obede",
+      "Samuel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:17",
+    "explicacao": "O filho de Rute e Boaz foi chamado Obede."
+  },
+  {
+    "id": 4398,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a relação de Obede com o rei Davi?",
+    "alternativas": [
+      "Pai de Davi",
+      "Irmão de Davi",
+      "Avô de Davi",
+      "Filho de Davi"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:17",
+    "explicacao": "Obede foi o avô do rei Davi, sendo pai de Jessé."
+  },
+  {
+    "id": 4399,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Qual mensagem teológica principal aparece no livro de Rute?",
+    "alternativas": [
+      "A força militar de Israel",
+      "A conquista de novos territórios",
+      "A providência de Deus cuidando dos seus planos através de pessoas fiéis",
+      "A importância das riquezas"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:12; 4:13-17",
+    "explicacao": "O livro mostra Deus agindo através da fidelidade e das escolhas de pessoas comuns."
+  },
+  {
+    "id": 4400,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Por que a origem moabita de Rute era significativa?",
+    "alternativas": [
+      "Porque ela era inimiga de Israel",
+      "Porque ela não poderia adorar a Deus",
+      "Porque Deus mostrou que incluía estrangeiros fiéis em seu plano",
+      "Porque ela era uma princesa"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:16; 4:13-17",
+    "explicacao": "A história de Rute demonstra que Deus acolhe aqueles que se aproximam dele com fé e fidelidade."
+  },
+  {
+    "id": 4401,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "O que a mudança do nome de Noemi para Mara demonstrava?",
+    "alternativas": [
+      "Alegria pelo casamento de Rute",
+      "Orgulho de sua família",
+      "Sua percepção de amargura após as perdas que sofreu",
+      "Sua mudança de cidade"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:20-21",
+    "explicacao": "Noemi expressou sua tristeza pelas perdas e dificuldades que enfrentou."
+  },
+  {
+    "id": 4402,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Qual atitude de Rute demonstrou lealdade (hesed) para com Noemi?",
+    "alternativas": [
+      "Procurar riquezas pessoais",
+      "Voltar para Moabe",
+      "Permanecer com Noemi e cuidar dela",
+      "Abandonar sua família"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:16-17; 2:11",
+    "explicacao": "Rute demonstrou amor leal ao permanecer ao lado de Noemi."
+  },
+  {
+    "id": 4403,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "O que Boaz reconheceu como recompensa de Rute?",
+    "alternativas": [
+      "Sua beleza",
+      "Sua riqueza",
+      "Sua confiança debaixo das asas do Senhor",
+      "Sua posição social"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:12",
+    "explicacao": "Boaz reconheceu a fé de Rute e sua busca de proteção no Senhor."
+  },
+  {
+    "id": 4404,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a importância da genealogia no final do livro de Rute?",
+    "alternativas": [
+      "Mostrar os reis de Moabe",
+      "Mostrar a origem dos sacerdotes",
+      "Mostrar a ligação de Rute com a linhagem do rei Davi",
+      "Mostrar os inimigos de Israel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:18-22",
+    "explicacao": "A genealogia revela a ligação de Rute com a linhagem real de Davi."
+  },
+  {
+    "id": 4405,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Qual grande propósito de Deus é revelado através da história de Rute?",
+    "alternativas": [
+      "Apenas resolver um problema familiar",
+      "Mostrar o poder de uma nação",
+      "Preparar a linhagem da qual viria o rei Davi e o cumprimento das promessas de Deus",
+      "Ensinar agricultura em Israel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:17-22",
+    "explicacao": "A história de Rute faz parte do plano de Deus para formar a linhagem do rei Davi."
+  },
+  {
+    "id": 4406,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a cidade de origem da família de Elimeleque antes de ir para Moabe?",
+    "alternativas": [
+      "Jerusalém",
+      "Nazaré",
+      "Belém de Judá",
+      "Hebrom"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:1-2",
+    "explicacao": "A família de Elimeleque era de Belém de Judá antes de partir para Moabe."
+  },
+  {
+    "id": 4407,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a situação espiritual de Israel quando aconteceu a história de Rute?",
+    "alternativas": [
+      "Israel estava sob o domínio romano",
+      "Israel vivia no período dos reis",
+      "Cada um fazia o que parecia certo aos seus próprios olhos",
+      "Israel estava no exílio"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Juízes 21:25",
+    "explicacao": "O período dos juízes era marcado por falta de liderança e cada pessoa seguia seu próprio caminho."
+  },
+  {
+    "id": 4408,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Por que o casamento de Rute com Boaz era importante além da união familiar?",
+    "alternativas": [
+      "Porque Boaz era um rei",
+      "Porque Rute receberia riquezas",
+      "Porque preservava o nome e a herança da família de Elimeleque",
+      "Porque encerrava uma guerra"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:5,10",
+    "explicacao": "O casamento fazia parte do resgate da família e preservação da herança."
+  },
+  {
+    "id": 4409,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "O que significa o termo 'resgatador' (goel) na história de Rute?",
+    "alternativas": [
+      "Um líder militar",
+      "Um sacerdote do templo",
+      "Um parente com direito e responsabilidade de restaurar a família",
+      "Um juiz de Israel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 3:9,12-13",
+    "explicacao": "O resgatador era um parente próximo responsável por restaurar direitos familiares."
+  },
+  {
+    "id": 4410,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Por que Boaz era considerado um possível resgatador de Rute?",
+    "alternativas": [
+      "Porque era amigo de Noemi",
+      "Porque era um estrangeiro rico",
+      "Porque era parente da família de Elimeleque",
+      "Porque era sacerdote"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:1; 3:9",
+    "explicacao": "Boaz tinha o direito de resgate por ser parente da família de Elimeleque."
+  },
+  {
+    "id": 4411,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "O que Rute pediu a Boaz ao se colocar aos seus pés na eira?",
+    "alternativas": [
+      "Que lhe desse dinheiro",
+      "Que a mandasse de volta para Moabe",
+      "Que ele assumisse o papel de resgatador",
+      "Que comprasse seus campos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 3:9",
+    "explicacao": "Rute pediu que Boaz cumprisse o papel de resgatador sobre ela e sua família."
+  },
+  {
+    "id": 4412,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Qual característica de Rute Boaz destacou diante dos anciãos?",
+    "alternativas": [
+      "Sua riqueza",
+      "Sua beleza",
+      "Sua reputação como mulher virtuosa",
+      "Sua origem moabita"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 3:11",
+    "explicacao": "Boaz reconheceu a boa reputação e o caráter de Rute."
+  },
+  {
+    "id": 4413,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Por que o primeiro resgatador não quis assumir a responsabilidade de resgatar a herança?",
+    "alternativas": [
+      "Porque não conhecia Rute",
+      "Porque não tinha dinheiro",
+      "Porque temeu prejudicar sua própria herança",
+      "Porque não morava em Belém"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:6",
+    "explicacao": "O primeiro resgatador recusou por receio de comprometer sua própria herança."
+  },
+  {
+    "id": 4414,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Qual ato confirmava legalmente o acordo entre os homens em Israel?",
+    "alternativas": [
+      "Derramar sangue no altar",
+      "Fazer uma festa",
+      "Tirar a sandália e entregá-la ao outro",
+      "Trocar roupas"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:7-8",
+    "explicacao": "A retirada da sandália era um costume que confirmava acordos legais."
+  },
+  {
+    "id": 4415,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Difícil",
+    "pergunta": "Quem testemunhou o acordo entre Boaz e o resgatador mais próximo?",
+    "alternativas": [
+      "Os sacerdotes do templo",
+      "Os soldados de Israel",
+      "Os anciãos da cidade",
+      "Os familiares de Rute"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:9-11",
+    "explicacao": "Os anciãos da cidade testemunharam oficialmente o acordo."
+  },
+  {
+    "id": 4416,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Qual lei permitia que pessoas pobres recolhessem espigas deixadas pelos trabalhadores?",
+    "alternativas": [
+      "Lei dos sacerdotes",
+      "Lei dos reis",
+      "A lei da respiga para os necessitados",
+      "Lei dos estrangeiros"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:2-3; Levítico 19:9-10",
+    "explicacao": "A lei da respiga permitia que pobres e estrangeiros recolhessem o que ficava nas colheitas."
+  },
+  {
+    "id": 4417,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "O que Boaz ouviu sobre Rute antes de falar com ela?",
+    "alternativas": [
+      "Que ela era rica",
+      "Que ela era de uma família importante",
+      "Que ela havia deixado seu povo e cuidado de Noemi",
+      "Que ela era uma princesa"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:11",
+    "explicacao": "Boaz soube da fidelidade de Rute ao abandonar sua terra e cuidar de Noemi."
+  },
+  {
+    "id": 4418,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Como Boaz descreveu a atitude de Rute?",
+    "alternativas": [
+      "Como orgulho",
+      "Como desobediência",
+      "Como uma mulher virtuosa",
+      "Como uma estrangeira sem valor"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 3:11",
+    "explicacao": "Boaz reconheceu Rute como uma mulher de caráter e virtude."
+  },
+  {
+    "id": 4419,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "O que Boaz ordenou aos seus trabalhadores sobre Rute?",
+    "alternativas": [
+      "Que a mandassem embora",
+      "Que cobrassem por suas espigas",
+      "Que deixassem ela recolher com segurança",
+      "Que ela trabalhasse sozinha"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:15-16",
+    "explicacao": "Boaz ordenou que seus trabalhadores protegessem Rute e permitissem que ela recolhesse espigas."
+  },
+  {
+    "id": 4420,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "O que Noemi percebeu ao saber que Rute havia encontrado favor com Boaz?",
+    "alternativas": [
+      "Que Boaz era inimigo",
+      "Que Deus havia abandonado sua família",
+      "Que Deus continuava cuidando delas",
+      "Que deveriam voltar para Moabe"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:20",
+    "explicacao": "Noemi reconheceu que Deus ainda demonstrava bondade e cuidado por elas."
+  },
+  {
+    "id": 4421,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Qual costume envolvia a transferência de uma propriedade em Israel?",
+    "alternativas": [
+      "Entrega de uma coroa",
+      "Troca de moedas",
+      "Retirar a sandália como confirmação do acordo",
+      "Fazer um sacrifício"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:7",
+    "explicacao": "A retirada da sandália era um costume usado para confirmar acordos de resgate e transferência."
+  },
+  {
+    "id": 4422,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Por que Boaz não se casou imediatamente com Rute?",
+    "alternativas": [
+      "Porque não gostava dela",
+      "Porque Rute era estrangeira",
+      "Porque havia um parente mais próximo com direito de resgate",
+      "Porque Noemi não permitiu"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 3:12-13",
+    "explicacao": "Havia um parente mais próximo que tinha prioridade no direito de resgatar a família."
+  },
+  {
+    "id": 4423,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Qual era a função do resgatador na história de Rute?",
+    "alternativas": [
+      "Liderar o exército",
+      "Ser sacerdote",
+      "Resgatar propriedades e preservar o nome da família",
+      "Governar Belém"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:4-5",
+    "explicacao": "O resgatador tinha a função de preservar a herança e o nome da família."
+  },
+  {
+    "id": 4424,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Qual foi a reação das mulheres de Belém ao nascimento do filho de Rute?",
+    "alternativas": [
+      "Ficaram tristes",
+      "Ignoraram Noemi",
+      "Celebraram a restauração da vida de Noemi",
+      "Expulsaram Rute"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:14-15",
+    "explicacao": "As mulheres celebraram a bondade de Deus ao restaurar a alegria de Noemi."
+  },
+  {
+    "id": 4425,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Qual foi o papel de Rute na linhagem de Israel?",
+    "alternativas": [
+      "Tornou-se rainha do Egito",
+      "Foi mãe de Moisés",
+      "Tornou-se ancestral do rei Davi",
+      "Foi sacerdotisa"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:17-22",
+    "explicacao": "Rute tornou-se parte da linhagem que levou ao rei Davi."
+  },
+  {
+    "id": 4426,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Qual foi a causa da ida de Elimeleque e sua família para Moabe?",
+    "alternativas": [
+      "Procurar uma nova religião",
+      "Fugir de uma guerra",
+      "Houve fome na terra de Belém de Judá",
+      "Receber uma herança em Moabe"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:1",
+    "explicacao": "Elimeleque e sua família foram para Moabe por causa da fome que atingiu Belém de Judá."
+  },
+  {
+    "id": 4427,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Quais eram os nomes dos dois filhos de Noemi?",
+    "alternativas": [
+      "Boaz e Obede",
+      "Saul e Davi",
+      "Malom e Quiliom",
+      "Eli e Samuel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:2",
+    "explicacao": "Os filhos de Noemi eram Malom e Quiliom."
+  },
+  {
+    "id": 4428,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "O que aconteceu com o marido e os filhos de Noemi em Moabe?",
+    "alternativas": [
+      "Tornaram-se líderes",
+      "Voltaram para Belém",
+      "Morreram, deixando Noemi, Rute e Orfa viúvas",
+      "Foram para o Egito"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:3-5",
+    "explicacao": "Elimeleque e seus dois filhos morreram em Moabe."
+  },
+  {
+    "id": 4429,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Por que Noemi pediu para suas noras voltarem para Moabe?",
+    "alternativas": [
+      "Porque não gostava delas",
+      "Porque queria ficar sozinha",
+      "Porque acreditava que elas poderiam encontrar novos maridos em sua terra",
+      "Porque Deus havia ordenado"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:8-9",
+    "explicacao": "Noemi desejava que suas noras encontrassem segurança e novos casamentos em Moabe."
+  },
+  {
+    "id": 4430,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Qual foi a atitude de Orfa diante do pedido de Noemi?",
+    "alternativas": [
+      "Seguiu Noemi até Belém",
+      "Ficou com Rute",
+      "Voltou para o seu povo e seus deuses",
+      "Casou-se com Boaz"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:14-15",
+    "explicacao": "Orfa decidiu retornar para Moabe."
+  },
+  {
+    "id": 4431,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Qual foi a demonstração de fé de Rute ao seguir Noemi?",
+    "alternativas": [
+      "Desejava apenas riquezas",
+      "Queria conhecer novas terras",
+      "Escolheu o povo e o Deus de Noemi",
+      "Queria fugir de Moabe"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:16-17",
+    "explicacao": "Rute decidiu abandonar sua antiga vida e seguir o Deus de Israel."
+  },
+  {
+    "id": 4432,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Qual era o significado do nome Noemi?",
+    "alternativas": [
+      "Feliz",
+      "Guerreira",
+      "Agradável ou amável",
+      "Serva"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:20",
+    "explicacao": "O nome Noemi significa agradável ou amável."
+  },
+  {
+    "id": 4433,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Por que Noemi pediu para ser chamada de Mara?",
+    "alternativas": [
+      "Porque queria um novo nome",
+      "Porque se tornou rica",
+      "Porque dizia que o Todo-Poderoso havia tornado sua vida amarga",
+      "Porque mudou de cidade"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:20",
+    "explicacao": "Noemi usou o nome Mara porque sentia que sua vida havia se tornado amarga."
+  },
+  {
+    "id": 4434,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Em qual época do ano Rute chegou a Belém?",
+    "alternativas": [
+      "Durante a colheita de uvas",
+      "Durante a primavera",
+      "No começo da colheita da cevada",
+      "Durante o inverno"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:22",
+    "explicacao": "Rute e Noemi chegaram a Belém no início da colheita da cevada."
+  },
+  {
+    "id": 4435,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Por que Rute foi aos campos recolher espigas?",
+    "alternativas": [
+      "Para vender terras",
+      "Para trabalhar como comerciante",
+      "Para conseguir alimento para ela e Noemi",
+      "Para procurar Boaz"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:2",
+    "explicacao": "Rute foi recolher espigas para sustentar a si mesma e a Noemi."
+  },
+  {
+    "id": 4436,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Onde Rute foi trabalhar para conseguir alimento?",
+    "alternativas": [
+      "No palácio",
+      "No templo",
+      "Nos campos recolhendo espigas",
+      "No mercado"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:2-3",
+    "explicacao": "Rute foi aos campos para recolher as espigas deixadas pelos trabalhadores."
+  },
+  {
+    "id": 4437,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "De quem era o campo onde Rute foi recolher espigas?",
+    "alternativas": [
+      "Elimeleque",
+      "Jessé",
+      "Boaz",
+      "Samuel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:3",
+    "explicacao": "Rute foi trabalhar no campo que pertencia a Boaz."
+  },
+  {
+    "id": 4438,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Quem era Boaz?",
+    "alternativas": [
+      "Um sacerdote",
+      "Um rei",
+      "Um homem rico e parente de Elimeleque",
+      "Um profeta"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:1",
+    "explicacao": "Boaz era um homem rico e parente da família de Elimeleque."
+  },
+  {
+    "id": 4439,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Como Boaz tratou Rute quando soube de sua história?",
+    "alternativas": [
+      "Com desprezo",
+      "Com indiferença",
+      "Com bondade e proteção",
+      "Com castigo"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:11-12",
+    "explicacao": "Boaz reconheceu a fidelidade de Rute e demonstrou cuidado com ela."
+  },
+  {
+    "id": 4440,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "O que Boaz permitiu que Rute fizesse em seus campos?",
+    "alternativas": [
+      "Construir uma casa",
+      "Vender suas terras",
+      "Recolher espigas junto aos trabalhadores",
+      "Plantar uma nova lavoura"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:8-9",
+    "explicacao": "Boaz permitiu que Rute recolhesse espigas em seus campos com segurança."
+  },
+  {
+    "id": 4441,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Qual era a relação de Boaz com Noemi?",
+    "alternativas": [
+      "Irmão",
+      "Filho",
+      "Parente do marido de Noemi",
+      "Vizinho distante"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 2:1",
+    "explicacao": "Boaz era parente da família de Elimeleque, marido de Noemi."
+  },
+  {
+    "id": 4442,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "O que Noemi desejava para Rute?",
+    "alternativas": [
+      "Que voltasse para Moabe",
+      "Que se tornasse rica",
+      "Que encontrasse descanso em uma nova família",
+      "Que fosse para Jerusalém"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 3:1",
+    "explicacao": "Noemi desejava que Rute encontrasse segurança e um novo lar."
+  },
+  {
+    "id": 4443,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Com quem Rute se casou?",
+    "alternativas": [
+      "Elimeleque",
+      "Jessé",
+      "Boaz",
+      "Samuel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:13",
+    "explicacao": "Rute se casou com Boaz e formou uma nova família."
+  },
+  {
+    "id": 4444,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi o nome do filho de Rute e Boaz?",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Obede",
+      "Jessé"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:17",
+    "explicacao": "O filho de Rute e Boaz recebeu o nome de Obede."
+  },
+  {
+    "id": 4445,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi descendente de Rute e Boaz?",
+    "alternativas": [
+      "Moisés",
+      "Josué",
+      "Davi",
+      "Elias"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 4:17-22",
+    "explicacao": "Davi, rei de Israel, foi descendente da família de Rute e Boaz."
+  },
+  {
+    "id": 4446,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Quem é a personagem principal do livro de Rute?",
+    "alternativas": [
+      "Ester",
+      "Noemi",
+      "Rute",
+      "Débora"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:4",
+    "explicacao": "Rute é a personagem principal do livro que leva seu nome."
+  },
+  {
+    "id": 4447,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "De qual povo Rute era?",
+    "alternativas": [
+      "Egípcio",
+      "Israelita",
+      "Filisteu",
+      "Moabita"
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Rute 1:4",
+    "explicacao": "Rute era uma mulher moabita que se uniu ao povo de Israel."
+  },
+  {
+    "id": 4448,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o nome da sogra de Rute?",
+    "alternativas": [
+      "Sara",
+      "Noemi",
+      "Raquel",
+      "Miriã"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Rute 1:2",
+    "explicacao": "Noemi era a sogra de Rute e esposa de Elimeleque."
+  },
+  {
+    "id": 4449,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Por que Noemi decidiu voltar para Belém?",
+    "alternativas": [
+      "Porque queria visitar seus parentes",
+      "Porque perdeu suas terras",
+      "Porque soube que o Senhor havia dado alimento ao seu povo",
+      "Porque foi chamada pelo rei"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:6",
+    "explicacao": "Noemi soube que Deus havia visitado seu povo dando alimento novamente."
+  },
+  {
+    "id": 4450,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o nome do marido de Noemi?",
+    "alternativas": [
+      "Boaz",
+      "Jessé",
+      "Elimeleque",
+      "Malom"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:2",
+    "explicacao": "Elimeleque era o marido de Noemi e pai dos filhos dela."
+  },
+  {
+    "id": 4451,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o nome da outra nora de Noemi?",
+    "alternativas": [
+      "Ana",
+      "Orfa",
+      "Marta",
+      "Abigail"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Rute 1:4",
+    "explicacao": "Orfa era a outra nora de Noemi."
+  },
+  {
+    "id": 4452,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi a decisão de Rute ao ser incentivada a voltar para sua terra?",
+    "alternativas": [
+      "Voltar para Moabe",
+      "Ir para o Egito",
+      "Permanecer com Noemi",
+      "Casar-se novamente em Moabe"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:16-17",
+    "explicacao": "Rute decidiu permanecer com Noemi e seguir o Deus de Israel."
+  },
+  {
+    "id": 4453,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Qual frase famosa Rute disse a Noemi?",
+    "alternativas": [
+      "Seu povo será meu inimigo",
+      "Voltarei para minha casa",
+      "O teu povo é o meu povo, o teu Deus é o meu Deus",
+      "Não seguirei você"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:16",
+    "explicacao": "Rute demonstrou fidelidade a Noemi e ao Deus de Israel."
+  },
+  {
+    "id": 4454,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Para onde Noemi e Rute foram quando voltaram?",
+    "alternativas": [
+      "Jerusalém",
+      "Nazaré",
+      "Belém",
+      "Samaria"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:19",
+    "explicacao": "Elas retornaram para Belém, cidade natal de Noemi."
+  },
+  {
+    "id": 4455,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "pergunta": "Em qual período da história de Israel aconteceu o livro de Rute?",
+    "alternativas": [
+      "Durante o reinado de Davi",
+      "Durante o exílio",
+      "Durante o período dos juízes",
+      "Durante o tempo de Salomão"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Rute 1:1",
+    "explicacao": "A história de Rute ocorreu no período em que os juízes governavam Israel."
+  },
+  {
+    "explicacao": "Rute disse as famosas palavras: 'Não me instes para que te abandone... o teu povo é o meu povo, o teu Deus é o meu Deus'.",
+    "alternativas": [
+      "Rute",
+      "Orfa",
+      "Ester",
+      "Vashti"
+    ],
+    "id": 4456,
+    "pergunta": "Quem foi a jovem moabita que escolheu não abandonar sua sogra Noemi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Rute 1:16"
+  },
+  {
+    "explicacao": "Noemi voltou de Moabe com Rute, sua nora, e chegaram a Belém no princípio da colheita da cevada.",
+    "alternativas": [
+      "Belém de Judá",
+      "Jerusalém",
+      "Moabe",
+      "Jericó"
+    ],
+    "id": 4457,
+    "pergunta": "Qual cidade foi a terra natal de Rute, para onde ela viajou com Noemi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Rute 1:22"
+  },
+  {
+    "explicacao": "O livro mostra como a estrangeira Rute casou-se com Boaz e se tornou bisavó do rei Davi.",
+    "alternativas": [
+      "Rute",
+      "Ester",
+      "Cânticos",
+      "Oséias"
+    ],
+    "id": 4458,
+    "pergunta": "Qual pequeno livro conta a história de amor e redenção de uma ancestral do rei Davi que era moabita?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Rute 4:21-22"
+  },
+  {
+    "explicacao": "Na organização canônica da Bíblia, Rute fica logo após Juízes, pois sua história se passa no mesmo período.",
+    "alternativas": [
+      "Juízes",
+      "Josué",
+      "1 Samuel",
+      "Gênesis"
+    ],
+    "id": 4459,
+    "pergunta": "Que livro vem imediatamente antes do livro de Rute na Bíblia?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Rute",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ordem Canônica da Bíblia"
+  }
+]

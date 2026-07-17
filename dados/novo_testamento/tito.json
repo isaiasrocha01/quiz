@@ -1,0 +1,1022 @@
+[
+  {
+    "explicacao": "A carta foi escrita por Paulo, que se apresenta como servo de Deus e apóstolo de Jesus Cristo.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 1758,
+    "pergunta": "Quem escreveu a Carta de Tito?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:1"
+  },
+  {
+    "explicacao": "Paulo escreveu a Tito, seu verdadeiro filho na fé.",
+    "alternativas": [
+      "Timóteo",
+      "Tito",
+      "Filemom",
+      "Silas"
+    ],
+    "id": 1759,
+    "pergunta": "Para quem Paulo escreveu essa carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:4"
+  },
+  {
+    "explicacao": "Paulo chama Tito de verdadeiro filho segundo a fé comum.",
+    "alternativas": [
+      "Um soldado romano",
+      "Verdadeiro filho na fé",
+      "Um rei",
+      "Um sacerdote judeu"
+    ],
+    "id": 1760,
+    "pergunta": "Tito era considerado por Paulo como:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:4"
+  },
+  {
+    "explicacao": "Tito foi deixado em Creta para organizar o que faltava e estabelecer líderes.",
+    "alternativas": [
+      "Roma",
+      "Creta",
+      "Jerusalém",
+      "Corinto"
+    ],
+    "id": 1761,
+    "pergunta": "Em qual lugar Tito deveria organizar a igreja?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:5"
+  },
+  {
+    "explicacao": "Paulo orientou Tito a estabelecer presbíteros em cada cidade.",
+    "alternativas": [
+      "Reis",
+      "Presbíteros nas cidades",
+      "Soldados",
+      "Comerciantes"
+    ],
+    "id": 1762,
+    "pergunta": "Tito deveria estabelecer:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:5"
+  },
+  {
+    "explicacao": "Paulo ensina que o líder deve ter uma vida íntegra e irrepreensível.",
+    "alternativas": [
+      "Irrepreensível",
+      "Rico",
+      "Famoso",
+      "Poderoso"
+    ],
+    "id": 1763,
+    "pergunta": "Um líder da igreja deveria ser:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:6"
+  },
+  {
+    "explicacao": "Paulo lista características negativas que um líder não deve possuir.",
+    "alternativas": [
+      "Humilde",
+      "Hospitaleiro",
+      "Soberbo e irado",
+      "Amigo do bem"
+    ],
+    "id": 1764,
+    "pergunta": "O líder da igreja não deveria ser:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:7"
+  },
+  {
+    "explicacao": "O líder deve permanecer firme na palavra fiel conforme o ensino recebido.",
+    "alternativas": [
+      "Palavra fiel",
+      "Riqueza",
+      "Fama",
+      "Política"
+    ],
+    "id": 1765,
+    "pergunta": "O líder deve ser apegado à:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:9"
+  },
+  {
+    "explicacao": "Tito deveria ensinar aquilo que está de acordo com a sã doutrina.",
+    "alternativas": [
+      "Falsas doutrinas",
+      "A sã doutrina",
+      "Leis romanas",
+      "Filosofias humanas"
+    ],
+    "id": 1766,
+    "pergunta": "Paulo orientou Tito a ensinar:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:1"
+  },
+  {
+    "explicacao": "Paulo orienta os homens idosos a viverem com equilíbrio e dignidade.",
+    "alternativas": [
+      "Sóbrios, respeitáveis e prudentes",
+      "Ricos e influentes",
+      "Guerreiros",
+      "Reis"
+    ],
+    "id": 1767,
+    "pergunta": "Os homens idosos deveriam ser:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:2"
+  },
+  {
+    "explicacao": "As mulheres idosas deveriam ensinar boas práticas.",
+    "alternativas": [
+      "Maldade",
+      "O bem",
+      "Guerra",
+      "Comércio"
+    ],
+    "id": 1768,
+    "pergunta": "As mulheres idosas deveriam ensinar:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:3"
+  },
+  {
+    "explicacao": "Paulo instrui os jovens a serem moderados e prudentes.",
+    "alternativas": [
+      "Prudentes",
+      "Orgulhosos",
+      "Vingativos",
+      "Gananciosos"
+    ],
+    "id": 1769,
+    "pergunta": "Os jovens deveriam ser:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:6"
+  },
+  {
+    "explicacao": "A graça de Deus é apresentada como oferecida a todos os homens.",
+    "alternativas": [
+      "Apenas aos judeus",
+      "A todos os homens",
+      "Apenas aos ricos",
+      "Apenas aos sacerdotes"
+    ],
+    "id": 1770,
+    "pergunta": "A graça de Deus trouxe salvação:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:11"
+  },
+  {
+    "explicacao": "A graça ensina uma vida de renúncia ao pecado e de domínio próprio.",
+    "alternativas": [
+      "Toda alegria",
+      "A impiedade e as paixões mundanas",
+      "O trabalho",
+      "A família"
+    ],
+    "id": 1771,
+    "pergunta": "A graça de Deus nos ensina a abandonar:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:12"
+  },
+  {
+    "explicacao": "Os cristãos aguardam a volta gloriosa de Jesus Cristo.",
+    "alternativas": [
+      "A riqueza do mundo",
+      "A bendita esperança e a manifestação da glória de Cristo",
+      "Um novo governo humano",
+      "Uma vida sem dificuldades"
+    ],
+    "id": 1772,
+    "pergunta": "O que os cristãos aguardam?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:13"
+  },
+  {
+    "explicacao": "Jesus entregou sua vida para purificar um povo dedicado às boas obras.",
+    "alternativas": [
+      "Nos dar riquezas",
+      "Nos remir de toda iniquidade",
+      "Nos tornar reis terrenos",
+      "Nos livrar do trabalho"
+    ],
+    "id": 1773,
+    "pergunta": "Jesus se entregou por nós para:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:14"
+  },
+  {
+    "explicacao": "Paulo ensina a obediência e respeito às autoridades.",
+    "alternativas": [
+      "Autoridades e governantes",
+      "Apenas aos ricos",
+      "Apenas aos sacerdotes",
+      "Ninguém"
+    ],
+    "id": 1774,
+    "pergunta": "Os cristãos devem estar sujeitos a:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:1"
+  },
+  {
+    "explicacao": "A salvação não é conquistada por obras humanas de justiça.",
+    "alternativas": [
+      "Obras de justiça",
+      "Orações",
+      "Boas palavras",
+      "Amizades"
+    ],
+    "id": 1775,
+    "pergunta": "A salvação não veio pelas nossas:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:5"
+  },
+  {
+    "explicacao": "A salvação acontece pela misericórdia de Deus.",
+    "alternativas": [
+      "Força humana",
+      "Misericórdia de Deus",
+      "Riqueza",
+      "Sabedoria dos homens"
+    ],
+    "id": 1776,
+    "pergunta": "Somos salvos pela:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:5"
+  },
+  {
+    "explicacao": "Paulo aconselha evitar debates sem proveito e discussões inúteis.",
+    "alternativas": [
+      "Boas obras",
+      "Discussões inúteis e contendas sobre a lei",
+      "Ensinar a Bíblia",
+      "Ajudar pessoas"
+    ],
+    "id": 1777,
+    "pergunta": "Paulo orienta Tito a evitar:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:9"
+  },
+  {
+    "explicacao": "Paulo inicia a carta identificando-se como servo de Deus e apóstolo de Jesus Cristo.",
+    "alternativas": [
+      "Rei dos judeus e sacerdote",
+      "Servo de Deus e apóstolo de Jesus Cristo",
+      "Governador de Creta",
+      "Mestre da lei romana"
+    ],
+    "id": 1778,
+    "pergunta": "Paulo se apresenta na carta de Tito como:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:1"
+  },
+  {
+    "explicacao": "Paulo deixou Tito em Creta para organizar a igreja e estabelecer presbíteros.",
+    "alternativas": [
+      "Construísse um templo",
+      "Organizasse o que faltava e estabelecesse presbíteros",
+      "Liderasse um exército",
+      "Viajasse para Roma"
+    ],
+    "id": 1779,
+    "pergunta": "Paulo escreveu a Tito para que ele:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:5"
+  },
+  {
+    "explicacao": "O presbítero deveria apresentar uma vida íntegra e irrepreensível.",
+    "alternativas": [
+      "Ser rico",
+      "Ser irrepreensível",
+      "Ser conhecido pelo povo romano",
+      "Ter muitos seguidores"
+    ],
+    "id": 1780,
+    "pergunta": "Qual característica era exigida de um presbítero?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:6"
+  },
+  {
+    "explicacao": "Paulo descreve qualidades espirituais e morais esperadas de um bispo.",
+    "alternativas": [
+      "Dominador e severo",
+      "Hospitaleiro, amigo do bem e justo",
+      "Guerreiro e poderoso",
+      "Rico e famoso"
+    ],
+    "id": 1781,
+    "pergunta": "O bispo deveria ser:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:7-8"
+  },
+  {
+    "explicacao": "O líder deveria guardar e ensinar fielmente a doutrina recebida.",
+    "alternativas": [
+      "Tradições humanas",
+      "A palavra fiel conforme a doutrina",
+      "Leis dos governantes",
+      "Conhecimentos filosóficos"
+    ],
+    "id": 1782,
+    "pergunta": "O presbítero deveria permanecer firme em:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:9"
+  },
+  {
+    "explicacao": "Paulo alerta sobre pessoas que ensinavam erros e enganavam outros.",
+    "alternativas": [
+      "Bons exemplos para todos",
+      "Pessoas insubordinadas, faladoras e enganadoras",
+      "Profetas verdadeiros",
+      "Apóstolos enviados por Cristo"
+    ],
+    "id": 1783,
+    "pergunta": "Os falsos mestres eram descritos por Paulo como:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:10"
+  },
+  {
+    "explicacao": "Paulo orientou Tito a corrigir aqueles que seguiam falsos ensinos em Creta.",
+    "alternativas": [
+      "Os jovens",
+      "Os cretenses que seguiam falsos ensinos",
+      "Os soldados romanos",
+      "Os pescadores"
+    ],
+    "id": 1784,
+    "pergunta": "Qual grupo Paulo ordena que Tito repreenda severamente?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:12-13"
+  },
+  {
+    "explicacao": "Paulo ensina que os homens idosos devem viver com equilíbrio e maturidade.",
+    "alternativas": [
+      "Domínio e riqueza",
+      "Sobriedade, dignidade e perseverança",
+      "Autoridade política",
+      "Conhecimento militar"
+    ],
+    "id": 1785,
+    "pergunta": "O que os homens idosos deveriam demonstrar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:2"
+  },
+  {
+    "explicacao": "As mulheres idosas deveriam ensinar boas atitudes e condutas.",
+    "alternativas": [
+      "Mestras do bem",
+      "Líderes políticas",
+      "Comerciantes",
+      "Juízas do povo"
+    ],
+    "id": 1786,
+    "pergunta": "As mulheres idosas deveriam ser:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:3"
+  },
+  {
+    "explicacao": "Paulo orienta as mulheres jovens sobre amor e cuidado familiar.",
+    "alternativas": [
+      "Governar cidades",
+      "Amar seus maridos e filhos",
+      "Buscar riquezas",
+      "Evitar toda responsabilidade"
+    ],
+    "id": 1787,
+    "pergunta": "As mulheres mais jovens deveriam aprender a:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:4"
+  },
+  {
+    "explicacao": "Paulo orienta Tito a demonstrar caráter por meio de suas atitudes.",
+    "alternativas": [
+      "Boas obras, integridade e seriedade",
+      "Poder e autoridade",
+      "Riqueza e influência",
+      "Conhecimento político"
+    ],
+    "id": 1788,
+    "pergunta": "Tito deveria ser exemplo em:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:7"
+  },
+  {
+    "explicacao": "A graça transforma a maneira de viver, ensinando justiça, piedade e domínio próprio.",
+    "alternativas": [
+      "Sem regras",
+      "De maneira justa, piedosa e moderada",
+      "Apenas buscando prazeres",
+      "Sem preocupação com o futuro"
+    ],
+    "id": 1789,
+    "pergunta": "A graça de Deus nos ensina a viver:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:12"
+  },
+  {
+    "explicacao": "A esperança cristã está ligada à manifestação gloriosa de Cristo.",
+    "alternativas": [
+      "A volta do império romano",
+      "A manifestação da glória de Jesus Cristo",
+      "Uma vida sem sofrimento",
+      "A riqueza das nações"
+    ],
+    "id": 1790,
+    "pergunta": "O que os cristãos aguardam como esperança?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:13"
+  },
+  {
+    "explicacao": "Cristo entregou-se para formar um povo dedicado a Deus e às boas obras.",
+    "alternativas": [
+      "Formar um reino político",
+      "Purificar para si um povo especial, zeloso de boas obras",
+      "Dar poder aos homens",
+      "Acabar com todas as dificuldades"
+    ],
+    "id": 1791,
+    "pergunta": "Jesus entregou-se por nós para:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:14"
+  },
+  {
+    "explicacao": "Os cristãos deveriam demonstrar respeito e obediência às autoridades.",
+    "alternativas": [
+      "Se sujeitarem às autoridades e serem obedientes",
+      "Fugirem dos governantes",
+      "Evitarem todo contato social",
+      "Procurarem riquezas"
+    ],
+    "id": 1792,
+    "pergunta": "Paulo orientou Tito a lembrar os cristãos de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:1"
+  },
+  {
+    "explicacao": "Paulo lembra a antiga condição humana antes da transformação pela graça.",
+    "alternativas": [
+      "Sempre justos",
+      "Insensatos, desobedientes e escravos de vários desejos",
+      "Governantes do mundo",
+      "Sem necessidade de mudança"
+    ],
+    "id": 1793,
+    "pergunta": "Antes da salvação, os cristãos eram:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:3"
+  },
+  {
+    "explicacao": "A salvação é resultado da misericórdia divina, não do mérito humano.",
+    "alternativas": [
+      "Das obras humanas",
+      "Da misericórdia de Deus",
+      "Da posição social",
+      "Da sabedoria humana"
+    ],
+    "id": 1794,
+    "pergunta": "A salvação aconteceu por causa:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:5"
+  },
+  {
+    "explicacao": "O Espírito Santo foi derramado sobre nós por meio de Jesus Cristo.",
+    "alternativas": [
+      "Por meio de Jesus Cristo, nosso Salvador",
+      "Pela riqueza",
+      "Pela lei de Moisés",
+      "Pelos anjos"
+    ],
+    "id": 1795,
+    "pergunta": "Como Deus derramou o Espírito Santo sobre nós?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:6"
+  },
+  {
+    "explicacao": "Paulo orienta evitar discussões inúteis que não produzem benefício.",
+    "alternativas": [
+      "Boas obras",
+      "Questões tolas, genealogias e discussões sobre a lei",
+      "Ensinar a verdade",
+      "Ajudar os necessitados"
+    ],
+    "id": 1796,
+    "pergunta": "Tito deveria evitar:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:9"
+  },
+  {
+    "explicacao": "Paulo orienta corrigir a pessoa divisora antes de tomar outras medidas.",
+    "alternativas": [
+      "Ignorá-la imediatamente sem conversa",
+      "Adverti-la uma primeira e segunda vez",
+      "Nomeá-la líder",
+      "Enviá-la para ensinar"
+    ],
+    "id": 1797,
+    "pergunta": "Depois de advertir uma pessoa divisora, Paulo orienta:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:10"
+  },
+  {
+    "explicacao": "Paulo descreve seu ministério como fundamentado na fé dos eleitos de Deus e no conhecimento da verdade que conduz à piedade.",
+    "alternativas": [
+      "Na tradição dos anciãos",
+      "Na fé dos eleitos de Deus e no conhecimento da verdade segundo a piedade",
+      "No poder político de Roma",
+      "Na sabedoria dos filósofos"
+    ],
+    "id": 1798,
+    "pergunta": "Paulo afirma que sua missão como apóstolo era baseada:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:1"
+  },
+  {
+    "explicacao": "Paulo afirma que a promessa da vida eterna veio de Deus antes dos tempos eternos.",
+    "alternativas": [
+      "Por Moisés",
+      "Antes dos tempos eternos por Deus que não mente",
+      "Pelos profetas de Israel somente",
+      "Pelos apóstolos depois de Cristo"
+    ],
+    "id": 1799,
+    "pergunta": "A esperança da vida eterna, mencionada por Paulo, foi prometida:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:2"
+  },
+  {
+    "explicacao": "Tito recebeu a missão de organizar a igreja de Creta e estabelecer presbíteros.",
+    "alternativas": [
+      "Construir uma nova cidade",
+      "Pregar somente aos judeus",
+      "Colocar em ordem as coisas restantes e estabelecer presbíteros",
+      "Governar a igreja sozinho"
+    ],
+    "id": 1800,
+    "pergunta": "Paulo deixou Tito em Creta para:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:5"
+  },
+  {
+    "explicacao": "Paulo apresenta como requisito que o presbítero tenha uma vida familiar exemplar.",
+    "alternativas": [
+      "De uma mulher e ter filhos crentes",
+      "De várias mulheres conforme a cultura",
+      "Apenas dos líderes da igreja",
+      "Sem família obrigatoriamente"
+    ],
+    "id": 1801,
+    "pergunta": "Um presbítero deveria ser marido:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:6"
+  },
+  {
+    "explicacao": "Paulo afirma que o bispo não deve ser arrogante nem dominado pela ira.",
+    "alternativas": [
+      "Hospitaleiro",
+      "Amigo do bem",
+      "Soberbo e irascível",
+      "Justo e santo"
+    ],
+    "id": 1802,
+    "pergunta": "Qual destas características NÃO pertence ao bispo segundo Paulo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:7-8"
+  },
+  {
+    "explicacao": "O líder deve conhecer a doutrina e ser capaz de instruir e corrigir.",
+    "alternativas": [
+      "Fazer milagres publicamente",
+      "Exortar pelo ensino da sã doutrina e convencer os contradizentes",
+      "Governar sobre autoridades civis",
+      "Escrever novas leis religiosas"
+    ],
+    "id": 1803,
+    "pergunta": "O bispo deve ser capaz de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:9"
+  },
+  {
+    "explicacao": "Paulo alerta que os falsos mestres estavam desviando famílias inteiras.",
+    "alternativas": [
+      "Apenas os soldados romanos",
+      "Famílias inteiras",
+      "Os governadores",
+      "Os sacerdotes judeus"
+    ],
+    "id": 1804,
+    "pergunta": "Segundo Paulo, os falsos mestres especialmente enganavam:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:11"
+  },
+  {
+    "explicacao": "Paulo cita um testemunho conhecido sobre os cretenses para alertar sobre seu comportamento.",
+    "alternativas": [
+      "Os cretenses são sempre mentirosos, feras malignas e glutões preguiçosos",
+      "Os cretenses são sábios e fiéis",
+      "Os cretenses são grandes guerreiros",
+      "Os cretenses são mestres da Lei"
+    ],
+    "id": 1805,
+    "pergunta": "Qual frase Paulo cita sobre os habitantes de Creta?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:12"
+  },
+  {
+    "explicacao": "Paulo confirma a necessidade de repreensão devido à realidade daquele comportamento.",
+    "alternativas": [
+      "Falso",
+      "Verdadeiro",
+      "Uma parábola",
+      "Uma profecia de Cristo"
+    ],
+    "id": 1806,
+    "pergunta": "Paulo disse que esse testemunho sobre os cretenses era:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:13"
+  },
+  {
+    "explicacao": "Paulo ensina que a pureza interior influencia a forma como a pessoa vê as coisas.",
+    "alternativas": [
+      "Proibidas",
+      "Puras",
+      "Difíceis",
+      "Desnecessárias"
+    ],
+    "id": 1807,
+    "pergunta": "Para os puros, todas as coisas são:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:15"
+  },
+  {
+    "explicacao": "Paulo mostra que suas atitudes contradiziam suas declarações.",
+    "alternativas": [
+      "Suas obras negavam isso",
+      "Eram muito sábios",
+      "Eram grandes líderes",
+      "Eram fiéis seguidores"
+    ],
+    "id": 1808,
+    "pergunta": "Os falsos mestres afirmavam conhecer a Deus, mas:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 1:16"
+  },
+  {
+    "explicacao": "Tito deveria ensinar de acordo com a verdadeira doutrina cristã.",
+    "alternativas": [
+      "À política romana",
+      "À sã doutrina",
+      "À filosofia grega",
+      "Aos costumes de Creta"
+    ],
+    "id": 1809,
+    "pergunta": "Tito deveria falar o que convém:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:1"
+  },
+  {
+    "explicacao": "Paulo declara que a graça salvadora de Deus foi manifestada para todos.",
+    "alternativas": [
+      "Apenas aos judeus",
+      "A todos os homens",
+      "Somente aos líderes",
+      "Apenas aos apóstolos"
+    ],
+    "id": 1810,
+    "pergunta": "A graça de Deus apareceu trazendo salvação:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:11"
+  },
+  {
+    "explicacao": "A graça ensina uma vida transformada, rejeitando o pecado.",
+    "alternativas": [
+      "Negando a impiedade e as paixões mundanas",
+      "Buscando riquezas",
+      "Evitando boas obras",
+      "Dominando outras pessoas"
+    ],
+    "id": 1811,
+    "pergunta": "A graça ensina os cristãos a viverem:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:12"
+  },
+  {
+    "explicacao": "Jesus entregou-se para redimir e purificar um povo dedicado às boas obras.",
+    "alternativas": [
+      "Criar um governo terreno",
+      "Nos resgatar de toda iniquidade e purificar um povo exclusivo",
+      "Acabar com as autoridades",
+      "Dar riquezas aos discípulos"
+    ],
+    "id": 1812,
+    "pergunta": "Jesus se entregou para:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 2:14"
+  },
+  {
+    "explicacao": "A transformação espiritual acontece pela misericórdia de Deus.",
+    "alternativas": [
+      "Pelas obras de justiça feitas por nós",
+      "Pela misericórdia de Deus",
+      "Pela tradição dos homens",
+      "Pela Lei de Moisés"
+    ],
+    "id": 1813,
+    "pergunta": "A regeneração e renovação do Espírito Santo aconteceram:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:5"
+  },
+  {
+    "explicacao": "Paulo ensina que o Espírito Santo foi derramado abundantemente por meio de Cristo.",
+    "alternativas": [
+      "Ricamente por meio de Jesus Cristo",
+      "Apenas sobre os apóstolos",
+      "Somente sobre os judeus",
+      "Por meio dos anjos"
+    ],
+    "id": 1814,
+    "pergunta": "Deus derramou o Espírito Santo sobre nós:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:6"
+  },
+  {
+    "explicacao": "Os cristãos devem demonstrar sua fé através de boas obras.",
+    "alternativas": [
+      "Às genealogias",
+      "Às boas obras",
+      "Às discussões religiosas",
+      "À política"
+    ],
+    "id": 1815,
+    "pergunta": "Paulo ensina que os que creem em Deus devem se dedicar:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:8"
+  },
+  {
+    "explicacao": "Paulo orienta rejeitar pessoas divisoras após advertências apropriadas.",
+    "alternativas": [
+      "Pessoas que causam divisões após advertências",
+      "Pessoas necessitadas",
+      "Ensinar a Palavra",
+      "Praticar boas obras"
+    ],
+    "id": 1816,
+    "pergunta": "O que Tito deveria evitar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:10-11"
+  },
+  {
+    "explicacao": "Paulo menciona Ártemas ou Tíquico como possíveis substitutos para Tito.",
+    "alternativas": [
+      "Timóteo",
+      "Ártemas ou Tíquico",
+      "Pedro",
+      "Lucas"
+    ],
+    "id": 1817,
+    "pergunta": "Quem Paulo menciona como companheiro enviado para substituir Tito?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Tito",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tito 3:12"
+  }
+]

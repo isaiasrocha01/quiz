@@ -1,0 +1,512 @@
+[
+  {
+    "explicacao": "A carta é atribuída a Paulo, que inicia a saudação junto com seus cooperadores.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 731,
+    "pergunta": "Quem escreveu a segunda carta aos Tessalonicenses?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:1"
+  },
+  {
+    "explicacao": "Paulo menciona Silvano e Timóteo junto com ele na saudação inicial.",
+    "alternativas": [
+      "Lucas e Marcos",
+      "Silvano e Timóteo",
+      "Pedro e João",
+      "Barnabé e Tito"
+    ],
+    "id": 732,
+    "pergunta": "Quem é mencionado junto com Paulo na saudação da carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:1"
+  },
+  {
+    "explicacao": "Paulo escreve à igreja dos tessalonicenses que está em Deus Pai e no Senhor Jesus Cristo.",
+    "alternativas": [
+      "À igreja dos tessalonicenses em Deus Pai e no Senhor Jesus Cristo",
+      "Aos sacerdotes de Jerusalém",
+      "Aos cristãos de Roma",
+      "Aos líderes de Éfeso"
+    ],
+    "id": 733,
+    "pergunta": "Para quem Paulo escreveu essa carta?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:1"
+  },
+  {
+    "explicacao": "Paulo deseja graça e paz aos irmãos da parte de Deus Pai e do Senhor Jesus Cristo.",
+    "alternativas": [
+      "Riqueza e fama",
+      "Graça e paz",
+      "Poder político",
+      "Sabedoria humana"
+    ],
+    "id": 734,
+    "pergunta": "O que Paulo deseja aos tessalonicenses da parte de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:2"
+  },
+  {
+    "explicacao": "Paulo agradece porque a fé deles crescia abundantemente.",
+    "alternativas": [
+      "Estava crescendo muito",
+      "Era conhecida apenas em sua cidade",
+      "Era pequena",
+      "Dependia dos homens"
+    ],
+    "id": 735,
+    "pergunta": "Paulo dava graças a Deus porque a fé dos tessalonicenses:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:3"
+  },
+  {
+    "explicacao": "Paulo afirma que o amor de todos aumentava uns pelos outros.",
+    "alternativas": [
+      "Diminuindo",
+      "Escondido",
+      "Aumentando",
+      "Acabando"
+    ],
+    "id": 736,
+    "pergunta": "O amor de cada um dos tessalonicenses pelos outros estava:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:3"
+  },
+  {
+    "explicacao": "Paulo destaca a perseverança e fé dos tessalonicenses em meio às dificuldades.",
+    "alternativas": [
+      "Riqueza delas",
+      "Perseverança e fé nas perseguições e tribulações",
+      "Quantidade de membros",
+      "Influência política"
+    ],
+    "id": 737,
+    "pergunta": "Paulo se gloriava das igrejas de Deus por causa da:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:4"
+  },
+  {
+    "explicacao": "Paulo ensina que Deus retribuirá com justiça aqueles que causam aflição.",
+    "alternativas": [
+      "Dar riquezas aos homens",
+      "Recompensar os reis",
+      "Dar tribulação aos que causam tribulação",
+      "Eliminar todo sofrimento imediatamente"
+    ],
+    "id": 738,
+    "pergunta": "Deus é justo para:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:6"
+  },
+  {
+    "explicacao": "Jesus será revelado vindo do céu com os anjos do seu poder.",
+    "alternativas": [
+      "No nascimento de uma criança",
+      "Do céu com os anjos do seu poder",
+      "No templo de Jerusalém",
+      "Pelos reis da terra"
+    ],
+    "id": 739,
+    "pergunta": "Quando o Senhor Jesus será revelado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:7"
+  },
+  {
+    "explicacao": "Paulo descreve a revelação de Cristo com seus anjos em chama de fogo.",
+    "alternativas": [
+      "Grande glória humana",
+      "Chamas de fogo",
+      "Riqueza e ouro",
+      "Silêncio completo"
+    ],
+    "id": 740,
+    "pergunta": "Jesus virá com seus anjos em:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:7"
+  },
+  {
+    "explicacao": "Paulo ora para que Deus os torne dignos da vocação e cumpra todo propósito de bondade.",
+    "alternativas": [
+      "Dignos da vocação e cumprisse todo propósito de bondade",
+      "Reis sobre as nações",
+      "Ricos neste mundo",
+      "Livres de todo trabalho"
+    ],
+    "id": 741,
+    "pergunta": "Paulo orava para que Deus tornasse os tessalonicenses:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:11"
+  },
+  {
+    "explicacao": "O nome de Jesus será glorificado nos santos e nos que creem.",
+    "alternativas": [
+      "Apenas nos apóstolos",
+      "Nos santos e em todos os que creem",
+      "Nos governantes",
+      "Nos sacerdotes"
+    ],
+    "id": 742,
+    "pergunta": "O nome de Jesus seria glorificado em quem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:12"
+  },
+  {
+    "explicacao": "Paulo se gloriava da perseverança e fé dos tessalonicenses em meio às perseguições e tribulações.",
+    "alternativas": [
+      "Pela quantidade de pessoas na igreja",
+      "Pela perseverança e fé em todas as perseguições e tribulações",
+      "Pela riqueza que possuíam",
+      "Pela influência entre os governantes"
+    ],
+    "id": 743,
+    "pergunta": "Paulo menciona que os tessalonicenses eram motivo de glória por causa de quê?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:4"
+  },
+  {
+    "explicacao": "Paulo ensina que as tribulações demonstravam o justo juízo de Deus.",
+    "alternativas": [
+      "Do abandono de Deus",
+      "Do justo juízo de Deus",
+      "Da falta de fé",
+      "Da derrota espiritual"
+    ],
+    "id": 744,
+    "pergunta": "O sofrimento dos tessalonicenses era uma evidência de quê?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:5"
+  },
+  {
+    "explicacao": "Paulo afirma que o descanso virá na revelação do Senhor Jesus desde o céu.",
+    "alternativas": [
+      "Quando terminarem seus trabalhos",
+      "Quando morrerem",
+      "Na revelação do Senhor Jesus desde o céu",
+      "Quando forem reconhecidos pelos homens"
+    ],
+    "id": 745,
+    "pergunta": "Deus dará descanso aos que sofrem quando?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:7"
+  },
+  {
+    "explicacao": "A destruição eterna é destinada aos que não conhecem a Deus e não obedecem ao evangelho.",
+    "alternativas": [
+      "Os que não conhecem a Deus e não obedecem ao evangelho de Cristo",
+      "Os que têm pouca riqueza",
+      "Os que são perseguidos",
+      "Os que trabalham pouco"
+    ],
+    "id": 746,
+    "pergunta": "Quem sofrerá a penalidade da destruição eterna?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:9"
+  },
+  {
+    "explicacao": "Paulo orava para que Deus realizasse todo propósito de bondade e obra de fé com poder.",
+    "alternativas": [
+      "Todo propósito de bondade e obra de fé com poder",
+      "Todos os desejos humanos",
+      "Toda riqueza material",
+      "Toda autoridade política"
+    ],
+    "id": 747,
+    "pergunta": "Paulo orava para que Deus cumprisse nos tessalonicenses:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:11"
+  },
+  {
+    "explicacao": "Paulo alerta para que não fossem enganados pensando que o dia do Senhor já havia chegado.",
+    "alternativas": [
+      "Sobre a lei de Moisés",
+      "Sobre o dia do Senhor já ter chegado",
+      "Sobre os dons espirituais",
+      "Sobre as ofertas da igreja"
+    ],
+    "id": 748,
+    "pergunta": "Paulo pede que os irmãos não fossem enganados por causa de quê?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 2:2"
+  },
+  {
+    "explicacao": "Paulo ensina que primeiro viria a apostasia e a revelação do homem do pecado.",
+    "alternativas": [
+      "A restauração de Israel",
+      "A apostasia",
+      "O fim dos apóstolos",
+      "A construção de um novo templo"
+    ],
+    "id": 749,
+    "pergunta": "Antes da manifestação do homem do pecado deveria acontecer:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 2:3"
+  },
+  {
+    "explicacao": "Paulo descreve o homem da iniquidade como alguém que se exalta querendo parecer Deus.",
+    "alternativas": [
+      "Um profeta",
+      "Deus",
+      "Um anjo",
+      "Um sacerdote"
+    ],
+    "id": 750,
+    "pergunta": "O homem da iniquidade se assentará no templo de Deus, querendo parecer:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 2:4"
+  },
+  {
+    "explicacao": "Paulo ensina que as tribulações enfrentadas pelos santos demonstram o justo juízo de Deus e os tornam dignos do Reino.",
+    "alternativas": [
+      "A prosperidade dos cristãos",
+      "A perseguição sofrida pelos santos, tornando-os dignos do Reino de Deus",
+      "A construção das igrejas",
+      "A sabedoria dos apóstolos"
+    ],
+    "id": 751,
+    "pergunta": "O que Paulo afirma que é uma demonstração do justo juízo de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:5"
+  },
+  {
+    "explicacao": "Paulo afirma que Deus retribuirá com tribulação aqueles que causam tribulação aos cristãos.",
+    "alternativas": [
+      "Aos que possuem pouca fé",
+      "Aos que atribulam os cristãos",
+      "Aos que trabalham pouco",
+      "Aos que não conhecem a Lei"
+    ],
+    "id": 752,
+    "pergunta": "Segundo Paulo, Deus dará tribulação a quem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:6"
+  },
+  {
+    "explicacao": "Jesus será revelado do céu acompanhado pelos anjos do seu poder e em chama de fogo.",
+    "alternativas": [
+      "Com seus santos em Jerusalém",
+      "Com os anjos do seu poder, em chama de fogo",
+      "Com os reis da terra",
+      "Com os profetas antigos"
+    ],
+    "id": 753,
+    "pergunta": "Quando o Senhor Jesus será revelado do céu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:7"
+  },
+  {
+    "explicacao": "Paulo ensina que esses sofrerão eterna destruição e ficarão afastados da presença do Senhor.",
+    "alternativas": [
+      "Perda de riquezas temporárias",
+      "Castigo humano",
+      "Penalidade de eterna destruição, banidos da presença do Senhor",
+      "Apenas sofrimento terreno"
+    ],
+    "id": 754,
+    "pergunta": "Qual será a consequência para aqueles que não conhecem a Deus e não obedecem ao evangelho?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:8-9"
+  },
+  {
+    "explicacao": "Paulo orava para que Deus cumprisse todo propósito de bondade e obra de fé com poder.",
+    "alternativas": [
+      "Todo propósito de bondade e obra da fé com poder de Deus",
+      "Todo desejo pessoal",
+      "Toda riqueza material",
+      "Toda liderança política"
+    ],
+    "id": 755,
+    "pergunta": "O que Paulo desejava que fosse cumprido nos tessalonicenses?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 1:11"
+  },
+  {
+    "explicacao": "Paulo alerta para não serem enganados sobre a vinda de Cristo e a reunião dos santos com Ele.",
+    "alternativas": [
+      "Da ressurreição de Cristo",
+      "Da vinda do Senhor Jesus e nossa reunião com Ele",
+      "Da criação do mundo",
+      "Da destruição do templo"
+    ],
+    "id": 756,
+    "pergunta": "Paulo pede que ninguém se deixe enganar acerca de qual acontecimento?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 2:1-2"
+  },
+  {
+    "explicacao": "Paulo afirma que a apostasia e a revelação do homem da iniquidade aconteceriam antes.",
+    "alternativas": [
+      "A conversão de todas as nações",
+      "A apostasia e a manifestação do homem da iniquidade",
+      "O retorno dos profetas",
+      "A queda de Roma"
+    ],
+    "id": 757,
+    "pergunta": "O que deveria acontecer antes da manifestação do Dia do Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 2:3"
+  },
+  {
+    "explicacao": "Paulo descreve o homem da iniquidade como alguém que se opõe e se exalta contra Deus.",
+    "alternativas": [
+      "Como alguém que se opõe e se exalta contra tudo que se chama Deus ou objeto de culto",
+      "Como um rei bondoso",
+      "Como um sacerdote fiel",
+      "Como um mensageiro celestial"
+    ],
+    "id": 758,
+    "pergunta": "Como Paulo descreve o homem da iniquidade?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 2:4"
+  },
+  {
+    "explicacao": "Paulo lembra que já havia ensinado anteriormente sobre esses acontecimentos.",
+    "alternativas": [
+      "Sobre as ofertas da igreja",
+      "Sobre essas coisas relacionadas ao homem da iniquidade",
+      "Sobre viagens missionárias",
+      "Sobre a construção do templo"
+    ],
+    "id": 759,
+    "pergunta": "O que Paulo lembra que havia dito aos tessalonicenses quando ainda estava com eles?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 2:5"
+  },
+  {
+    "explicacao": "Paulo afirma que existe algo que atualmente impede sua manifestação até o tempo determinado.",
+    "alternativas": [
+      "A força dos homens",
+      "Aquilo que agora o detém até que seja revelado no seu próprio tempo",
+      "Os governantes romanos",
+      "Os apóstolos"
+    ],
+    "id": 760,
+    "pergunta": "O que detém o homem da iniquidade até o tempo determinado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Tessalonicenses 2:6-7"
+  }
+]

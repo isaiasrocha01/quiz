@@ -1,0 +1,1022 @@
+[
+  {
+    "explicacao": "A carta inicia identificando Pedro como apóstolo de Jesus Cristo e seu autor.",
+    "alternativas": [
+      "Paulo",
+      "Pedro",
+      "João",
+      "Tiago"
+    ],
+    "id": 451,
+    "pergunta": "Quem escreveu a primeira carta de Pedro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:1"
+  },
+  {
+    "explicacao": "Pedro escreve aos eleitos que estavam espalhados por várias regiões.",
+    "alternativas": [
+      "Aos moradores de Jerusalém",
+      "Aos sacerdotes de Israel",
+      "Aos eleitos que viviam como estrangeiros dispersos",
+      "Aos reis da terra"
+    ],
+    "id": 452,
+    "pergunta": "Para quem Pedro escreveu sua carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:1"
+  },
+  {
+    "explicacao": "Pedro afirma que os cristãos foram eleitos segundo a presciência de Deus Pai.",
+    "alternativas": [
+      "Os apóstolos",
+      "A igreja",
+      "Deus Pai",
+      "Os profetas"
+    ],
+    "id": 453,
+    "pergunta": "Quem elegeu os cristãos segundo Pedro?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:2"
+  },
+  {
+    "explicacao": "A nova esperança vem da ressurreição de Jesus Cristo dentre os mortos.",
+    "alternativas": [
+      "Da Lei de Moisés",
+      "Das boas obras",
+      "Da ressurreição de Jesus Cristo",
+      "Dos sacrifícios"
+    ],
+    "id": 454,
+    "pergunta": "Segundo Pedro, Deus nos regenerou para uma viva esperança por meio de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:3"
+  },
+  {
+    "explicacao": "Pedro ensina que a herança dos cristãos está reservada nos céus.",
+    "alternativas": [
+      "Na terra",
+      "No templo",
+      "Nos céus",
+      "Nos tesouros dos homens"
+    ],
+    "id": 455,
+    "pergunta": "Onde está guardada a herança dos cristãos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:4"
+  },
+  {
+    "explicacao": "Pedro afirma que a proteção de Deus é recebida mediante a fé.",
+    "alternativas": [
+      "A sabedoria humana",
+      "A riqueza",
+      "A fé",
+      "A força física"
+    ],
+    "id": 456,
+    "pergunta": "Os cristãos são protegidos pelo poder de Deus mediante:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:5"
+  },
+  {
+    "explicacao": "Pedro compara a fé provada pelo sofrimento como algo mais valioso que o ouro.",
+    "alternativas": [
+      "A inteligência",
+      "A fé provada",
+      "A fama",
+      "A riqueza"
+    ],
+    "id": 457,
+    "pergunta": "O que é mais precioso do que o ouro que perece?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:7"
+  },
+  {
+    "explicacao": "Pedro orienta os cristãos a demonstrarem amor sincero e intenso.",
+    "alternativas": [
+      "Forma superficial",
+      "Apenas com palavras",
+      "Coração puro e intensamente",
+      "Somente quando recebermos algo"
+    ],
+    "id": 458,
+    "pergunta": "Pedro diz que devemos amar uns aos outros de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:22"
+  },
+  {
+    "explicacao": "Pedro ensina que a Palavra de Deus permanece para sempre como uma semente incorruptível.",
+    "alternativas": [
+      "Fraca e passageira",
+      "Pequena e inútil",
+      "Incorruptível e viva",
+      "Escondida"
+    ],
+    "id": 459,
+    "pergunta": "A Palavra de Deus é comparada a uma semente:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:23"
+  },
+  {
+    "explicacao": "Pedro descreve a identidade espiritual dos cristãos como povo escolhido por Deus.",
+    "alternativas": [
+      "Soldados romanos",
+      "Filósofos",
+      "Geração eleita, sacerdócio real e nação santa",
+      "Reis da terra"
+    ],
+    "id": 460,
+    "pergunta": "Os cristãos são chamados de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:9"
+  },
+  {
+    "explicacao": "Pedro lembra que os cristãos vivem neste mundo como peregrinos.",
+    "alternativas": [
+      "Como governantes",
+      "Como ricos estrangeiros",
+      "Como peregrinos e forasteiros",
+      "Como soldados"
+    ],
+    "id": 461,
+    "pergunta": "Como Pedro descreve os cristãos neste mundo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:11"
+  },
+  {
+    "explicacao": "Pedro apresenta Cristo como a pedra escolhida e preciosa.",
+    "alternativas": [
+      "Derrubada",
+      "Esquecida",
+      "Eleita e preciosa",
+      "Sem valor"
+    ],
+    "id": 462,
+    "pergunta": "Jesus é chamado de pedra:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:6"
+  },
+  {
+    "explicacao": "Jesus é apresentado como exemplo de vida e sofrimento justo.",
+    "alternativas": [
+      "Buscássemos riquezas",
+      "Fôssemos famosos",
+      "Seguíssemos os seus passos",
+      "Evitássemos dificuldades"
+    ],
+    "id": 463,
+    "pergunta": "Cristo deixou exemplo para que nós:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:21"
+  },
+  {
+    "explicacao": "Pedro afirma que Cristo não cometeu pecado nem houve engano em sua boca.",
+    "alternativas": [
+      "Milagres",
+      "Ensinos",
+      "Pecado",
+      "Sacrifícios"
+    ],
+    "id": 464,
+    "pergunta": "Jesus não cometeu:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:22"
+  },
+  {
+    "explicacao": "Pedro ensina que os cristãos devem responder ao mal com bênção.",
+    "alternativas": [
+      "Com vingança",
+      "Com raiva",
+      "Abençoando",
+      "Fugindo sempre"
+    ],
+    "id": 465,
+    "pergunta": "Como devemos responder quando somos maltratados?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 3:9"
+  },
+  {
+    "explicacao": "Pedro orienta todos os cristãos a estarem preparados para explicar sua esperança.",
+    "alternativas": [
+      "Apenas os líderes",
+      "Apenas os pastores",
+      "Todo cristão",
+      "Somente os apóstolos"
+    ],
+    "id": 466,
+    "pergunta": "Quem está sempre pronto para responder sobre a esperança que temos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 3:15"
+  },
+  {
+    "explicacao": "Pedro ensina que o amor genuíno cobre uma multidão de pecados.",
+    "alternativas": [
+      "As riquezas",
+      "As diferenças",
+      "Uma multidão de pecados",
+      "Os erros dos outros apenas"
+    ],
+    "id": 467,
+    "pergunta": "O que o amor cobre?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 4:8"
+  },
+  {
+    "explicacao": "Pedro ensina que os dons devem ser usados para servir ao próximo.",
+    "alternativas": [
+      "Ganhar fama",
+      "Ser superiores",
+      "Servir uns aos outros",
+      "Acumular riquezas"
+    ],
+    "id": 468,
+    "pergunta": "Devemos usar os dons que recebemos para:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 4:10"
+  },
+  {
+    "explicacao": "Pedro ensina que devemos entregar nossas preocupações a Deus porque Ele cuida de nós.",
+    "alternativas": [
+      "Aos amigos",
+      "Aos líderes",
+      "A Deus",
+      "Aos familiares"
+    ],
+    "id": 469,
+    "pergunta": "A quem devemos lançar toda nossa ansiedade?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 5:7"
+  },
+  {
+    "explicacao": "Pedro alerta que o diabo deve ser resistido com firmeza na fé.",
+    "alternativas": [
+      "O mundo",
+      "Os inimigos humanos",
+      "O diabo",
+      "Os governantes"
+    ],
+    "id": 470,
+    "pergunta": "Quem Pedro diz que devemos resistir firmes na fé?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 5:8-9"
+  },
+  {
+    "explicacao": "Pedro ensina que a eleição dos cristãos tem como objetivo a santificação pelo Espírito e a obediência a Cristo.",
+    "alternativas": [
+      "Receber riquezas na terra.",
+      "Dominar povos.",
+      "A santificação do Espírito e obediência a Jesus Cristo.",
+      "Tornarem-se líderes políticos."
+    ],
+    "id": 471,
+    "pergunta": "Pedro afirma que os cristãos foram escolhidos segundo a presciência de Deus Pai para:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:2"
+  },
+  {
+    "explicacao": "Pedro compara a fé provada pelas dificuldades ao ouro que é purificado pelo fogo.",
+    "alternativas": [
+      "Plantar sementes.",
+      "Construir uma casa.",
+      "Purificar o ouro pelo fogo.",
+      "Preparar alimentos."
+    ],
+    "id": 472,
+    "pergunta": "A prova da fé dos cristãos é comparada ao processo de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:7"
+  },
+  {
+    "explicacao": "Pedro afirma que os profetas buscavam compreender os sofrimentos de Cristo e suas futuras glórias.",
+    "alternativas": [
+      "As riquezas de Israel.",
+      "As leis dos reis.",
+      "Os sofrimentos de Cristo e as glórias que viriam depois.",
+      "A construção do templo."
+    ],
+    "id": 473,
+    "pergunta": "Os profetas do Antigo Testamento investigavam sobre qual assunto?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:10-11"
+  },
+  {
+    "explicacao": "A santidade dos cristãos deve refletir o caráter santo de Deus.",
+    "alternativas": [
+      "A sociedade exige.",
+      "Os homens precisam de exemplo.",
+      "Deus que os chamou é santo.",
+      "A Lei de Moisés ordena."
+    ],
+    "id": 474,
+    "pergunta": "Pedro orienta os cristãos a serem santos porque:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:15-16"
+  },
+  {
+    "explicacao": "Pedro ensina que a redenção veio pelo sangue precioso de Cristo.",
+    "alternativas": [
+      "Conhecimento dos apóstolos.",
+      "Cumprimento da Lei.",
+      "Precioso sangue de Cristo.",
+      "Sacrifício dos sacerdotes."
+    ],
+    "id": 475,
+    "pergunta": "Os cristãos foram resgatados não por prata ou ouro, mas pelo:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:18-19"
+  },
+  {
+    "explicacao": "Cristo é apresentado como pedra viva, escolhida e preciosa diante de Deus.",
+    "alternativas": [
+      "Uma pedra sem valor.",
+      "Uma pedra escondida.",
+      "Pedra viva, eleita e preciosa para Deus.",
+      "Uma pedra temporária."
+    ],
+    "id": 476,
+    "pergunta": "Como Pedro descreve Cristo em relação à pedra rejeitada pelos homens?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:4"
+  },
+  {
+    "explicacao": "Os sacrifícios espirituais dos cristãos são oferecidos a Deus por meio de Cristo.",
+    "alternativas": [
+      "Receber riquezas.",
+      "Serem reconhecidos pelos homens.",
+      "Serem agradáveis a Deus por meio de Jesus Cristo.",
+      "Cumprir rituais antigos."
+    ],
+    "id": 477,
+    "pergunta": "Qual é a finalidade dos cristãos oferecerem sacrifícios espirituais?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:5"
+  },
+  {
+    "explicacao": "Pedro ensina que as autoridades têm uma função estabelecida de promover justiça.",
+    "alternativas": [
+      "Elas são sempre perfeitas.",
+      "Elas têm poder absoluto.",
+      "São instituídas para punir os malfeitores e honrar os que fazem o bem.",
+      "Elas substituem Deus."
+    ],
+    "id": 478,
+    "pergunta": "Pedro ensina que devemos nos sujeitar às autoridades humanas porque:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:13-14"
+  },
+  {
+    "explicacao": "Pedro ensina que o sofrimento injusto deve ser suportado com paciência diante de Deus.",
+    "alternativas": [
+      "Com vingança.",
+      "Fugindo sempre.",
+      "Suportando com paciência diante de Deus.",
+      "Respondendo com violência."
+    ],
+    "id": 479,
+    "pergunta": "Como os servos deveriam agir mesmo sofrendo injustamente?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:20"
+  },
+  {
+    "explicacao": "Cristo levou os pecados para que os cristãos abandonassem o pecado e vivessem em justiça.",
+    "alternativas": [
+      "Mostrar seu poder aos homens.",
+      "Criar uma nova religião.",
+      "Para que morrêssemos para os pecados e vivêssemos para a justiça.",
+      "Acabar com a Lei."
+    ],
+    "id": 480,
+    "pergunta": "Segundo Pedro, Cristo levou nossos pecados em seu corpo para:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:24"
+  },
+  {
+    "explicacao": "Pedro orienta os maridos a tratarem suas esposas com honra e consideração.",
+    "alternativas": [
+      "Governá-las com autoridade.",
+      "Evitá-las em oração.",
+      "Tratá-las com honra como vaso mais frágil.",
+      "Deixá-las responsáveis por tudo."
+    ],
+    "id": 481,
+    "pergunta": "O que Pedro recomenda aos maridos em relação às esposas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 3:7"
+  },
+  {
+    "explicacao": "Pedro encoraja os cristãos a permanecerem firmes sem medo.",
+    "alternativas": [
+      "Reclamar contra Deus.",
+      "Abandonar a fé.",
+      "Não temer e não se perturbar.",
+      "Procurar vingança."
+    ],
+    "id": 482,
+    "pergunta": "Qual atitude Pedro recomenda quando alguém sofre por praticar o bem?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 3:14"
+  },
+  {
+    "explicacao": "Pedro apresenta o batismo como resposta de uma consciência voltada para Deus.",
+    "alternativas": [
+      "Uma tradição humana.",
+      "Uma cerimônia sem significado.",
+      "Uma resposta de uma boa consciência para com Deus.",
+      "Um simples costume judaico."
+    ],
+    "id": 483,
+    "pergunta": "O batismo é comparado por Pedro a quê?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 3:21"
+  },
+  {
+    "explicacao": "Pedro relaciona esse acontecimento ao sofrimento, morte e vivificação de Cristo.",
+    "alternativas": [
+      "Nascer em Belém.",
+      "Realizar milagres.",
+      "Sofrer e ser vivificado pelo Espírito.",
+      "Subir ao templo."
+    ],
+    "id": 484,
+    "pergunta": "Cristo pregou aos espíritos em prisão depois de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 3:18-19"
+  },
+  {
+    "explicacao": "Pedro afirma que Cristo é o juiz dos vivos e dos mortos.",
+    "alternativas": [
+      "Os apóstolos.",
+      "Os anjos.",
+      "Jesus Cristo.",
+      "Os sacerdotes."
+    ],
+    "id": 485,
+    "pergunta": "Quem deve julgar os vivos e os mortos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 4:5"
+  },
+  {
+    "explicacao": "Os dons devem ser usados como serviço aos outros, administrando a graça de Deus.",
+    "alternativas": [
+      "Para benefício próprio.",
+      "Para ganhar reconhecimento.",
+      "Como bons despenseiros da multiforme graça de Deus.",
+      "Para controlar pessoas."
+    ],
+    "id": 486,
+    "pergunta": "Como Pedro orienta que devemos administrar os dons recebidos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 4:10"
+  },
+  {
+    "explicacao": "Pedro afirma que o julgamento começa pelo povo de Deus.",
+    "alternativas": [
+      "Deus abandonará sua igreja.",
+      "A igreja não será julgada.",
+      "O julgamento começa pelos que pertencem a Deus.",
+      "Somente os incrédulos serão julgados."
+    ],
+    "id": 487,
+    "pergunta": "O que Pedro diz sobre o julgamento começar pela casa de Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 4:17"
+  },
+  {
+    "explicacao": "Pedro orienta os líderes a servirem voluntariamente e pelo exemplo.",
+    "alternativas": [
+      "Por obrigação e domínio.",
+      "Buscando lucro.",
+      "Voluntariamente e sendo exemplos para o rebanho.",
+      "Com autoridade política."
+    ],
+    "id": 488,
+    "pergunta": "Como os presbíteros deveriam cuidar do rebanho de Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 5:2-3"
+  },
+  {
+    "explicacao": "Deus promete fortalecer e aperfeiçoar aqueles que permanecem firmes.",
+    "alternativas": [
+      "Dar riquezas imediatamente.",
+      "Retirar todas as dificuldades.",
+      "Aperfeiçoar, firmar, fortalecer e fundamentar os cristãos.",
+      "Tornar todos líderes."
+    ],
+    "id": 489,
+    "pergunta": "O que Deus promete fazer depois de um pouco de sofrimento?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 5:10"
+  },
+  {
+    "explicacao": "Pedro encerra desejando paz a todos os que estão em Cristo.",
+    "alternativas": [
+      "Com uma ordem de guerra.",
+      "Com uma promessa de riqueza.",
+      "Desejando paz a todos que estão em Cristo.",
+      "Com uma nova lei."
+    ],
+    "id": 490,
+    "pergunta": "Como Pedro encerra sua carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 5:14"
+  },
+  {
+    "explicacao": "Pedro ensina que a salvação está preparada para ser revelada no último tempo.",
+    "alternativas": [
+      "Que já foi totalmente revelada aos homens.",
+      "Que depende das obras humanas.",
+      "Preparada para revelar-se no último tempo.",
+      "Que pertence somente aos judeus."
+    ],
+    "id": 491,
+    "pergunta": "Segundo Pedro, os cristãos são guardados pelo poder de Deus mediante a fé para uma salvação:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:5"
+  },
+  {
+    "explicacao": "A fé provada é comparada ao ouro refinado pelo fogo, sendo considerada mais preciosa.",
+    "alternativas": [
+      "A prata purificada.",
+      "O ouro que perece, embora provado pelo fogo.",
+      "A sabedoria dos homens.",
+      "Os dons espirituais."
+    ],
+    "id": 492,
+    "pergunta": "Pedro afirma que a prova da fé é mais preciosa do que:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:7"
+  },
+  {
+    "explicacao": "Pedro afirma que os profetas investigavam sobre a graça destinada aos cristãos.",
+    "alternativas": [
+      "A salvação pelas obras da Lei.",
+      "A libertação de Israel dos romanos.",
+      "A graça destinada aos cristãos.",
+      "O estabelecimento de um reino terreno."
+    ],
+    "id": 493,
+    "pergunta": "Os profetas investigavam diligentemente acerca de qual salvação?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:10"
+  },
+  {
+    "explicacao": "Pedro orienta os cristãos a esperarem na graça futura revelada em Cristo.",
+    "alternativas": [
+      "Para conquistar riquezas.",
+      "Para enfrentar reis.",
+      "Para esperar plenamente na graça que será trazida na revelação de Jesus Cristo.",
+      "Para abandonar o mundo."
+    ],
+    "id": 494,
+    "pergunta": "Para qual propósito os cristãos devem estar preparados e sóbrios?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:13"
+  },
+  {
+    "explicacao": "Pedro ensina que a Palavra do Senhor permanece eternamente.",
+    "alternativas": [
+      "Fraca e passageira.",
+      "Misteriosa e escondida.",
+      "Permanente e eterna.",
+      "Limitada aos profetas."
+    ],
+    "id": 495,
+    "pergunta": "Como Pedro descreve a Palavra de Deus em comparação com a erva e a flor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 1:24-25"
+  },
+  {
+    "explicacao": "Pedro descreve a identidade espiritual dos cristãos como povo escolhido por Deus.",
+    "alternativas": [
+      "Guerreiros e conquistadores.",
+      "Sacerdotes e reis terrenos.",
+      "Geração eleita, sacerdócio real, nação santa e povo adquirido.",
+      "Mestres da Lei."
+    ],
+    "id": 496,
+    "pergunta": "Quais características Pedro atribui aos cristãos como povo de Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:9"
+  },
+  {
+    "explicacao": "Os cristãos devem anunciar as obras de Deus que os chamou para sua luz.",
+    "alternativas": [
+      "Ganhar reconhecimento humano.",
+      "Demonstrar superioridade.",
+      "Proclamar as virtudes daquele que chamou das trevas para sua maravilhosa luz.",
+      "Criar uma nova tradição."
+    ],
+    "id": 497,
+    "pergunta": "Qual era a finalidade de anunciar as virtudes de Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:9"
+  },
+  {
+    "explicacao": "A liberdade em Cristo não deve ser usada como desculpa para praticar o mal.",
+    "alternativas": [
+      "Uma forma de servir a Deus.",
+      "Um testemunho de fé.",
+      "Como cobertura para a malícia.",
+      "Uma oportunidade de amar."
+    ],
+    "id": 498,
+    "pergunta": "Pedro ensina que a liberdade cristã não deve ser usada como:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:16"
+  },
+  {
+    "explicacao": "Cristo confiou plenamente no julgamento justo de Deus.",
+    "alternativas": [
+      "Procurou vingança contra seus inimigos.",
+      "Fugiu dos sofrimentos.",
+      "Entregou-se àquele que julga justamente.",
+      "Respondeu com violência."
+    ],
+    "id": 499,
+    "pergunta": "Qual exemplo Cristo deixou quando sofreu injustamente?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 2:23"
+  },
+  {
+    "explicacao": "Pedro orienta os cônjuges a viverem com respeito e consideração.",
+    "alternativas": [
+      "O marido deve governar sozinho.",
+      "A esposa deve obedecer sempre.",
+      "Ambos devem viver com entendimento e honra.",
+      "Devem evitar conflitos públicos."
+    ],
+    "id": 500,
+    "pergunta": "Segundo Pedro, qual atitude deve existir entre marido e esposa para que as orações não sejam impedidas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 3:7"
+  },
+  {
+    "explicacao": "Pedro declara que aqueles que sofrem por justiça são bem-aventurados.",
+    "alternativas": [
+      "Receberão riquezas.",
+      "Nunca terão problemas.",
+      "São bem-aventurados.",
+      "Serão exaltados pelos homens."
+    ],
+    "id": 501,
+    "pergunta": "Qual promessa está ligada aos que sofrem por causa da justiça?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 3:14"
+  },
+  {
+    "explicacao": "Pedro orienta que Cristo seja reconhecido como Senhor no coração.",
+    "alternativas": [
+      "Colocá-lo como exemplo moral apenas.",
+      "Guardá-lo como segredo.",
+      "Santificá-lo como Senhor.",
+      "Apresentá-lo como profeta."
+    ],
+    "id": 502,
+    "pergunta": "O que Pedro orienta fazer com Cristo no coração?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 3:15"
+  },
+  {
+    "explicacao": "Pedro apresenta o batismo como uma resposta espiritual diante de Deus.",
+    "alternativas": [
+      "A limpeza física do corpo.",
+      "Uma tradição religiosa judaica.",
+      "A indagação de uma boa consciência para com Deus pela ressurreição de Jesus Cristo.",
+      "Um símbolo sem significado."
+    ],
+    "id": 503,
+    "pergunta": "Segundo Pedro, o batismo corresponde a:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 3:21"
+  },
+  {
+    "explicacao": "Pedro ensina que o sofrimento em Cristo está ligado ao abandono do pecado.",
+    "alternativas": [
+      "Porque Deus não os ama.",
+      "Porque perderam a salvação.",
+      "Porque aquele que sofreu na carne deixou o pecado.",
+      "Porque todos devem ser perseguidos."
+    ],
+    "id": 504,
+    "pergunta": "Por que os cristãos devem estar preparados para sofrer?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 4:1"
+  },
+  {
+    "explicacao": "Pedro destaca o amor intenso entre os irmãos como prioridade.",
+    "alternativas": [
+      "Buscar conhecimento.",
+      "Fazer jejuns.",
+      "Ter intenso amor uns pelos outros.",
+      "Acumular bens."
+    ],
+    "id": 505,
+    "pergunta": "O que Pedro diz que deve ser feito antes de todas as coisas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 4:8"
+  },
+  {
+    "explicacao": "Quem ministra deve falar como representante das palavras de Deus.",
+    "alternativas": [
+      "Falar conforme sua própria sabedoria.",
+      "Buscar reconhecimento.",
+      "Falar como quem transmite as palavras de Deus.",
+      "Ensinar apenas tradições."
+    ],
+    "id": 506,
+    "pergunta": "Como Pedro descreve a responsabilidade de quem fala na igreja?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 4:11"
+  },
+  {
+    "explicacao": "Pedro ensina que as provações fazem parte da caminhada cristã.",
+    "alternativas": [
+      "Era algo estranho e inesperado.",
+      "Era sinal de abandono de Deus.",
+      "Não deveria ser considerado coisa estranha.",
+      "Deveria ser evitado a qualquer custo."
+    ],
+    "id": 507,
+    "pergunta": "O que Pedro afirma sobre o fogo da provação que vinha sobre os cristãos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 4:12"
+  },
+  {
+    "explicacao": "Pedro ensina que todos os cristãos devem entregar suas preocupações a Deus.",
+    "alternativas": [
+      "Somente os líderes.",
+      "Apenas os apóstolos.",
+      "Todos os cristãos.",
+      "Somente os idosos."
+    ],
+    "id": 508,
+    "pergunta": "Quem deve lançar sobre Deus toda a ansiedade?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 5:7"
+  },
+  {
+    "explicacao": "Pedro alerta os cristãos sobre a ação do diabo e a necessidade de vigilância.",
+    "alternativas": [
+      "Como uma serpente silenciosa.",
+      "Como um inimigo derrotado sem ação.",
+      "Como leão que ruge procurando alguém para devorar.",
+      "Como anjo de luz."
+    ],
+    "id": 509,
+    "pergunta": "Como Pedro descreve o diabo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 5:8"
+  },
+  {
+    "explicacao": "Deus promete fortalecer e estabelecer os cristãos após o sofrimento.",
+    "alternativas": [
+      "Dar riquezas e fama.",
+      "Retirar todas as dificuldades imediatamente.",
+      "Aperfeiçoar, firmar, fortificar e fundamentar os cristãos.",
+      "Torná-los superiores aos outros."
+    ],
+    "id": 510,
+    "pergunta": "Qual é a promessa final de Deus após o sofrimento dos cristãos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Pedro 5:10"
+  }
+]

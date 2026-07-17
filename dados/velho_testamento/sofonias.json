@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 4522,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "O que aconteceria com Nínive segundo a profecia?",
+    "alternativas": [
+      "Tornar-se-ia uma cidade deserta e morada de animais",
+      "Tornar-se-ia capital de Judá",
+      "Seria reconstruída imediatamente",
+      "Receberia riquezas de todas as nações"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 2:13-14",
+    "explicacao": "Nínive seria destruída e se tornaria um lugar desolado habitado por animais."
+  },
+  {
+    "id": 4523,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Qual atitude de Moabe e Amom provocou o julgamento de Deus?",
+    "alternativas": [
+      "Humildade diante do Senhor",
+      "Orgulho e insultos contra o povo de Deus",
+      "Construção de templos",
+      "Aliança com Israel"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 2:8-10",
+    "explicacao": "Moabe e Amom foram julgados por sua soberba e pelas ofensas contra o povo de Deus."
+  },
+  {
+    "id": 4524,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Qual promessa está relacionada ao 'remanescente' de Israel?",
+    "alternativas": [
+      "Teriam um exército poderoso",
+      "Seriam um povo humilde e confiante no nome do Senhor",
+      "Governariam todas as nações",
+      "Viveriam sem necessidade de Deus"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 3:12-13",
+    "explicacao": "O remanescente seria humilde, confiaria em Deus e viveria em justiça."
+  },
+  {
+    "id": 4525,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "O que Deus promete retirar do meio do povo?",
+    "alternativas": [
+      "Os humildes",
+      "Os que se alegram em Deus",
+      "Os arrogantes e soberbos",
+      "Os estrangeiros convertidos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 3:11",
+    "explicacao": "Deus removeria do meio do povo aqueles que se exaltavam com orgulho e rebeldia."
+  },
+  {
+    "id": 4526,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Qual transformação Deus promete realizar entre os povos?",
+    "alternativas": [
+      "Dar uma linguagem pura para que invoquem o nome do Senhor",
+      "Fazer todos falarem a mesma língua humana",
+      "Eliminar todas as nações",
+      "Criar novos idiomas de guerra"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 3:9",
+    "explicacao": "Deus prometeu transformar os povos para que o servissem com pureza."
+  },
+  {
+    "id": 4527,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Segundo Sofonias 3:15, qual sentença Deus removeria do seu povo?",
+    "alternativas": [
+      "A bênção do Senhor",
+      "O julgamento e os inimigos",
+      "A aliança com Abraão",
+      "A lei de Moisés"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 3:15",
+    "explicacao": "Deus removeria o juízo e afastaria os inimigos de seu povo."
+  },
+  {
+    "id": 4528,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "O que significa a expressão 'O Senhor teu Deus está no meio de ti'?",
+    "alternativas": [
+      "Deus abandonaria seu povo",
+      "Deus estaria presente para salvar e proteger",
+      "Deus destruiria Jerusalém",
+      "Deus deixaria o povo sem direção"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 3:17",
+    "explicacao": "A presença de Deus no meio do povo representa sua proteção e salvação."
+  },
+  {
+    "id": 4529,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Qual característica de Deus é destacada em Sofonias 3:17?",
+    "alternativas": [
+      "Poderoso para salvar",
+      "Distante e silencioso",
+      "Incapaz de agir",
+      "Dependente dos homens"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 3:17",
+    "explicacao": "O texto apresenta Deus como poderoso para salvar e como aquele que se alegra com seu povo."
+  },
+  {
+    "id": 4530,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "O que Deus faria com os aflitos e dispersos do seu povo?",
+    "alternativas": [
+      "Os abandonaria",
+      "Os salvaria e lhes daria louvor e renome",
+      "Os enviaria novamente ao cativeiro",
+      "Os esconderia para sempre"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 3:19",
+    "explicacao": "Deus prometeu salvar os aflitos e restaurar sua honra diante das nações."
+  },
+  {
+    "id": 4531,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a mensagem final do livro de Sofonias?",
+    "alternativas": [
+      "Deus restaurará e reunirá seu povo novamente",
+      "Deus encerrará sua aliança com Israel",
+      "Deus destruirá todas as nações sem esperança",
+      "Deus deixará Jerusalém abandonada"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 3:20",
+    "explicacao": "O livro termina com a promessa de restauração e reunião do povo de Deus."
+  },
+  {
+    "id": 4532,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Qual é o tema principal que atravessa todo o livro de Sofonias?",
+    "alternativas": [
+      "A construção do templo",
+      "O julgamento de Deus e a restauração do seu povo",
+      "As guerras de Israel contra seus inimigos",
+      "A história dos reis de Judá"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:14; 3:17-20",
+    "explicacao": "O livro apresenta o julgamento de Deus contra o pecado e a esperança de restauração do seu povo."
+  },
+  {
+    "id": 4533,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Em qual período histórico Sofonias exerceu seu ministério profético?",
+    "alternativas": [
+      "Durante o reinado de Manassés",
+      "Durante o reinado de Josias, rei de Judá",
+      "Durante o reinado de Zedequias",
+      "Durante o reinado de Roboão"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:1",
+    "explicacao": "Sofonias profetizou durante o reinado de Josias, rei de Judá."
+  },
+  {
+    "id": 4534,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Qual informação diferencia Sofonias de muitos outros profetas quanto à sua genealogia?",
+    "alternativas": [
+      "Sua linhagem é apresentada até quatro gerações, incluindo Ezequias",
+      "Ele era descendente de Arão e sacerdote do templo",
+      "Ele era filho de um rei estrangeiro",
+      "Ele era descendente direto de Samuel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 1:1",
+    "explicacao": "A genealogia de Sofonias é detalhada até Ezequias, algo incomum entre os profetas menores."
+  },
+  {
+    "id": 4535,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "O que significa a expressão 'o Dia do Senhor' no contexto de Sofonias?",
+    "alternativas": [
+      "Um dia somente de celebração nacional",
+      "Um período de julgamento divino contra o pecado",
+      "O dia da coroação de um rei humano",
+      "Uma festa religiosa anual"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:14-15",
+    "explicacao": "Em Sofonias, o Dia do Senhor representa o julgamento divino contra o pecado."
+  },
+  {
+    "id": 4536,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Quais grupos são mencionados entre os que seriam castigados no dia do Senhor?",
+    "alternativas": [
+      "Sacerdotes fiéis e profetas verdadeiros",
+      "Príncipes, filhos do rei e os que usam vestes estrangeiras",
+      "Crianças e idosos somente",
+      "Agricultores e pastores"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:8-9",
+    "explicacao": "Os líderes e aqueles envolvidos em práticas corruptas seriam julgados."
+  },
+  {
+    "id": 4537,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Qual pecado específico é associado aos que saltam sobre o limiar?",
+    "alternativas": [
+      "Idolatria no templo",
+      "Violência e fraude contra seus senhores",
+      "Falta de ofertas",
+      "Desobediência aos pais"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:9",
+    "explicacao": "O texto relaciona essa prática à violência e ao engano praticado contra seus senhores."
+  },
+  {
+    "id": 4538,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "O que Deus faria com aqueles que estavam acomodados e diziam: 'O Senhor não fará bem nem mal'?",
+    "alternativas": [
+      "Daria riquezas a eles",
+      "Procuraria e julgaria aqueles homens",
+      "Escolheria-os como líderes",
+      "Levaria-os para outra terra"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:12",
+    "explicacao": "Deus examinaria e julgaria aqueles que viviam em falsa segurança espiritual."
+  },
+  {
+    "id": 4539,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Como Sofonias descreve a proximidade do Dia do Senhor?",
+    "alternativas": [
+      "Está longe e não chegará",
+      "Está perto e se apressa muito",
+      "Virá somente após muitos séculos",
+      "Depende dos reis humanos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:14",
+    "explicacao": "O profeta declara que o Dia do Senhor está próximo e se aproxima rapidamente."
+  },
+  {
+    "id": 4540,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Quais imagens são usadas para descrever o dia da ira do Senhor?",
+    "alternativas": [
+      "Luz e alegria",
+      "Paz e prosperidade",
+      "Angústia, tribulação, escuridão e nuvens",
+      "Colheita e abundância"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 1:15",
+    "explicacao": "O Dia do Senhor é descrito com imagens de sofrimento e julgamento."
+  },
+  {
+    "id": 4541,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Difícil",
+    "pergunta": "Contra qual cidade Sofonias profetizou dizendo que Deus estenderia sua mão?",
+    "alternativas": [
+      "Jerusalém",
+      "Nínive",
+      "Gaza",
+      "Damasco"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 2:13",
+    "explicacao": "Deus anunciou juízo contra Nínive, capital da Assíria."
+  },
+  {
+    "id": 4542,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Qual povo é citado como exemplo de juízo junto com as cidades dos filisteus?",
+    "alternativas": [
+      "Cretenses",
+      "Egípcios",
+      "Babilônios",
+      "Medos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 2:5-7",
+    "explicacao": "Os cretenses são mencionados junto ao juízo anunciado contra a região dos filisteus."
+  },
+  {
+    "id": 4543,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "O que Deus prometeu fazer com Moabe e Amom?",
+    "alternativas": [
+      "Torná-los maiores que Israel",
+      "Dar-lhes novas terras",
+      "Torná-los como Sodoma e Gomorra",
+      "Fazer aliança com eles"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 2:8-9",
+    "explicacao": "Deus anunciou que Moabe e Amom seriam julgados e comparados à destruição de Sodoma e Gomorra."
+  },
+  {
+    "id": 4544,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Por que Deus julgaria as nações?",
+    "alternativas": [
+      "Porque eram pobres",
+      "Por causa da sua soberba e afronta contra o povo de Deus",
+      "Porque não tinham cidades",
+      "Porque não tinham reis"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 2:10",
+    "explicacao": "As nações seriam julgadas por causa do orgulho e da afronta contra o povo do Senhor."
+  },
+  {
+    "id": 4545,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Que cidade é chamada de cidade opressora em Sofonias 3:1?",
+    "alternativas": [
+      "Jerusalém",
+      "Nínive",
+      "Tiro",
+      "Babilônia"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 3:1",
+    "explicacao": "Jerusalém é chamada de cidade rebelde e opressora por causa dos seus pecados."
+  },
+  {
+    "id": 4546,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "O que Jerusalém não ouviu segundo Sofonias 3:2?",
+    "alternativas": [
+      "A voz de Deus e não aceitou correção",
+      "A voz dos reis estrangeiros",
+      "Os conselhos dos comerciantes",
+      "As músicas do templo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 3:2",
+    "explicacao": "Jerusalém rejeitou ouvir a voz de Deus e não aceitou ser corrigida."
+  },
+  {
+    "id": 4547,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Como eram chamados os líderes de Jerusalém que agiam de forma injusta?",
+    "alternativas": [
+      "Pastores fiéis",
+      "Príncipes que rugiam como leões",
+      "Servos humildes",
+      "Sacerdotes santos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 3:3",
+    "explicacao": "Os líderes são comparados a leões por sua violência e corrupção."
+  },
+  {
+    "id": 4548,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "O que Deus faria com os povos antes de reunir as nações?",
+    "alternativas": [
+      "Derramaria sua indignação sobre eles",
+      "Daria riquezas a todos",
+      "Escolheria novos reis",
+      "Construiria novos templos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 3:8-9",
+    "explicacao": "Deus declarou que derramaria sua indignação sobre as nações antes da restauração."
+  },
+  {
+    "id": 4549,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Qual promessa Deus fez aos que permanecessem fiéis?",
+    "alternativas": [
+      "Nunca mais seriam derrotados em guerras",
+      "Não praticariam injustiça e falariam mentira",
+      "Teriam muitos bens materiais",
+      "Dominariam todas as nações"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 3:13",
+    "explicacao": "O remanescente fiel viveria em justiça, sem praticar mentira ou maldade."
+  },
+  {
+    "id": 4550,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "O que o Senhor faria por Jerusalém, segundo Sofonias 3:17?",
+    "alternativas": [
+      "Estaria no meio dela como poderoso salvador",
+      "A abandonaria por completo",
+      "Entregaria a cidade aos inimigos",
+      "Mudaria o nome da cidade"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 3:17",
+    "explicacao": "O Senhor estaria presente no meio do seu povo como poderoso salvador."
+  },
+  {
+    "id": 4551,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Qual promessa aparece no final do livro de Sofonias?",
+    "alternativas": [
+      "Deus reuniria e restauraria o seu povo",
+      "Deus destruiria todas as nações para sempre",
+      "Deus acabaria com Jerusalém",
+      "Deus esconderia seu povo para sempre"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 3:20",
+    "explicacao": "O livro termina com a promessa de Deus reunir, restaurar e honrar seu povo."
+  },
+  {
+    "id": 4552,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Qual era a origem familiar de Sofonias segundo sua genealogia?",
+    "alternativas": [
+      "Era descendente de Abraão até Levi",
+      "Era filho de Cusi, filho de Gedalias, filho de Amarias, filho de Ezequias",
+      "Era filho de Hilquias, sacerdote do templo",
+      "Era descendente direto de Moisés"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:1",
+    "explicacao": "A genealogia de Sofonias é apresentada como filho de Cusi, descendente de Gedalias, Amarias e Ezequias."
+  },
+  {
+    "id": 4553,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Sobre qual região Deus anunciou juízo em Sofonias 1:4?",
+    "alternativas": [
+      "Sobre o Egito",
+      "Sobre a terra dos filisteus",
+      "Sobre Judá e Jerusalém",
+      "Sobre a Assíria"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 1:4",
+    "explicacao": "Deus anunciou juízo contra Judá e Jerusalém por causa da idolatria e pecado do povo."
+  },
+  {
+    "id": 4554,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "O que Deus prometeu eliminar de Jerusalém?",
+    "alternativas": [
+      "Os sacerdotes fiéis",
+      "O restante de Baal e os sacerdotes idólatras",
+      "Os estrangeiros que viviam na cidade",
+      "Os trabalhadores do templo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:4-5",
+    "explicacao": "Deus prometeu remover a idolatria representada por Baal e seus adoradores."
+  },
+  {
+    "id": 4555,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Quem adorava o exército dos céus nos terraços, segundo Sofonias?",
+    "alternativas": [
+      "Os que adoravam o Senhor somente",
+      "Os que adoravam o exército dos céus e juravam pelo Senhor e por Milcom",
+      "Apenas os estrangeiros",
+      "Os profetas de Deus"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:5",
+    "explicacao": "Alguns habitantes de Judá misturavam a adoração ao Senhor com cultos idólatras."
+  },
+  {
+    "id": 4556,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Quem Deus mandou se calar diante da sua presença?",
+    "alternativas": [
+      "Os reis da terra",
+      "Toda a humanidade",
+      "Os sacerdotes",
+      "Os inimigos de Israel"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:7",
+    "explicacao": "O profeta chamou toda a humanidade ao silêncio diante do Dia do Senhor."
+  },
+  {
+    "id": 4557,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Por que o Senhor preparou um sacrifício?",
+    "alternativas": [
+      "Para celebrar uma vitória",
+      "Para purificar o templo",
+      "Para julgar os líderes e habitantes de Judá",
+      "Para consagrar um novo rei"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 1:8",
+    "explicacao": "O sacrifício simbolizava o julgamento de Deus sobre os pecadores de Judá."
+  },
+  {
+    "id": 4558,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "O que aconteceria com aqueles que enchiam as casas dos seus senhores de violência e engano?",
+    "alternativas": [
+      "Receberiam riquezas",
+      "Seriam castigados",
+      "Seriam escolhidos como líderes",
+      "Teriam seus pecados perdoados imediatamente"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:9",
+    "explicacao": "Aqueles que praticavam violência e engano receberiam o julgamento de Deus."
+  },
+  {
+    "id": 4559,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Qual som seria ouvido na cidade no dia do juízo?",
+    "alternativas": [
+      "Som de alegria",
+      "Som de trombetas de festa",
+      "Clamor e grande destruição",
+      "Música dos sacerdotes"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 1:10",
+    "explicacao": "O dia do juízo seria marcado por clamor e destruição."
+  },
+  {
+    "id": 4560,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Quem Deus ordenou que buscasse ao Senhor?",
+    "alternativas": [
+      "Apenas os reis",
+      "Os mansos da terra",
+      "Os soldados de Judá",
+      "Os comerciantes"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 2:3",
+    "explicacao": "Os mansos da terra foram chamados a buscar o Senhor antes do julgamento."
+  },
+  {
+    "id": 4561,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Médio",
+    "pergunta": "Qual atitude os mansos deveriam buscar?",
+    "alternativas": [
+      "Humildade e justiça",
+      "Riqueza e poder",
+      "Fama e reconhecimento",
+      "Guerra contra os inimigos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 2:3",
+    "explicacao": "Deus chamou os mansos a buscar humildade e justiça."
+  },
+  {
+    "id": 4562,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "O que o povo deveria buscar para ser protegido?",
+    "alternativas": [
+      "Riquezas",
+      "O Senhor",
+      "Poder",
+      "Fama"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 2:3",
+    "explicacao": "O povo foi chamado a buscar o Senhor para encontrar proteção no dia da ira."
+  },
+  {
+    "id": 4563,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Além de buscar o Senhor, o povo deveria buscar o quê?",
+    "alternativas": [
+      "Justiça e humildade",
+      "Ouro e prata",
+      "Força e guerra",
+      "Honra dos homens"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 2:3",
+    "explicacao": "Deus orientou o povo a buscar justiça e humildade."
+  },
+  {
+    "id": 4564,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Qual cidade é mencionada como destruída no livro de Sofonias?",
+    "alternativas": [
+      "Jerusalém",
+      "Nínive",
+      "Belém",
+      "Samaria"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 2:13",
+    "explicacao": "O profeta anunciou o juízo de Deus contra Nínive."
+  },
+  {
+    "id": 4565,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Contra quem o Senhor se levantaria?",
+    "alternativas": [
+      "Contra os falsos deuses",
+      "Contra os animais",
+      "Contra as crianças",
+      "Contra os anjos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 2:11",
+    "explicacao": "O Senhor declarou que destruiria os falsos deuses e seria temido por todas as nações."
+  },
+  {
+    "id": 4566,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Como é descrito o Senhor em Sofonias 3:5?",
+    "alternativas": [
+      "Injusto",
+      "Dorminhoco",
+      "Justo",
+      "Fraco"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 3:5",
+    "explicacao": "O Senhor é apresentado como justo e fiel em todos os seus atos."
+  },
+  {
+    "id": 4567,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus daria aos povos?",
+    "alternativas": [
+      "Uma língua pura",
+      "Muitas riquezas",
+      "Um novo rei humano",
+      "Muitas terras"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 3:9",
+    "explicacao": "Deus prometeu dar aos povos uma língua pura para que todos invocassem o seu nome."
+  },
+  {
+    "id": 4568,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Quem Deus deixaria no meio do povo?",
+    "alternativas": [
+      "Os orgulhosos",
+      "Os humildes e pobres",
+      "Os guerreiros",
+      "Os reis estrangeiros"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 3:12",
+    "explicacao": "Deus preservaria um povo humilde e pobre que confiaria nele."
+  },
+  {
+    "id": 4569,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "O que a filha de Sião deveria fazer?",
+    "alternativas": [
+      "Fugir",
+      "Cantar e alegrar-se",
+      "Esconder-se",
+      "Construir um muro"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 3:14",
+    "explicacao": "A filha de Sião foi chamada a cantar e alegrar-se pela restauração de Deus."
+  },
+  {
+    "id": 4570,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Quem estaria no meio do povo de Israel?",
+    "alternativas": [
+      "Um rei estrangeiro",
+      "O Senhor, Rei de Israel",
+      "Um profeta antigo",
+      "Um exército humano"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 3:15",
+    "explicacao": "O Senhor, Rei de Israel, estaria no meio do seu povo."
+  },
+  {
+    "id": 4571,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "O que o Senhor faria pelo seu povo?",
+    "alternativas": [
+      "Abandonaria o povo",
+      "Ficaria em silêncio para sempre",
+      "Salvaria e se alegraria com eles",
+      "Levaria todos para outro país"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 3:17",
+    "explicacao": "O Senhor salvaria seu povo e se alegraria com eles em amor."
+  },
+  {
+    "id": 4572,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi o profeta que escreveu o livro de Sofonias?",
+    "alternativas": [
+      "Isaías",
+      "Sofonias",
+      "Jeremias",
+      "Ezequiel"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:1",
+    "explicacao": "O livro de Sofonias foi escrito pelo próprio profeta Sofonias."
+  },
+  {
+    "id": 4573,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Sofonias era filho de quem?",
+    "alternativas": [
+      "Cusi",
+      "Davi",
+      "Josias",
+      "Moisés"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 1:1",
+    "explicacao": "Sofonias é apresentado como filho de Cusi."
+  },
+  {
+    "id": 4574,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Durante o reinado de qual rei Sofonias profetizou?",
+    "alternativas": [
+      "Rei Saul",
+      "Rei Salomão",
+      "Rei Josias",
+      "Rei Acabe"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 1:1",
+    "explicacao": "Sofonias profetizou durante o reinado de Josias, rei de Judá."
+  },
+  {
+    "id": 4575,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus disse que destruiria da face da terra?",
+    "alternativas": [
+      "Apenas cidades",
+      "Todas as coisas",
+      "Apenas animais",
+      "Apenas os reis"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:2",
+    "explicacao": "Deus anunciou que consumiria todas as coisas da face da terra como julgamento."
+  },
+  {
+    "id": 4576,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus disse que aconteceria com os homens e animais?",
+    "alternativas": [
+      "Seriam multiplicados",
+      "Seriam escondidos",
+      "Seriam consumidos",
+      "Seriam coroados"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 1:3",
+    "explicacao": "Deus declarou que homens e animais seriam consumidos no julgamento."
+  },
+  {
+    "id": 4577,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Contra quem Deus falou em Sofonias 1:4?",
+    "alternativas": [
+      "Jerusalém e Judá",
+      "Egito e Babilônia",
+      "Israel e Moabe",
+      "Roma e Grécia"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 1:4",
+    "explicacao": "Deus pronunciou juízo contra Judá e Jerusalém."
+  },
+  {
+    "id": 4578,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Qual deus falso é citado em Sofonias?",
+    "alternativas": [
+      "Dagom",
+      "Baal",
+      "Zeus",
+      "Moloque"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:4",
+    "explicacao": "Baal é citado como um dos falsos deuses adorados pelo povo."
+  },
+  {
+    "id": 4579,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Como é chamado o tempo de julgamento anunciado por Deus?",
+    "alternativas": [
+      "Dia da Vitória",
+      "Dia do Senhor",
+      "Dia da Festa",
+      "Dia do Rei"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Sofonias 1:7",
+    "explicacao": "O período de julgamento é chamado de Dia do Senhor."
+  },
+  {
+    "id": 4580,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus faria em Jerusalém, procurando os homens?",
+    "alternativas": [
+      "Procuraria com lâmpadas",
+      "Enviaria soldados",
+      "Construiria casas",
+      "Faria uma festa"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Sofonias 1:12",
+    "explicacao": "Deus disse que examinaria Jerusalém como quem procura com lâmpadas."
+  },
+  {
+    "id": 4581,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Sofonias",
+    "nivel": "Fácil",
+    "pergunta": "Como Sofonias descreve o Dia do Senhor?",
+    "alternativas": [
+      "Um dia pequeno e tranquilo",
+      "Um dia distante",
+      "Um grande dia de ira",
+      "Um dia sem importância"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Sofonias 1:14",
+    "explicacao": "Sofonias descreve o Dia do Senhor como grande e cheio de ira."
+  }
+]

@@ -1,0 +1,1107 @@
+[
+  {
+    "explicacao": "Atalia tentou eliminar toda a descendência real de Judá para manter o poder, mas Joás foi escondido e preservado.",
+    "alternativas": [
+      "Jezabel",
+      "Atalia",
+      "Maaca",
+      "Bate-Seba"
+    ],
+    "id": 2276,
+    "pergunta": "Quem foi a mulher que tentou eliminar toda a descendência real de Judá?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 22:10"
+  },
+  {
+    "explicacao": "Jeoseba, irmã de Acazias, escondeu Joás no templo durante seis anos para protegê-lo de Atalia.",
+    "alternativas": [
+      "Jeoseba",
+      "Miriã",
+      "Hulda",
+      "Ana"
+    ],
+    "id": 2277,
+    "pergunta": "Quem escondeu Joás para protegê-lo de Atalia?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 22:11"
+  },
+  {
+    "explicacao": "O sacerdote Joiada liderou a revolta contra Atalia e organizou a coroação de Joás como rei.",
+    "alternativas": [
+      "Joiada, o sacerdote",
+      "Azarias",
+      "Hilquias",
+      "Zadoque"
+    ],
+    "id": 2278,
+    "pergunta": "Quem liderou a revolta contra Atalia e coroou Joás rei?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 23:1-11"
+  },
+  {
+    "explicacao": "O rei Joás ordenou a restauração do templo do Senhor que havia sido abandonado.",
+    "alternativas": [
+      "Joás",
+      "Acaz",
+      "Manassés",
+      "Amom"
+    ],
+    "id": 2279,
+    "pergunta": "Qual rei de Judá mandou restaurar o templo do Senhor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 24:4"
+  },
+  {
+    "explicacao": "Zacarias, filho do sacerdote Joiada, foi apedrejado pelo povo por ordem do rei Joás.",
+    "alternativas": [
+      "Os soldados da Assíria",
+      "O povo por ordem de Joás",
+      "Os sacerdotes do templo",
+      "Os filisteus"
+    ],
+    "id": 2280,
+    "pergunta": "Quem matou Zacarias, filho do sacerdote Joiada?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 24:20-21"
+  },
+  {
+    "explicacao": "Amazias derrotou os edomitas, mas depois se exaltou e desafiou o rei de Israel.",
+    "alternativas": [
+      "Amazias",
+      "Uzias",
+      "Ezequias",
+      "Josias"
+    ],
+    "id": 2281,
+    "pergunta": "Qual rei de Judá derrotou os edomitas e depois se orgulhou do seu poder?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 25:11-19"
+  },
+  {
+    "explicacao": "Uzias foi ferido com lepra pelo Senhor porque tentou oferecer incenso no templo, função exclusiva dos sacerdotes.",
+    "alternativas": [
+      "Acaz",
+      "Uzias",
+      "Manassés",
+      "Roboão"
+    ],
+    "id": 2282,
+    "pergunta": "Qual rei foi ferido por lepra após tentar oferecer incenso no templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 26:16-21"
+  },
+  {
+    "explicacao": "O profeta Isaías orou junto com o rei Ezequias quando Senaqueribe ameaçou Jerusalém.",
+    "alternativas": [
+      "Isaías",
+      "Jeremias",
+      "Elias",
+      "Joel"
+    ],
+    "id": 2283,
+    "pergunta": "Quem era o profeta que advertiu o rei Ezequias sobre a invasão da Assíria?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 32:20"
+  },
+  {
+    "explicacao": "O anjo do Senhor destruiu o exército de Senaqueribe, livrando Jerusalém da ameaça assíria.",
+    "alternativas": [
+      "Foi derrotado por Davi",
+      "Foi destruído pelo anjo do Senhor",
+      "Fugiu por causa de uma tempestade",
+      "Fez aliança com Ezequias"
+    ],
+    "id": 2284,
+    "pergunta": "O que aconteceu ao exército do rei Senaqueribe quando ameaçou Jerusalém?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 32:21"
+  },
+  {
+    "explicacao": "Josias promoveu uma grande reforma religiosa, restaurou o templo e celebrou uma importante Páscoa em Judá.",
+    "alternativas": [
+      "Ezequias",
+      "Josias",
+      "Asa",
+      "Josafá"
+    ],
+    "id": 2285,
+    "pergunta": "Qual rei de Judá foi chamado de 'reformador' por restaurar o culto ao Senhor e celebrar a Páscoa?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 34:1-3; 35:1"
+  },
+  {
+    "explicacao": "A mãe de Roboão, filho de Salomão, era Naamá, uma mulher amonita mencionada como mãe do rei.",
+    "alternativas": [
+      "Naamá",
+      "Bate-Seba",
+      "Maaca",
+      "Abital"
+    ],
+    "id": 2286,
+    "pergunta": "Qual foi o nome da mãe de Roboão, filho de Salomão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 12:13"
+  },
+  {
+    "explicacao": "Sisaque, rei do Egito, veio contra Jerusalém com mil e duzentos carros e sessenta mil cavaleiros.",
+    "alternativas": [
+      "600 carros e 60 mil cavaleiros",
+      "1.200 carros e 60 mil cavaleiros",
+      "2.000 carros e 100 mil cavaleiros",
+      "500 carros e 30 mil cavaleiros"
+    ],
+    "id": 2287,
+    "pergunta": "Quantos carros e cavaleiros o rei Sisaque trouxe contra Jerusalém no reinado de Roboão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 12:3"
+  },
+  {
+    "explicacao": "O profeta Hanani repreendeu Asa por confiar no rei da Síria em vez de confiar no Senhor.",
+    "alternativas": [
+      "Hanani",
+      "Azarias",
+      "Micaías",
+      "Jeú"
+    ],
+    "id": 2288,
+    "pergunta": "Quem era o profeta que repreendeu o rei Asa por confiar no rei da Síria?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 16:7"
+  },
+  {
+    "explicacao": "Após a repreensão, Asa ficou irado e colocou o profeta Hanani na prisão.",
+    "alternativas": [
+      "O colocou como sacerdote",
+      "O matou",
+      "O lançou na prisão",
+      "O enviou para o exílio"
+    ],
+    "id": 2289,
+    "pergunta": "O que Asa fez com o profeta Hanani depois da repreensão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 16:10"
+  },
+  {
+    "explicacao": "Nos últimos anos de seu reinado, Asa foi atingido por uma doença nos pés.",
+    "alternativas": [
+      "Lepra",
+      "Doença nos pés",
+      "Cegueira",
+      "Febre mortal"
+    ],
+    "id": 2290,
+    "pergunta": "Qual doença atingiu Asa nos últimos anos de seu reinado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 16:12"
+  },
+  {
+    "explicacao": "Josafá era filho de Asa e reinou em Judá depois dele.",
+    "alternativas": [
+      "Asa",
+      "Abias",
+      "Roboão",
+      "Uzias"
+    ],
+    "id": 2291,
+    "pergunta": "Quem era o pai do rei Josafá?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 17:1"
+  },
+  {
+    "explicacao": "Josafá enviou líderes e levitas para ensinar o Livro da Lei ao povo de Judá.",
+    "alternativas": [
+      "Micaías",
+      "Obadias",
+      "Jeorão",
+      "Azarias"
+    ],
+    "id": 2292,
+    "pergunta": "Qual levita foi enviado por Josafá para ensinar a Lei do Senhor ao povo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 17:7-9"
+  },
+  {
+    "explicacao": "A organização militar de Josafá registrava um exército com mais de um milhão de homens.",
+    "alternativas": [
+      "Mais de 500 mil",
+      "Mais de 1 milhão",
+      "Mais de 300 mil",
+      "Mais de 100 mil"
+    ],
+    "id": 2293,
+    "pergunta": "Quantos homens de guerra Josafá tinha em Jerusalém segundo a organização do exército?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 17:14-19"
+  },
+  {
+    "explicacao": "Jeorão, rei de Judá, sofreu uma doença terrível e morreu após dois anos de enfermidade.",
+    "alternativas": [
+      "Jeorão",
+      "Acabe",
+      "Onri",
+      "Jeroboão"
+    ],
+    "id": 2294,
+    "pergunta": "Qual rei de Israel morreu junto com Acazias após uma doença, segundo o relato de 2 Crônicas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 21:18-19"
+  },
+  {
+    "explicacao": "O profeta Elias enviou uma carta ao rei Jeorão anunciando o juízo do Senhor.",
+    "alternativas": [
+      "Elias",
+      "Eliseu",
+      "Isaías",
+      "Micaías"
+    ],
+    "id": 2295,
+    "pergunta": "Quem escreveu uma carta ao rei Jeorão anunciando o juízo de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 21:12"
+  },
+  {
+    "explicacao": "Jeú, filho de Hanani, repreendeu Josafá por ter ajudado Acabe, rei de Israel.",
+    "alternativas": [
+      "Jeú, filho de Hanani",
+      "Isaías",
+      "Jeremias",
+      "Joel"
+    ],
+    "id": 2296,
+    "pergunta": "Qual profeta repreendeu Josafá por ter ajudado Acabe?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 19:2"
+  },
+  {
+    "explicacao": "Josafá declarou ao povo que a confiança no Senhor traria segurança antes da batalha contra Moabe e Amom.",
+    "alternativas": [
+      "Preparai espadas e lanças",
+      "Crede no Senhor vosso Deus e estareis seguros",
+      "Fujam para Jerusalém",
+      "Façam uma aliança com o inimigo"
+    ],
+    "id": 2297,
+    "pergunta": "O que Josafá disse ao povo antes da batalha contra Moabe e Amom?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 20:20"
+  },
+  {
+    "explicacao": "O rei Uzias ficou leproso por tentar queimar incenso no templo, função exclusiva dos sacerdotes.",
+    "alternativas": [
+      "Uzias",
+      "Acaz",
+      "Manassés",
+      "Joás"
+    ],
+    "id": 2298,
+    "pergunta": "Qual rei de Judá ficou leproso por tentar queimar incenso no templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 26:16-20"
+  },
+  {
+    "explicacao": "O sacerdote Azarias enfrentou o rei Uzias quando ele tentou oferecer incenso no templo.",
+    "alternativas": [
+      "Joiada",
+      "Azarias",
+      "Hilquias",
+      "Zadoque"
+    ],
+    "id": 2299,
+    "pergunta": "Quem foi o sacerdote que enfrentou Uzias no templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 26:17-18"
+  },
+  {
+    "explicacao": "Ezequias abriu as portas do templo que haviam sido fechadas por seu pai Acaz.",
+    "alternativas": [
+      "Ezequias",
+      "Acaz",
+      "Manassés",
+      "Amom"
+    ],
+    "id": 2300,
+    "pergunta": "Qual rei de Judá abriu as portas do templo que seu pai havia fechado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 29:3"
+  },
+  {
+    "explicacao": "Ezequias ordenou aos sacerdotes e levitas que santificassem a Casa do Senhor.",
+    "alternativas": [
+      "Abandonarem Jerusalém",
+      "Santificarem a Casa do Senhor",
+      "Construírem um palácio",
+      "Pararem os sacrifícios"
+    ],
+    "id": 2301,
+    "pergunta": "O que Ezequias ordenou aos sacerdotes e levitas fazerem no templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 29:5"
+  },
+  {
+    "explicacao": "Manassés foi levado preso para a Babilônia, se humilhou diante de Deus e foi restaurado ao reino.",
+    "alternativas": [
+      "Josias",
+      "Manassés",
+      "Roboão",
+      "Asa"
+    ],
+    "id": 2302,
+    "pergunta": "Qual rei de Judá foi levado preso para a Babilônia e depois se humilhou diante de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 33:10-13"
+  },
+  {
+    "explicacao": "Josias morreu em batalha contra os egípcios liderados por Faraó Neco.",
+    "alternativas": [
+      "Egípcios sob o comando de Faraó Neco",
+      "Babilônios",
+      "Assírios",
+      "Filisteus"
+    ],
+    "id": 2303,
+    "pergunta": "Quem matou o rei Josias em batalha?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 35:20-24"
+  },
+  {
+    "explicacao": "Hilquias, o sacerdote, encontrou o Livro da Lei durante uma reforma no templo nos dias de Josias.",
+    "alternativas": [
+      "Joiada",
+      "Hilquias",
+      "Azarias",
+      "Esdras"
+    ],
+    "id": 2304,
+    "pergunta": "Qual sacerdote encontrou o Livro da Lei nos dias de Josias?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 34:14-15"
+  },
+  {
+    "explicacao": "O livro de 2 Crônicas termina mencionando Ciro, rei da Pérsia, que autorizou a reconstrução do templo em Jerusalém.",
+    "alternativas": [
+      "Zedequias",
+      "Joaquim",
+      "Ciro, rei da Pérsia",
+      "Jeoaquim"
+    ],
+    "id": 2305,
+    "pergunta": "Quem foi o último rei mencionado em 2 Crônicas antes do decreto de restauração?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 36:22-23"
+  },
+  {
+    "explicacao": "A Bíblia não informa a idade de Salomão quando ele começou a reinar.",
+    "alternativas": [
+      "12 anos",
+      "20 anos",
+      "30 anos",
+      "A Bíblia não informa sua idade"
+    ],
+    "id": 2306,
+    "pergunta": "Quantos anos Salomão tinha quando começou a reinar?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 1:1"
+  },
+  {
+    "explicacao": "Bezaleel era filho de Uri e foi responsável por trabalhos relacionados ao templo e ao serviço sagrado.",
+    "alternativas": [
+      "Uri",
+      "Hur",
+      "Calebe",
+      "Aoliabe"
+    ],
+    "id": 2307,
+    "pergunta": "Quem era o pai de Bezaleel, o responsável pelos trabalhos do templo mencionado na oração de Salomão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 1:5 (comparação com Êxodo 31:2)"
+  },
+  {
+    "explicacao": "Salomão levou sete anos para concluir a construção da Casa do Senhor.",
+    "alternativas": [
+      "5 anos",
+      "7 anos",
+      "10 anos",
+      "20 anos"
+    ],
+    "id": 2308,
+    "pergunta": "Quantos anos Salomão levou para construir a Casa do Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 5:1; 2 Crônicas 7:11"
+  },
+  {
+    "explicacao": "Quando a Arca foi colocada no templo, os sacerdotes tocaram trombetas e louvaram ao Senhor.",
+    "alternativas": [
+      "Saíram da cidade",
+      "Tocaram trombetas e louvaram ao Senhor",
+      "Construíram um novo altar",
+      "Jejuaram por quarenta dias"
+    ],
+    "id": 2309,
+    "pergunta": "O que os sacerdotes fizeram quando a Arca foi colocada no templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 5:12-13"
+  },
+  {
+    "explicacao": "Após a oração de Salomão na dedicação do templo, Deus enviou fogo do céu que consumiu os sacrifícios.",
+    "alternativas": [
+      "Mandou uma grande chuva",
+      "Enviou fogo do céu sobre os sacrifícios",
+      "Deu vitória em uma guerra",
+      "Falou através de um profeta"
+    ],
+    "id": 2310,
+    "pergunta": "Qual foi a resposta de Deus à oração de Salomão na dedicação do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 7:1"
+  },
+  {
+    "explicacao": "Josafá fortaleceu as cidades de Judá e incentivou o povo a buscar ao Senhor.",
+    "alternativas": [
+      "Roboão",
+      "Josafá",
+      "Asa",
+      "Acaz"
+    ],
+    "id": 2311,
+    "pergunta": "Qual rei de Judá fortaleceu as cidades e preparou o povo para buscar ao Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 17:5-6"
+  },
+  {
+    "explicacao": "Josafá enviou sacerdotes e levitas para ensinar a Lei do Senhor nas cidades de Judá.",
+    "alternativas": [
+      "Sacerdotes e levitas",
+      "Soldados",
+      "Profetas de Baal",
+      "Comerciantes"
+    ],
+    "id": 2312,
+    "pergunta": "Quem foi enviado por Josafá para ensinar a Lei do Senhor nas cidades de Judá?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 17:7-9"
+  },
+  {
+    "explicacao": "Josafá fez aliança com Acabe, rei de Israel.",
+    "alternativas": [
+      "Asa",
+      "Josafá",
+      "Ezequias",
+      "Uzias"
+    ],
+    "id": 2313,
+    "pergunta": "Qual rei de Judá fez aliança com Acabe, rei de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 18:1"
+  },
+  {
+    "explicacao": "O profeta Micaías advertiu contra a aliança de Josafá com Acabe.",
+    "alternativas": [
+      "Elias",
+      "Micaías",
+      "Eliseu",
+      "Azarias"
+    ],
+    "id": 2314,
+    "pergunta": "Qual profeta falou contra a aliança de Josafá com Acabe?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 18:7-27"
+  },
+  {
+    "explicacao": "Acabe foi atingido por uma flecha entre as juntas da armadura e morreu na batalha.",
+    "alternativas": [
+      "Caiu de um cavalo",
+      "Foi morto por uma espada",
+      "Uma flecha o atingiu entre as juntas da armadura",
+      "Foi capturado pelos inimigos"
+    ],
+    "id": 2315,
+    "pergunta": "Como Acabe morreu na batalha contra os sírios?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 18:33-34"
+  },
+  {
+    "explicacao": "Roboão foi o primeiro rei de Judá depois da divisão do reino.",
+    "alternativas": [
+      "Roboão",
+      "Jeroboão",
+      "Asa",
+      "Josias"
+    ],
+    "id": 2316,
+    "pergunta": "Quem foi o primeiro rei de Judá depois da divisão do reino?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 10:17"
+  },
+  {
+    "explicacao": "Asa buscou ao Senhor e removeu os altares dos ídolos e os lugares de culto pagão.",
+    "alternativas": [
+      "Manassés",
+      "Asa",
+      "Acaz",
+      "Jeorão"
+    ],
+    "id": 2317,
+    "pergunta": "Qual rei de Judá buscou ao Senhor e removeu os altares dos ídolos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 14:2-5"
+  },
+  {
+    "explicacao": "Azarias, filho de Odede, foi o profeta que falou com Asa para confiar no Senhor.",
+    "alternativas": [
+      "Elias",
+      "Azarias",
+      "Isaías",
+      "Jeremias"
+    ],
+    "id": 2318,
+    "pergunta": "Quem era o profeta que falou com Asa para confiar no Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 15:1-2"
+  },
+  {
+    "explicacao": "Josafá ficou conhecido por buscar ao Senhor e enfrentar inimigos confiando em Deus.",
+    "alternativas": [
+      "Josafá",
+      "Acaz",
+      "Roboão",
+      "Amom"
+    ],
+    "id": 2319,
+    "pergunta": "Qual rei de Judá ficou conhecido por organizar um grande exército e confiar em Deus diante dos inimigos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 20:1-22"
+  },
+  {
+    "explicacao": "Josafá colocou cantores à frente do exército para louvar ao Senhor durante a batalha.",
+    "alternativas": [
+      "Cavalos de guerra",
+      "Guerreiros mais fortes",
+      "Cantores para louvar ao Senhor",
+      "Sacerdotes com espadas"
+    ],
+    "id": 2320,
+    "pergunta": "O que Josafá colocou na frente do exército quando enfrentou inimigos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 20:21-22"
+  },
+  {
+    "explicacao": "Joás começou a reinar em Judá com apenas oito anos de idade.",
+    "alternativas": [
+      "Josias",
+      "Ezequias",
+      "Uzias",
+      "Joás"
+    ],
+    "id": 2321,
+    "pergunta": "Qual rei começou a reinar com apenas oito anos de idade?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 24:1"
+  },
+  {
+    "explicacao": "Ezequias promoveu uma grande reforma no templo do Senhor, reabrindo e purificando a casa de Deus.",
+    "alternativas": [
+      "Ezequias",
+      "Acaz",
+      "Manassés",
+      "Roboão"
+    ],
+    "id": 2322,
+    "pergunta": "Qual rei promoveu uma grande reforma no templo do Senhor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 29:3"
+  },
+  {
+    "explicacao": "Josias encontrou o Livro da Lei durante a reforma do templo.",
+    "alternativas": [
+      "Josias",
+      "Asa",
+      "Salomão",
+      "Uzias"
+    ],
+    "id": 2323,
+    "pergunta": "Qual rei encontrou o Livro da Lei durante uma reforma?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 34:14-19"
+  },
+  {
+    "explicacao": "Ciro, rei da Pérsia, permitiu que os judeus retornassem e reconstruíssem o templo.",
+    "alternativas": [
+      "Ciro, rei da Pérsia",
+      "Nabucodonosor",
+      "Dario",
+      "Faraó"
+    ],
+    "id": 2324,
+    "pergunta": "Quem permitiu que os judeus voltassem para Jerusalém e reconstruíssem o templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 36:22-23"
+  },
+  {
+    "explicacao": "O livro de 2 Crônicas termina com o decreto de Ciro para reconstruir o templo em Jerusalém.",
+    "alternativas": [
+      "Com a construção do templo",
+      "Com a morte de Josias",
+      "Com o decreto de Ciro para reconstruir o templo",
+      "Com a divisão de Israel"
+    ],
+    "id": 2325,
+    "pergunta": "Como termina o livro de 2 Crônicas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 36:23"
+  },
+  {
+    "explicacao": "Salomão, filho de Davi, começou a reinar em lugar de seu pai.",
+    "alternativas": [
+      "Roboão",
+      "Salomão",
+      "Abias",
+      "Asa"
+    ],
+    "id": 2326,
+    "pergunta": "Quem era o filho de Davi que começou a reinar em seu lugar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 1:1"
+  },
+  {
+    "explicacao": "Salomão pediu sabedoria e conhecimento para governar o povo de Deus.",
+    "alternativas": [
+      "Riquezas e ouro",
+      "Muitos anos de vida",
+      "Sabedoria e conhecimento para governar",
+      "Vitória sobre todos os inimigos"
+    ],
+    "id": 2327,
+    "pergunta": "O que Salomão pediu a Deus quando o Senhor apareceu a ele?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 1:10-12"
+  },
+  {
+    "explicacao": "Antes de construir o templo, Salomão ofereceu sacrifícios ao Senhor em Gibeão.",
+    "alternativas": [
+      "Monte Carmelo",
+      "Gibeão",
+      "Jerusalém",
+      "Betel"
+    ],
+    "id": 2328,
+    "pergunta": "Onde Salomão ofereceu sacrifícios ao Senhor antes de construir o templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 1:3-6"
+  },
+  {
+    "explicacao": "Hirão, rei de Tiro, ajudou Salomão enviando madeira e trabalhadores para a construção.",
+    "alternativas": [
+      "Hirão, rei de Tiro",
+      "Acabe, rei de Israel",
+      "Nabucodonosor",
+      "Faraó do Egito"
+    ],
+    "id": 2329,
+    "pergunta": "Quem ajudou Salomão na construção do templo enviando madeira e trabalhadores?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 2:3-10"
+  },
+  {
+    "explicacao": "Salomão construiu o templo do Senhor em Jerusalém.",
+    "alternativas": [
+      "Um palácio",
+      "Uma fortaleza",
+      "O templo",
+      "Um muro em Jerusalém"
+    ],
+    "id": 2330,
+    "pergunta": "Qual construção Salomão realizou para o Senhor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 3:1"
+  },
+  {
+    "explicacao": "Após a oração de dedicação do templo, fogo desceu do céu e a glória do Senhor encheu a casa.",
+    "alternativas": [
+      "Houve uma grande guerra",
+      "Fogo desceu do céu e a glória do Senhor encheu o templo",
+      "O povo abandonou Jerusalém",
+      "O templo foi destruído"
+    ],
+    "id": 2331,
+    "pergunta": "O que aconteceu quando Salomão terminou a oração de dedicação do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 7:1"
+  },
+  {
+    "explicacao": "Deus prometeu ouvir dos céus, perdoar os pecados e curar a terra se o povo se humilhasse.",
+    "alternativas": [
+      "Que Israel nunca teria problemas",
+      "Que ouviria a oração e curaria a terra se o povo se humilhasse",
+      "Que todos seriam ricos",
+      "Que nunca haveria inimigos"
+    ],
+    "id": 2332,
+    "pergunta": "Qual promessa Deus fez a Salomão em relação ao povo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 7:14"
+  },
+  {
+    "explicacao": "A rainha de Sabá visitou Salomão para conhecer sua sabedoria.",
+    "alternativas": [
+      "Rainha de Sabá",
+      "Rainha Ester",
+      "Jezabel",
+      "Mical"
+    ],
+    "id": 2333,
+    "pergunta": "Quem visitou Salomão para conhecer sua sabedoria?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 9:1"
+  },
+  {
+    "explicacao": "Roboão reinou depois de Salomão.",
+    "alternativas": [
+      "Asa",
+      "Roboão",
+      "Josafá",
+      "Abias"
+    ],
+    "id": 2334,
+    "pergunta": "Quem reinou depois de Salomão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 9:31"
+  },
+  {
+    "explicacao": "O reino se dividiu porque Roboão rejeitou o conselho dos anciãos e seguiu o conselho dos jovens.",
+    "alternativas": [
+      "Por causa de uma guerra com os filisteus",
+      "Porque Roboão não ouviu o conselho dos anciãos",
+      "Porque faltou comida",
+      "Porque Salomão deixou o trono"
+    ],
+    "id": 2335,
+    "pergunta": "Por que o reino de Israel se dividiu nos dias de Roboão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 10:8-16"
+  },
+  {
+    "explicacao": "Uzias se indignou com os sacerdotes; e a lepra lhe saiu na testa perante os sacerdotes na casa do Senhor.",
+    "alternativas": [
+      "Ficou imediatamente leproso na testa",
+      "Caiu morto no altar",
+      "Ficou completamente cego",
+      "Suas mãos secaram na hora"
+    ],
+    "id": 2336,
+    "pergunta": "O que aconteceu com o rei Uzias quando ele tentou queimar incenso no templo, algo reservado apenas aos sacerdotes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 26:19-20"
+  },
+  {
+    "explicacao": "2 Crônicas narra a história dos reis de Judá, terminando com o famoso decreto persa de repatriação.",
+    "alternativas": [
+      "2 Crônicas",
+      "1 Crônicas",
+      "Esdras",
+      "Daniel"
+    ],
+    "id": 2337,
+    "pergunta": "Qual livro relata o avivamento do rei Josias e termina com o decreto de Ciro permitindo o retorno do exílio?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 34 e 36"
+  },
+  {
+    "explicacao": "Manassés humilhou-se profundamente diante de Deus quando levado com ganchos para a Babilônia, e o Senhor ouviu sua súplica restaurando seu reino.",
+    "alternativas": [
+      "Acaz",
+      "Manassés",
+      "Jeoiaquim",
+      "Zedequias"
+    ],
+    "id": 2338,
+    "pergunta": "Qual rei de Judá ficou conhecido como o pior e mais idólatra de todos, mas se arrependeu verdadeiramente enquanto estava cativo na Assíria?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 33:12-13"
+  },
+  {
+    "explicacao": "Salomão começou a edificar a Casa do Senhor no Monte Moriá, na eira de Ornã (Araúna), o jebuseu, onde Deus havia aparecido a Davi.",
+    "alternativas": [
+      "Monte das Oliveiras",
+      "Monte Moriá",
+      "Monte Sinai",
+      "Monte Nebo"
+    ],
+    "id": 2339,
+    "pergunta": "Onde Salomão construiu o Templo de Jerusalém, lugar que antes fora a eira adquirida de um jebuseu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 3:1"
+  },
+  {
+    "explicacao": "Uzias saiu, guerreou contra os filisteus e quebrou os muros de cidades estratégicas como Gate, Jabné e Asdode.",
+    "alternativas": [
+      "Gate",
+      "Gaza",
+      "Ecrom",
+      "Asdode"
+    ],
+    "id": 2340,
+    "pergunta": "Qual cidade fortificada caiu sob o comando do rei Uzias na sua bem-sucedida expansão militar contra os filisteus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Crônicas 26:6"
+  }
+]

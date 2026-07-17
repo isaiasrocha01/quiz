@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oficina Bíblica - Jogo de Quiz</title>
+    <!-- Reaproveitando a identidade visual do seu projeto -->
+    <link rel="stylesheet" href="quiz.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Oficina Bíblica - Quiz</h1>
+
+        <!-- TELA 1: CONFIGURAÇÃO DO JOGO -->
+        <div id="tela-config" class="formulario">
+            <h2>Configurar Partida</h2>
+
+            <div class="linha-dupla">
+                <div>
+                    <label class="obrigatorio">Testamento</label>
+                    <select id="quiz-testamento">
+                        <option value="">Selecione...</option>
+                        <option value="Velho Testamento">Velho Testamento</option>
+                        <option value="Novo Testamento">Novo Testamento</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="obrigatorio">Categoria</label>
+                    <select id="quiz-categoria">
+                        <option value="">Selecione...</option>
+                        <option value="Livros">Livros</option>
+                        <option value="Pessoas">Pessoas</option>
+                        <option value="Lugares">Lugares</option>
+                        <option value="Eventos">Eventos</option>
+                    </select>
+                </div>
+            </div>
+
+            <div id="areaLivroQuiz" style="display:none;">
+                <label class="obrigatorio">Livro</label>
+                <select id="quiz-livro">
+                    <option value="">Selecione...</option>
+                </select>
+            </div>
+
+            <button onclick="iniciarJogo()">Iniciar Jogo ⚔️</button>
+        </div>
+
+        <!-- TELA 2: ARENA DO QUIZ (INICIA OCULTA) -->
+        <div id="tela-jogo" style="display: none;">
+            <div id="progresso" style="margin-bottom: 15px; font-weight: bold; color: var(--primary);"></div>
+
+            <div class="card-pergunta" style="border-left: 5px solid var(--accent-gold);">
+                <h3 id="pergunta-texto">Carregando pergunta...</h3>
+                <br>
+                <div id="opcoes-container" style="display: flex; flex-direction: column; gap: 10px;">
+                    <!-- As alternativas (A, B, C, D) serão injetadas via JS aqui como botões -->
+                </div>
+            </div>
+
+            <!-- FEEDBACK DA RESPOSTA (OCULTO POR PADRÃO) -->
+            <div id="feedback-resposta" style="display: none; margin-top: 15px; padding: 15px; border-radius: 8px;">
+                <p id="feedback-texto" style="font-weight: bold;"></p>
+                <p id="feedback-explicacao" style="margin-top: 5px; font-size: 0.9rem;"></p>
+                <p id="feedback-referencia" style="font-style: italic; font-size: 0.85rem; color: #555;"></p>
+                <div class="botoes-jogo">
+
+                    <button id="btn-proxima" onclick="proximaPergunta()">
+                        Próxima Pergunta ➡️
+                    </button>
+
+
+                    <button id="btn-voltar" onclick="voltarConfiguracao()">
+                        ⚙️ Trocar Livro
+                    </button>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- TELA 3: RESULTADO FINAL -->
+        <div id="tela-resultado" style="display: none; text-align: center;">
+            <h2>Pontuação Final 🎉</h2>
+            <p id="placar-final" style="font-size: 1.5rem; margin: 20px 0; font-weight: bold; color: var(--primary);">
+            </p>
+            <button onclick="reiniciarQuiz()">Jogar Novamente 🔄</button>
+        </div>
+
+    </div>
+
+    <script src="quiz.js"></script>
+</body>
+
+</html>

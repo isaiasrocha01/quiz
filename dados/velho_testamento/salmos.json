@@ -1,0 +1,1056 @@
+[
+  {
+    "id": 4460,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "Quem é creditado como o autor do Salmo 89, que canta as misericórdias do Senhor e a aliança com Davi?",
+    "alternativas": [
+      "Asafe",
+      "Etã, o ezraíta",
+      "Hemã, o ezraíta",
+      "Salomão"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 89 (Título)",
+    "explicacao": "O título deste longo salmo declara textualmente: 'Mascil de Etã, o ezraíta'."
+  },
+  {
+    "id": 4461,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "De acordo com o título do Salmo 52, qual personagem histórico denunciou Davi a Saul, informando que ele tinha ido à casa de Abimeleque?",
+    "alternativas": [
+      "Doegue, o edomita",
+      "Aitofel, o gilonita",
+      "Simei, o benjamita",
+      "Quis, o pai de Saul"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmo 52 (Título)",
+    "explicacao": "O título contextualiza historicamente: '...Quando Doegue, o edomita, veio e informou a Saul, dizendo-lhe: Davi foi à casa de Abimeleque.'"
+  },
+  {
+    "id": 4462,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "No Salmo 84:6, qual é o nome do vale árido (ou de lágrimas) que os que passam por ele o transformam em uma fonte de águas?",
+    "alternativas": [
+      "Vale de Escol",
+      "Vale de Baca",
+      "Vale de Cedrom",
+      "Vale de Josafá"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 84:6",
+    "explicacao": "O texto diz que os peregrinos, 'passando pelo vale de Baca, fazem dele uma fonte'."
+  },
+  {
+    "id": 4463,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "No Salmo 136, que celebra a misericórdia eterna de Deus, quais reis específicos da região da Transjordânia são citados por terem sido derrotados pelo Senhor?",
+    "alternativas": [
+      "Eglom e Moabe",
+      "Seom e Ogue",
+      "Balaque e Balaão",
+      "Javem e Sísera"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 136:19-20",
+    "explicacao": "O cântico detalha as vitórias de Israel contra 'Seom, rei dos amorreus... E a Ogue, rei de Basã...'"
+  },
+  {
+    "id": 4464,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "O Salmo 110 é uma profecia messiânica crucial. Segundo o versículo 4, o Messias é constituído sacerdote eterno segundo a ordem de quem?",
+    "alternativas": [
+      "Arão",
+      "Levi",
+      "Melquisedeque",
+      "Samuel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 110:4",
+    "explicacao": "O Senhor jura solenemente: 'Tu és um sacerdote eterno, segundo a ordem de Melquisedeque.'"
+  },
+  {
+    "id": 4465,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "O Salmo 39, o Salmo 62 e o Salmo 77 trazem no título o nome de um dos chefes dos músicos nomeados por Davi. Quem é ele?",
+    "alternativas": [
+      "Jedutum",
+      "Quenanias",
+      "Obede-Edom",
+      "Corá"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmos 39, 62 e 77 (Título)",
+    "explicacao": "As dedicatórias trazem a instrução: 'Ao músico-mor, a Jedutum...'"
+  },
+  {
+    "id": 4466,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "No Salmo 68:14, quando o Todo-Poderoso dispersou os reis na terra, o salmista descreve poeticamente que houve neve em qual monte específico?",
+    "alternativas": [
+      "Monte Hermom",
+      "Monte Salmom (Zalmon)",
+      "Monte Sinai",
+      "Monte Nebo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 68:14",
+    "explicacao": "O salmista faz a correlação poética: 'quando o Onipotente ali dispersou os reis, foi como a neve em Salmom.'"
+  },
+  {
+    "id": 4467,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "Qual é o número do Salmo mais curto de toda a Bíblia, contendo apenas dois versículos?",
+    "alternativas": [
+      "Salmo 23",
+      "Salmo 100",
+      "Salmo 117",
+      "Salmo 134"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 117:1-2",
+    "explicacao": "Composto por apenas 2 versículos exortando as nações ao louvor, o Salmo 117 é o menor capítulo da Bíblia."
+  },
+  {
+    "id": 4468,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "O Salmo 88 é considerado o mais sombrio do Saltério, terminando sem uma nota explícita de esperança. Quem é o seu autor segundo o título?",
+    "alternativas": [
+      "Davi",
+      "Hemã, o ezraíta",
+      "Asafe",
+      "Moisés"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 88 (Título)",
+    "explicacao": "O título deste salmo lamentoso o classifica como 'Mascil de Hemã, o ezraíta.'"
+  },
+  {
+    "id": 4469,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "O título do Salmo 34 menciona que Davi mudou o seu semblante (fingiu-se de louco) diante de um monarca. Qual é o nome/título desse rei registrado explicitamente no texto do Salmo?",
+    "alternativas": [
+      "Abimeleque",
+      "Aquis",
+      "Agague",
+      "Faraó"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmo 34 (Título)",
+    "explicacao": "Embora a história em 1 Samuel cite Aquis, o título do Salmo usa o nome real dinástico: '...perante Abimeleque, e este o expulsou...'"
+  },
+  {
+    "id": 4470,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "No Salmo 89:10, o salmista personifica o caos ou uma potência opressora (geralmente associada ao Egito) usando qual nome mitológico/poético que Deus esmagou?",
+    "alternativas": [
+      "Beemote",
+      "Raabe",
+      "Dagon",
+      "Leviatã"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 89:10",
+    "explicacao": "A personificação poética usada pelo autor é Raabe: 'Esmagaste a Raabe como a um ferido...'"
+  },
+  {
+    "id": 4471,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "No Salmo 60:6, quando Deus fala em sua santidade sobre posses territoriais, Ele diz: 'Repartirei a Siquém e medirei o vale de...'?",
+    "alternativas": [
+      "Sucote",
+      "Jizreel",
+      "Elá",
+      "Sidim"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmo 60:6",
+    "explicacao": "A declaração geográfica divina conclui: '...repartirei a Siquém e medirei o vale de Sucote.'"
+  },
+  {
+    "id": 4472,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "O Salmo 78 faz uma longa retrospectiva de Israel. Nos versículos 12 e 43, onde o salmista diz especificamente que Deus operou maravilhas e pragas na terra do Egito?",
+    "alternativas": [
+      "No deserto de Parã",
+      "No campo de Zoã",
+      "Nas margens do Eufrates",
+      "Na planície de Ramessés"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 78:12",
+    "explicacao": "O salmista localiza geograficamente os milagres no Egito antigos como ocorridos 'no campo de Zoã'."
+  },
+  {
+    "id": 4473,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "No Salmo 120:4, a língua enganosa e mentirosa do inimigo é severamente comparada a 'flechas agudas do valente' e a 'brasas de...' qual planta/árvore?",
+    "alternativas": [
+      "Acácia",
+      "Zimbro (ou zimbros)",
+      "Cedro",
+      "Oliveira"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 120:4",
+    "explicacao": "O castigo da língua falsa é ilustrado por 'Flechas agudas do valente, com brasas vivas de zimbro'."
+  },
+  {
+    "id": 4474,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "O Salmo 82 inicia com uma forte imagem judicial sobre governantes e juízes da terra. Onde o salmista diz que Deus se levanta para julgar?",
+    "alternativas": [
+      "No Templo de Jerusalém",
+      "Na congregação dos poderosos (assembleia divina)",
+      "No topo do Monte Sinai",
+      "No vale da decisão"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 82:1",
+    "explicacao": "O cenário do julgamento é apresentado no verso 1: 'Deus assiste na congregação dos poderosos; julga no meio dos deuses.'"
+  },
+  {
+    "id": 4475,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "O Salmo 7 possui um título que descreve um cântico fúnebre (Sigaion) que Davi cantou ao Senhor por causa das palavras de qual personagem obscuro?",
+    "alternativas": [
+      "Cusi, o benjamita",
+      "Doegue, o edomita",
+      "Nabal, o carmelita",
+      "Hanum, o amonita"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmo 7 (Título)",
+    "explicacao": "O título registra a composição como um 'Sigaion de Davi... sobre as palavras de Cusi, o benjamita.'"
+  },
+  {
+    "id": 4476,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "Embora muitos se lembrem do louvor com instrumentos gerais, o Salmo 92, versículo 3, especifica o louvor a Deus usando um instrumento de cordas de tamanho bem definido. Qual é ele?",
+    "alternativas": [
+      "Um saltério de três cordas",
+      "Uma harpa de sete cordas",
+      "Um instrumento de dez cordas",
+      "Um alaúde de doze cordas"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 92:3",
+    "explicacao": "O louvor é direcionado especificamente 'Sobre um instrumento de dez cordas, e sobre o saltério...'"
+  },
+  {
+    "id": 4477,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "No Salmo 51:7, Davi pede para ser purificado com uma planta específica usada nos rituais levíticos para a purificação de leprosos e casas contaminadas. Que planta é essa?",
+    "alternativas": [
+      "Mirra",
+      "Hissopo",
+      "Aloe vera",
+      "Cássia"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 51:7",
+    "explicacao": "No arrependimento, Davi clama: 'Purifica-me com hissopo, e ficarei limpo; lava-me, e ficarei mais alvo do que a neve.'"
+  },
+  {
+    "id": 4478,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "No conhecido Salmo 133:3, a maravilhosa união dos irmãos na fé é comparada ao orvalho de qual monte específico que desce sobre os montes de Sião?",
+    "alternativas": [
+      "Monte Hermom",
+      "Monte Carmelo",
+      "Monte Sinai",
+      "Monte das Oliveiras"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmo 133:3",
+    "explicacao": "A união fraternal abundante é assemelhada 'Como o orvalho de Hermom, e como o que desce sobre os montes de Sião'."
+  },
+  {
+    "id": 4479,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Difícil",
+    "pergunta": "No Salmo 74:14, o salmista descreve os atos de Deus na criação e no Êxodo dizendo que Ele esmagou as cabeças do Leviatã e o deu por mantimento a quem?",
+    "alternativas": [
+      "Aos peixes do mar grande",
+      "Aos habitantes do deserto (ou povo do deserto)",
+      "Às aves de rapina do céu",
+      "Aos exércitos reais de Israel"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 74:14",
+    "explicacao": "O texto diz explicitamente: 'Tu esmagaste as cabeças do leviatã, e o deste por mantimento aos habitantes do deserto.'"
+  },
+  {
+    "id": 4480,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "No Salmo 51, conhecido como o salmo de arrependimento de Davi, o que ele pede para Deus criar nele?",
+    "alternativas": [
+      "Um espírito de guerreiro",
+      "Um coração puro",
+      "Uma mente sábia",
+      "Um trono indestrutível"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 51:10",
+    "explicacao": "Davi clama: 'Cria em mim, ó Deus, um coração puro e renova em mim um espírito reto.'"
+  },
+  {
+    "id": 4481,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "O Salmo 90 é muito conhecido por sua reflexão sobre a brevidade da vida humana. Quem é o autor indicado no título deste Salmo?",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Asafe",
+      "Moisés"
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Salmo 90 (Título)",
+    "explicacao": "O título identifica o Salmo 90 como uma 'Oração de Moisés, homem de Deus'."
+  },
+  {
+    "id": 4482,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "Segundo o Salmo 119:9, como o jovem pode manter puro o seu caminho?",
+    "alternativas": [
+      "Frequentando o templo todos os dias",
+      "Afastando-se de todas as pessoas",
+      "Observando-o (vivendo) conforme a palavra de Deus",
+      "Fazendo sacrifícios e ofertas diárias"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 119:9",
+    "explicacao": "O texto afirma que a pureza do caminho vem de observá-lo conforme a palavra de Deus."
+  },
+  {
+    "id": 4483,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "No Salmo 137, os israelitas choravam no exílio lembrando-se de Sião. Onde eles penduraram as suas harpas?",
+    "alternativas": [
+      "Nos salgueiros (vimeiros)",
+      "Nas muralhas da cidade",
+      "No chão do deserto",
+      "Nas portas do palácio"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmo 137:2",
+    "explicacao": "O salmista relata que penduraram as harpas nos salgueiros que havia no meio da região da Babilônia."
+  },
+  {
+    "id": 4484,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "O Salmo 111:10 e o livro de Provérbios concordam sobre o início da sabedoria. O que é o princípio da sabedoria?",
+    "alternativas": [
+      "Estudar muito os livros",
+      "O temor do Senhor",
+      "Ouvir o conselho dos reis",
+      "Ter muitos anos de vida"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 111:10",
+    "explicacao": "O texto declara explicitamente: 'O temor do Senhor é o princípio da sabedoria'."
+  },
+  {
+    "id": 4485,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "No Salmo 22, versículo 1, encontramos uma frase profética que o próprio Jesus bradou na cruz. Qual é essa frase?",
+    "alternativas": [
+      "Pai, nas tuas mãos entrego o meu espírito.",
+      "Deus meu, Deus meu, por que me desamparaste?",
+      "Tenho sede.",
+      "Está consumado."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 22:1",
+    "explicacao": "Jesus citou este Salmo na cruz: 'Deus meu, Deus meu, por que me desamparaste?'"
+  },
+  {
+    "id": 4486,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "De acordo com o Salmo 8:5, Deus fez o ser humano um pouco menor do que quem?",
+    "alternativas": [
+      "Os animais da terra",
+      "Os anjos (ou seres celestiais)",
+      "Os reis e governantes",
+      "As estrelas do céu"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 8:5",
+    "explicacao": "O salmista afirma: 'Fizeste-o, no entanto, por um pouco, menor do que os anjos'."
+  },
+  {
+    "id": 4487,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "No Salmo 126, o que acontece com aqueles que 'semeiam com lágrimas'?",
+    "alternativas": [
+      "Ficarão sem colheita alguma",
+      "Serão esquecidos no deserto",
+      "Ceifarão (colherão) com alegria",
+      "Continuarão chorando na colheita"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 126:5",
+    "explicacao": "A promessa é que 'os que semeiam em lágrimas segarão com alegria'."
+  },
+  {
+    "id": 4488,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "O Salmo 139 exalta a omnisciência de Deus. Onde o salmista diz que Deus o teceu/formou?",
+    "alternativas": [
+      "No mais alto dos céus",
+      "No ventre de sua mãe",
+      "No pó da terra",
+      "No jardim do Éden"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 139:13",
+    "explicacao": "O salmista reconhece: 'Pois possuíste o meu interior; entreteceste-me no ventre de minha mãe.'"
+  },
+  {
+    "id": 4489,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "No Salmo 24, quem é aquele que tem permissão para 'subir ao monte do Senhor' e estar no seu lugar santo?",
+    "alternativas": [
+      "Aquele que tem muitos bens e riquezas",
+      "O limpo de mãos e puro de coração",
+      "Somente os descendentes diretos de Arão",
+      "Aquele que nunca sentiu medo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 24:3-4",
+    "explicacao": "A exigência bíblica é ser 'limpo de mãos e puro de coração' para subir ao monte do Senhor."
+  },
+  {
+    "id": 4490,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "O Salmo 91:13 diz que o crente pisará em dois animais perigosos sem ser ferido. Quais são eles?",
+    "alternativas": [
+      "O urso e o lodo",
+      "O escorpião e a aranha",
+      "O leão e a áspide (serpente)",
+      "O leopardo e o crocodilo"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 91:13",
+    "explicacao": "O texto diz: 'Pisarás o leão e a áspide; calcarás aos pés o filho do leão e a serpente.'"
+  },
+  {
+    "id": 4491,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "Qual característica física de Deus é metaforicamente mencionada no Salmo 91:4 para ilustrar a Sua proteção?",
+    "alternativas": [
+      "Suas mãos gigantes",
+      "Suas penas e asas",
+      "Seus olhos de fogo",
+      "Seus braços de ferro"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 91:4",
+    "explicacao": "A metáfora usada é: 'Ele te cobrirá com as suas penas, e debaixo das suas asas te confiarás'."
+  },
+  {
+    "id": 4492,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "O Salmo 103 declara que Deus não nos trata conforme o quê?",
+    "alternativas": [
+      "A nossa vontade",
+      "O que os outros dizem de nós",
+      "Os nossos pecados",
+      "Os nossos méritos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 103:10",
+    "explicacao": "O salmista exalta a misericórdia: 'Não nos tratou segundo os nossos pecados'."
+  },
+  {
+    "id": 4493,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "No Salmo 84, o autor expressa uma profunda saudade dos átrios do Senhor e diz que até dois animais acharam casa ali. Quais são?",
+    "alternativas": [
+      "O boi e o cordeiro",
+      "O pardal e a andorinha",
+      "A pomba e a águia",
+      "A ovelha e o bode"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 84:3",
+    "explicacao": "O salmista observa que 'até o pardal encontrou casa, e a andorinha, ninho para si'."
+  },
+  {
+    "id": 4494,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "Segundo o Salmo 115, qual é a principal característica dos ídolos feitos por mãos humanas que o salmista critica?",
+    "alternativas": [
+      "Eles são muito pesados para carregar",
+      "Eles brilham muito com ouro e prata",
+      "Eles têm boca, olhos e ouvidos, mas não falam, não veem e não ouvem",
+      "Eles foram trazidos do Egito"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 115:4-6",
+    "explicacao": "O salmista critica a inutilidade dos ídolos que têm órgãos mas não funcionam: 'Têm boca, mas não falam; olhos têm, mas não veem...'"
+  },
+  {
+    "id": 4495,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "No conhecido Salmo 23, com o que o Pastor unge a cabeça do salmista?",
+    "alternativas": [
+      "Com água pura",
+      "Com vinho",
+      "Com óleo (azeite)",
+      "Com bálsamo de mirra"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 23:5",
+    "explicacao": "O versículo diz: '...unges a minha cabeça com óleo, o meu cálice transborda.'"
+  },
+  {
+    "id": 4496,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "O Salmo 119 é famoso por uma característica estrutural muito específica. Qual é ela?",
+    "alternativas": [
+      "É o salmo com os versículos mais curtos da Bíblia",
+      "É um salmo acróstico, dividido de acordo com as letras do alfabeto hebraico",
+      "É o único salmo que não menciona a palavra 'Deus'",
+      "Foi escrito inteiramente em rimas modernas"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Estrutura do Salmo 119",
+    "explicacao": "O Salmo 119 é um acróstico onde cada seção de 8 versículos começa com uma letra sucessiva do alfabeto hebraico."
+  },
+  {
+    "id": 4497,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "No Salmo 37:4, o que acontece quando nos 'deleitamos no Senhor'?",
+    "alternativas": [
+      "Ficamos livres de qualquer trabalho",
+      "Ele concederá os desejos do nosso coração",
+      "Ganhamos riquezas materiais imediatamente",
+      "Todos os nossos inimigos pedem perdão"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 37:4",
+    "explicacao": "O texto promete: 'Deleita-te também no Senhor, e ele te concederá os desejos do teu coração.'"
+  },
+  {
+    "id": 4498,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "No Salmo 40:2, de onde o salmista diz que o Senhor o tirou?",
+    "alternativas": [
+      "De uma prisão de ferro",
+      "Do meio de um incêndio",
+      "De um lago horrível (ou poço de lama/lamaçal)",
+      "Das garras de um urso"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 40:2",
+    "explicacao": "O salmista afirma: 'Tirou-me de um lago horrível, de um charco de lodo; pôs os meus pés sobre uma rocha'."
+  },
+  {
+    "id": 4499,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Média",
+    "pergunta": "O Salmo 113:9 diz que Deus faz uma mulher que era estéril se tornar o quê?",
+    "alternativas": [
+      "Rainha de uma grande nação",
+      "Alegre mãe de filhos",
+      "Profetisa no meio do povo",
+      "Pastora de ovelhas"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 113:9",
+    "explicacao": "O versículo diz: 'Faz com que a mulher estéril habite em família e seja alegre mãe de filhos'."
+  },
+  {
+    "id": 4500,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "Quem é o Pastor mencionado no famoso Salmo 23?",
+    "alternativas": [
+      "Moisés",
+      "O Senhor (Deus)",
+      "Davi",
+      "Abraão"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 23:1",
+    "explicacao": "O Senhor é o meu pastor; nada me faltará."
+  },
+  {
+    "id": 4501,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "O Salmo 119:105 diz que a Palavra de Deus é o quê para os nossos pés?",
+    "alternativas": [
+      "Lâmpada",
+      "Uma rede",
+      "Um sapato",
+      "Uma rocha"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmo 119:105",
+    "explicacao": "Lâmpada para os meus pés é tua palavra e luz, para o meu caminho."
+  },
+  {
+    "id": 4502,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "Segundo o Salmo 100:1, quem deve celebrar com júbilo ao Senhor?",
+    "alternativas": [
+      "Apenas os sacerdotes",
+      "Apenas os reis",
+      "Todas as terras (toda a terra)",
+      "Apenas os idosos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 100:1",
+    "explicacao": "Celebrai com júbilo ao Senhor, todas as terras."
+  },
+  {
+    "id": 4503,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "No Salmo 46:1, Deus é descrito como nosso refúgio e o quê?",
+    "alternativas": [
+      "Nossa espada",
+      "Nossa fortaleza",
+      "Nosso escudo de ouro",
+      "Nosso carro de guerra"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 46:1",
+    "explicacao": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia."
+  },
+  {
+    "id": 4504,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "Complete o versículo do Salmo 121:1: 'Elevo os meus olhos para os montes...'",
+    "alternativas": [
+      "...e vejo o sol nascer.",
+      "...onde vou morar.",
+      "...de onde me virá o socorro?",
+      "...e me sinto cansado."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 121:1",
+    "explicacao": "Elevo os meus olhos para os montes: de onde me virá o socorro?"
+  },
+  {
+    "id": 4505,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "Segundo o Salmo 121:2, de onde vem o nosso socorro?",
+    "alternativas": [
+      "Dos reis da terra",
+      "Dos exércitos fortes",
+      "Do Senhor, que fez o céu e a terra",
+      "De nossa própria força"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 121:2",
+    "explicacao": "O meu socorro vem do Senhor, que fez o céu e a terra."
+  },
+  {
+    "id": 4506,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "O Salmo 19:1 diz que o que anuncia a glória de Deus?",
+    "alternativas": [
+      "Os céus",
+      "Os mares",
+      "Os animais",
+      "Os homens"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmo 19:1",
+    "explicacao": "Os céus proclamam a glória de Deus e o firmamento anuncia a obra das suas mãos."
+  },
+  {
+    "id": 4507,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "No Salmo 1, o homem bem-aventurado (abençoado) é comparado a quê?",
+    "alternativas": [
+      "A uma nuvem passageira",
+      "A uma árvore plantada junto a ribeiros de águas",
+      "A um leão no deserto",
+      "A uma casa de palha"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 1:3",
+    "explicacao": "Pois será como a árvore plantada junto a ribeiros de águas..."
+  },
+  {
+    "id": 4508,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "Qual é o sentimento que o Salmo 30:5 diz que pode durar uma noite, mas a alegria vem pela manhã?",
+    "alternativas": [
+      "O medo",
+      "A raiva",
+      "O choro",
+      "A dúvida"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 30:5",
+    "explicacao": "...o choro pode durar uma noite, mas a alegria vem pela manhã."
+  },
+  {
+    "id": 4509,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "De acordo com o Salmo 118:24, o que devemos fazer no dia que o Senhor fez?",
+    "alternativas": [
+      "Alegrar-nos e regozijar-nos nele",
+      "Dormir e descansar o dia todo",
+      "Ficar preocupados com o amanhã",
+      "Jejuar em silêncio absoluto"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmo 118:24",
+    "explicacao": "Este é o dia que fez o Senhor; regozijemo-nos e alegremo-nos nele."
+  },
+  {
+    "id": 4510,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "O Salmo 133:1 diz que é bom e suave que os irmãos vivam em quê?",
+    "alternativas": [
+      "Oração constante",
+      "Cidades grandes",
+      "União",
+      "Festas e banquetes"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 133:1",
+    "explicacao": "Oh! Quão bom e quão suave é que os irmãos vivam em união!"
+  },
+  {
+    "id": 4511,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "De acordo com o Salmo 56:3, o que o salmista faz quando tem medo?",
+    "alternativas": [
+      "Foge para longe",
+      "Confia em Deus",
+      "Começa a chorar sem parar",
+      "Pede ajuda aos vizinhos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 56:3",
+    "explicacao": "No dia em que eu temer, hei de confiar em ti."
+  },
+  {
+    "id": 4512,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "O Salmo 150:6 diz: 'Tudo quanto tem ________ louve ao Senhor.' Qual palavra completa a frase?",
+    "alternativas": [
+      "Ouro",
+      "Força",
+      "Fôlego",
+      "Voz"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 150:6",
+    "explicacao": "Tudo quanto tem fôlego louve ao Senhor. Louvai ao Senhor."
+  },
+  {
+    "id": 4513,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "O Salmo 23:4 diz: 'Ainda que eu andasse pelo vale da ________ do medo/morte, não temeria mal algum'.",
+    "alternativas": [
+      "Solidão",
+      "Sombra da morte",
+      "Destruição",
+      "Tristeza"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 23:4",
+    "explicacao": "Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo..."
+  },
+  {
+    "id": 4514,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "No Salmo 103:1, o que o salmista convida a bendizer ao Senhor?",
+    "alternativas": [
+      "Apenas os anjos",
+      "As pedras do caminho",
+      "A sua alma",
+      "Os animais do campo"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 103:1",
+    "explicacao": "Bendize, ó minha alma, ao Senhor, e tudo o que há em mim bendiga o seu santo nome."
+  },
+  {
+    "id": 4515,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "Segundo o Salmo 34:7, quem se acampa ao redor dos que temem ao Senhor para os livrar?",
+    "alternativas": [
+      "Um exército de carruagens",
+      "O anjo do Senhor",
+      "Uma muralha de fogo",
+      "Uma nuvem protetora"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 34:7",
+    "explicacao": "O anjo do Senhor acampa-se ao redor dos que o temem, e os livra."
+  },
+  {
+    "id": 4516,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "O Salmo 127:3 diz que os filhos são uma herança de quem?",
+    "alternativas": [
+      "Do Senhor",
+      "Dos avós",
+      "Da natureza",
+      "Do governo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Salmo 127:3",
+    "explicacao": "Eis que os filhos são herança do Senhor, e o fruto do ventre, o seu galardão."
+  },
+  {
+    "id": 4517,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "Complete o Salmo 42:1: 'Assim como o cervo brama pelas correntes das águas, assim suspira a minha alma por ti, ó...'",
+    "alternativas": [
+      "Rei",
+      "Senhor",
+      "Deus",
+      "Criador"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 42:1",
+    "explicacao": "Assim como o cervo brama pelas correntes das águas, assim suspira a minha alma por ti, ó Deus."
+  },
+  {
+    "id": 4518,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "Como é o coração daquele que diz em seu íntimo 'Não há Deus', segundo o Salmo 14:1?",
+    "alternativas": [
+      "Sábio",
+      "Triste",
+      "Tolo (néscio)",
+      "Inteligente"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Salmo 14:1",
+    "explicacao": "Disse o néscio no seu coração: Não há Deus. (Nota: néscio significa tolo/ignorante)."
+  },
+  {
+    "id": 4519,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "pergunta": "O Salmo 119:11 diz: 'Escondi a tua palavra no meu ________, para eu não pecar contra ti.'",
+    "alternativas": [
+      "Pensamento",
+      "Coração",
+      "Livro",
+      "Bolso"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Salmo 119:11",
+    "explicacao": "Escondi a tua palavra no meu coração, para eu não pecar contra ti."
+  },
+  {
+    "explicacao": "O livro dos Salmos é composto por 150 poemas que serviam como o hinário de adoração do povo de Israel.",
+    "alternativas": [
+      "Salmos",
+      "Provérbios",
+      "Lamentações",
+      "Cânticos"
+    ],
+    "id": 4520,
+    "pergunta": "Qual livro da Bíblia contém a maior coleção de cânticos, poemas e orações?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Salmos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Livro de Salmos"
+  },
+  {
+    "explicacao": "O livro dos Salmos abriga o Salmo 117 (com apenas dois versículos) e o Salmo 119 (com 176 versículos de exaltação à Palavra).",
+    "alternativas": [
+      "Salmos",
+      "Provérbios",
+      "Jó",
+      "Gênesis"
+    ],
+    "id": 4521,
+    "pergunta": "Qual livro do Saltério possui em sua extensão literária tanto o menor capítulo individual da Bíblia quanto o maior de todos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Salmos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Livro de Salmos"
+  }
+]

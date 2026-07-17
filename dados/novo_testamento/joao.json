@@ -1,0 +1,1141 @@
+[
+  {
+    "explicacao": "João inicia seu Evangelho declarando que o Verbo já existia no princípio e estava com Deus.",
+    "alternativas": [
+      "Verbo",
+      "Profeta",
+      "Reino",
+      "Templo"
+    ],
+    "id": 1328,
+    "pergunta": "No princípio era o:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 1:1"
+  },
+  {
+    "explicacao": "O Verbo se fez carne e habitou entre nós, revelando a glória de Deus em Jesus Cristo.",
+    "alternativas": [
+      "Espírito",
+      "Rei",
+      "Carne",
+      "Anjo"
+    ],
+    "id": 1329,
+    "pergunta": "O Verbo se fez:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 1:14"
+  },
+  {
+    "explicacao": "João Batista preparava o caminho do Senhor, batizando com água e anunciando o Messias.",
+    "alternativas": [
+      "Pedro",
+      "João Batista",
+      "André",
+      "Filipe"
+    ],
+    "id": 1330,
+    "pergunta": "Quem batizava nas águas antes de Jesus iniciar seu ministério?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 1:26-34"
+  },
+  {
+    "explicacao": "O primeiro sinal de Jesus foi transformar água em vinho durante um casamento em Caná.",
+    "alternativas": [
+      "Multiplicação dos pães",
+      "Cura de um cego",
+      "Transformar água em vinho",
+      "Ressuscitar Lázaro"
+    ],
+    "id": 1331,
+    "pergunta": "Qual foi o primeiro milagre realizado por Jesus no Evangelho de João?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 2:1-11"
+  },
+  {
+    "explicacao": "O casamento onde ocorreu esse milagre aconteceu em Caná da Galileia.",
+    "alternativas": [
+      "Nazaré",
+      "Cafarnaum",
+      "Caná da Galileia",
+      "Jerusalém"
+    ],
+    "id": 1332,
+    "pergunta": "Em qual cidade Jesus transformou água em vinho?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 2:1"
+  },
+  {
+    "explicacao": "Nicodemos procurou Jesus à noite para aprender sobre seus ensinamentos.",
+    "alternativas": [
+      "Zaqueu",
+      "Nicodemos",
+      "Bartimeu",
+      "Tomé"
+    ],
+    "id": 1333,
+    "pergunta": "Quem foi visitar Jesus durante a noite?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 3:1-2"
+  },
+  {
+    "explicacao": "Jesus ensinou que é necessário nascer da água e do Espírito para entrar no Reino de Deus.",
+    "alternativas": [
+      "Água somente",
+      "Espírito somente",
+      "Água e do Espírito",
+      "Sangue"
+    ],
+    "id": 1334,
+    "pergunta": "Segundo Jesus, é necessário nascer de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 3:5"
+  },
+  {
+    "explicacao": "João 3:16 resume a mensagem do amor de Deus e da salvação em Cristo.",
+    "alternativas": [
+      "João 3:16",
+      "João 1:1",
+      "João 11:35",
+      "João 14:6"
+    ],
+    "id": 1335,
+    "pergunta": "Qual é o versículo conhecido como o \"versículo de ouro\" da Bíblia?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 3:16"
+  },
+  {
+    "explicacao": "Jesus revelou-se como o Messias à mulher samaritana junto ao poço de Jacó.",
+    "alternativas": [
+      "Maria Madalena",
+      "Marta",
+      "A mulher samaritana",
+      "Isabel"
+    ],
+    "id": 1336,
+    "pergunta": "Com quem Jesus conversou junto ao poço de Jacó?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 4:7-26"
+  },
+  {
+    "explicacao": "Jesus revelou que a mulher já havia tido cinco maridos.",
+    "alternativas": [
+      "Três",
+      "Quatro",
+      "Cinco",
+      "Seis"
+    ],
+    "id": 1337,
+    "pergunta": "Quantos maridos a mulher samaritana já havia tido?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 4:18"
+  },
+  {
+    "explicacao": "Jesus multiplicou cinco pães e dois peixes para alimentar milhares de pessoas.",
+    "alternativas": [
+      "Cinco pães e dois peixes",
+      "Sete pães e três peixes",
+      "Doze pães",
+      "Dois pães e cinco peixes"
+    ],
+    "id": 1338,
+    "pergunta": "Jesus alimentou uma multidão com:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 6:9-13"
+  },
+  {
+    "explicacao": "Jesus afirmou ser o pão da vida, que satisfaz plenamente quem crê nele.",
+    "alternativas": [
+      "Esperança",
+      "Vida",
+      "Justiça",
+      "Salvação"
+    ],
+    "id": 1339,
+    "pergunta": "Jesus declarou: \"Eu sou o pão da\":",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 6:35"
+  },
+  {
+    "explicacao": "Jesus ressuscitou Lázaro quatro dias após sua morte.",
+    "alternativas": [
+      "Estêvão",
+      "Lázaro",
+      "Jairo",
+      "Bartimeu"
+    ],
+    "id": 1340,
+    "pergunta": "Quem Jesus ressuscitou em Betânia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 11:43-44"
+  },
+  {
+    "explicacao": "O menor versículo da Bíblia em muitas traduções em português é 'Jesus chorou'.",
+    "alternativas": [
+      "Jesus chorou.",
+      "Deus é amor.",
+      "Eu sou a luz.",
+      "Vinde a mim."
+    ],
+    "id": 1341,
+    "pergunta": "Qual é o menor versículo da Bíblia em português?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 11:35"
+  },
+  {
+    "explicacao": "Jesus lavou os pés dos discípulos como exemplo de humildade e serviço.",
+    "alternativas": [
+      "Ungiu com óleo",
+      "Lavou os pés",
+      "Beijou os pés",
+      "Colocou sandálias"
+    ],
+    "id": 1342,
+    "pergunta": "O que Jesus fez aos pés dos discípulos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 13:4-5"
+  },
+  {
+    "explicacao": "Jesus declarou ser o único caminho para o Pai, a verdade e a vida.",
+    "alternativas": [
+      "Paz",
+      "Vida",
+      "Luz",
+      "Esperança"
+    ],
+    "id": 1343,
+    "pergunta": "Jesus disse: \"Eu sou o caminho, a verdade e a\":",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 14:6"
+  },
+  {
+    "explicacao": "Pedro negou conhecer Jesus três vezes antes do cantar do galo.",
+    "alternativas": [
+      "João",
+      "Tiago",
+      "Pedro",
+      "André"
+    ],
+    "id": 1344,
+    "pergunta": "Quem negou Jesus três vezes?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 18:25-27"
+  },
+  {
+    "explicacao": "Pilatos fez essa pergunta durante o julgamento de Jesus.",
+    "alternativas": [
+      "Herodes",
+      "Caifás",
+      "Pilatos",
+      "Tomé"
+    ],
+    "id": 1345,
+    "pergunta": "Quem perguntou: \"Que é a verdade?\"",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 18:38"
+  },
+  {
+    "explicacao": "Após ver o Cristo ressuscitado, Tomé reconheceu Jesus como seu Senhor e Deus.",
+    "alternativas": [
+      "Pedro",
+      "João",
+      "Tomé",
+      "Filipe"
+    ],
+    "id": 1346,
+    "pergunta": "Quem disse: \"Senhor meu e Deus meu!\"?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 20:28"
+  },
+  {
+    "explicacao": "João declara que escreveu seu Evangelho para que as pessoas cressem em Jesus como o Cristo e recebessem vida por meio dele.",
+    "alternativas": [
+      "Conhecessem a história de Israel",
+      "Crescessem em sabedoria humana",
+      "Cressem que Jesus é o Cristo, o Filho de Deus, e tivessem vida em seu nome",
+      "Aprendessem as leis de Moisés"
+    ],
+    "id": 1347,
+    "pergunta": "Segundo João 20:31, o Evangelho foi escrito para que os leitores:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 20:31"
+  },
+  {
+    "explicacao": "Lázaro foi ressuscitado por Jesus em Betânia.",
+    "alternativas": [
+      "Lázaro",
+      "Bartimeu",
+      "Zaqueu",
+      "Matias"
+    ],
+    "id": 1348,
+    "pergunta": "Quem era o amigo de Jesus, irmão de Marta e Maria, ressuscitado após quatro dias?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 11:39-44"
+  },
+  {
+    "explicacao": "O apóstolo João é identificado como o discípulo que Jesus amava.",
+    "alternativas": [
+      "Pedro",
+      "Tiago",
+      "João",
+      "Mateus"
+    ],
+    "id": 1349,
+    "pergunta": "Quem era o 'discípulo amado' que reclinou no peito de Jesus e escreveu o Apocalipse?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 13:23 / Apocalipse 1:1"
+  },
+  {
+    "explicacao": "Nicodemos, um fariseu e líder dos judeus, foi ter com Jesus de noite.",
+    "alternativas": [
+      "Gamaliel",
+      "Nicodemos",
+      "Caifás",
+      "Anás"
+    ],
+    "id": 1350,
+    "pergunta": "Qual mestre da lei conversou secretamente com Jesus à noite sobre o novo nascimento?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 3:1-2"
+  },
+  {
+    "explicacao": "Tomé ficou conhecido por sua dúvida até ver o Senhor ressuscitado.",
+    "alternativas": [
+      "Filipe",
+      "Tomé",
+      "Bartolomeu",
+      "Simão"
+    ],
+    "id": 1351,
+    "pergunta": "Qual apóstolo só acreditaria na ressurreição se visse as marcas dos cravos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 20:24-25"
+  },
+  {
+    "explicacao": "Foi em um casamento em Caná da Galileia.",
+    "alternativas": [
+      "Nazaré",
+      "Caná da Galileia",
+      "Betânia",
+      "Jerusalém"
+    ],
+    "id": 1352,
+    "pergunta": "Onde Jesus operou Seu primeiro milagre (água em vinho)?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 2:1-11"
+  },
+  {
+    "explicacao": "Era o poço de Jacó, perto de Sicar, na região de Samaria (Siquém).",
+    "alternativas": [
+      "Siquém",
+      "Betesda",
+      "Siloé",
+      "Emaús"
+    ],
+    "id": 1353,
+    "pergunta": "Onde ficava o poço onde Jesus falou com a mulher samaritana?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 4:5-6"
+  },
+  {
+    "explicacao": "João enfatiza a divindade de Cristo logo no seu prólogo.",
+    "alternativas": [
+      "Mateus",
+      "Marcos",
+      "Lucas",
+      "João"
+    ],
+    "id": 1354,
+    "pergunta": "Qual Evangelho começa com a frase teológica: 'No princípio era o Verbo'?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 1:1"
+  },
+  {
+    "explicacao": "João Batista apresentou Jesus como o Cordeiro de Deus, que tira o pecado do mundo.",
+    "alternativas": [
+      "Eis o Rei de Israel.",
+      "Eis o Filho de Davi.",
+      "Eis o Cordeiro de Deus, que tira o pecado do mundo.",
+      "Eis o Profeta prometido."
+    ],
+    "id": 1355,
+    "pergunta": "O que João Batista declarou ao ver Jesus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 1:29"
+  },
+  {
+    "explicacao": "Natanael reconheceu Jesus como o Filho de Deus e o Rei de Israel.",
+    "alternativas": [
+      "O Bom Pastor",
+      "O Filho de Deus, o Rei de Israel",
+      "O Profeta Elias",
+      "O Libertador de Israel"
+    ],
+    "id": 1356,
+    "pergunta": "Qual discípulo Natanael afirmou ser Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 1:49"
+  },
+  {
+    "explicacao": "Jesus referia-se ao templo do seu corpo, anunciando sua morte e ressurreição.",
+    "alternativas": [
+      "Curaria um paralítico.",
+      "Multiplicaria os pães.",
+      "Destruí este templo, e em três dias o levantarei.",
+      "Andaria sobre o mar."
+    ],
+    "id": 1357,
+    "pergunta": "Após purificar o templo, qual sinal Jesus disse que daria?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 2:19-21"
+  },
+  {
+    "explicacao": "Jesus afirmou que Deus enviou Seu Filho para salvar o mundo, e não para condená-lo.",
+    "alternativas": [
+      "Condenar o mundo.",
+      "Julgar Israel.",
+      "Salvar o mundo.",
+      "Restaurar o templo."
+    ],
+    "id": 1358,
+    "pergunta": "Segundo Jesus, Deus enviou Seu Filho ao mundo para:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 3:17"
+  },
+  {
+    "explicacao": "Jesus declarou que seu alimento era fazer a vontade do Pai e concluir sua obra.",
+    "alternativas": [
+      "O pão da vida.",
+      "Fazer a vontade daquele que o enviou.",
+      "O maná do céu.",
+      "O fruto da videira."
+    ],
+    "id": 1359,
+    "pergunta": "Qual alimento Jesus disse que tinha, e que os discípulos não conheciam?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 4:34"
+  },
+  {
+    "explicacao": "O homem estava enfermo havia trinta e oito anos quando Jesus o curou.",
+    "alternativas": [
+      "18 anos.",
+      "30 anos.",
+      "38 anos.",
+      "40 anos."
+    ],
+    "id": 1360,
+    "pergunta": "No tanque de Betesda, havia um homem enfermo havia quantos anos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 5:5"
+  },
+  {
+    "explicacao": "Após todos comerem, os discípulos recolheram doze cestos de pedaços.",
+    "alternativas": [
+      "Sete.",
+      "Dez.",
+      "Doze.",
+      "Quinze."
+    ],
+    "id": 1361,
+    "pergunta": "Quantos cestos de pedaços sobraram após a multiplicação dos pães?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 6:13"
+  },
+  {
+    "explicacao": "Os pães e peixes pertenciam a um menino presente na multidão.",
+    "alternativas": [
+      "Pedro.",
+      "André.",
+      "Um menino.",
+      "Filipe."
+    ],
+    "id": 1362,
+    "pergunta": "Quem forneceu os cinco pães e dois peixes?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 6:9"
+  },
+  {
+    "explicacao": "Jesus convidou todos os sedentos a irem a Ele para receber a água viva.",
+    "alternativas": [
+      "Eu sou a videira verdadeira.",
+      "Eu sou a porta.",
+      "Se alguém tem sede, venha a mim e beba.",
+      "Eu sou o pão da vida."
+    ],
+    "id": 1363,
+    "pergunta": "Durante a Festa dos Tabernáculos, Jesus declarou:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 7:37-38"
+  },
+  {
+    "explicacao": "O Evangelho relata que Jesus escreveu no chão, mas não revela o que foi escrito.",
+    "alternativas": [
+      "Os Dez Mandamentos.",
+      "Os nomes dos acusadores.",
+      "A Bíblia não informa.",
+      "O Salmo 23."
+    ],
+    "id": 1364,
+    "pergunta": "O que Jesus escreveu no chão quando trouxeram a mulher apanhada em adultério?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 8:6-8"
+  },
+  {
+    "explicacao": "Jesus utilizou a expressão 'EU SOU', afirmando sua existência eterna.",
+    "alternativas": [
+      "...eu fui escolhido.",
+      "...eu nasci.",
+      "...EU SOU.",
+      "...eu era profeta."
+    ],
+    "id": 1365,
+    "pergunta": "Jesus declarou: \"Antes que Abraão existisse...\"",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 8:58"
+  },
+  {
+    "explicacao": "Jesus enviou o homem ao tanque de Siloé, onde ele recuperou a visão.",
+    "alternativas": [
+      "Betesda.",
+      "Cedrom.",
+      "Siloé.",
+      "Jordão."
+    ],
+    "id": 1366,
+    "pergunta": "O homem que nasceu cego lavou os olhos em qual tanque?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 9:7"
+  },
+  {
+    "explicacao": "Jesus afirmou ser o Bom Pastor que dá a vida por suas ovelhas.",
+    "alternativas": [
+      "Pedro.",
+      "João Batista.",
+      "Jesus.",
+      "André."
+    ],
+    "id": 1367,
+    "pergunta": "Quem disse: \"Eu sou o bom pastor\"?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 10:11"
+  },
+  {
+    "explicacao": "Lázaro já estava morto havia quatro dias quando Jesus chegou a Betânia.",
+    "alternativas": [
+      "Dois dias.",
+      "Três dias.",
+      "Quatro dias.",
+      "Cinco dias."
+    ],
+    "id": 1368,
+    "pergunta": "Quantos dias Lázaro já estava no túmulo quando Jesus chegou?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 11:39"
+  },
+  {
+    "explicacao": "Maria, irmã de Marta e Lázaro, ungiu os pés de Jesus com um perfume muito precioso.",
+    "alternativas": [
+      "Maria, mãe de Jesus.",
+      "Maria Madalena.",
+      "Maria, irmã de Marta.",
+      "Joana."
+    ],
+    "id": 1369,
+    "pergunta": "Quem ungiu os pés de Jesus com um perfume de nardo puro?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 12:3"
+  },
+  {
+    "explicacao": "Após receber o pedaço de pão, Judas Iscariotes saiu para consumar a traição.",
+    "alternativas": [
+      "Pedro.",
+      "Tomé.",
+      "Judas Iscariotes.",
+      "Filipe."
+    ],
+    "id": 1370,
+    "pergunta": "Quem saiu imediatamente após receber o pedaço de pão de Jesus na última ceia?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 13:26-30"
+  },
+  {
+    "explicacao": "Jesus é a videira verdadeira, e seus discípulos são os ramos.",
+    "alternativas": [
+      "Oliveira.",
+      "Figueira.",
+      "Videira.",
+      "Cedro."
+    ],
+    "id": 1371,
+    "pergunta": "Jesus comparou seus discípulos aos ramos de qual planta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 15:5"
+  },
+  {
+    "explicacao": "Pedro puxou a espada e cortou a orelha direita do servo do sumo sacerdote.",
+    "alternativas": [
+      "Tiago.",
+      "João.",
+      "Pedro.",
+      "André."
+    ],
+    "id": 1372,
+    "pergunta": "Qual discípulo cortou a orelha do servo do sumo sacerdote?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 18:10"
+  },
+  {
+    "explicacao": "O servo do sumo sacerdote chamava-se Malco.",
+    "alternativas": [
+      "Barrabás.",
+      "Malco.",
+      "Simão.",
+      "Anás."
+    ],
+    "id": 1373,
+    "pergunta": "Qual era o nome do servo que teve a orelha cortada?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 18:10"
+  },
+  {
+    "explicacao": "Na pesca milagrosa após a ressurreição, os discípulos apanharam 153 grandes peixes.",
+    "alternativas": [
+      "120.",
+      "100.",
+      "153.",
+      "200."
+    ],
+    "id": 1374,
+    "pergunta": "Quantos peixes grandes os discípulos apanharam na pesca milagrosa após a ressurreição?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 21:11"
+  },
+  {
+    "explicacao": "João afirma que o Filho unigênito revelou plenamente quem é o Pai.",
+    "alternativas": [
+      "Moisés",
+      "Os profetas",
+      "O Filho unigênito, que está no seio do Pai",
+      "João Batista"
+    ],
+    "id": 1375,
+    "pergunta": "Segundo João 1:18, quem revelou o Pai?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 1:18"
+  },
+  {
+    "explicacao": "Jesus chamou Simão de filho de Jonas ao encontrá-lo.",
+    "alternativas": [
+      "Tiago",
+      "Jonas",
+      "Zebedeu",
+      "Natanael"
+    ],
+    "id": 1376,
+    "pergunta": "Qual era o nome do pai de Simão Pedro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 1:42"
+  },
+  {
+    "explicacao": "Jesus revelou a Natanael que o tinha visto debaixo da figueira antes de Filipe chamá-lo.",
+    "alternativas": [
+      "Orando no templo",
+      "Debaixo da figueira",
+      "Pescando no mar",
+      "Estudando a Lei"
+    ],
+    "id": 1377,
+    "pergunta": "O que Jesus disse a Natanael que viu antes de Filipe chamá-lo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 1:48"
+  },
+  {
+    "explicacao": "Havia seis talhas de pedra usadas para as purificações dos judeus.",
+    "alternativas": [
+      "Quatro",
+      "Cinco",
+      "Seis",
+      "Sete"
+    ],
+    "id": 1378,
+    "pergunta": "Quantas talhas de pedra havia nas bodas de Caná?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 2:6"
+  },
+  {
+    "explicacao": "Jesus ensinou a Nicodemos que o Espírito age livremente, como o vento que sopra onde quer.",
+    "alternativas": [
+      "Os discípulos desejam",
+      "O templo determina",
+      "Quer",
+      "Os sacerdotes ordenam"
+    ],
+    "id": 1379,
+    "pergunta": "Segundo Jesus, o vento do Espírito sopra onde:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 3:8"
+  },
+  {
+    "explicacao": "João Batista reconheceu que Jesus deveria ocupar o lugar de maior destaque.",
+    "alternativas": [
+      "Pedro",
+      "João Batista",
+      "Nicodemos",
+      "André"
+    ],
+    "id": 1380,
+    "pergunta": "Quem disse: \"É necessário que ele cresça e que eu diminua\"?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 3:30"
+  },
+  {
+    "explicacao": "O texto informa que o filho foi curado, mas não revela sua idade.",
+    "alternativas": [
+      "A Bíblia não informa",
+      "Cinco anos",
+      "Doze anos",
+      "Sete anos"
+    ],
+    "id": 1381,
+    "pergunta": "Quantos anos tinha o filho do oficial quando Jesus o curou?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 4:46-54"
+  },
+  {
+    "explicacao": "Jesus declarou que aquele que ouve sua palavra e crê no Pai possui vida eterna.",
+    "alternativas": [
+      "Quem guarda a Lei de Moisés",
+      "Quem ouve a palavra e crê naquele que enviou Jesus",
+      "Quem oferece sacrifícios",
+      "Quem pertence a Israel"
+    ],
+    "id": 1382,
+    "pergunta": "Segundo Jesus, quem tem a vida eterna e não entra em condenação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 5:24"
+  },
+  {
+    "explicacao": "O milagre de Jesus andando sobre as águas aconteceu no Mar da Galileia.",
+    "alternativas": [
+      "Mar Morto",
+      "Mar Vermelho",
+      "Mar da Galileia",
+      "Mar Mediterrâneo"
+    ],
+    "id": 1383,
+    "pergunta": "Qual era o nome do mar onde Jesus andou sobre as águas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 6:1,16-19"
+  },
+  {
+    "explicacao": "Pedro declarou sua fé em Jesus como aquele que possui as palavras da vida eterna.",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "Tomé",
+      "Filipe"
+    ],
+    "id": 1384,
+    "pergunta": "Quem afirmou: \"Para quem iremos nós? Tu tens as palavras da vida eterna\"?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 6:68"
+  },
+  {
+    "explicacao": "João registra que a Páscoa dos judeus estava próxima naquele momento.",
+    "alternativas": [
+      "Páscoa",
+      "Festa dos Tabernáculos",
+      "Festa da Dedicação",
+      "Pentecostes"
+    ],
+    "id": 1385,
+    "pergunta": "Qual festa judaica estava próxima quando Jesus falou sobre o pão da vida?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 6:4"
+  },
+  {
+    "explicacao": "Os fariseus e os principais sacerdotes enviaram guardas para prender Jesus.",
+    "alternativas": [
+      "Os discípulos",
+      "Os fariseus e principais sacerdotes",
+      "Os romanos",
+      "O povo de Jerusalém"
+    ],
+    "id": 1386,
+    "pergunta": "Quem enviou guardas para prender Jesus durante a Festa dos Tabernáculos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 7:32"
+  },
+  {
+    "explicacao": "Jesus curou um homem que estava enfermo havia trinta e oito anos.",
+    "alternativas": [
+      "Era cego",
+      "Era surdo",
+      "Era paralítico há 38 anos",
+      "Era leproso"
+    ],
+    "id": 1387,
+    "pergunta": "Qual era o problema do homem curado no tanque de Betesda?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 5:5-9"
+  },
+  {
+    "explicacao": "Natanael questionou se algo bom poderia vir de Nazaré.",
+    "alternativas": [
+      "Filipe",
+      "Natanael",
+      "Tomé",
+      "André"
+    ],
+    "id": 1388,
+    "pergunta": "Quem disse: \"Pode vir alguma coisa boa de Nazaré\"?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 1:46"
+  },
+  {
+    "explicacao": "O Evangelho de João não informa o nome do homem cego de nascença.",
+    "alternativas": [
+      "Bartimeu",
+      "Malco",
+      "A Bíblia não informa",
+      "Lázaro"
+    ],
+    "id": 1389,
+    "pergunta": "Qual era o nome do cego de nascença que Jesus curou?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 9:1-7"
+  },
+  {
+    "explicacao": "Caifás, sendo sumo sacerdote, profetizou que Jesus morreria pela nação.",
+    "alternativas": [
+      "João Batista",
+      "Caifás",
+      "Pilatos",
+      "Nicodemos"
+    ],
+    "id": 1390,
+    "pergunta": "Quem profetizou que Jesus morreria pela nação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 11:49-51"
+  },
+  {
+    "explicacao": "Filipe pediu que Jesus mostrasse o Pai aos discípulos.",
+    "alternativas": [
+      "Filipe",
+      "Pedro",
+      "João",
+      "Judas (não Iscariotes)"
+    ],
+    "id": 1391,
+    "pergunta": "Qual discípulo perguntou a Jesus: \"Senhor, mostra-nos o Pai, e isso nos basta\"?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 14:8"
+  },
+  {
+    "explicacao": "O outro discípulo, tradicionalmente identificado como João, ajudou Pedro a entrar no pátio.",
+    "alternativas": [
+      "João",
+      "André",
+      "Tomé",
+      "Filipe"
+    ],
+    "id": 1392,
+    "pergunta": "Quem acompanhou Pedro no pátio do sumo sacerdote e ajudou sua entrada?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 18:15-16"
+  },
+  {
+    "explicacao": "Tomé declarou que precisava ver as marcas dos cravos para crer.",
+    "alternativas": [
+      "Pedro",
+      "Tomé",
+      "Natanael",
+      "Tiago"
+    ],
+    "id": 1393,
+    "pergunta": "Qual discípulo disse que só acreditaria na ressurreição se visse os sinais dos cravos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 20:25"
+  },
+  {
+    "explicacao": "Jesus perguntou três vezes a Pedro se ele o amava, restaurando-o e confiando-lhe o cuidado das suas ovelhas.",
+    "alternativas": [
+      "Tu me conheces?",
+      "Tu és meu discípulo?",
+      "Tu me amas?",
+      "Tu crês em mim?"
+    ],
+    "id": 1394,
+    "pergunta": "Qual pergunta Jesus fez a Pedro três vezes após a ressurreição?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "João 21:15-17"
+  }
+]

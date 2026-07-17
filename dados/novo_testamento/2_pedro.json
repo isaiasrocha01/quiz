@@ -1,0 +1,512 @@
+[
+  {
+    "explicacao": "A carta começa identificando Simão Pedro como seu autor.",
+    "alternativas": [
+      "Paulo",
+      "Pedro",
+      "João",
+      "Tiago"
+    ],
+    "id": 701,
+    "pergunta": "Quem escreveu a segunda carta de Pedro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:1"
+  },
+  {
+    "explicacao": "Pedro se apresenta como servo e apóstolo de Jesus Cristo.",
+    "alternativas": [
+      "Rei de Israel",
+      "Servo e apóstolo de Jesus Cristo",
+      "Sacerdote do templo",
+      "Profeta das nações"
+    ],
+    "id": 702,
+    "pergunta": "Como Pedro se apresenta no início da carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:1"
+  },
+  {
+    "explicacao": "Pedro escreve aos que receberam uma fé preciosa por meio de Jesus Cristo.",
+    "alternativas": [
+      "Aos reis da terra",
+      "Aos que receberam fé preciosa em Jesus Cristo",
+      "Aos sacerdotes judeus",
+      "Aos moradores de Roma"
+    ],
+    "id": 703,
+    "pergunta": "A quem Pedro escreveu sua carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:1"
+  },
+  {
+    "explicacao": "Pedro deseja que graça e paz sejam multiplicadas pelo conhecimento de Deus e de Jesus.",
+    "alternativas": [
+      "Riquezas e poder",
+      "Graça e paz pelo conhecimento de Deus e de Jesus Cristo",
+      "Honra e fama",
+      "Sabedoria dos homens"
+    ],
+    "id": 704,
+    "pergunta": "O que Pedro deseja que seja multiplicado aos cristãos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:2"
+  },
+  {
+    "explicacao": "Deus concedeu tudo que é necessário para a vida e piedade.",
+    "alternativas": [
+      "Todas as coisas necessárias para a vida e piedade",
+      "Riquezas materiais",
+      "Poder político",
+      "Domínio sobre povos"
+    ],
+    "id": 705,
+    "pergunta": "O poder de Deus nos concedeu:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:3"
+  },
+  {
+    "explicacao": "Pedro ensina que pelas promessas de Deus participamos da natureza divina.",
+    "alternativas": [
+      "Da natureza divina",
+      "Da glória dos anjos",
+      "Do governo romano",
+      "Da sabedoria humana"
+    ],
+    "id": 706,
+    "pergunta": "Por meio das promessas de Deus, os cristãos podem ser participantes:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:4"
+  },
+  {
+    "explicacao": "Pedro ensina a acrescentar virtude à fé.",
+    "alternativas": [
+      "Medo",
+      "Virtude",
+      "Riqueza",
+      "Fama"
+    ],
+    "id": 707,
+    "pergunta": "Qual virtude Pedro recomenda acrescentar à fé?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:5"
+  },
+  {
+    "explicacao": "Pedro orienta acrescentar amor fraternal e amor ao desenvolvimento espiritual.",
+    "alternativas": [
+      "Paciência",
+      "Conhecimento",
+      "Amor fraternal e amor",
+      "Riqueza"
+    ],
+    "id": 708,
+    "pergunta": "O que Pedro diz que devemos acrescentar ao amor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:7"
+  },
+  {
+    "explicacao": "Pedro afirma que aqueles que desenvolvem essas virtudes terão entrada abundante no Reino.",
+    "alternativas": [
+      "Os ricos",
+      "Os que praticam essas virtudes",
+      "Os governantes",
+      "Os sábios"
+    ],
+    "id": 709,
+    "pergunta": "Quem Pedro diz que terá entrada no Reino eterno de Jesus Cristo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:11"
+  },
+  {
+    "explicacao": "Pedro afirma que não seguiu fábulas inventadas, mas testemunhou a verdade de Cristo.",
+    "alternativas": [
+      "As Escrituras antigas",
+      "Fábulas engenhosamente inventadas",
+      "Os ensinamentos de Jesus",
+      "A verdade de Deus"
+    ],
+    "id": 710,
+    "pergunta": "Pedro afirma que não seguiu:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:16"
+  },
+  {
+    "explicacao": "Pedro afirma que a fé preciosa é recebida pela justiça de Deus e Salvador Jesus Cristo.",
+    "alternativas": [
+      "Lei de Moisés.",
+      "Justiça de nosso Deus e Salvador Jesus Cristo.",
+      "Sabedoria dos homens.",
+      "Tradição dos apóstolos."
+    ],
+    "id": 711,
+    "pergunta": "Pedro afirma que sua fé e a dos cristãos é igualmente preciosa pela:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:1"
+  },
+  {
+    "explicacao": "Pedro deseja que a graça e a paz sejam multiplicadas pelo conhecimento de Deus e de Jesus.",
+    "alternativas": [
+      "Graça e paz.",
+      "Riquezas e honra.",
+      "Poder e autoridade.",
+      "Dons e milagres."
+    ],
+    "id": 712,
+    "pergunta": "O que Pedro deseja que os cristãos tenham multiplicado pelo conhecimento de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:2"
+  },
+  {
+    "explicacao": "O poder de Deus concede tudo necessário para a vida e piedade.",
+    "alternativas": [
+      "Conquistar povos.",
+      "A vida e a piedade.",
+      "Ter prosperidade material.",
+      "Dominar os inimigos."
+    ],
+    "id": 713,
+    "pergunta": "Segundo Pedro, o poder divino nos deu tudo o que precisamos para:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:3"
+  },
+  {
+    "explicacao": "As promessas de Deus permitem que os cristãos participem da natureza divina.",
+    "alternativas": [
+      "Uma posição de destaque.",
+      "Uma natureza divina.",
+      "Um governo terreno.",
+      "Uma sabedoria humana."
+    ],
+    "id": 714,
+    "pergunta": "Por meio das promessas de Deus, os cristãos se tornam participantes de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:4"
+  },
+  {
+    "explicacao": "Pedro ensina que ao conhecimento deve ser acrescentado o domínio próprio.",
+    "alternativas": [
+      "Domínio próprio.",
+      "Riqueza.",
+      "Fama.",
+      "Poder político."
+    ],
+    "id": 715,
+    "pergunta": "Qual característica Pedro recomenda acrescentar ao conhecimento?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:5-6"
+  },
+  {
+    "explicacao": "Pedro afirma que essa pessoa é cega e esqueceu da purificação dos pecados passados.",
+    "alternativas": [
+      "Torna-se líder.",
+      "É cego e esqueceu da purificação dos seus antigos pecados.",
+      "Recebe mais bênçãos.",
+      "Torna-se profeta."
+    ],
+    "id": 716,
+    "pergunta": "O que acontece com aquele que não possui as virtudes mencionadas por Pedro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:9"
+  },
+  {
+    "explicacao": "Pedro aconselha os cristãos a confirmar sua vocação e eleição.",
+    "alternativas": [
+      "Riqueza.",
+      "Vocação e eleição.",
+      "Autoridade humana.",
+      "Posição social."
+    ],
+    "id": 717,
+    "pergunta": "Pedro orienta os cristãos a confirmar sua:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:10"
+  },
+  {
+    "explicacao": "Pedro declara que não seguiu fábulas inventadas, mas testemunhou a majestade de Cristo.",
+    "alternativas": [
+      "As Escrituras.",
+      "Fábulas engenhosamente inventadas.",
+      "Os ensinamentos de Cristo.",
+      "A verdade divina."
+    ],
+    "id": 718,
+    "pergunta": "Pedro afirma que não estava seguindo:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:16"
+  },
+  {
+    "explicacao": "Pedro relembra a declaração divina sobre Jesus no monte da transfiguração.",
+    "alternativas": [
+      "Este é o meu servo fiel.",
+      "Este é o meu Filho amado, em quem me agrado.",
+      "Este é o rei dos judeus.",
+      "Este é o maior profeta."
+    ],
+    "id": 719,
+    "pergunta": "A voz que veio da magnífica glória declarou sobre Jesus:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:17"
+  },
+  {
+    "explicacao": "Pedro compara a palavra profética a uma luz que brilha em lugar escuro.",
+    "alternativas": [
+      "Uma tradição humana.",
+      "Uma luz que brilha em lugar escuro.",
+      "Uma filosofia antiga.",
+      "Um conhecimento secreto."
+    ],
+    "id": 720,
+    "pergunta": "Como Pedro descreve a palavra profética?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:19"
+  },
+  {
+    "explicacao": "Pedro afirma que a fé preciosa é recebida pela justiça de Deus e Salvador Jesus Cristo.",
+    "alternativas": [
+      "Sabedoria dos homens.",
+      "Justiça de nosso Deus e Salvador Jesus Cristo.",
+      "Tradição dos apóstolos.",
+      "Lei de Moisés."
+    ],
+    "id": 721,
+    "pergunta": "Pedro afirma que recebeu sua fé preciosa por meio da:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:1"
+  },
+  {
+    "explicacao": "O conhecimento de Deus concede tudo o que é necessário para a vida e piedade.",
+    "alternativas": [
+      "Tudo o que diz respeito à vida e piedade.",
+      "Poder para dominar povos.",
+      "Riquezas sem fim.",
+      "Ausência de sofrimento."
+    ],
+    "id": 722,
+    "pergunta": "Segundo Pedro, o conhecimento de Deus e de Jesus Cristo concede:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:3"
+  },
+  {
+    "explicacao": "As promessas de Deus permitem aos cristãos participar da natureza divina.",
+    "alternativas": [
+      "Tornar os homens famosos.",
+      "Fazer os cristãos participantes da natureza divina.",
+      "Dar autoridade política.",
+      "Eliminar todas as dificuldades."
+    ],
+    "id": 723,
+    "pergunta": "Qual é o objetivo das grandes e preciosas promessas de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:4"
+  },
+  {
+    "explicacao": "Pedro apresenta uma sequência de virtudes que devem ser desenvolvidas na vida cristã.",
+    "alternativas": [
+      "Fé, virtude, conhecimento, domínio próprio, perseverança, piedade, amor fraternal e amor.",
+      "Riqueza, fama, poder, sabedoria e honra.",
+      "Lei, sacrifício, templo e tradição.",
+      "Milagres, dons e liderança."
+    ],
+    "id": 724,
+    "pergunta": "Qual sequência de virtudes Pedro apresenta para o crescimento espiritual?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:5-7"
+  },
+  {
+    "explicacao": "As virtudes tornam o cristão ativo e frutífero no conhecimento de Cristo.",
+    "alternativas": [
+      "Nunca enfrentará tribulações.",
+      "Não ficará ocioso nem infrutífero no conhecimento de Jesus Cristo.",
+      "Será superior aos demais cristãos.",
+      "Receberá riquezas materiais."
+    ],
+    "id": 725,
+    "pergunta": "O que acontece com quem possui essas virtudes em abundância?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:8"
+  },
+  {
+    "explicacao": "Pedro descreve essa pessoa como espiritualmente cega e esquecida da purificação dos pecados.",
+    "alternativas": [
+      "É perseguido pelos homens.",
+      "É cego, vendo só o que está perto, e esqueceu a purificação dos pecados antigos.",
+      "Perde todos os dons.",
+      "Deixa de ser humano."
+    ],
+    "id": 726,
+    "pergunta": "O que Pedro diz sobre aquele que não possui essas qualidades espirituais?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:9"
+  },
+  {
+    "explicacao": "Pedro queria fortalecer os cristãos e mantê-los firmes na verdade.",
+    "alternativas": [
+      "Porque queria ser reconhecido como mestre.",
+      "Porque desejava mantê-los firmes na verdade presente.",
+      "Porque eles não conheciam Jesus.",
+      "Porque queria substituir os apóstolos."
+    ],
+    "id": 727,
+    "pergunta": "Por que Pedro afirma que sempre lembraria os cristãos dessas verdades?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:12-13"
+  },
+  {
+    "explicacao": "Pedro afirma que Jesus Cristo havia lhe mostrado que sua partida estava próxima.",
+    "alternativas": [
+      "Recebeu uma revelação sobre sua morte.",
+      "O Senhor Jesus Cristo lhe havia mostrado.",
+      "Os discípulos o avisaram.",
+      "Os romanos determinaram."
+    ],
+    "id": 728,
+    "pergunta": "Pedro sabia que seu tempo de partir deste mundo estava próximo porque:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:14"
+  },
+  {
+    "explicacao": "Pedro afirma ter visto a majestade de Cristo, não seguindo fábulas inventadas.",
+    "alternativas": [
+      "A criação do mundo.",
+      "A majestade de Jesus Cristo.",
+      "A destruição de Jerusalém.",
+      "A construção do templo."
+    ],
+    "id": 729,
+    "pergunta": "Pedro afirma que foi testemunha ocular de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:16"
+  },
+  {
+    "explicacao": "Pedro ensina que a profecia não veio pela vontade humana, mas por homens movidos pelo Espírito Santo.",
+    "alternativas": [
+      "Dos anjos.",
+      "Dos homens.",
+      "Dos reis.",
+      "Dos sacerdotes."
+    ],
+    "id": 730,
+    "pergunta": "A profecia das Escrituras não veio por vontade:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Pedro",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Pedro 1:21"
+  }
+]

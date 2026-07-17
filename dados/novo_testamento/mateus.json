@@ -1,0 +1,1413 @@
+[
+  {
+    "explicacao": "Mateus é tradicionalmente identificado como o autor do Evangelho e era um dos discípulos de Jesus.",
+    "alternativas": [
+      "Pedro",
+      "Mateus",
+      "João",
+      "Paulo"
+    ],
+    "id": 1571,
+    "pergunta": "Quem escreveu o Evangelho de Mateus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 9:9"
+  },
+  {
+    "explicacao": "Mateus trabalhava como cobrador de impostos antes de ser chamado por Jesus.",
+    "alternativas": [
+      "Pescador",
+      "Soldado",
+      "Cobrador de impostos",
+      "Sacerdote"
+    ],
+    "id": 1572,
+    "pergunta": "Antes de seguir Jesus, qual era a profissão de Mateus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 9:9"
+  },
+  {
+    "explicacao": "Jesus nasceu em Belém da Judeia.",
+    "alternativas": [
+      "Nazaré",
+      "Belém",
+      "Jerusalém",
+      "Cafarnaum"
+    ],
+    "id": 1573,
+    "pergunta": "Onde Jesus nasceu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 2:1"
+  },
+  {
+    "explicacao": "Os magos visitaram Jesus e ofereceram presentes.",
+    "alternativas": [
+      "Pastores",
+      "Reis magos",
+      "Sacerdotes",
+      "Discípulos"
+    ],
+    "id": 1574,
+    "pergunta": "Quem visitou Jesus quando Ele nasceu trazendo presentes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 2:1-11"
+  },
+  {
+    "explicacao": "Os magos ofereceram ouro, incenso e mirra.",
+    "alternativas": [
+      "Ouro, prata e pedras preciosas",
+      "Ouro, incenso e mirra",
+      "Pão, vinho e azeite",
+      "Roupas, dinheiro e perfumes"
+    ],
+    "id": 1575,
+    "pergunta": "Quais presentes os magos ofereceram a Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 2:11"
+  },
+  {
+    "explicacao": "João Batista batizou Jesus no rio Jordão.",
+    "alternativas": [
+      "Pedro",
+      "João Batista",
+      "Tiago",
+      "André"
+    ],
+    "id": 1576,
+    "pergunta": "Quem batizou Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 3:13-17"
+  },
+  {
+    "explicacao": "Jesus jejuou quarenta dias e quarenta noites no deserto.",
+    "alternativas": [
+      "7 dias",
+      "30 dias",
+      "40 dias",
+      "70 dias"
+    ],
+    "id": 1577,
+    "pergunta": "Quantos dias Jesus jejuou no deserto?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 4:2"
+  },
+  {
+    "explicacao": "Jesus começou seu ministério anunciando o arrependimento e a proximidade do Reino dos céus.",
+    "alternativas": [
+      "Construam o templo",
+      "Arrependam-se, porque está próximo o Reino dos céus",
+      "Sigam os sacerdotes",
+      "Guardem todas as festas"
+    ],
+    "id": 1578,
+    "pergunta": "Qual foi a primeira mensagem de Jesus ao iniciar seu ministério?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 4:17"
+  },
+  {
+    "explicacao": "Jesus escolheu doze apóstolos.",
+    "alternativas": [
+      "7",
+      "10",
+      "12",
+      "70"
+    ],
+    "id": 1579,
+    "pergunta": "Quantos discípulos Jesus escolheu como apóstolos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 10:1-4"
+  },
+  {
+    "explicacao": "Jesus ensinou a oração conhecida como Pai Nosso.",
+    "alternativas": [
+      "Oração de Davi",
+      "Pai Nosso",
+      "Oração de Moisés",
+      "Oração de Salomão"
+    ],
+    "id": 1580,
+    "pergunta": "Qual oração Jesus ensinou aos seus discípulos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 6:9-13"
+  },
+  {
+    "explicacao": "Jesus ensinou seus discípulos em um monte.",
+    "alternativas": [
+      "No templo",
+      "Em um monte",
+      "No deserto",
+      "No mar"
+    ],
+    "id": 1581,
+    "pergunta": "Onde Jesus fez o famoso Sermão do Monte?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 5:1"
+  },
+  {
+    "explicacao": "Jesus chamou seus seguidores de sal da terra e luz do mundo.",
+    "alternativas": [
+      "Caminho e a verdade",
+      "Sal da terra e luz do mundo",
+      "Pão da vida",
+      "Bom pastor"
+    ],
+    "id": 1582,
+    "pergunta": "Jesus disse: 'Vós sois o...'",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 5:13-14"
+  },
+  {
+    "explicacao": "Pedro saiu do barco e caminhou sobre as águas em direção a Jesus.",
+    "alternativas": [
+      "Pedro",
+      "João",
+      "Tiago",
+      "Filipe"
+    ],
+    "id": 1583,
+    "pergunta": "Quem andou sobre as águas para encontrar Jesus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 14:28-29"
+  },
+  {
+    "explicacao": "Judas Iscariotes traiu Jesus entregando-o às autoridades.",
+    "alternativas": [
+      "Pedro",
+      "Judas Iscariotes",
+      "Tomé",
+      "Mateus"
+    ],
+    "id": 1584,
+    "pergunta": "Qual discípulo traiu Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 26:14-16"
+  },
+  {
+    "explicacao": "Pedro negou conhecer Jesus três vezes antes do galo cantar.",
+    "alternativas": [
+      "Pedro",
+      "João",
+      "André",
+      "Filipe"
+    ],
+    "id": 1585,
+    "pergunta": "Quem negou Jesus três vezes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 26:69-75"
+  },
+  {
+    "explicacao": "Judas entregou Jesus aos líderes religiosos.",
+    "alternativas": [
+      "Pilatos",
+      "Judas Iscariotes",
+      "Herodes",
+      "Caifás"
+    ],
+    "id": 1586,
+    "pergunta": "Quem entregou Jesus às autoridades?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 27:3-4"
+  },
+  {
+    "explicacao": "Simão, o cireneu, foi obrigado a carregar a cruz de Jesus.",
+    "alternativas": [
+      "Simão Pedro",
+      "Simão, o cireneu",
+      "José de Arimateia",
+      "João"
+    ],
+    "id": 1587,
+    "pergunta": "Quem ajudou Jesus a carregar a cruz?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 27:32"
+  },
+  {
+    "explicacao": "José de Arimateia colocou o corpo de Jesus em um túmulo novo.",
+    "alternativas": [
+      "José de Arimateia",
+      "Pedro",
+      "João",
+      "Nicodemos"
+    ],
+    "id": 1588,
+    "pergunta": "Quem foi colocado no túmulo de Jesus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 27:57-60"
+  },
+  {
+    "explicacao": "Jesus ordenou que seus discípulos fizessem discípulos de todas as nações.",
+    "alternativas": [
+      "Construir um templo",
+      "Fazer discípulos de todas as nações",
+      "Voltar para a Galileia",
+      "Escolher novos reis"
+    ],
+    "id": 1589,
+    "pergunta": "No final do Evangelho de Mateus, Jesus deu qual ordem aos discípulos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 28:19"
+  },
+  {
+    "explicacao": "Jesus prometeu permanecer com seus discípulos todos os dias até o fim dos tempos.",
+    "alternativas": [
+      "Por dez anos",
+      "Até a próxima geração",
+      "Todos os dias até a consumação dos séculos",
+      "Apenas em Jerusalém"
+    ],
+    "id": 1590,
+    "pergunta": "Jesus prometeu estar com seus discípulos:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 28:20"
+  },
+  {
+    "explicacao": "Jesus Cristo é o Salvador anunciado pelo anjo a José.",
+    "alternativas": [
+      "João Batista",
+      "Jesus Cristo",
+      "Pedro",
+      "Paulo"
+    ],
+    "id": 1591,
+    "pergunta": "Quem é a figura central do Novo Testamento, o Filho de Deus Salvador do mundo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 1:21"
+  },
+  {
+    "explicacao": "José exercia a profissão de carpinteiro.",
+    "alternativas": [
+      "Pescador",
+      "Publicano",
+      "Carpinteiro",
+      "Fariseu"
+    ],
+    "id": 1592,
+    "pergunta": "Qual era a profissão de José, o marido de Maria que criou Jesus na Terra?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 13:55"
+  },
+  {
+    "explicacao": "João Batista era o precursor que preparou o caminho do Senhor.",
+    "alternativas": [
+      "Pedro",
+      "João Batista",
+      "Tiago",
+      "Paulo"
+    ],
+    "id": 1593,
+    "pergunta": "Quem pregava no deserto vestindo roupas de pelos de camelo e batizou Jesus no rio Jordão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 3:1-6"
+  },
+  {
+    "explicacao": "Jesus escolheu 12 discípulos para serem Seus apóstolos.",
+    "alternativas": [
+      "7",
+      "10",
+      "12",
+      "70"
+    ],
+    "id": 1594,
+    "pergunta": "Quantos apóstolos principais Jesus escolheu para andar com Ele durante o Seu ministério?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 10:1-4"
+  },
+  {
+    "explicacao": "Simão Pedro foi o apóstolo que viveu essas experiências.",
+    "alternativas": [
+      "João",
+      "André",
+      "Pedro",
+      "Filipe"
+    ],
+    "id": 1595,
+    "pergunta": "Qual apóstolo era pescador, andou sobre as águas com Jesus e depois O negou três vezes?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 14:29"
+  },
+  {
+    "explicacao": "Judas Iscariotes traiu Jesus por um valor estabelecido pelos sacerdotes.",
+    "alternativas": [
+      "Tomé",
+      "Judas Iscariotes",
+      "Mateus",
+      "Bartolomeu"
+    ],
+    "id": 1596,
+    "pergunta": "Quem foi o apóstolo traidor que entregou Jesus por 30 moedas de prata?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 26:14-15"
+  },
+  {
+    "explicacao": "Mateus, também chamado de Levi, deixou sua profissão para seguir o Mestre.",
+    "alternativas": [
+      "Lucas",
+      "Marcos",
+      "Mateus",
+      "João"
+    ],
+    "id": 1597,
+    "pergunta": "Quem era o cobrador de impostos que deixou sua banca para seguir Jesus e escreveu um Evangelho?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 9:9"
+  },
+  {
+    "explicacao": "Pilatos lavou as mãos, simbolizando que se isentava da responsabilidade pelo sangue de Jesus.",
+    "alternativas": [
+      "Herodes",
+      "César",
+      "Pôncio Pilatos",
+      "Félix"
+    ],
+    "id": 1598,
+    "pergunta": "Quem era o governador romano que lavou as mãos diante da multidão e condenou Jesus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 27:24-26"
+  },
+  {
+    "explicacao": "Herodes o Grande ordenou a morte das crianças buscando tirar a vida de Jesus.",
+    "alternativas": [
+      "Agripa",
+      "Herodes",
+      "Faraó",
+      "César Augusto"
+    ],
+    "id": 1599,
+    "pergunta": "Qual era o nome do rei cruel que mandou matar os meninos em Belém para eliminar Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 2:16"
+  },
+  {
+    "explicacao": "Barrabás foi o prisioneiro libertado por escolha do povo.",
+    "alternativas": [
+      "Barrabás",
+      "Dimas",
+      "Gestas",
+      "Simão"
+    ],
+    "id": 1600,
+    "pergunta": "Quem foi o criminoso e assassino libertado pela multidão no lugar de Jesus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 27:21"
+  },
+  {
+    "explicacao": "Jesus nasceu em Belém da Judeia, conforme profetizado.",
+    "alternativas": [
+      "Nazaré",
+      "Belém",
+      "Jerusalém",
+      "Cafarnaum"
+    ],
+    "id": 1601,
+    "pergunta": "Em qual cidade Jesus nasceu, cumprindo a profecia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 2:1"
+  },
+  {
+    "explicacao": "O anjo ordenou a fuga para o Egito para proteger a criança.",
+    "alternativas": [
+      "Síria",
+      "Egito",
+      "Grécia",
+      "Roma"
+    ],
+    "id": 1602,
+    "pergunta": "Para qual país José e Maria fugiram com Jesus para escapar do rei Herodes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 2:13-14"
+  },
+  {
+    "explicacao": "Por isso Jesus era conhecido como o Nazareno.",
+    "alternativas": [
+      "Belém",
+      "Jerusalém",
+      "Nazaré",
+      "Betânia"
+    ],
+    "id": 1603,
+    "pergunta": "Em que cidade Jesus cresceu e passou a Sua infância?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 2:23"
+  },
+  {
+    "explicacao": "Cafarnaum tornou-se a 'cidade de Jesus' durante seu ministério público.",
+    "alternativas": [
+      "Cafarnaum",
+      "Caná",
+      "Naim",
+      "Jericó"
+    ],
+    "id": 1604,
+    "pergunta": "Qual era a cidade central do ministério de Jesus na Galileia?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 4:13"
+  },
+  {
+    "explicacao": "Também chamado de Mar de Tiberíades ou Lago de Genesaré.",
+    "alternativas": [
+      "Mar Morto",
+      "Mar Mediterrâneo",
+      "Mar da Galileia",
+      "Mar Vermelho"
+    ],
+    "id": 1605,
+    "pergunta": "À beira de qual mar Jesus chamou Seus primeiros discípulos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 4:18"
+  },
+  {
+    "explicacao": "O Espírito Santo desceu como pomba e a voz de Deus foi ouvida.",
+    "alternativas": [
+      "Ele começou a jejuar",
+      "Os discípulos o seguiram",
+      "O céu se abriu e o Espírito desceu",
+      "Ele curou um cego"
+    ],
+    "id": 1606,
+    "pergunta": "O que aconteceu imediatamente após Jesus sair das águas do batismo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 3:16-17"
+  },
+  {
+    "explicacao": "Jesus jejuou 40 dias e 40 noites antes de ser tentado.",
+    "alternativas": [
+      "7",
+      "20",
+      "40",
+      "100"
+    ],
+    "id": 1607,
+    "pergunta": "Quantos dias e noites Jesus jejuou no deserto?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 4:1-2"
+  },
+  {
+    "explicacao": "Cinco pães e dois peixes foram suficientes para alimentar a multidão.",
+    "alternativas": [
+      "3 pães e 3 peixes",
+      "5 pães e 2 peixes",
+      "7 pães e 5 peixes",
+      "10 pães e 2 peixes"
+    ],
+    "id": 1608,
+    "pergunta": "Que quantidade de alimento foi usada na primeira multiplicação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 14:17"
+  },
+  {
+    "explicacao": "Jesus brilhou como o sol na Transfiguração.",
+    "alternativas": [
+      "Batismo",
+      "Última Ceia",
+      "Transfiguração",
+      "Ressurreição"
+    ],
+    "id": 1609,
+    "pergunta": "Em que evento Jesus mudou de aparência diante de três discípulos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 17:1-3"
+  },
+  {
+    "explicacao": "O beijo foi o sinal da traição no Getsêmani.",
+    "alternativas": [
+      "Um sinal com a mão",
+      "Um beijo",
+      "Um olhar fixo",
+      "Uma palavra de código"
+    ],
+    "id": 1610,
+    "pergunta": "Que sinal Judas usou para identificar Jesus aos guardas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 26:48-49"
+  },
+  {
+    "explicacao": "O véu rasgou-se de alto a baixo, simbolizando o acesso a Deus.",
+    "alternativas": [
+      "Queimou",
+      "Tornou-se branco",
+      "Rasgou-se em dois",
+      "Desapareceu"
+    ],
+    "id": 1611,
+    "pergunta": "O que aconteceu com o véu do Templo quando Jesus morreu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 27:51"
+  },
+  {
+    "explicacao": "O Evangelho de Mateus foi posicionado como o primeiro para conectar o Antigo ao Novo Testamento.",
+    "alternativas": [
+      "Marcos",
+      "Mateus",
+      "Lucas",
+      "João"
+    ],
+    "id": 1612,
+    "pergunta": "Qual é o primeiro livro do Novo Testamento, que abre com a genealogia de Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 1:1"
+  },
+  {
+    "explicacao": "O Sermão da Montanha é um dos pilares do ensino de Jesus registrado em Mateus.",
+    "alternativas": [
+      "Mateus",
+      "Marcos",
+      "Lucas",
+      "João"
+    ],
+    "id": 1613,
+    "pergunta": "Em qual Evangelho encontramos o famoso Sermão da Montanha?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 5-7"
+  },
+  {
+    "explicacao": "A genealogia de Mateus apresenta Jacó como pai de José, marido de Maria.",
+    "alternativas": [
+      "Jacó",
+      "Eli",
+      "José",
+      "Davi"
+    ],
+    "id": 1614,
+    "pergunta": "Qual era o nome do pai de José, marido de Maria, segundo a genealogia apresentada por Mateus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 1:16"
+  },
+  {
+    "explicacao": "Um anjo do Senhor apareceu a José em sonho e explicou que Maria havia concebido pelo Espírito Santo.",
+    "alternativas": [
+      "Um profeta",
+      "O anjo do Senhor",
+      "João Batista",
+      "Um sacerdote"
+    ],
+    "id": 1615,
+    "pergunta": "Quem apareceu a José em sonho para explicar a gravidez de Maria?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 1:20"
+  },
+  {
+    "explicacao": "Emanuel significa 'Deus conosco', conforme a profecia citada por Mateus.",
+    "alternativas": [
+      "Jesus",
+      "Cristo",
+      "Emanuel",
+      "Messias"
+    ],
+    "id": 1616,
+    "pergunta": "Qual nome significa 'Deus conosco'?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 1:23"
+  },
+  {
+    "explicacao": "José levou Jesus e Maria para o Egito após ser avisado em sonho sobre o perigo.",
+    "alternativas": [
+      "Síria",
+      "Egito",
+      "Babilônia",
+      "Roma"
+    ],
+    "id": 1617,
+    "pergunta": "Para qual país José levou Jesus e Maria para fugir de Herodes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 2:13-14"
+  },
+  {
+    "explicacao": "Herodes ordenou a morte dos meninos de Belém em uma tentativa de eliminar Jesus.",
+    "alternativas": [
+      "Herodes",
+      "César Augusto",
+      "Pilatos",
+      "Agripa"
+    ],
+    "id": 1618,
+    "pergunta": "Quem foi o rei que tentou matar Jesus quando Ele era criança?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 2:16"
+  },
+  {
+    "explicacao": "Mateus cita a profecia de Isaías sobre João Batista preparando o caminho do Senhor.",
+    "alternativas": [
+      "Isaías",
+      "Jeremias",
+      "Daniel",
+      "Ezequiel"
+    ],
+    "id": 1619,
+    "pergunta": "Qual profeta foi citado sobre a voz que clamava no deserto?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 3:3"
+  },
+  {
+    "explicacao": "Jesus respondeu citando que o homem não vive apenas de pão, mas de toda palavra que procede de Deus.",
+    "alternativas": [
+      "O homem viverá só de pão",
+      "Nem só de pão viverá o homem",
+      "Eu sou o pão da vida",
+      "Não tentarei o Senhor"
+    ],
+    "id": 1620,
+    "pergunta": "Qual foi a resposta de Jesus quando Satanás pediu que Ele transformasse pedras em pães?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 4:4"
+  },
+  {
+    "explicacao": "Jesus chamou Pedro e André enquanto eles pescavam no mar da Galileia.",
+    "alternativas": [
+      "Pedro e André",
+      "João e Tiago",
+      "Filipe e Bartolomeu",
+      "Mateus e Tomé"
+    ],
+    "id": 1621,
+    "pergunta": "Quem eram os primeiros discípulos chamados por Jesus no Evangelho de Mateus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 4:18-20"
+  },
+  {
+    "explicacao": "A parábola do semeador apresenta sementes lançadas em diferentes tipos de terreno.",
+    "alternativas": [
+      "O joio",
+      "O semeador",
+      "Os talentos",
+      "As dez virgens"
+    ],
+    "id": 1622,
+    "pergunta": "Qual parábola fala de sementes caindo em diferentes tipos de solo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 13:3-23"
+  },
+  {
+    "explicacao": "Jesus multiplicou cinco pães e dois peixes para alimentar a multidão.",
+    "alternativas": [
+      "Sete pães e dois peixes",
+      "Cinco pães e dois peixes",
+      "Doze pães e cinco peixes",
+      "Dez pães e dois peixes"
+    ],
+    "id": 1623,
+    "pergunta": "Quantos pães e peixes Jesus usou para alimentar os cinco mil?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 14:17-21"
+  },
+  {
+    "explicacao": "Pedro declarou que Jesus era o Cristo, o Filho do Deus vivo.",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "Tomé",
+      "Mateus"
+    ],
+    "id": 1624,
+    "pergunta": "Quem confessou: 'Tu és o Cristo, o Filho do Deus vivo'?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 16:16"
+  },
+  {
+    "explicacao": "Jesus falou sobre a autoridade de ligar e desligar dada a Pedro.",
+    "alternativas": [
+      "Uma espada",
+      "Autoridade para ligar e desligar",
+      "Uma coroa",
+      "Um templo"
+    ],
+    "id": 1625,
+    "pergunta": "O que Jesus disse que daria a Pedro junto com as chaves do Reino?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 16:19"
+  },
+  {
+    "explicacao": "Moisés e Elias apareceram conversando com Jesus durante a transfiguração.",
+    "alternativas": [
+      "Abraão e Davi",
+      "Moisés e Elias",
+      "Pedro e João",
+      "Isaías e Jeremias"
+    ],
+    "id": 1626,
+    "pergunta": "Quem apareceu com Jesus na transfiguração?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 17:3"
+  },
+  {
+    "explicacao": "Jesus providenciou a moeda para pagar o imposto do templo.",
+    "alternativas": [
+      "Imposto do templo",
+      "Imposto romano",
+      "Imposto do rei",
+      "Imposto dos sacerdotes"
+    ],
+    "id": 1627,
+    "pergunta": "Qual imposto Jesus pagou usando uma moeda encontrada na boca de um peixe?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 17:24-27"
+  },
+  {
+    "explicacao": "Jesus ensinou que a humildade semelhante à de uma criança é necessária no Reino.",
+    "alternativas": [
+      "O mais rico",
+      "O mais sábio",
+      "Quem se humilha como uma criança",
+      "O líder religioso"
+    ],
+    "id": 1628,
+    "pergunta": "Segundo Jesus, quem é o maior no Reino dos céus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 18:4"
+  },
+  {
+    "explicacao": "Pedro perguntou a Jesus sobre o limite do perdão.",
+    "alternativas": [
+      "Pedro",
+      "João",
+      "Tiago",
+      "André"
+    ],
+    "id": 1629,
+    "pergunta": "Qual discípulo perguntou quantas vezes deveria perdoar seu irmão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 18:21"
+  },
+  {
+    "explicacao": "Pôncio Pilatos era o governador romano responsável pelo julgamento de Jesus.",
+    "alternativas": [
+      "Herodes",
+      "Pilatos",
+      "Félix",
+      "César"
+    ],
+    "id": 1630,
+    "pergunta": "Quem era o governador romano que julgou Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 27:2"
+  },
+  {
+    "explicacao": "A esposa de Pilatos enviou uma mensagem dizendo que havia sofrido em sonho por causa de Jesus.",
+    "alternativas": [
+      "A esposa de Pilatos",
+      "Maria Madalena",
+      "Marta",
+      "A mãe de Jesus"
+    ],
+    "id": 1631,
+    "pergunta": "Quem teve um sonho sobre Jesus e tentou impedir sua condenação?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 27:19"
+  },
+  {
+    "explicacao": "Na morte de Jesus, o véu do templo se rasgou de alto a baixo.",
+    "alternativas": [
+      "O sol parou",
+      "O véu do templo se rasgou",
+      "O templo caiu",
+      "O Jordão secou"
+    ],
+    "id": 1632,
+    "pergunta": "Qual foi o sinal que aconteceu quando Jesus morreu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 27:51"
+  },
+  {
+    "explicacao": "Maria Madalena e a outra Maria foram ao sepulcro e encontraram-no vazio.",
+    "alternativas": [
+      "Pedro e João",
+      "Maria Madalena e a outra Maria",
+      "Os soldados romanos",
+      "Os discípulos de Emaús"
+    ],
+    "id": 1633,
+    "pergunta": "Quem foram as primeiras pessoas a encontrar o túmulo vazio de Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 28:1"
+  },
+  {
+    "explicacao": "Mateus organiza a genealogia de Jesus em três grupos de quatorze gerações.",
+    "alternativas": [
+      "12 gerações",
+      "14 gerações",
+      "20 gerações",
+      "40 gerações"
+    ],
+    "id": 1634,
+    "pergunta": "Quantas gerações Mateus apresenta desde Abraão até Cristo na genealogia de Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 1:17"
+  },
+  {
+    "explicacao": "O Evangelho de Mateus informa que um anjo do Senhor apareceu a José, mas não revela seu nome.",
+    "alternativas": [
+      "Miguel",
+      "Gabriel",
+      "O texto não informa",
+      "Rafael"
+    ],
+    "id": 1635,
+    "pergunta": "Qual era o nome do anjo que apareceu a José em sonho?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 1:20"
+  },
+  {
+    "explicacao": "Mateus afirma que Jesus seria chamado Nazareno, relacionando isso ao que foi dito pelos profetas.",
+    "alternativas": [
+      "Isaías",
+      "Jeremias",
+      "Oséias",
+      "O texto diz que seria chamado Nazareno pelos profetas"
+    ],
+    "id": 1636,
+    "pergunta": "Qual profeta foi citado sobre a ida de Jesus para Nazaré?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 2:23"
+  },
+  {
+    "explicacao": "João Batista se alimentava de gafanhotos e mel silvestre no deserto.",
+    "alternativas": [
+      "Pão e peixe",
+      "Frutas e mel",
+      "Gafanhotos e mel silvestre",
+      "Carne e leite"
+    ],
+    "id": 1637,
+    "pergunta": "O que João Batista tinha como alimento no deserto?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 3:4"
+  },
+  {
+    "explicacao": "Jesus foi conduzido pelo Espírito ao deserto, onde foi tentado pelo diabo.",
+    "alternativas": [
+      "Um monte muito alto",
+      "O pináculo do templo",
+      "O deserto",
+      "Jerusalém"
+    ],
+    "id": 1638,
+    "pergunta": "Na tentação de Jesus, Satanás levou Jesus primeiro para:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 4:1"
+  },
+  {
+    "explicacao": "Tiago e João eram pescadores antes de serem chamados por Jesus.",
+    "alternativas": [
+      "Cobradores de impostos",
+      "Pescadores",
+      "Agricultores",
+      "Pastores"
+    ],
+    "id": 1639,
+    "pergunta": "Qual foi a profissão de Tiago e João antes de seguirem Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 4:21-22"
+  },
+  {
+    "explicacao": "Jesus ensinou que seus seguidores deveriam influenciar o mundo como sal e luz.",
+    "alternativas": [
+      "Ouro e prata do mundo",
+      "Sal da terra e luz do mundo",
+      "Reis e sacerdotes",
+      "Juízes das nações"
+    ],
+    "id": 1640,
+    "pergunta": "No Sermão do Monte, Jesus disse que seus discípulos deveriam ser:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 5:13-14"
+  },
+  {
+    "explicacao": "Jesus ensinou a buscar tesouros nos céus, onde não podem ser destruídos.",
+    "alternativas": [
+      "Na terra",
+      "Nos templos",
+      "Nos céus",
+      "Nas cidades"
+    ],
+    "id": 1641,
+    "pergunta": "Segundo Jesus, onde devemos ajuntar tesouros?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 6:20"
+  },
+  {
+    "explicacao": "Jesus usou a imagem de uma cidade sobre um monte para ensinar sobre o testemunho dos discípulos.",
+    "alternativas": [
+      "Jerusalém",
+      "Belém",
+      "Nazaré",
+      "Cafarnaum"
+    ],
+    "id": 1642,
+    "pergunta": "Qual cidade é chamada por Jesus de 'cidade edificada sobre um monte'?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 5:14"
+  },
+  {
+    "explicacao": "Um centurião romano demonstrou grande fé ao confiar na autoridade da palavra de Jesus.",
+    "alternativas": [
+      "Um fariseu",
+      "Um centurião",
+      "Um sacerdote",
+      "Um escriba"
+    ],
+    "id": 1643,
+    "pergunta": "Quem pediu a Jesus para curar seu servo, demonstrando grande fé?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 8:5-10"
+  },
+  {
+    "explicacao": "Jesus ensinou sobre a prioridade do chamado para segui-lo.",
+    "alternativas": [
+      "Deixe os ricos cuidarem deles",
+      "Segue-me e deixa aos mortos sepultar os seus mortos",
+      "Volte para sua família",
+      "Espere outro momento"
+    ],
+    "id": 1644,
+    "pergunta": "Qual foi a frase de Jesus sobre os mortos quando chamou alguém para segui-lo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 8:21-22"
+  },
+  {
+    "explicacao": "Jairo procurou Jesus pedindo ajuda para sua filha.",
+    "alternativas": [
+      "Jairo",
+      "Bartimeu",
+      "Levi",
+      "Nicodemos"
+    ],
+    "id": 1645,
+    "pergunta": "Qual era o nome do chefe da sinagoga cuja filha Jesus ressuscitou?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 9:18"
+  },
+  {
+    "explicacao": "Jesus enviou os doze apóstolos para anunciar o Reino.",
+    "alternativas": [
+      "7",
+      "10",
+      "12",
+      "70"
+    ],
+    "id": 1646,
+    "pergunta": "Quantos discípulos Jesus enviou para uma missão em Israel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 10:1-5"
+  },
+  {
+    "explicacao": "Jesus explicou que o inimigo que semeou o joio é o diabo.",
+    "alternativas": [
+      "Um agricultor",
+      "O inimigo",
+      "Os trabalhadores",
+      "Os anjos"
+    ],
+    "id": 1647,
+    "pergunta": "Na parábola do joio, quem semeou o joio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 13:39"
+  },
+  {
+    "explicacao": "Pedro saiu do barco e caminhou sobre as águas em direção a Jesus.",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "André",
+      "Tiago"
+    ],
+    "id": 1648,
+    "pergunta": "Qual discípulo andou sobre as águas com Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 14:28-29"
+  },
+  {
+    "explicacao": "Jesus falou sobre Pedro e a edificação de sua igreja após a confissão de fé.",
+    "alternativas": [
+      "Tu és o Cristo, o Filho do Deus vivo",
+      "Tu és pedra e sobre esta pedra edificarei minha igreja",
+      "Tu serás rei de Israel",
+      "Tu nunca negarás a fé"
+    ],
+    "id": 1649,
+    "pergunta": "O que Jesus disse a Pedro após sua confissão de fé?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 16:18"
+  },
+  {
+    "explicacao": "Judas recebeu trinta moedas de prata para entregar Jesus.",
+    "alternativas": [
+      "10 moedas de ouro",
+      "20 moedas de prata",
+      "30 moedas de prata",
+      "40 moedas de prata"
+    ],
+    "id": 1650,
+    "pergunta": "Qual foi o valor recebido por Judas para entregar Jesus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 26:15"
+  },
+  {
+    "explicacao": "Um dos que estavam com Jesus puxou uma espada; o Evangelho de João identifica como Pedro.",
+    "alternativas": [
+      "Pedro",
+      "João",
+      "Tiago",
+      "Tomé"
+    ],
+    "id": 1651,
+    "pergunta": "Quem cortou a orelha do servo do sumo sacerdote?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 26:51"
+  },
+  {
+    "explicacao": "Mateus não informa o nome do servo que teve a orelha cortada.",
+    "alternativas": [
+      "Malco",
+      "O texto não informa",
+      "Caifás",
+      "Bartimeu"
+    ],
+    "id": 1652,
+    "pergunta": "Qual foi o nome do servo do sumo sacerdote que teve a orelha cortada?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 26:51"
+  },
+  {
+    "explicacao": "Jesus ordenou que seus discípulos fossem e fizessem discípulos de todas as nações.",
+    "alternativas": [
+      "Construir o templo",
+      "Fazer discípulos de todas as nações, batizando e ensinando",
+      "Permanecer somente em Jerusalém",
+      "Escolher novos sacerdotes"
+    ],
+    "id": 1653,
+    "pergunta": "Qual foi a grande comissão dada por Jesus após a ressurreição?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Mateus 28:19-20"
+  }
+]

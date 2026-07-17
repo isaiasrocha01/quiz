@@ -1,0 +1,988 @@
+[
+  {
+    "explicacao": "Jó declarou sua esperança em Deus afirmando que seu Redentor vive.",
+    "alternativas": [
+      "Eu sei que o meu Redentor vive",
+      "Minha justiça é perfeita",
+      "Nunca sofrerei novamente",
+      "Meus amigos me salvarão"
+    ],
+    "id": 3420,
+    "pergunta": "Qual declaração de Jó revela sua esperança futura?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 19:25"
+  },
+  {
+    "explicacao": "Jó afirmou que manteria sua integridade e que sua consciência não o condenava.",
+    "alternativas": [
+      "Que nunca existiu sofrimento",
+      "Que sua consciência não o condenava por injustiça",
+      "Que não precisava de Deus",
+      "Que era superior aos outros homens"
+    ],
+    "id": 3421,
+    "pergunta": "O que Jó afirmou sobre sua integridade?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 27:5-6"
+  },
+  {
+    "explicacao": "Eliú falou depois dos três amigos de Jó e apresentou seus argumentos.",
+    "alternativas": [
+      "Eliú",
+      "Moisés",
+      "Samuel",
+      "Davi"
+    ],
+    "id": 3422,
+    "pergunta": "Quem falou com Jó depois dos três amigos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 32:2"
+  },
+  {
+    "explicacao": "Eliú ficou indignado porque Jó se justificava mais do que a Deus e os amigos não conseguiram responder corretamente.",
+    "alternativas": [
+      "Porque Jó era rico",
+      "Porque Jó se justificava mais do que a Deus e os amigos não tinham resposta correta",
+      "Porque Jó abandonou sua família",
+      "Porque Jó não conhecia a lei"
+    ],
+    "id": 3423,
+    "pergunta": "Por que Eliú ficou indignado com Jó e seus amigos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 32:2-3"
+  },
+  {
+    "explicacao": "Deus questionou Jó sobre sua origem e mostrou que somente Ele é o Criador de todas as coisas.",
+    "alternativas": [
+      "Onde estavas tu quando eu lançava os fundamentos da terra?",
+      "Onde estão teus amigos?",
+      "Quem é o maior rei?",
+      "Por que abandonaste tua fé?"
+    ],
+    "id": 3424,
+    "pergunta": "Qual pergunta Deus fez a Jó para mostrar sua grandeza?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 38:4"
+  },
+  {
+    "explicacao": "Deus apresentou o Beemote e o Leviatã como exemplos de criaturas poderosas sob seu domínio.",
+    "alternativas": [
+      "Leão e águia",
+      "Beemote e Leviatã",
+      "Cavalo e camelo",
+      "Serpente e cordeiro"
+    ],
+    "id": 3425,
+    "pergunta": "Quais criaturas Deus descreveu para mostrar seu poder sobre a criação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 40:15; Jó 41:1"
+  },
+  {
+    "explicacao": "Jó reconheceu que havia falado sobre coisas que não compreendia.",
+    "alternativas": [
+      "Que Deus não sabia de tudo",
+      "Que falou de coisas que não compreendia",
+      "Que seus amigos estavam certos em tudo",
+      "Que não precisava mudar"
+    ],
+    "id": 3426,
+    "pergunta": "O que Jó reconheceu depois da resposta de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 42:3"
+  },
+  {
+    "explicacao": "Jó demonstrou arrependimento e humildade diante da grandeza de Deus.",
+    "alternativas": [
+      "Arrependeu-se no pó e na cinza",
+      "Fugiu da presença de Deus",
+      "Acusou seus amigos",
+      "Pediu riquezas"
+    ],
+    "id": 3427,
+    "pergunta": "O que Jó fez após reconhecer sua limitação diante de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 42:6"
+  },
+  {
+    "explicacao": "Deus repreendeu os amigos porque eles não falaram corretamente sobre Ele, como Jó havia feito.",
+    "alternativas": [
+      "Porque não falaram corretamente sobre Deus como Jó",
+      "Porque não tinham riquezas",
+      "Porque abandonaram Jó",
+      "Porque não conheciam a lei de Moisés"
+    ],
+    "id": 3428,
+    "pergunta": "Por que Deus repreendeu os amigos de Jó?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 42:7"
+  },
+  {
+    "explicacao": "O livro de Jó ensina que Deus continua soberano mesmo quando o ser humano não entende o motivo do sofrimento.",
+    "alternativas": [
+      "O homem pode entender todos os planos de Deus",
+      "Deus permanece soberano mesmo quando o ser humano não entende o sofrimento",
+      "Toda dificuldade é sempre castigo pelo pecado",
+      "A riqueza é a prova da aprovação de Deus"
+    ],
+    "id": 3429,
+    "pergunta": "Qual foi a maior lição do livro de Jó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 38:1-4; Jó 42:2"
+  },
+  {
+    "explicacao": "Jó habitava na terra de Uz, onde era conhecido como um homem íntegro e temente a Deus.",
+    "alternativas": [
+      "Uz",
+      "Ofir",
+      "Basã",
+      "Canaã"
+    ],
+    "id": 3430,
+    "pergunta": "Qual era o nome da terra onde Jó habitava?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:1"
+  },
+  {
+    "explicacao": "Satanás afirmou que Jó servia a Deus apenas por causa das bênçãos e proteção que recebia.",
+    "alternativas": [
+      "Disse que Jó era sábio demais",
+      "Disse que Jó servia a Deus apenas por causa das bênçãos recebidas",
+      "Disse que Jó era um rei injusto",
+      "Disse que Jó não conhecia a Deus"
+    ],
+    "id": 3431,
+    "pergunta": "Como Satanás questionou a sinceridade da fé de Jó diante de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:9-10"
+  },
+  {
+    "explicacao": "Deus permitiu que Satanás tocasse nos bens de Jó, mas não permitiu que tocasse em sua vida.",
+    "alternativas": [
+      "Não poderia tocar em seus bens",
+      "Não poderia tocar em sua vida",
+      "Não poderia falar com Jó",
+      "Não poderia tirar seus filhos"
+    ],
+    "id": 3432,
+    "pergunta": "Qual limite Deus colocou para Satanás na primeira prova contra Jó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:12"
+  },
+  {
+    "explicacao": "Após receber as notícias das perdas, Jó rasgou suas vestes, raspou a cabeça e adorou ao Senhor.",
+    "alternativas": [
+      "Fugiu para o deserto",
+      "Rasgou suas vestes, raspou a cabeça e adorou",
+      "Acusou seus servos",
+      "Abandonou sua fé"
+    ],
+    "id": 3433,
+    "pergunta": "Qual foi a primeira reação de Jó após receber as notícias de suas perdas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:20"
+  },
+  {
+    "explicacao": "Jó reconheceu que tudo vinha do Senhor e continuou bendizendo o nome de Deus.",
+    "alternativas": [
+      "O Senhor deu, e o Senhor tomou; bendito seja o nome do Senhor",
+      "Minha força me salvou",
+      "Meus amigos são minha esperança",
+      "Eu nunca confiei em Deus"
+    ],
+    "id": 3434,
+    "pergunta": "Qual frase de Jó demonstrou sua confiança na soberania de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:21"
+  },
+  {
+    "explicacao": "Na segunda acusação, Satanás afirmou que Jó abandonaria sua fé se sua saúde fosse atingida.",
+    "alternativas": [
+      "Que Jó perderia sua riqueza",
+      "Que Jó amaldiçoaria a Deus se sua saúde fosse afetada",
+      "Que Jó abandonaria seus amigos",
+      "Que Jó fugiria da terra"
+    ],
+    "id": 3435,
+    "pergunta": "Qual era a acusação de Satanás na segunda vez que apareceu diante de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 2:4-5"
+  },
+  {
+    "explicacao": "A esposa de Jó sugeriu que ele amaldiçoasse a Deus por causa do sofrimento.",
+    "alternativas": [
+      "Confie mais em Deus",
+      "Amaldiçoa a Deus e morre",
+      "Fuja desta terra",
+      "Procure seus amigos"
+    ],
+    "id": 3436,
+    "pergunta": "Qual conselho a esposa de Jó deu a ele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 2:9"
+  },
+  {
+    "explicacao": "Elifaz afirmou que o sofrimento estava relacionado às ações dos homens e ao pecado.",
+    "alternativas": [
+      "Elifaz",
+      "Eliú",
+      "Bildade",
+      "Zofar"
+    ],
+    "id": 3437,
+    "pergunta": "Qual amigo de Jó afirmou que o sofrimento geralmente vem por causa do pecado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 4:7-8"
+  },
+  {
+    "explicacao": "Bildade comparou a esperança do ímpio a algo frágil como uma teia de aranha.",
+    "alternativas": [
+      "Elifaz",
+      "Bildade",
+      "Zofar",
+      "Eliú"
+    ],
+    "id": 3438,
+    "pergunta": "Qual amigo de Jó comparou a esperança do ímpio a uma teia de aranha?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 8:13-15"
+  },
+  {
+    "explicacao": "Elifaz declarou que o homem nasce para o trabalho assim como as faíscas voam para cima.",
+    "alternativas": [
+      "Zofar",
+      "Elifaz",
+      "Bildade",
+      "Eliú"
+    ],
+    "id": 3439,
+    "pergunta": "Qual amigo de Jó falou que o homem nasce para o trabalho como as faíscas voam para cima?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 5:7"
+  },
+  {
+    "explicacao": "Jó era descrito como um homem íntegro, reto, temente a Deus e que se desviava do mal.",
+    "alternativas": [
+      "Rico e famoso entre os reis",
+      "Íntegro, reto, temente a Deus e que se desviava do mal",
+      "Guerreiro poderoso",
+      "Sacerdote do templo"
+    ],
+    "id": 3440,
+    "pergunta": "Qual era a principal descrição de Jó no início do livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:1"
+  },
+  {
+    "explicacao": "Jó oferecia sacrifícios pelos seus filhos, pensando que eles poderiam ter pecado contra Deus.",
+    "alternativas": [
+      "Ensinava a guerrear",
+      "Oferecia sacrifícios por eles caso tivessem pecado",
+      "Mandava-os ao templo todos os dias",
+      "Dava-lhes riquezas"
+    ],
+    "id": 3441,
+    "pergunta": "O que Jó fazia regularmente pelos seus filhos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:5"
+  },
+  {
+    "explicacao": "Satanás apareceu entre os filhos de Deus para acusar Jó diante do Senhor.",
+    "alternativas": [
+      "No templo",
+      "Entre os filhos de Deus",
+      "No deserto",
+      "No palácio de Jó"
+    ],
+    "id": 3442,
+    "pergunta": "Onde Satanás apareceu diante de Deus para acusar Jó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:6"
+  },
+  {
+    "explicacao": "Satanás afirmou que Jó servia a Deus apenas porque recebia proteção e bênçãos.",
+    "alternativas": [
+      "Jó era forte demais",
+      "Jó servia a Deus apenas porque recebia bênçãos",
+      "Jó não conhecia Deus",
+      "Jó era um homem injusto"
+    ],
+    "id": 3443,
+    "pergunta": "Qual foi o primeiro argumento de Satanás contra Jó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:9-10"
+  },
+  {
+    "explicacao": "Deus permitiu que Satanás tocasse nos bens de Jó, mas não permitiu que tocasse em sua vida.",
+    "alternativas": [
+      "Tirar seus bens",
+      "Ferir seus servos",
+      "Tocar em sua vida",
+      "Destruir seus animais"
+    ],
+    "id": 3444,
+    "pergunta": "O que Satanás não recebeu permissão para fazer na primeira prova de Jó?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:12"
+  },
+  {
+    "explicacao": "Jó é apresentado como um homem íntegro, reto, temente a Deus e que se afastava do mal.",
+    "alternativas": [
+      "Rico e famoso entre os reis",
+      "Íntegro, reto, temente a Deus e que se desviava do mal",
+      "Guerreiro poderoso",
+      "Sacerdote do templo"
+    ],
+    "id": 3445,
+    "pergunta": "Qual era a principal descrição de Jó no início do livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:1"
+  },
+  {
+    "explicacao": "Jó oferecia sacrifícios pelos seus filhos, pois temia que eles tivessem pecado contra Deus.",
+    "alternativas": [
+      "Ensinava a guerrear",
+      "Oferecia sacrifícios por eles caso tivessem pecado",
+      "Mandava-os ao templo todos os dias",
+      "Dava-lhes riquezas"
+    ],
+    "id": 3446,
+    "pergunta": "O que Jó fazia regularmente pelos seus filhos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:5"
+  },
+  {
+    "explicacao": "Satanás apareceu entre os filhos de Deus quando eles vieram apresentar-se diante do Senhor.",
+    "alternativas": [
+      "No templo",
+      "Entre os filhos de Deus",
+      "No deserto",
+      "No palácio de Jó"
+    ],
+    "id": 3447,
+    "pergunta": "Onde Satanás apareceu diante de Deus para acusar Jó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:6"
+  },
+  {
+    "explicacao": "Satanás afirmou que Jó servia a Deus apenas porque recebia proteção e bênçãos.",
+    "alternativas": [
+      "Jó era forte demais",
+      "Jó servia a Deus apenas porque recebia bênçãos",
+      "Jó não conhecia Deus",
+      "Jó era um homem injusto"
+    ],
+    "id": 3448,
+    "pergunta": "Qual foi o primeiro argumento de Satanás contra Jó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:9-10"
+  },
+  {
+    "explicacao": "Na primeira prova, Deus permitiu que Satanás tocasse nos bens de Jó, mas não em sua vida.",
+    "alternativas": [
+      "Tirar seus bens",
+      "Ferir seus servos",
+      "Tocar em sua vida",
+      "Destruir seus animais"
+    ],
+    "id": 3449,
+    "pergunta": "O que Satanás não recebeu permissão para fazer na primeira prova de Jó?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:12"
+  },
+  {
+    "explicacao": "Jó rasgou suas vestes, adorou a Deus e reconheceu que tudo estava sob o controle do Senhor.",
+    "alternativas": [
+      "Pecou contra Deus",
+      "Rasgou suas vestes, adorou e reconheceu a soberania de Deus",
+      "Fugiu para outra terra",
+      "Acusou seus amigos"
+    ],
+    "id": 3450,
+    "pergunta": "Qual foi a atitude de Jó quando perdeu seus bens e filhos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:20-22"
+  },
+  {
+    "explicacao": "Satanás afirmou que Jó abandonaria sua fé se fosse atingido em seu corpo.",
+    "alternativas": [
+      "Tiraria seus amigos",
+      "Tocaria em seus ossos e carne",
+      "Tiraria sua casa",
+      "Tiraria seu nome"
+    ],
+    "id": 3451,
+    "pergunta": "O que Satanás disse que faria Jó abandonar sua fé?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 2:5"
+  },
+  {
+    "explicacao": "Jó foi ferido com chagas malignas desde a planta dos pés até o alto da cabeça.",
+    "alternativas": [
+      "Cegueira",
+      "Lepra do Egito",
+      "Chagas malignas da planta dos pés ao alto da cabeça",
+      "Febre intensa"
+    ],
+    "id": 3452,
+    "pergunta": "Qual foi a doença que atingiu Jó?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 2:7"
+  },
+  {
+    "explicacao": "Elifaz foi o primeiro dos amigos de Jó a responder durante os diálogos.",
+    "alternativas": [
+      "Bildade",
+      "Zofar",
+      "Elifaz",
+      "Eliú"
+    ],
+    "id": 3453,
+    "pergunta": "Qual era o nome do amigo de Jó que falou primeiro?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 4:1"
+  },
+  {
+    "explicacao": "Os amigos de Jó acreditavam que seu sofrimento era consequência de algum pecado cometido.",
+    "alternativas": [
+      "Ele estava sendo punido por algum pecado",
+      "Ele era mais santo que todos",
+      "Deus não existia",
+      "Satanás era maior que Deus"
+    ],
+    "id": 3454,
+    "pergunta": "Qual era a ideia principal dos amigos de Jó sobre seu sofrimento?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 4:7-8"
+  },
+  {
+    "explicacao": "Jó recebeu a visita de três amigos: Elifaz, Bildade e Zofar, que vieram consolá-lo.",
+    "alternativas": [
+      "Dois",
+      "Três",
+      "Quatro",
+      "Cinco"
+    ],
+    "id": 3455,
+    "pergunta": "Quantos amigos principais foram visitar Jó para consolá-lo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 2:11"
+  },
+  {
+    "explicacao": "Elifaz era um dos três amigos de Jó que foram visitá-lo durante seu sofrimento.",
+    "alternativas": [
+      "Elifaz",
+      "Moisés",
+      "Samuel",
+      "Davi"
+    ],
+    "id": 3456,
+    "pergunta": "Qual destes era amigo de Jó?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 2:11"
+  },
+  {
+    "explicacao": "Os amigos de Jó choraram, rasgaram suas vestes e permaneceram sete dias e sete noites em silêncio.",
+    "alternativas": [
+      "Foram embora imediatamente",
+      "Choraram e ficaram sete dias em silêncio",
+      "Deram riquezas a ele",
+      "Levaram-no ao rei"
+    ],
+    "id": 3457,
+    "pergunta": "O que os amigos de Jó fizeram quando o viram sofrendo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 2:12-13"
+  },
+  {
+    "explicacao": "No final do livro, Deus falou com Jó e Eliú também apresentou suas palavras antes da resposta divina.",
+    "alternativas": [
+      "Eliú e Deus",
+      "Apenas Satanás",
+      "Apenas seus filhos",
+      "O rei de Uz"
+    ],
+    "id": 3458,
+    "pergunta": "Quem falou com Jó no final do livro?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 32:2; Jó 38:1"
+  },
+  {
+    "explicacao": "Deus revelou a Jó que Ele é o Criador e possui autoridade sobre toda a criação.",
+    "alternativas": [
+      "Que o homem controla tudo",
+      "Que Deus é o Criador e governa todas as coisas",
+      "Que Jó era maior que todos",
+      "Que os amigos estavam sempre certos"
+    ],
+    "id": 3459,
+    "pergunta": "O que Deus mostrou a Jó sobre sua grandeza?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 38:4"
+  },
+  {
+    "explicacao": "Jó reconheceu o poder e a soberania de Deus ao declarar que Ele pode todas as coisas.",
+    "alternativas": [
+      "\"Eu sei que podes todas as coisas\"",
+      "\"Não acredito em ti\"",
+      "\"Vou abandonar minha fé\"",
+      "\"Meus amigos venceram\""
+    ],
+    "id": 3460,
+    "pergunta": "O que Jó respondeu depois de ouvir Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 42:2"
+  },
+  {
+    "explicacao": "Deus restaurou a vida de Jó e lhe deu o dobro de tudo o que possuía antes.",
+    "alternativas": [
+      "Tirou tudo novamente",
+      "Restaurou sua vida e deu-lhe o dobro do que tinha antes",
+      "Tornou-o rei",
+      "Levou-o ao céu"
+    ],
+    "id": 3461,
+    "pergunta": "O que Deus fez por Jó no final de sua história?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 42:10"
+  },
+  {
+    "explicacao": "Após sua restauração, Jó viveu mais cento e quarenta anos e viu seus filhos e netos.",
+    "alternativas": [
+      "70 anos",
+      "100 anos",
+      "140 anos",
+      "200 anos"
+    ],
+    "id": 3462,
+    "pergunta": "Quantos anos Jó viveu depois de sua restauração?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 42:16"
+  },
+  {
+    "explicacao": "Uma das filhas de Jó após sua restauração recebeu o nome Jemima.",
+    "alternativas": [
+      "Jemima",
+      "Sara",
+      "Miriã",
+      "Raquel"
+    ],
+    "id": 3463,
+    "pergunta": "Qual era o nome de uma das filhas de Jó após sua restauração?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 42:14"
+  },
+  {
+    "explicacao": "O livro de Jó ensina sobre permanecer fiel a Deus mesmo quando enfrentamos sofrimento e dificuldades.",
+    "alternativas": [
+      "Deus sempre evita todo sofrimento",
+      "A fidelidade a Deus permanece mesmo nas dificuldades",
+      "Os ricos nunca sofrem",
+      "O homem entende todos os planos de Deus"
+    ],
+    "id": 3464,
+    "pergunta": "Qual é uma das principais mensagens do livro de Jó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:21-22"
+  },
+  {
+    "explicacao": "Jó é apresentado como um homem íntegro, reto, temente a Deus e que se desviava do mal.",
+    "alternativas": [
+      "Um rei de Israel",
+      "Um homem íntegro e temente a Deus",
+      "Um sacerdote do templo",
+      "Um profeta de Judá"
+    ],
+    "id": 3465,
+    "pergunta": "Quem era Jó segundo a Bíblia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:1"
+  },
+  {
+    "explicacao": "Jó vivia na terra de Uz, onde era conhecido por sua fidelidade e riquezas.",
+    "alternativas": [
+      "Uz",
+      "Canaã",
+      "Egito",
+      "Babilônia"
+    ],
+    "id": 3466,
+    "pergunta": "Em qual região Jó vivia?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:1"
+  },
+  {
+    "explicacao": "Jó tinha sete filhos e três filhas, formando uma grande família.",
+    "alternativas": [
+      "Sete filhos e três filhas",
+      "Cinco filhos e cinco filhas",
+      "Dois filhos e sete filhas",
+      "Dez filhos e uma filha"
+    ],
+    "id": 3467,
+    "pergunta": "Quantos filhos Jó tinha?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:2"
+  },
+  {
+    "explicacao": "A Bíblia destaca que Jó era justo, íntegro, temente a Deus e se afastava do mal.",
+    "alternativas": [
+      "Era muito rico apenas",
+      "Era justo, íntegro e temente a Deus",
+      "Era um grande guerreiro",
+      "Era um rei famoso"
+    ],
+    "id": 3468,
+    "pergunta": "Qual era a principal característica de Jó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:1"
+  },
+  {
+    "explicacao": "Satanás apareceu diante de Deus e questionou a fidelidade de Jó.",
+    "alternativas": [
+      "Um anjo",
+      "Satanás",
+      "Um rei inimigo",
+      "Um sacerdote"
+    ],
+    "id": 3469,
+    "pergunta": "Quem apareceu diante de Deus para acusar Jó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:6-9"
+  },
+  {
+    "explicacao": "Satanás afirmou que Jó abandonaria sua fidelidade e amaldiçoaria a Deus se perdesse seus bens.",
+    "alternativas": [
+      "Fugiria para outra terra",
+      "Amaldiçoaria a Deus",
+      "Se tornaria rei",
+      "Abandonaria sua família"
+    ],
+    "id": 3470,
+    "pergunta": "O que Satanás disse que Jó faria se perdesse seus bens?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:11"
+  },
+  {
+    "explicacao": "Jó perdeu seus bens, seus servos e seus filhos durante a primeira provação.",
+    "alternativas": [
+      "Sua saúde",
+      "Seus bens e seus filhos",
+      "Sua casa apenas",
+      "Seus amigos"
+    ],
+    "id": 3471,
+    "pergunta": "O que Jó perdeu primeiro em sua provação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:13-19"
+  },
+  {
+    "explicacao": "Mesmo diante da perda, Jó adorou a Deus e reconheceu sua soberania.",
+    "alternativas": [
+      "Revoltou-se contra Deus",
+      "Adorou a Deus",
+      "Fugiu de sua terra",
+      "Pediu vingança"
+    ],
+    "id": 3472,
+    "pergunta": "Qual foi a reação de Jó após perder seus filhos e riquezas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:20-21"
+  },
+  {
+    "explicacao": "Satanás feriu Jó com feridas malignas da planta dos pés até a cabeça.",
+    "alternativas": [
+      "Ficou doente com feridas malignas",
+      "Perdeu sua voz",
+      "Foi preso",
+      "Ficou cego"
+    ],
+    "id": 3473,
+    "pergunta": "O que aconteceu com Jó depois da segunda permissão dada a Satanás?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 2:7"
+  },
+  {
+    "explicacao": "A esposa de Jó sugeriu que ele amaldiçoasse a Deus e morresse.",
+    "alternativas": [
+      "Sua esposa",
+      "Seu amigo Elifaz",
+      "Seu filho",
+      "Seu servo"
+    ],
+    "id": 3474,
+    "pergunta": "Quem disse a Jó para amaldiçoar a Deus e morrer?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 2:9"
+  },
+  {
+    "explicacao": "Havia um homem na terra de Uz, cujo nome era Jó; e era este homem íntegro, reto e temente a Deus.",
+    "alternativas": [
+      "Terra de Uz",
+      "Ur dos Caldeus",
+      "Terra de Midiã",
+      "Canaã"
+    ],
+    "id": 3475,
+    "pergunta": "Em que terra o patriarca Jó vivia quando passaram as suas provações?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1:1"
+  },
+  {
+    "explicacao": "Mesmo perdendo filhos, bens e saúde, Jó declarou: 'O Senhor o deu, e o Senhor o tomou: bendito seja o nome do Senhor'.",
+    "alternativas": [
+      "Jó",
+      "Abraão",
+      "Jacó",
+      "Jeremias"
+    ],
+    "id": 3476,
+    "pergunta": "Quem perdeu tudo o que tinha, mas se recusou a amaldiçoar a Deus e manteve sua integridade?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Jó 1-2"
+  },
+  {
+    "explicacao": "O livro literário-poético de Jó explora de forma profunda a soberania de Deus, a fidelidade humana e os limites das explicações tradicionais para o sofrimento.",
+    "alternativas": [
+      "Eclesiastes",
+      "Salmos",
+      "Jó",
+      "Provérbios"
+    ],
+    "id": 3477,
+    "pergunta": "Qual livro de sabedoria aborda formalmente o dilema teológico do sofrimento do justo por meio de debates entre o protagonista e seus amigos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Jó",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Livro de Jó"
+  }
+]

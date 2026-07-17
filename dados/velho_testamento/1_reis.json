@@ -1,0 +1,1413 @@
+[
+  {
+    "explicacao": "Joabe, comandante do exército de Davi, apoiou Adonias na tentativa de assumir o reino antes de Salomão.",
+    "alternativas": [
+      "Joabe",
+      "Benaia",
+      "Abner",
+      "Asael"
+    ],
+    "id": 2113,
+    "pergunta": "Quem era o comandante do exército de Davi que apoiou Adonias contra Salomão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 1:7"
+  },
+  {
+    "explicacao": "Adonias pediu a Bate-Seba para interceder junto a Salomão para que ele se casasse com Abisague, a sunamita.",
+    "alternativas": [
+      "Ser comandante do exército",
+      "Receber a vinha de Nabote",
+      "Casar-se com Abisague, a sunamita",
+      "Governar uma parte de Israel"
+    ],
+    "id": 2114,
+    "pergunta": "Qual pedido Adonias fez a Bate-Seba que levou Salomão a condená-lo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 2:17-22"
+  },
+  {
+    "explicacao": "Benaia cumpriu a ordem de Salomão e matou Adonias.",
+    "alternativas": [
+      "Joabe",
+      "Benaia",
+      "Abiatar",
+      "Zadoque"
+    ],
+    "id": 2115,
+    "pergunta": "Quem matou Adonias por ordem do rei Salomão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 2:25"
+  },
+  {
+    "explicacao": "Abiatar foi afastado do sacerdócio porque apoiou Adonias contra Salomão.",
+    "alternativas": [
+      "Porque abandonou Jerusalém",
+      "Porque apoiou Adonias contra Salomão",
+      "Porque roubou ofertas",
+      "Porque adorou Baal"
+    ],
+    "id": 2116,
+    "pergunta": "Por que Abiatar foi afastado do sacerdócio por Salomão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 2:26-27"
+  },
+  {
+    "explicacao": "Salomão pediu ao Senhor um coração sábio e entendido para governar o povo.",
+    "alternativas": [
+      "Mil cavalos para o exército",
+      "Um coração sábio e entendido",
+      "Riquezas e fama",
+      "Vitória sobre os povos vizinhos"
+    ],
+    "id": 2117,
+    "pergunta": "Qual foi o pedido de Salomão ao Senhor quando ofereceu sacrifícios em Gibeão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 3:9-12"
+  },
+  {
+    "explicacao": "Salomão estabeleceu doze oficiais responsáveis por sustentar o reino.",
+    "alternativas": [
+      "5",
+      "10",
+      "12",
+      "24"
+    ],
+    "id": 2118,
+    "pergunta": "Quantos oficiais Salomão tinha sobre Israel para sustentar o reino?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 4:7"
+  },
+  {
+    "explicacao": "Baaná era o oficial responsável pelo distrito de Naftali.",
+    "alternativas": [
+      "Aimaás",
+      "Ainoã",
+      "Baaná",
+      "Ben-Hur"
+    ],
+    "id": 2119,
+    "pergunta": "Qual era o nome do oficial responsável pelo distrito de Naftali?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 4:16"
+  },
+  {
+    "explicacao": "A sabedoria de Salomão abrangia conhecimentos sobre animais, aves, répteis e peixes.",
+    "alternativas": [
+      "Leão",
+      "Águia",
+      "Formiga",
+      "Animais, aves, répteis e peixes"
+    ],
+    "id": 2120,
+    "pergunta": "Qual exemplo é citado sobre a sabedoria de Salomão ao falar sobre a criação?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 4:33"
+  },
+  {
+    "explicacao": "Salomão enviou trinta mil homens ao Líbano para cortar madeira para a construção.",
+    "alternativas": [
+      "3.000",
+      "10.000",
+      "20.000",
+      "30.000"
+    ],
+    "id": 2121,
+    "pergunta": "Quantos trabalhadores Salomão enviou para o Líbano para cortar madeira?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 5:13-14"
+  },
+  {
+    "explicacao": "O templo construído por Salomão tinha sessenta côvados de comprimento.",
+    "alternativas": [
+      "20 côvados",
+      "40 côvados",
+      "60 côvados",
+      "80 côvados"
+    ],
+    "id": 2122,
+    "pergunta": "Qual era o comprimento do templo de Salomão em côvados?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 6:2"
+  },
+  {
+    "explicacao": "A Arca da Aliança foi colocada dentro do Santo dos Santos do templo.",
+    "alternativas": [
+      "A mesa dos pães",
+      "O altar de incenso",
+      "A Arca da Aliança",
+      "O candelabro de ouro"
+    ],
+    "id": 2123,
+    "pergunta": "O que havia dentro do Santo dos Santos no templo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 8:6-9"
+  },
+  {
+    "explicacao": "Dois grandes querubins foram colocados no Santo dos Santos.",
+    "alternativas": [
+      "Um par",
+      "Dois pares",
+      "Três pares",
+      "Quatro pares"
+    ],
+    "id": 2124,
+    "pergunta": "Quantos pares de querubins foram colocados no Santo dos Santos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 6:23-28"
+  },
+  {
+    "explicacao": "Deus prometeu manter os descendentes de Salomão no trono se eles permanecessem fiéis ao Senhor.",
+    "alternativas": [
+      "Que ele nunca morreria",
+      "Que Israel teria riquezas eternas",
+      "Que seus descendentes reinariam se andassem nos caminhos do Senhor",
+      "Que Israel dominaria todos os povos"
+    ],
+    "id": 2125,
+    "pergunta": "Qual foi a promessa de Deus a Salomão após a dedicação do templo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 9:4-5"
+  },
+  {
+    "explicacao": "Salomão reinou quarenta anos antes de morrer.",
+    "alternativas": [
+      "30 anos",
+      "40 anos",
+      "50 anos",
+      "60 anos"
+    ],
+    "id": 2126,
+    "pergunta": "Quantos anos Salomão reinou antes de morrer?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 11:42"
+  },
+  {
+    "explicacao": "O profeta Aías rasgou uma capa nova em doze pedaços e anunciou a Jeroboão a divisão do reino.",
+    "alternativas": [
+      "Elias",
+      "Eliseu",
+      "Aías",
+      "Micaías"
+    ],
+    "id": 2127,
+    "pergunta": "Qual profeta rasgou uma capa nova em doze pedaços diante de Jeroboão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 11:29-31"
+  },
+  {
+    "explicacao": "Após a divisão do reino, Judá e Benjamim permaneceram com a casa de Davi.",
+    "alternativas": [
+      "Judá e Benjamim",
+      "Levi e Simeão",
+      "Efraim e Manassés",
+      "Dã e Naftali"
+    ],
+    "id": 2128,
+    "pergunta": "Qual tribo permaneceu com a casa de Davi após a divisão do reino?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 12:21"
+  },
+  {
+    "explicacao": "Roboão era o rei de Judá quando Jeroboão começou a reinar sobre Israel.",
+    "alternativas": [
+      "Roboão",
+      "Asa",
+      "Abias",
+      "Josafá"
+    ],
+    "id": 2129,
+    "pergunta": "Quem era o rei de Judá quando Jeroboão começou a reinar em Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 12:17-20"
+  },
+  {
+    "explicacao": "Um homem de Deus vindo de Judá anunciou julgamento contra o altar de Betel construído por Jeroboão.",
+    "alternativas": [
+      "Homem de Deus vindo de Judá",
+      "Elias",
+      "Eliseu",
+      "Samuel"
+    ],
+    "id": 2130,
+    "pergunta": "Qual profeta anunciou o julgamento contra o altar de Betel construído por Jeroboão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 13:1-3"
+  },
+  {
+    "explicacao": "Elias matou os profetas de Baal após o confronto no monte Carmelo.",
+    "alternativas": [
+      "Acabe",
+      "Elias",
+      "Obadias",
+      "Eliseu"
+    ],
+    "id": 2131,
+    "pergunta": "Quem matou os profetas de Baal depois do confronto no monte Carmelo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 18:40"
+  },
+  {
+    "explicacao": "Acabe morreu enquanto lutava contra os sírios, mesmo estando disfarçado.",
+    "alternativas": [
+      "Acabe",
+      "Onri",
+      "Jeroboão",
+      "Baasa"
+    ],
+    "id": 2132,
+    "pergunta": "Qual rei morreu enquanto lutava disfarçado contra os sírios?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 22:30-37"
+  },
+  {
+    "explicacao": "Adonias tentou se declarar rei antes que Salomão fosse confirmado como sucessor de Davi.",
+    "alternativas": [
+      "Absalão",
+      "Adonias",
+      "Roboão",
+      "Jeroboão"
+    ],
+    "id": 2133,
+    "pergunta": "Quem tentou tomar o reino antes de Salomão ser confirmado como rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 1:5-7"
+  },
+  {
+    "explicacao": "O profeta Natã aconselhou Davi a cumprir sua promessa e declarar Salomão como rei.",
+    "alternativas": [
+      "Natã",
+      "Elias",
+      "Zadoque",
+      "Benaia"
+    ],
+    "id": 2134,
+    "pergunta": "Quem aconselhou Davi a declarar Salomão como rei?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 1:11-14"
+  },
+  {
+    "explicacao": "Roboão, filho de Salomão, reinou depois dele sobre Judá.",
+    "alternativas": [
+      "Acabe",
+      "Roboão",
+      "Asa",
+      "Josafá"
+    ],
+    "id": 2135,
+    "pergunta": "Qual foi o nome do filho de Salomão que reinou depois dele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 11:43"
+  },
+  {
+    "explicacao": "Salomão reinou quarenta anos sobre todo Israel em Jerusalém.",
+    "alternativas": [
+      "20 anos",
+      "30 anos",
+      "40 anos",
+      "50 anos"
+    ],
+    "id": 2136,
+    "pergunta": "Quantos anos Salomão reinou sobre Israel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 11:42"
+  },
+  {
+    "explicacao": "Bate-Seba era a mãe de Salomão e participou da confirmação dele como rei.",
+    "alternativas": [
+      "Bate-Seba",
+      "Jezabel",
+      "Abigail",
+      "Mical"
+    ],
+    "id": 2137,
+    "pergunta": "Qual era o nome da mãe de Salomão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 1:28-31"
+  },
+  {
+    "explicacao": "Salomão pediu a Deus um coração entendido para governar e julgar o povo com justiça.",
+    "alternativas": [
+      "Muitos cavalos",
+      "Um coração entendido para julgar o povo",
+      "Vitória sobre seus inimigos",
+      "Riquezas sem fim"
+    ],
+    "id": 2138,
+    "pergunta": "Qual pedido Salomão fez quando Deus apareceu a ele em sonho?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 3:5-9"
+  },
+  {
+    "explicacao": "A decisão sobre as duas mulheres que disputavam uma criança revelou a grande sabedoria de Salomão.",
+    "alternativas": [
+      "Construir o templo",
+      "Julgar a causa de duas mulheres que disputavam uma criança",
+      "Derrotar seus inimigos",
+      "Fazer aliança com o Egito"
+    ],
+    "id": 2139,
+    "pergunta": "Qual foi a primeira grande decisão de Salomão que mostrou sua sabedoria?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 3:16-28"
+  },
+  {
+    "explicacao": "Salomão pronunciou três mil provérbios durante sua vida.",
+    "alternativas": [
+      "500",
+      "1.000",
+      "3.000",
+      "5.000"
+    ],
+    "id": 2140,
+    "pergunta": "Quantos provérbios Salomão proferiu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 4:32"
+  },
+  {
+    "explicacao": "Salomão compôs mil e cinco cânticos.",
+    "alternativas": [
+      "100",
+      "500",
+      "1.000",
+      "1.005"
+    ],
+    "id": 2141,
+    "pergunta": "Quantos cânticos Salomão compôs?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 4:32"
+  },
+  {
+    "explicacao": "O palácio de Salomão levou treze anos para ser concluído.",
+    "alternativas": [
+      "7 anos",
+      "10 anos",
+      "13 anos",
+      "20 anos"
+    ],
+    "id": 2142,
+    "pergunta": "Quanto tempo levou para construir o palácio de Salomão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 7:1"
+  },
+  {
+    "explicacao": "Hirão-Abi era um artesão habilidoso enviado pelo rei Hirão para trabalhar nas obras do templo.",
+    "alternativas": [
+      "Bezalel",
+      "Hirão-Abi",
+      "Urias",
+      "Aoliabe"
+    ],
+    "id": 2143,
+    "pergunta": "Qual era o nome do artesão enviado pelo rei Hirão para trabalhar no templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 7:13-14"
+  },
+  {
+    "explicacao": "Quando Salomão terminou sua oração, a glória do Senhor encheu o templo.",
+    "alternativas": [
+      "O povo foi embora",
+      "Fogo caiu do céu",
+      "A glória do Senhor encheu o templo",
+      "Começou uma guerra"
+    ],
+    "id": 2144,
+    "pergunta": "O que aconteceu quando Salomão terminou a oração de dedicação do templo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 8:10-11"
+  },
+  {
+    "explicacao": "A construção do templo foi concluída em sete anos.",
+    "alternativas": [
+      "5 anos",
+      "7 anos",
+      "12 anos",
+      "20 anos"
+    ],
+    "id": 2145,
+    "pergunta": "Quantos anos a construção do templo levou até ser concluída?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 6:37-38"
+  },
+  {
+    "explicacao": "Deus se irou contra Salomão porque ele seguiu outros deuses influenciado por suas muitas mulheres.",
+    "alternativas": [
+      "Ele perdeu uma guerra",
+      "Ele acumulou riquezas",
+      "Ele seguiu outros deuses por influência de suas mulheres",
+      "Ele abandonou Jerusalém"
+    ],
+    "id": 2146,
+    "pergunta": "Qual foi o motivo principal pelo qual Deus se irou contra Salomão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 11:4-10"
+  },
+  {
+    "explicacao": "O profeta Aías anunciou a Jeroboão que Deus lhe daria dez tribos de Israel.",
+    "alternativas": [
+      "Elias",
+      "Aías",
+      "Eliseu",
+      "Natã"
+    ],
+    "id": 2147,
+    "pergunta": "Quem foi o profeta que anunciou a Jeroboão que ele reinaria sobre dez tribos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 11:29-31"
+  },
+  {
+    "explicacao": "Jeroboão fez dois bezerros de ouro para impedir que o povo fosse adorar em Jerusalém.",
+    "alternativas": [
+      "Destruiu Jerusalém",
+      "Fez dois bezerros de ouro para o povo adorar",
+      "Construiu o templo errado",
+      "Deixou de guerrear"
+    ],
+    "id": 2148,
+    "pergunta": "Qual pecado Jeroboão cometeu ao se tornar rei de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 12:28-30"
+  },
+  {
+    "explicacao": "Abias foi rei de Judá depois de Roboão.",
+    "alternativas": [
+      "Abias",
+      "Acabe",
+      "Jeú",
+      "Onri"
+    ],
+    "id": 2149,
+    "pergunta": "Qual era o nome do rei de Judá que reinou depois de Roboão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 14:31"
+  },
+  {
+    "explicacao": "Onri construiu Samaria e estabeleceu a cidade como capital do reino de Israel.",
+    "alternativas": [
+      "Jeroboão",
+      "Onri",
+      "Acabe",
+      "Jeorão"
+    ],
+    "id": 2150,
+    "pergunta": "Quem foi o rei de Israel que construiu Samaria e fez dela sua capital?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 16:23-24"
+  },
+  {
+    "explicacao": "O servo de Elias observou a pequena nuvem no mar e anunciou a chegada da chuva.",
+    "alternativas": [
+      "Geazi",
+      "Obadias",
+      "O moço de Elias",
+      "Eliseu"
+    ],
+    "id": 2151,
+    "pergunta": "Quem era o servo de Elias que anunciou a chegada da chuva?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 18:43-44"
+  },
+  {
+    "explicacao": "Elias lançou seu manto sobre Eliseu como sinal do chamado para segui-lo como profeta.",
+    "alternativas": [
+      "Uma espada",
+      "Um cajado",
+      "Seu manto",
+      "Um livro"
+    ],
+    "id": 2152,
+    "pergunta": "O que Elias deixou sobre Eliseu quando o chamou para segui-lo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 19:19"
+  },
+  {
+    "explicacao": "Após a morte de Davi, Salomão foi confirmado como rei de Israel.",
+    "alternativas": [
+      "Absalão",
+      "Salomão",
+      "Roboão",
+      "Adonias"
+    ],
+    "id": 2153,
+    "pergunta": "Quem sucedeu Davi como rei de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 1:39"
+  },
+  {
+    "explicacao": "Zadoque, o sacerdote, ungiu Salomão como rei por ordem de Davi.",
+    "alternativas": [
+      "Elias",
+      "Samuel",
+      "Zadoque, o sacerdote",
+      "Eliseu"
+    ],
+    "id": 2154,
+    "pergunta": "Quem ungiu Salomão como rei?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 1:39"
+  },
+  {
+    "explicacao": "Salomão pediu a Deus sabedoria para governar o povo de Israel.",
+    "alternativas": [
+      "Riquezas",
+      "Longa vida",
+      "Sabedoria para governar",
+      "Muitas terras"
+    ],
+    "id": 2155,
+    "pergunta": "O que Salomão pediu a Deus em Gibeão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 3:9-12"
+  },
+  {
+    "explicacao": "O templo do Senhor foi construído em Jerusalém durante o reinado de Salomão.",
+    "alternativas": [
+      "Belém",
+      "Jerusalém",
+      "Samaria",
+      "Hebrom"
+    ],
+    "id": 2156,
+    "pergunta": "Em que cidade Salomão construiu o templo do Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 6:1"
+  },
+  {
+    "explicacao": "Hirão, rei de Tiro, forneceu madeira de cedro e cipreste para a construção do templo.",
+    "alternativas": [
+      "Acabe",
+      "Hirão",
+      "Hadade",
+      "Ben-Hadade"
+    ],
+    "id": 2157,
+    "pergunta": "Qual rei forneceu madeira de cedro e cipreste para a construção do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 5:1-10"
+  },
+  {
+    "explicacao": "A rainha de Sabá visitou Salomão para colocar sua sabedoria à prova com perguntas difíceis.",
+    "alternativas": [
+      "Rainha Ester",
+      "Rainha de Sabá",
+      "Jezabel",
+      "Atalia"
+    ],
+    "id": 2158,
+    "pergunta": "Quem visitou Salomão para provar sua sabedoria com perguntas difíceis?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 10:1"
+  },
+  {
+    "explicacao": "Salomão levou sete anos para concluir a construção do templo do Senhor.",
+    "alternativas": [
+      "Cinco anos",
+      "Seis anos",
+      "Sete anos",
+      "Dez anos"
+    ],
+    "id": 2159,
+    "pergunta": "Quantos anos Salomão levou para construir o templo do Senhor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 6:38"
+  },
+  {
+    "explicacao": "Elias enfrentou os profetas de Baal no monte Carmelo para mostrar que o Senhor é o verdadeiro Deus.",
+    "alternativas": [
+      "Eliseu",
+      "Isaías",
+      "Elias",
+      "Natã"
+    ],
+    "id": 2160,
+    "pergunta": "Quem foi o profeta que enfrentou os profetas de Baal no monte Carmelo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 18:20-39"
+  },
+  {
+    "explicacao": "Elias enfrentou quatrocentos e cinquenta profetas de Baal no monte Carmelo.",
+    "alternativas": [
+      "100",
+      "300",
+      "450",
+      "700"
+    ],
+    "id": 2161,
+    "pergunta": "Quantos profetas de Baal enfrentaram Elias no monte Carmelo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 18:22"
+  },
+  {
+    "explicacao": "Jezabel era a esposa do rei Acabe e incentivou a idolatria em Israel.",
+    "alternativas": [
+      "Mical",
+      "Jezabel",
+      "Abigail",
+      "Bate-Seba"
+    ],
+    "id": 2162,
+    "pergunta": "Quem era a esposa do rei Acabe?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 16:31"
+  },
+  {
+    "explicacao": "Deus multiplicou a farinha e o azeite na casa da viúva de Sarepta por meio de Elias.",
+    "alternativas": [
+      "Na casa de uma viúva",
+      "No palácio de Acabe",
+      "No templo",
+      "No deserto"
+    ],
+    "id": 2163,
+    "pergunta": "Onde ocorreu o milagre da farinha e do azeite realizado por Deus através de Elias?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 17:8-16"
+  },
+  {
+    "explicacao": "Elias ressuscitou o filho da viúva de Sarepta mediante o poder de Deus.",
+    "alternativas": [
+      "A sunamita",
+      "A viúva de Sarepta",
+      "Ana",
+      "A esposa de Obadias"
+    ],
+    "id": 2164,
+    "pergunta": "Quem teve seu filho ressuscitado por Elias?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 17:17-24"
+  },
+  {
+    "explicacao": "A seca nos dias de Elias durou três anos e seis meses.",
+    "alternativas": [
+      "Um ano",
+      "Dois anos",
+      "Três anos e seis meses",
+      "Sete anos"
+    ],
+    "id": 2165,
+    "pergunta": "Durante quantos anos e meses não choveu nos dias de Elias?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 17:1; 18:1"
+  },
+  {
+    "explicacao": "Obadias protegeu cem profetas do Senhor escondendo-os em duas cavernas.",
+    "alternativas": [
+      "Acabe",
+      "Elias",
+      "Obadias",
+      "Eliseu"
+    ],
+    "id": 2166,
+    "pergunta": "Quem escondeu cem profetas do Senhor em duas cavernas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 18:3-4"
+  },
+  {
+    "explicacao": "Quando Elias orou no monte Carmelo, Deus respondeu enviando fogo do céu.",
+    "alternativas": [
+      "Chuva",
+      "Maná",
+      "Fogo",
+      "Granizo"
+    ],
+    "id": 2167,
+    "pergunta": "O que caiu do céu quando Elias orou no monte Carmelo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 18:38"
+  },
+  {
+    "explicacao": "Elias ouviu a voz mansa e delicada de Deus no monte Horebe, também chamado Sinai.",
+    "alternativas": [
+      "Sinai (Horebe)",
+      "Carmelo",
+      "Sião",
+      "Moriá"
+    ],
+    "id": 2168,
+    "pergunta": "Em qual monte Elias ouviu a voz mansa e delicada de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 19:8-13"
+  },
+  {
+    "explicacao": "Eliseu foi chamado por Deus para suceder Elias no ministério profético.",
+    "alternativas": [
+      "Samuel",
+      "Eliseu",
+      "Natã",
+      "Isaías"
+    ],
+    "id": 2169,
+    "pergunta": "Quem foi escolhido para suceder Elias como profeta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 19:19-21"
+  },
+  {
+    "explicacao": "Nabote recusou vender sua vinha ao rei Acabe por ser herança de sua família.",
+    "alternativas": [
+      "Nabote",
+      "Boaz",
+      "Jessé",
+      "Quis"
+    ],
+    "id": 2170,
+    "pergunta": "Quem era o dono da vinha desejada pelo rei Acabe?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 21:1-3"
+  },
+  {
+    "explicacao": "Jezabel organizou uma falsa acusação para que Nabote fosse morto e Acabe tomasse sua vinha.",
+    "alternativas": [
+      "Atalia",
+      "Jezabel",
+      "Mical",
+      "Rainha de Sabá"
+    ],
+    "id": 2171,
+    "pergunta": "Quem planejou a morte de Nabote?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 21:7-16"
+  },
+  {
+    "explicacao": "Acabe foi mortalmente ferido por uma flecha durante uma batalha e morreu ao entardecer.",
+    "alternativas": [
+      "Salomão",
+      "Acabe",
+      "Roboão",
+      "Asa"
+    ],
+    "id": 2172,
+    "pergunta": "Qual rei de Israel morreu atingido por uma flecha em batalha?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 22:34-37"
+  },
+  {
+    "explicacao": "Salomão herdou o trono de Davi, pediu sabedoria a Deus e foi o responsável por erguer o magnífico Templo.",
+    "alternativas": [
+      "Salomão",
+      "Davi",
+      "Ezequias",
+      "Josias"
+    ],
+    "id": 2173,
+    "pergunta": "Quem foi o rei conhecido por sua extrema sabedoria e por construir o Templo de Jerusalém?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 3:12 / 1 Reis 6"
+  },
+  {
+    "explicacao": "Elias se escondeu junto ao ribeiro de Querite; os corvos lhe traziam pão e carne, e ele bebia do ribeiro.",
+    "alternativas": [
+      "Ribeiro de Querite",
+      "Rio Jordão",
+      "Ribeiro de Cedrom",
+      "Rio Quishon"
+    ],
+    "id": 2174,
+    "pergunta": "Onde o ribeiro secou após o profeta Elias ser alimentado por corvos ali?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 17:3-5"
+  },
+  {
+    "explicacao": "Elias convocou todo o Israel e os profetas de Baal para o grande confronto espiritual no topo do Monte Carmelo.",
+    "alternativas": [
+      "Monte Carmelo",
+      "Monte Sinai",
+      "Monte Hermom",
+      "Monte Tabor"
+    ],
+    "id": 2175,
+    "pergunta": "Em que monte Elias desafiou os 450 profetas de Baal para provar quem era o Deus verdadeiro?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 18:19-20"
+  },
+  {
+    "explicacao": "Então caiu fogo do Senhor, e consumiu o holocausto, e a lenha, e as pedras, e o pó, e ainda lambeu a água.",
+    "alternativas": [
+      "Caiu fogo do céu e consumiu o holocausto",
+      "Abriu-se um abismo sob os profetas de Baal",
+      "Começou a chover granizo de ouro",
+      "O altar flutuou diante do povo"
+    ],
+    "id": 2176,
+    "pergunta": "Que milagre aconteceu quando Elias orou no Monte Carmelo diante do altar reconstruído?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 18:38"
+  },
+  {
+    "explicacao": "O livro de 1 Reis cobre o auge de Salomão e a trágica divisão tribal após sua morte.",
+    "alternativas": [
+      "1 Reis",
+      "2 Reis",
+      "2 Crônicas",
+      "Provérbios"
+    ],
+    "id": 2177,
+    "pergunta": "Qual livro narra a sabedoria de Salomão e a divisão de Israel em dois reinos (Norte e Sul)?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 3 e 12"
+  },
+  {
+    "explicacao": "O capítulo 12 de 1 Reis relata a insensatez de Roboão que causou a cisão de Israel e Judá.",
+    "alternativas": [
+      "1 Reis",
+      "1 Samuel",
+      "Esdras",
+      "Neemias"
+    ],
+    "id": 2178,
+    "pergunta": "Qual livro conta sobre a divisão do reino após a morte de Salomão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 12"
+  },
+  {
+    "explicacao": "Joabe seguiu a Davi por anos, mas por ter derramado sangue inocente em tempo de paz e apoiado Adonias, foi sentenciado à morte por Salomão.",
+    "alternativas": [
+      "Abner",
+      "Amasa",
+      "Joabe",
+      "Benaia"
+    ],
+    "id": 2179,
+    "pergunta": "Qual general e chefe do exército de Davi esteve ao seu lado na maioria das guerras, mas acabou sendo executado no início do reino de Salomão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 2:34"
+  },
+  {
+    "explicacao": "Jezabel, filha do rei dos sidônios, introduziu formalmente o culto a Baal e Aserá no Reino do Norte e tentou exterminar os profetas de Deus.",
+    "alternativas": [
+      "Atalia",
+      "Jezabel",
+      "Vashti",
+      "Ester"
+    ],
+    "id": 2180,
+    "pergunta": "Qual rainha estrangeira, idólatra e cruel casou-se com o rei Acabe e perseguiu os profetas do Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 16:31"
+  },
+  {
+    "explicacao": "Fortalecido pelo alimento angelical, Elias caminhou quarenta dias até Horebe, o monte de Deus, abrigando-se em uma caverna local.",
+    "alternativas": [
+      "Monte Carmelo",
+      "Monte Horebe",
+      "Monte Hermom",
+      "Monte Gerizim"
+    ],
+    "id": 2181,
+    "pergunta": "Para qual monte Elias fugiu para se esconder da ameaça de Jezabel e onde passou 40 dias em uma caverna?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 19:8-9"
+  },
+  {
+    "explicacao": "Os servos de Salomão e as frotas de Hirão navegaram até Ofir e de lá trouxeram centenas de talentos de ouro de alta pureza.",
+    "alternativas": [
+      "Ofir",
+      "Tarsis",
+      "Sabá",
+      "Egito"
+    ],
+    "id": 2182,
+    "pergunta": "De onde vinha o ouro finíssimo que Salomão importava por meio de frotas marítimas para decorar as obras reais?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 9:28"
+  },
+  {
+    "explicacao": "Ao propor a divisão física da criança, Salomão apelou para o instinto materno real: a verdadeira mãe preferiu perder o filho a vê-lo morto.",
+    "alternativas": [
+      "Prender ambas até que confessassem",
+      "Ordenar cortar o bebê vivo ao meio para dividir entre as duas",
+      "Dar o bebê a uma terceira mulher",
+      "Fazer um sorteio sagrado"
+    ],
+    "id": 2183,
+    "pergunta": "Que decisão drástica de Salomão desmascarou a mentira de uma das duas mães que disputavam um bebê?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 3:16-27"
+  },
+  {
+    "explicacao": "Deus enviou um mensageiro celestial para alimentar o exausto profeta, cuja restauração física o permitiu caminhar 40 dias até o monte Horebe.",
+    "alternativas": [
+      "Foi arrebatado por um redemoinho",
+      "Um anjo o tocou e forneceu pão assado e água",
+      "Foi atacado por ursos",
+      "Corvos trouxeram carne pela manhã"
+    ],
+    "id": 2184,
+    "pergunta": "O que aconteceu com o profeta Elias no deserto quando ele estava deprimido e desejando a morte debaixo de um zimbro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 19:4-8"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Roboão",
+    "alternativas": [
+      "Roboão",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2185,
+    "pergunta": "Qual filho de Salomão foi o responsável pela divisão do reino por se recusar a aliviar os impostos do povo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 12:13-14"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Jeroboão I",
+    "alternativas": [
+      "Jeroboão I",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2186,
+    "pergunta": "Quem foi o primeiro rei do Reino do Norte (Israel) após a divisão das tribos, que construiu dois bezerros de ouro em Dã e Betel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 12:28-29"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Zinri",
+    "alternativas": [
+      "Zinri",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2187,
+    "pergunta": "Qual rei de Israel (Reino do Norte) governou por apenas sete dias antes de queimar o palácio sobre si mesmo ao ser sitiado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 16:15-18"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Micaías, filho de Inlá",
+    "alternativas": [
+      "Micaías, filho de Inlá",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2188,
+    "pergunta": "Qual era o nome do profeta que avisou o rei Acabe que ele morreria na batalha de Ramote-Gileade, contradizendo os 400 profetas falsos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 22:13-23"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Jezreel (a vinha era de Nabote)",
+    "alternativas": [
+      "Jezreel (a vinha era de Nabote)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2189,
+    "pergunta": "Onde ficava a vinha que o rei Acabe cobiçou e que Jezabel armou uma cilada para matar o dono legítimo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 21:1"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Berseba (fronteira sul de Judá)",
+    "alternativas": [
+      "Berseba (fronteira sul de Judá)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2190,
+    "pergunta": "Para qual fortaleza ou cidade do deserto o profeta Elias fugiu quando entrou em profunda depressão, andando um dia de jornada deserto adentro?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 19:3-4"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Ofir",
+    "alternativas": [
+      "Ofir",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2191,
+    "pergunta": "De que local geográfico os mensageiros de Salomão traziam madeira de sândalo e pedras preciosas em grande quantidade?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 10:11"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Na planície do Jordão, entre Sucote e Zaretã",
+    "alternativas": [
+      "Na planície do Jordão, entre Sucote e Zaretã",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2192,
+    "pergunta": "Onde ficavam as minas ou os 'montes de bronze' de onde o rei Salomão fundia os grandes utensílios de metal para o Templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 7:46"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Egito",
+    "alternativas": [
+      "Egito",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2193,
+    "pergunta": "Qual localidade servia como refúgio para o rei Edomita Hadade quando ele fugiu do massacre provocado por Joabe?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 11:17-18"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: A farinha da panela não se acabou e o azeite da botija não faltou até o dia em que o Senhor deu chuva sobre a terra",
+    "alternativas": [
+      "A farinha da panela não se acabou e o azeite da botija não faltou até o dia em que o Senhor deu chuva sobre a terra",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2194,
+    "pergunta": "De que maneira milagrosa a vida da viúva de Sarepta mudou após ela alimentar o profeta Elias com o seu último punhado de farinha?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 17:14-16"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: O homem de Deus de Judá (Profeta sem nome citado no texto de Reis)",
+    "alternativas": [
+      "O homem de Deus de Judá (Profeta sem nome citado no texto de Reis)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2195,
+    "pergunta": "Qual profeta foi ordenado por Deus a clamar contra o altar de Betel nos dias de Jeroboão I, tendo sua história de desobediência a um leão relatada em Reis?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Reis 13"
+  }
+]

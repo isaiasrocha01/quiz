@@ -1,0 +1,1141 @@
+[
+  {
+    "explicacao": "A palavra Pur significa sorte lançada, usada por Hamã para determinar o dia do ataque contra os judeus.",
+    "alternativas": [
+      "Coroa",
+      "Sorte ou destino lançado",
+      "Vitória",
+      "Aliança"
+    ],
+    "id": 2943,
+    "pergunta": "O que significa a palavra “Pur”?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:7"
+  },
+  {
+    "explicacao": "Mordecai vestiu-se de saco e cinza ao saber do decreto que ordenava a destruição dos judeus.",
+    "alternativas": [
+      "Porque perdeu sua posição",
+      "Porque soube do decreto contra os judeus",
+      "Porque estava doente",
+      "Porque foi expulso do palácio"
+    ],
+    "id": 2944,
+    "pergunta": "Por que Mordecai ficou vestido de saco e cinza?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 4:1"
+  },
+  {
+    "explicacao": "Mordecai declarou que talvez Ester tivesse chegado à posição de rainha justamente para aquele momento de livramento.",
+    "alternativas": [
+      "Que ela deveria abandonar o palácio",
+      "Que talvez tivesse chegado ao reino para um momento como aquele",
+      "Que ela deveria se esconder",
+      "Que ela deveria aceitar a ordem de Hamã"
+    ],
+    "id": 2945,
+    "pergunta": "O que Mordecai disse a Ester sobre sua posição como rainha?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 4:14"
+  },
+  {
+    "explicacao": "Ester pediu que os judeus jejuassem por três dias antes que ela entrasse na presença do rei.",
+    "alternativas": [
+      "Um dia",
+      "Dois dias",
+      "Três dias",
+      "Sete dias"
+    ],
+    "id": 2946,
+    "pergunta": "Quantos dias Ester pediu que os judeus jejuassem antes de sua ação?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 4:16"
+  },
+  {
+    "explicacao": "Naquela noite, o rei não conseguiu dormir e pediu que lessem o livro dos registros do reino.",
+    "alternativas": [
+      "Mandou chamar Hamã",
+      "Pediu que lessem o livro dos registros do reino",
+      "Ordenou uma guerra",
+      "Chamou Ester imediatamente"
+    ],
+    "id": 2947,
+    "pergunta": "O que aconteceu quando o rei não conseguiu dormir naquela noite?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 6:1"
+  },
+  {
+    "explicacao": "Hamã sugeriu que a pessoa honrada usasse roupas reais e montasse o cavalo do rei conduzido por um nobre.",
+    "alternativas": [
+      "Entregar riquezas e terras",
+      "Vestir roupas reais e montar o cavalo do rei",
+      "Torná-lo governador",
+      "Dar-lhe o trono"
+    ],
+    "id": 2948,
+    "pergunta": "Que honra Hamã sugeriu ao rei para alguém que ele desejava honrar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 6:7-9"
+  },
+  {
+    "explicacao": "Os amigos e a esposa de Hamã perceberam que sua queda havia começado depois que ele foi obrigado a honrar Mordecai.",
+    "alternativas": [
+      "Seus amigos e sua esposa Zeres",
+      "Os sacerdotes judeus",
+      "Os soldados do rei",
+      "Ester"
+    ],
+    "id": 2949,
+    "pergunta": "Quem avisou Hamã que sua queda diante de Mordecai já começava?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 6:13"
+  },
+  {
+    "explicacao": "A forca preparada por Hamã para Mordecai acabou sendo usada para a morte do próprio Hamã.",
+    "alternativas": [
+      "Foi destruída",
+      "Foi usada para Hamã",
+      "Foi dada ao rei",
+      "Foi levada para Jerusalém"
+    ],
+    "id": 2950,
+    "pergunta": "Qual foi o destino da forca que Hamã preparou para Mordecai?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 7:9-10"
+  },
+  {
+    "explicacao": "O primeiro decreto contra os judeus não podia ser simplesmente revogado porque as leis dos medos e persas não podiam ser anuladas.",
+    "alternativas": [
+      "Porque as leis dos medos e persas não podiam ser revogadas",
+      "Porque Ester não tinha autoridade",
+      "Porque Mordecai não permitiu",
+      "Porque o povo não queria"
+    ],
+    "id": 2951,
+    "pergunta": "Por que o primeiro decreto contra os judeus não podia simplesmente ser cancelado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 8:8"
+  },
+  {
+    "explicacao": "A festa de Purim foi estabelecida para lembrar o livramento dos judeus diante da ameaça de seus inimigos.",
+    "alternativas": [
+      "Comemorar a vitória e o livramento dos judeus de seus inimigos",
+      "Celebrar a coroação de Ester",
+      "Lembrar a construção do templo",
+      "Comemorar o nascimento do rei"
+    ],
+    "id": 2952,
+    "pergunta": "Qual foi a principal razão da celebração da festa de Purim?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 9:20-22"
+  },
+  {
+    "explicacao": "Assuero era rei do Império Persa durante os acontecimentos narrados no livro de Ester.",
+    "alternativas": [
+      "Império Babilônico",
+      "Império Persa",
+      "Império Romano",
+      "Império Egípcio"
+    ],
+    "id": 2953,
+    "pergunta": "Sobre qual império reinava o rei Assuero no livro de Ester?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 1:1"
+  },
+  {
+    "explicacao": "O reino de Assuero se estendia desde a Índia até a Etiópia, abrangendo 127 províncias.",
+    "alternativas": [
+      "70 províncias",
+      "100 províncias",
+      "127 províncias",
+      "150 províncias"
+    ],
+    "id": 2954,
+    "pergunta": "Sobre quantas províncias se estendia o reino de Assuero?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 1:1"
+  },
+  {
+    "explicacao": "Hegai era o responsável pelas mulheres do harém do rei e favoreceu Ester durante sua preparação.",
+    "alternativas": [
+      "Hegai",
+      "Bigtã",
+      "Teres",
+      "Memucã"
+    ],
+    "id": 2955,
+    "pergunta": "Qual era o nome do homem responsável pelo harém do rei que favoreceu Ester?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:8-9"
+  },
+  {
+    "explicacao": "Foram reunidas muitas moças virgens de todas as províncias do reino para a escolha da nova rainha.",
+    "alternativas": [
+      "Apenas dez",
+      "Muitas moças virgens de todas as províncias",
+      "Somente filhas de nobres",
+      "Apenas mulheres judias"
+    ],
+    "id": 2956,
+    "pergunta": "Quantas moças foram reunidas para a escolha da nova rainha?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:8"
+  },
+  {
+    "explicacao": "As moças passaram por doze meses de preparação antes de serem apresentadas ao rei.",
+    "alternativas": [
+      "Seis meses",
+      "Um ano",
+      "Dois anos",
+      "Três meses"
+    ],
+    "id": 2957,
+    "pergunta": "Por quanto tempo as moças foram preparadas antes de se apresentarem ao rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:12"
+  },
+  {
+    "explicacao": "Ester não pediu nada além do que Hegai, responsável pelo harém, havia aconselhado.",
+    "alternativas": [
+      "Roupas especiais",
+      "Joias extras",
+      "Nada além do que Hegai aconselhou",
+      "Uma escolta real"
+    ],
+    "id": 2958,
+    "pergunta": "O que Ester não pediu quando foi chamada para se apresentar ao rei?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:15"
+  },
+  {
+    "explicacao": "Ester foi levada ao rei no décimo mês, chamado Tebete, e foi escolhida como rainha.",
+    "alternativas": [
+      "Primeiro mês",
+      "Sétimo mês",
+      "Décimo mês",
+      "Décimo segundo mês"
+    ],
+    "id": 2959,
+    "pergunta": "Qual foi o mês em que Ester foi coroada rainha?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:16-17"
+  },
+  {
+    "explicacao": "Mordecai descobriu a conspiração dos oficiais Bigtã e Teres contra o rei Assuero.",
+    "alternativas": [
+      "Hamã",
+      "Mordecai",
+      "Ester",
+      "Hegai"
+    ],
+    "id": 2960,
+    "pergunta": "Quem descobriu a conspiração contra o rei Assuero?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:21-23"
+  },
+  {
+    "explicacao": "Hamã decidiu destruir os judeus porque Mordecai não se curvava diante dele.",
+    "alternativas": [
+      "Porque perderam uma guerra",
+      "Porque Mordecai não se curvava diante dele",
+      "Porque o rei ordenou",
+      "Porque os judeus atacaram a Pérsia"
+    ],
+    "id": 2961,
+    "pergunta": "Por que Hamã queria destruir todos os judeus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:5-6"
+  },
+  {
+    "explicacao": "Hamã lançou Pur, isto é, sorte, para escolher a data do ataque contra os judeus.",
+    "alternativas": [
+      "Mordecai",
+      "Hamã",
+      "Assuero",
+      "Zeres"
+    ],
+    "id": 2962,
+    "pergunta": "Quem lançou o “Pur” para determinar a data do ataque aos judeus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:7"
+  },
+  {
+    "explicacao": "Os dois oficiais que conspiraram contra o rei foram investigados e receberam a sentença de morte por enforcamento.",
+    "alternativas": [
+      "Foram promovidos",
+      "Foram perdoados",
+      "Foram enforcados",
+      "Foram enviados para guerra"
+    ],
+    "id": 2963,
+    "pergunta": "O que aconteceu com os homens que planejaram matar o rei?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:23"
+  },
+  {
+    "explicacao": "Mordecai não se curvava diante de Hamã, pois permanecia fiel às suas convicções.",
+    "alternativas": [
+      "Ele se curvava todos os dias",
+      "Ele recusava se curvar",
+      "Ele deixou Jerusalém",
+      "Ele tornou-se amigo de Hamã"
+    ],
+    "id": 2964,
+    "pergunta": "Qual era a atitude de Mordecai diante da ordem de se curvar diante de Hamã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:2"
+  },
+  {
+    "explicacao": "Hamã ofereceu ao rei dez mil talentos de prata para financiar a destruição dos judeus.",
+    "alternativas": [
+      "Dez mil talentos de prata",
+      "Mil talentos de ouro",
+      "Cem moedas de ouro",
+      "Cinquenta talentos de prata"
+    ],
+    "id": 2965,
+    "pergunta": "Qual valor Hamã ofereceu ao rei para destruir os judeus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:9"
+  },
+  {
+    "explicacao": "O decreto de Hamã marcou o décimo terceiro dia do mês de Adar como data para atacar os judeus.",
+    "alternativas": [
+      "Primeiro dia do mês de Nisã",
+      "Décimo terceiro dia do mês de Adar",
+      "Décimo dia do mês de Tisri",
+      "Vigésimo dia do mês de Abibe"
+    ],
+    "id": 2966,
+    "pergunta": "Em que data foi marcada a destruição dos judeus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:13"
+  },
+  {
+    "explicacao": "Mordecai pediu que Ester usasse sua posição diante do rei para defender seu povo.",
+    "alternativas": [
+      "Que fugisse do reino",
+      "Que falasse com o rei em favor do povo",
+      "Que abandonasse o palácio",
+      "Que enfrentasse Hamã sozinha"
+    ],
+    "id": 2967,
+    "pergunta": "O que Mordecai pediu que Ester fizesse diante da ameaça contra os judeus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 4:8"
+  },
+  {
+    "explicacao": "Ester demonstrou coragem ao aceitar o risco de se apresentar diante do rei, declarando sua disposição de morrer se fosse necessário.",
+    "alternativas": [
+      "“Tudo está perdido”",
+      "“Se perecer, pereci”",
+      "“Não temo ninguém”",
+      "“O rei deve me ouvir”"
+    ],
+    "id": 2968,
+    "pergunta": "Qual foi a famosa declaração de Ester antes de entrar na presença do rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 4:16"
+  },
+  {
+    "explicacao": "Antes da queda de Hamã, o rei ordenou que Mordecai fosse honrado publicamente por sua fidelidade.",
+    "alternativas": [
+      "Foi colocado em uma prisão",
+      "Foi honrado publicamente pelo rei",
+      "Foi enviado para Babilônia",
+      "Foi nomeado sacerdote"
+    ],
+    "id": 2969,
+    "pergunta": "O que aconteceu com Mordecai antes da queda de Hamã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 6:10-11"
+  },
+  {
+    "explicacao": "Hamã foi obrigado pelo rei a conduzir a honra pública de Mordecai, seu inimigo.",
+    "alternativas": [
+      "Hamã",
+      "Assuero",
+      "Mardoqueu",
+      "Hegai"
+    ],
+    "id": 2970,
+    "pergunta": "Quem teve que honrar Mordecai por ordem do rei?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 6:11"
+  },
+  {
+    "explicacao": "Ester pediu ao rei que poupasse sua vida e a vida do seu povo após revelar o plano de Hamã.",
+    "alternativas": [
+      "Que Hamã fosse colocado como rei",
+      "Que sua vida e a vida do seu povo fossem poupadas",
+      "Que ela deixasse o palácio",
+      "Que Mordecai fosse embora"
+    ],
+    "id": 2971,
+    "pergunta": "Qual foi o pedido de Ester ao rei depois de revelar o plano de Hamã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 7:3-4"
+  },
+  {
+    "explicacao": "O rei permitiu que os judeus se defendessem contra aqueles que tentassem destruí-los.",
+    "alternativas": [
+      "Foram expulsos da Pérsia",
+      "Receberam autorização para se defenderem",
+      "Perderam seus bens",
+      "Foram levados ao exílio novamente"
+    ],
+    "id": 2972,
+    "pergunta": "O que aconteceu com os judeus após a nova ordem do rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 8:11"
+  },
+  {
+    "explicacao": "O palácio do rei Assuero ficava na cidade de Susã, uma das capitais do Império Persa.",
+    "alternativas": [
+      "Jerusalém",
+      "Susã",
+      "Babilônia",
+      "Nínive"
+    ],
+    "id": 2973,
+    "pergunta": "Em qual cidade ficava o palácio do rei Assuero?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 1:2"
+  },
+  {
+    "explicacao": "O rei Assuero realizou um grande banquete para mostrar as riquezas do seu reino durante 180 dias, conforme o contexto do capítulo.",
+    "alternativas": [
+      "30 dias",
+      "7 dias",
+      "40 dias",
+      "12 dias"
+    ],
+    "id": 2974,
+    "pergunta": "Quantos dias durou o banquete oferecido pelo rei Assuero aos seus príncipes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 1:4"
+  },
+  {
+    "explicacao": "Depois do banquete aos líderes, o rei ofereceu um banquete de sete dias para todo o povo presente em Susã.",
+    "alternativas": [
+      "3 dias",
+      "7 dias",
+      "10 dias",
+      "14 dias"
+    ],
+    "id": 2975,
+    "pergunta": "Por quantos dias durou o banquete oferecido ao povo de Susã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 1:5"
+  },
+  {
+    "explicacao": "Hadassa era o nome hebraico de Ester, antes de ela receber o nome pelo qual ficou conhecida na corte persa.",
+    "alternativas": [
+      "Hadassa",
+      "Miriam",
+      "Sara",
+      "Noemi"
+    ],
+    "id": 2976,
+    "pergunta": "Qual era o nome hebraico de Ester?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:7"
+  },
+  {
+    "explicacao": "Mordecai era descendente da tribo de Benjamim, assim como Saul, antigo rei de Israel.",
+    "alternativas": [
+      "Levi",
+      "Judá",
+      "Benjamim",
+      "Efraim"
+    ],
+    "id": 2977,
+    "pergunta": "De qual tribo de Israel era Mordecai?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:5"
+  },
+  {
+    "explicacao": "Mordecai levou Ester ao palácio quando as jovens foram reunidas para a escolha da nova rainha.",
+    "alternativas": [
+      "Hamã",
+      "Mordecai",
+      "Assuero",
+      "Hegai"
+    ],
+    "id": 2978,
+    "pergunta": "Quem levou Ester ao palácio para participar da escolha da nova rainha?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:8"
+  },
+  {
+    "explicacao": "Hegai era o eunuco responsável pelas mulheres e favoreceu Ester no palácio.",
+    "alternativas": [
+      "Hegai",
+      "Bigtã",
+      "Tatenai",
+      "Reum"
+    ],
+    "id": 2979,
+    "pergunta": "Quem cuidava das mulheres no palácio do rei?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:8"
+  },
+  {
+    "explicacao": "Mordecai orientou Ester a não revelar sua origem judaica naquele momento.",
+    "alternativas": [
+      "Porque Mordecai havia ordenado que ela não revelasse",
+      "Porque o rei proibiu",
+      "Porque ela tinha vergonha",
+      "Porque Hamã descobriu primeiro"
+    ],
+    "id": 2980,
+    "pergunta": "Por que Ester não revelou sua origem judaica inicialmente?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:10"
+  },
+  {
+    "explicacao": "Bigtã e Teres eram oficiais do rei que planejaram uma conspiração contra Assuero.",
+    "alternativas": [
+      "Bigtã e Teres",
+      "Hamã e Memucã",
+      "Zeres e Hegai",
+      "Mordecai e Esdras"
+    ],
+    "id": 2981,
+    "pergunta": "Quem eram os dois oficiais que planejaram matar o rei Assuero?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:21"
+  },
+  {
+    "explicacao": "Mordecai revelou a conspiração a Ester, que comunicou o fato ao rei Assuero.",
+    "alternativas": [
+      "Fugiu da cidade",
+      "Avisou Ester, que informou ao rei",
+      "Prendeu os oficiais sozinho",
+      "Contou a Hamã"
+    ],
+    "id": 2982,
+    "pergunta": "O que Mordecai fez ao descobrir a conspiração contra o rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:22"
+  },
+  {
+    "explicacao": "Hamã planejou destruir todos os judeus que viviam no Império Persa.",
+    "alternativas": [
+      "Dar-lhes terras",
+      "Destruí-los",
+      "Levá-los para outro reino",
+      "Torná-los soldados"
+    ],
+    "id": 2983,
+    "pergunta": "O que Hamã planejou fazer contra os judeus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:6"
+  },
+  {
+    "explicacao": "Mordecai pediu que Ester usasse sua posição de rainha para interceder pelo povo judeu.",
+    "alternativas": [
+      "Assuero",
+      "Hamã",
+      "Mordecai",
+      "Esdras"
+    ],
+    "id": 2984,
+    "pergunta": "Quem pediu que Ester intercedesse pelo povo judeu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 4:8"
+  },
+  {
+    "explicacao": "Antes de se apresentar diante do rei, Ester pediu que os judeus jejuassem por três dias.",
+    "alternativas": [
+      "Uma festa",
+      "Jejum por três dias",
+      "Uma viagem",
+      "Uma guerra"
+    ],
+    "id": 2985,
+    "pergunta": "O que Ester pediu que os judeus fizessem antes de ela falar com o rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 4:16"
+  },
+  {
+    "explicacao": "Na lei persa, entrar na presença do rei sem ser chamado poderia resultar em condenação à morte.",
+    "alternativas": [
+      "Ser expulsa do palácio",
+      "Poderia ser condenada à morte",
+      "Perder suas riquezas",
+      "Ser enviada para outro país"
+    ],
+    "id": 2986,
+    "pergunta": "Qual era o risco de Ester entrar na presença do rei sem ser chamada?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 4:11"
+  },
+  {
+    "explicacao": "O rei Assuero recebeu Ester e estendeu o cetro de ouro como sinal de favor.",
+    "alternativas": [
+      "Mandou prendê-la",
+      "Estendeu o cetro para ela",
+      "Mandou que saísse",
+      "Ignorou sua presença"
+    ],
+    "id": 2987,
+    "pergunta": "O que o rei fez quando Ester entrou em sua presença?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 5:2"
+  },
+  {
+    "explicacao": "Ester convidou o rei Assuero e Hamã para um banquete preparado por ela.",
+    "alternativas": [
+      "Uma guerra",
+      "Um banquete",
+      "Uma viagem",
+      "Uma reunião militar"
+    ],
+    "id": 2988,
+    "pergunta": "O que Ester preparou para o rei e Hamã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 5:4"
+  },
+  {
+    "explicacao": "Hamã acabou sendo morto na mesma forca que havia preparado para Mordecai.",
+    "alternativas": [
+      "Tornou-se rei",
+      "Foi honrado pelo povo",
+      "Foi enforcado na forca que preparou para Mordecai",
+      "Fugiu para outro país"
+    ],
+    "id": 2989,
+    "pergunta": "O que aconteceu com Hamã no final?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 7:9-10"
+  },
+  {
+    "explicacao": "Depois da queda de Hamã, Mordecai recebeu a posição de autoridade que pertencia a ele.",
+    "alternativas": [
+      "Mordecai",
+      "Esdras",
+      "Ciro",
+      "Josué"
+    ],
+    "id": 2990,
+    "pergunta": "Quem recebeu a posição que antes pertencia a Hamã?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 8:2"
+  },
+  {
+    "explicacao": "A festa de Purim foi estabelecida para lembrar o livramento dos judeus da ameaça de destruição.",
+    "alternativas": [
+      "Páscoa",
+      "Purim",
+      "Tabernáculos",
+      "Pentecostes"
+    ],
+    "id": 2991,
+    "pergunta": "Qual festa foi criada para lembrar o livramento dos judeus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 9:26-28"
+  },
+  {
+    "explicacao": "O livro de Ester mostra que Deus preserva seu povo mesmo em situações difíceis e inesperadas.",
+    "alternativas": [
+      "Deus preserva seu povo mesmo em tempos difíceis",
+      "O poder humano é maior que Deus",
+      "As riquezas são mais importantes que a fé",
+      "Os reis controlam todos os acontecimentos"
+    ],
+    "id": 2992,
+    "pergunta": "Qual é uma das principais mensagens do livro de Ester?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 4:14"
+  },
+  {
+    "explicacao": "Ester é a personagem central do livro e foi escolhida por Deus para preservar o povo judeu.",
+    "alternativas": [
+      "Rute",
+      "Ester",
+      "Débora",
+      "Abigail"
+    ],
+    "id": 2993,
+    "pergunta": "Quem era a personagem principal do livro de Ester?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:7"
+  },
+  {
+    "explicacao": "O rei Assuero governava o Império Persa durante os acontecimentos narrados no livro.",
+    "alternativas": [
+      "Ciro",
+      "Dario",
+      "Assuero",
+      "Artaxerxes"
+    ],
+    "id": 2994,
+    "pergunta": "Qual era o nome do rei que governava o Império Persa no livro de Ester?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 1:1"
+  },
+  {
+    "explicacao": "Ester pertencia ao povo judeu e era descendente dos exilados que viviam na Pérsia.",
+    "alternativas": [
+      "Egípcio",
+      "Judeu",
+      "Filisteu",
+      "Moabita"
+    ],
+    "id": 2995,
+    "pergunta": "Qual era o povo de Ester?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:5-7"
+  },
+  {
+    "explicacao": "Mordecai criou Ester como sua filha após ela perder seus pais.",
+    "alternativas": [
+      "Mordecai",
+      "Hamã",
+      "Assuero",
+      "Vasti"
+    ],
+    "id": 2996,
+    "pergunta": "Quem criou Ester como filha?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:7"
+  },
+  {
+    "explicacao": "Ester foi escolhida pelo rei Assuero e tornou-se rainha da Pérsia.",
+    "alternativas": [
+      "Governadora",
+      "Rainha",
+      "Sacerdotisa",
+      "Serva"
+    ],
+    "id": 2997,
+    "pergunta": "Qual era a posição de Ester no palácio do rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:17"
+  },
+  {
+    "explicacao": "Vasti era a rainha antes de Ester assumir essa posição.",
+    "alternativas": [
+      "Vasti",
+      "Jezabel",
+      "Rute",
+      "Mical"
+    ],
+    "id": 2998,
+    "pergunta": "Quem era a rainha antes de Ester?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 1:9"
+  },
+  {
+    "explicacao": "Vasti perdeu sua posição porque recusou obedecer à ordem do rei Assuero de comparecer diante dele.",
+    "alternativas": [
+      "Porque fugiu do reino",
+      "Porque recusou comparecer diante do rei quando foi chamada",
+      "Porque perdeu uma guerra",
+      "Porque abandonou o palácio"
+    ],
+    "id": 2999,
+    "pergunta": "Por que a rainha Vasti perdeu sua posição?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 1:12-19"
+  },
+  {
+    "explicacao": "Hamã foi o principal inimigo dos judeus e planejou sua destruição.",
+    "alternativas": [
+      "Hamã",
+      "Mordecai",
+      "Esdras",
+      "Zorobabel"
+    ],
+    "id": 3000,
+    "pergunta": "Quem era o inimigo dos judeus no livro de Ester?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:5-6"
+  },
+  {
+    "explicacao": "Hamã ocupava uma posição elevada no reino de Assuero, sendo superior aos demais oficiais.",
+    "alternativas": [
+      "Sacerdote",
+      "Governador de Jerusalém",
+      "Primeiro ministro/principal autoridade depois do rei",
+      "Comandante do exército de Israel"
+    ],
+    "id": 3001,
+    "pergunta": "Qual era o cargo de Hamã no reino de Assuero?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:1"
+  },
+  {
+    "explicacao": "Hamã ficou furioso porque Mordecai se recusava a se curvar diante dele.",
+    "alternativas": [
+      "Porque Mordecai não se curvava diante dele",
+      "Porque Mordecai roubou seus bens",
+      "Porque Mordecai queria ser rei",
+      "Porque Mordecai deixou o palácio"
+    ],
+    "id": 3002,
+    "pergunta": "Por que Hamã ficou irado contra Mordecai?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:2-5"
+  },
+  {
+    "explicacao": "Ester compareceu perante o rei sem ser chamada e denunciou o plano maligno de Hamã para destruir os judeus.",
+    "alternativas": [
+      "Ester",
+      "Vashti",
+      "Rute",
+      "Atalia"
+    ],
+    "id": 3003,
+    "pergunta": "Quem foi a rainha judia que arriscou sua vida para salvar seu povo do extermínio na Pérsia?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 7"
+  },
+  {
+    "explicacao": "Ainda que o nome de Deus não apareça textualmente, Sua mão invisível orquestra cada detalhe da salvação de Seu povo.",
+    "alternativas": [
+      "Ester",
+      "Rute",
+      "Eclesiastes",
+      "Cânticos"
+    ],
+    "id": 3004,
+    "pergunta": "Qual é o único livro da Bíblia que não menciona explicitamente a palavra 'Deus', mas mostra claramente Sua providência?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Livro de Ester"
+  },
+  {
+    "explicacao": "A festa de Purim foi instituída pela rainha Ester e por Mardoqueu para comemorar o dia em que a tristeza se converteu em alegria.",
+    "alternativas": [
+      "Ester",
+      "Neemias",
+      "Esdras",
+      "Daniel"
+    ],
+    "id": 3005,
+    "pergunta": "Qual livro histórico termina mostrando o povo judeu celebrando a festa de Purim na Pérsia?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 9:26"
+  },
+  {
+    "explicacao": "Cheio de arrogância por Mardoqueu recusar prostrar-se diante dele, Hamã arquitetou um decreto real para destruir toda a população judaica.",
+    "alternativas": [
+      "Hamã",
+      "Artaxerxes",
+      "Ciro",
+      "Memucã"
+    ],
+    "id": 3006,
+    "pergunta": "Quem era o homem perverso que planejou o enforcamento de Mardoqueu e o extermínio de todos os judeus nos dias de Ester?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 3:5-6"
+  },
+  {
+    "explicacao": "O palácio imperial e centro administrativo do rei Assuero localizava-se na cidadela fortificada de Susã.",
+    "alternativas": [
+      "Cidadela de Babilônia",
+      "Cidadela de Persépolis",
+      "Cidadela de Susã",
+      "Cidadela de Ecbátana"
+    ],
+    "id": 3007,
+    "pergunta": "Qual era o nome da cidadela ou palácio na Pérsia onde se passa toda a história da rainha Ester e Mardoqueu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 1:2"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Hadassa",
+    "alternativas": [
+      "Hadassa",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 3008,
+    "pergunta": "Qual era o nome hebraico original da rainha Ester antes de ela adotar seu nome persa?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 2:7"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Festa de Purim",
+    "alternativas": [
+      "Festa de Purim",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 3009,
+    "pergunta": "Qual festa judaica foi instituída nos dias de Ester para comemorar a virada de sorte dos judeus contra as sortes (pur) lançadas por Hamã?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ester",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ester 9:26"
+  }
+]

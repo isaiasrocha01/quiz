@@ -1,0 +1,1481 @@
+[
+  {
+    "id": 4121,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Quem era Balaque, rei que chamou Balaão para amaldiçoar Israel?",
+    "alternativas": [
+      "Rei dos amorreus.",
+      "Rei de Edom.",
+      "Rei dos moabitas.",
+      "Rei de Basã."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 22:4-6",
+    "explicacao": "Balaque era rei dos moabitas e temia o crescimento do povo de Israel."
+  },
+  {
+    "id": 4122,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Por que Balaão não conseguiu amaldiçoar Israel?",
+    "alternativas": [
+      "Porque perdeu sua autoridade.",
+      "Porque fugiu antes de falar.",
+      "Porque Deus transformou suas palavras em bênção.",
+      "Porque Balaque desistiu."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 23:11-12",
+    "explicacao": "Deus não permitiu que Balaão amaldiçoasse Israel, fazendo com que ele declarasse bênçãos."
+  },
+  {
+    "id": 4123,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual pecado Israel cometeu com as mulheres moabitas?",
+    "alternativas": [
+      "Roubou seus animais.",
+      "Entrou em guerra contra Moabe.",
+      "Praticou idolatria e se uniu ao culto de Baal-Peor.",
+      "Destruiu suas cidades."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 25:1-3",
+    "explicacao": "Israel se envolveu com a idolatria de Baal-Peor, provocando a ira do Senhor."
+  },
+  {
+    "id": 4124,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Quem matou o israelita e a mulher midianita durante a praga?",
+    "alternativas": [
+      "Josué.",
+      "Eleazar.",
+      "Fineias, filho de Eleazar.",
+      "Calebe."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 25:7-8",
+    "explicacao": "Fineias demonstrou zelo pelo Senhor ao interromper o pecado que estava trazendo juízo sobre Israel."
+  },
+  {
+    "id": 4125,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual foi a recompensa dada por Deus a Fineias?",
+    "alternativas": [
+      "Tornou-se rei de Israel.",
+      "Recebeu terras em Canaã.",
+      "Recebeu uma aliança de sacerdócio perpétuo.",
+      "Liderou o exército."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 25:12-13",
+    "explicacao": "Deus estabeleceu com Fineias uma aliança de paz e sacerdócio perpétuo."
+  },
+  {
+    "id": 4126,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual foi o pedido das filhas de Zelofeade?",
+    "alternativas": [
+      "Serem sacerdotisas.",
+      "Receberem o cargo de líderes.",
+      "Receberem herança entre os irmãos de seu pai.",
+      "Voltarem ao Egito."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 27:1-4",
+    "explicacao": "As filhas de Zelofeade pediram o direito de receber a herança de seu pai, pois ele não tinha filhos homens."
+  },
+  {
+    "id": 4127,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Quem Deus escolheu para suceder Moisés antes da entrada em Canaã?",
+    "alternativas": [
+      "Fineias.",
+      "Eleazar.",
+      "Josué, filho de Num.",
+      "Calebe."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 27:18",
+    "explicacao": "Deus escolheu Josué para liderar Israel após a morte de Moisés."
+  },
+  {
+    "id": 4128,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Em qual monte Moisés viu a terra prometida antes de morrer?",
+    "alternativas": [
+      "Sinai.",
+      "Carmelo.",
+      "Monte Abarim.",
+      "Hermom."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 27:12",
+    "explicacao": "Moisés subiu ao monte Abarim para contemplar a terra que Deus daria a Israel."
+  },
+  {
+    "id": 4129,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a função dos sacerdotes durante as batalhas de Israel?",
+    "alternativas": [
+      "Construir armas.",
+      "Liderar apenas os levitas.",
+      "Tocar as trombetas diante do Senhor.",
+      "Escolher os guerreiros."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 31:6",
+    "explicacao": "Fineias acompanhou o exército levando os utensílios sagrados e as trombetas para tocar diante do Senhor."
+  },
+  {
+    "id": 4130,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual foi o pedido das tribos de Rúben e Gade antes da entrada em Canaã?",
+    "alternativas": [
+      "Receber o sacerdócio.",
+      "Construir uma nova cidade.",
+      "Ficar com terras antes do Jordão por possuírem muito gado.",
+      "Voltar para o Egito."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 32:1-5",
+    "explicacao": "As tribos de Rúben e Gade pediram as terras a leste do Jordão porque tinham muitos rebanhos."
+  },
+  {
+    "id": 4131,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a idade mínima dos homens contados no censo para formar o exército de Israel?",
+    "alternativas": [
+      "18 anos",
+      "20 anos",
+      "25 anos",
+      "30 anos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Números 1:3",
+    "explicacao": "Foram contados os homens de vinte anos para cima, aptos para a guerra em Israel."
+  },
+  {
+    "id": 4132,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual tribo recebeu a responsabilidade de desmontar e transportar o véu do tabernáculo?",
+    "alternativas": [
+      "Gérson",
+      "Merari",
+      "Coate",
+      "Judá"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 4:5-6",
+    "explicacao": "Os filhos de Coate eram responsáveis pelo transporte dos objetos sagrados, incluindo o véu."
+  },
+  {
+    "id": 4133,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a idade determinada para os levitas iniciarem o serviço no tabernáculo?",
+    "alternativas": [
+      "20 anos",
+      "25 anos",
+      "30 anos",
+      "40 anos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 4:3",
+    "explicacao": "Os levitas iniciavam o serviço no tabernáculo aos trinta anos de idade."
+  },
+  {
+    "id": 4134,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o líder dos filhos de Coate no serviço das coisas santíssimas?",
+    "alternativas": [
+      "Eleazar",
+      "Itamar",
+      "Gérson",
+      "Eleazar, filho de Arão"
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Números 4:16",
+    "explicacao": "Eleazar, filho de Arão, supervisionava o cuidado do azeite, incenso e objetos sagrados."
+  },
+  {
+    "id": 4135,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a oferta que o nazireu deveria apresentar ao terminar o voto?",
+    "alternativas": [
+      "Apenas um cordeiro.",
+      "Ouro e prata.",
+      "Holocausto, oferta pelo pecado e oferta pacífica.",
+      "Somente incenso."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 6:13-17",
+    "explicacao": "Ao concluir o voto, o nazireu apresentava diferentes ofertas conforme a orientação de Deus."
+  },
+  {
+    "id": 4136,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a bênção sacerdotal que Arão deveria colocar sobre os filhos de Israel?",
+    "alternativas": [
+      "O Senhor te dará riquezas e poder.",
+      "O Senhor te fará rei sobre as nações.",
+      "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o seu rosto sobre ti.",
+      "O Senhor te dará vitória em todas as guerras."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 6:24-26",
+    "explicacao": "Essa bênção era pronunciada pelos sacerdotes sobre o povo de Israel."
+  },
+  {
+    "id": 4137,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Quanto tempo a nuvem poderia permanecer sobre o tabernáculo antes de Israel partir?",
+    "alternativas": [
+      "Sempre sete dias.",
+      "Sempre quarenta dias.",
+      "Podia permanecer dias ou meses, conforme a ordem do Senhor.",
+      "Apenas uma noite."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 9:19-22",
+    "explicacao": "Israel permanecia ou partia conforme a direção dada pelo Senhor através da nuvem."
+  },
+  {
+    "id": 4138,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Quem foi escolhido para substituir os primogênitos de Israel no serviço do Senhor?",
+    "alternativas": [
+      "A tribo de Judá.",
+      "Os sacerdotes.",
+      "Os levitas.",
+      "Os anciãos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 3:12",
+    "explicacao": "Deus separou os levitas para substituírem os primogênitos no serviço dedicado ao Senhor."
+  },
+  {
+    "id": 4139,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual era o total de levitas contados de um mês de idade para cima?",
+    "alternativas": [
+      "12.000",
+      "18.000",
+      "22.000",
+      "30.000"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 3:39",
+    "explicacao": "O número total dos levitas contados foi de vinte e dois mil."
+  },
+  {
+    "id": 4140,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Por que Moisés levantou a serpente de bronze no deserto?",
+    "alternativas": [
+      "Para proteger o acampamento dos inimigos.",
+      "Para representar a força de Israel.",
+      "Para que os mordidos pelas serpentes fossem curados ao olhar para ela.",
+      "Para substituir a arca da aliança."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 21:8-9",
+    "explicacao": "Deus determinou que aqueles que olhassem para a serpente de bronze seriam curados."
+  },
+  {
+    "id": 4141,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Quantos dias os espias ficaram observando a terra de Canaã?",
+    "alternativas": [
+      "7 dias.",
+      "12 dias.",
+      "40 dias.",
+      "70 dias."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 13:25",
+    "explicacao": "Os espias permaneceram quarenta dias examinando a terra de Canaã."
+  },
+  {
+    "id": 4142,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual fruto os espias trouxeram da terra prometida?",
+    "alternativas": [
+      "Maçãs.",
+      "Figos apenas.",
+      "Um cacho de uvas carregado por dois homens.",
+      "Romãs somente."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 13:23",
+    "explicacao": "Os espias trouxeram um cacho de uvas tão grande que precisou ser carregado por dois homens."
+  },
+  {
+    "id": 4143,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Quem foram os únicos daquela geração que entrariam na terra prometida?",
+    "alternativas": [
+      "Moisés e Arão.",
+      "Josué e Calebe.",
+      "Eleazar e Fineias.",
+      "Nadabe e Abiú."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Números 14:30",
+    "explicacao": "Josué e Calebe entrariam na terra porque permaneceram fiéis a Deus."
+  },
+  {
+    "id": 4144,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual pecado o povo cometeu ao tentar entrar em Canaã sem a ordem de Deus?",
+    "alternativas": [
+      "Idolatria.",
+      "Roubo.",
+      "Presunção e desobediência.",
+      "Mentira."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 14:40-41",
+    "explicacao": "O povo tentou conquistar Canaã sem a direção de Deus, demonstrando desobediência."
+  },
+  {
+    "id": 4145,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual homem foi apedrejado por apanhar lenha no sábado?",
+    "alternativas": [
+      "Corá.",
+      "Datã.",
+      "Um homem que violou o sábado.",
+      "Balaão."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 15:32-36",
+    "explicacao": "Um homem foi encontrado recolhendo lenha no sábado e recebeu julgamento conforme a ordem de Deus."
+  },
+  {
+    "id": 4146,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "O que Deus ordenou que os israelitas colocassem nas bordas das suas roupas?",
+    "alternativas": [
+      "Pedras preciosas.",
+      "Faixas vermelhas.",
+      "Franjas com cordão azul.",
+      "Sinos de ouro."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 15:38",
+    "explicacao": "As franjas com cordão azul serviam como lembrança dos mandamentos do Senhor."
+  },
+  {
+    "id": 4147,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual era o motivo da rebelião de Corá contra Moisés e Arão?",
+    "alternativas": [
+      "Queria sair do deserto.",
+      "Queria voltar ao Egito.",
+      "Queria também exercer liderança sacerdotal.",
+      "Queria conquistar Canaã sozinho."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 16:10",
+    "explicacao": "Corá desejava ter uma posição sacerdotal que Deus havia dado aos descendentes de Arão."
+  },
+  {
+    "id": 4148,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "O que aconteceu com os 250 homens que ofereceram incenso junto com Corá?",
+    "alternativas": [
+      "Foram escolhidos como sacerdotes.",
+      "Foram perdoados.",
+      "Foram consumidos pelo fogo do Senhor.",
+      "Foram enviados para outra tribo."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 16:35",
+    "explicacao": "O fogo do Senhor consumiu os homens que se rebelaram contra a ordem estabelecida por Deus."
+  },
+  {
+    "id": 4149,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Por que Deus fez a vara de Arão florescer?",
+    "alternativas": [
+      "Para mostrar sua riqueza.",
+      "Para escolher um novo líder militar.",
+      "Para confirmar o sacerdócio escolhido por Deus.",
+      "Para alimentar o povo."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 17:5-8",
+    "explicacao": "A vara de Arão floresceu como sinal de que Deus havia escolhido Arão e sua descendência para o sacerdócio."
+  },
+  {
+    "id": 4150,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual foi o nome do filho de Arão que se tornou sumo sacerdote após sua morte?",
+    "alternativas": [
+      "Nadabe.",
+      "Abiú.",
+      "Eleazar.",
+      "Itamar."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 20:25-28",
+    "explicacao": "Eleazar recebeu as vestes sacerdotais de Arão e assumiu o sacerdócio após sua morte."
+  },
+  {
+    "id": 4151,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual era o sinal que indicava quando os israelitas deveriam partir do acampamento?",
+    "alternativas": [
+      "O toque dos sacerdotes.",
+      "A ordem dos anciãos.",
+      "O movimento da nuvem sobre o tabernáculo.",
+      "O nascer do sol."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 9:17-18",
+    "explicacao": "Os israelitas partiam ou permaneciam acampados conforme o movimento da nuvem sobre o tabernáculo."
+  },
+  {
+    "id": 4152,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Quem fabricou as trombetas de prata usadas para convocar a congregação?",
+    "alternativas": [
+      "Arão.",
+      "Josué.",
+      "Moisés.",
+      "Eleazar."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 10:2",
+    "explicacao": "Deus ordenou a Moisés que fizesse duas trombetas de prata para convocar o povo."
+  },
+  {
+    "id": 4153,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual era a finalidade das trombetas de prata?",
+    "alternativas": [
+      "Adorar somente no templo.",
+      "Anunciar apenas guerras.",
+      "Convocar o povo e orientar os acampamentos.",
+      "Substituir os sacerdotes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 10:2-4",
+    "explicacao": "As trombetas serviam para reunir a congregação e orientar os movimentos do povo."
+  },
+  {
+    "id": 4154,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Quem guiava a arca da aliança durante a caminhada de Israel?",
+    "alternativas": [
+      "Arão.",
+      "Josué.",
+      "Os levitas.",
+      "Os príncipes das tribos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 10:21",
+    "explicacao": "Os levitas eram responsáveis pelo transporte dos objetos sagrados, incluindo a arca."
+  },
+  {
+    "id": 4155,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual era o nome do sogro de Moisés que o acompanhou no deserto?",
+    "alternativas": [
+      "Jetro.",
+      "Hobabe.",
+      "Balaão.",
+      "Eleazar."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Números 10:29",
+    "explicacao": "Hobabe, filho de Reuel, sogro de Moisés, foi convidado a acompanhar Israel na jornada."
+  },
+  {
+    "id": 4156,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "O que aconteceu quando o povo reclamou diante do Senhor em Taberá?",
+    "alternativas": [
+      "Caiu uma grande chuva.",
+      "Deus enviou serpentes.",
+      "O fogo do Senhor consumiu algumas extremidades do acampamento.",
+      "O povo recebeu mais alimento."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 11:1",
+    "explicacao": "O Senhor enviou fogo como julgamento pela murmuração do povo."
+  },
+  {
+    "id": 4157,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual alimento o povo desejou comer, lembrando do Egito?",
+    "alternativas": [
+      "Pão e vinho.",
+      "Frutas e mel.",
+      "Peixe, pepinos, melões, alhos e cebolas.",
+      "Carne de cordeiro."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 11:5",
+    "explicacao": "O povo demonstrou saudade dos alimentos que tinha no Egito e desprezou o maná."
+  },
+  {
+    "id": 4158,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "O que Deus enviou quando o povo pediu carne?",
+    "alternativas": [
+      "Bois.",
+      "Peixes.",
+      "Codornizes.",
+      "Cordeiros."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 11:31",
+    "explicacao": "Deus enviou uma grande quantidade de codornizes para alimentar o povo."
+  },
+  {
+    "id": 4159,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual era o problema de Miriã e Arão ao falar contra Moisés?",
+    "alternativas": [
+      "Não gostavam do deserto.",
+      "Queriam voltar ao Egito.",
+      "Questionavam a autoridade que Deus havia dado a Moisés.",
+      "Queriam abandonar o sacerdócio."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 12:2",
+    "explicacao": "Miriã e Arão questionaram a posição de Moisés como líder escolhido por Deus."
+  },
+  {
+    "id": 4160,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Como Deus descreveu Moisés em relação aos outros profetas?",
+    "alternativas": [
+      "Como o mais jovem.",
+      "Como o mais poderoso.",
+      "Como fiel em toda a sua casa.",
+      "Como o mais rico."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 12:7",
+    "explicacao": "Deus declarou que Moisés era fiel em toda a sua casa."
+  },
+  {
+    "id": 4161,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual era a idade mínima dos homens contados no censo de Israel?",
+    "alternativas": [
+      "15 anos",
+      "18 anos",
+      "20 anos",
+      "30 anos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 1:3",
+    "explicacao": "Foram contados todos os homens de Israel com vinte anos ou mais, capazes de sair para a guerra."
+  },
+  {
+    "id": 4162,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Por que os levitas não foram contados junto com as outras tribos no censo?",
+    "alternativas": [
+      "Porque eram poucos.",
+      "Porque não eram israelitas.",
+      "Porque foram separados para cuidar do tabernáculo.",
+      "Porque estavam em guerra."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 1:47-50",
+    "explicacao": "Os levitas foram separados para o serviço do tabernáculo e não para o serviço militar."
+  },
+  {
+    "id": 4163,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual era a função dos filhos de Arão no sacerdócio?",
+    "alternativas": [
+      "Governar Israel.",
+      "Servir como sacerdotes diante de Deus.",
+      "Liderar os exércitos.",
+      "Construir cidades."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Números 3:10",
+    "explicacao": "Os filhos de Arão foram separados para exercer o sacerdócio."
+  },
+  {
+    "id": 4164,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual sinal guiava Israel durante a caminhada pelo deserto?",
+    "alternativas": [
+      "Uma estrela.",
+      "Uma nuvem durante o dia e fogo durante a noite.",
+      "Um anjo visível todos os dias.",
+      "Uma trombeta de ouro."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Números 9:15-16",
+    "explicacao": "A presença de Deus era representada pela nuvem durante o dia e pelo fogo durante a noite."
+  },
+  {
+    "id": 4165,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "O que Israel fazia quando a nuvem se levantava de cima do tabernáculo?",
+    "alternativas": [
+      "Construía um altar.",
+      "Parava para descansar.",
+      "Partia para outra região.",
+      "Voltava ao Egito."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 9:17",
+    "explicacao": "O povo de Israel seguia a direção de Deus por meio do movimento da nuvem."
+  },
+  {
+    "id": 4166,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Por que o povo começou a reclamar contra Deus no deserto?",
+    "alternativas": [
+      "Porque queria um rei.",
+      "Porque estava insatisfeito com as dificuldades e o alimento.",
+      "Porque perdeu a arca.",
+      "Porque não tinha sacerdotes."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Números 11:1-6",
+    "explicacao": "O povo murmurou por causa das dificuldades e desprezou o maná que Deus fornecia."
+  },
+  {
+    "id": 4167,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Quem ajudou Moisés a carregar a responsabilidade de liderar o povo?",
+    "alternativas": [
+      "Os reis de Canaã.",
+      "Setenta anciãos escolhidos por Deus.",
+      "Os filhos de Arão.",
+      "Os soldados de Israel."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Números 11:16-17",
+    "explicacao": "Deus colocou o Espírito sobre setenta anciãos para ajudarem Moisés."
+  },
+  {
+    "id": 4168,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Quem falou contra Moisés por causa da mulher que ele havia tomado?",
+    "alternativas": [
+      "Josué e Calebe.",
+      "Miriã e Arão.",
+      "Corá e Datã.",
+      "Balaão e Balaque."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Números 12:1",
+    "explicacao": "Miriã e Arão criticaram Moisés, e Deus mostrou sua autoridade sobre ele."
+  },
+  {
+    "id": 4169,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual foi a consequência de Miriã falar contra Moisés?",
+    "alternativas": [
+      "Foi presa.",
+      "Perdeu sua liderança.",
+      "Ficou leprosa por sete dias.",
+      "Foi expulsa de Israel."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 12:10-15",
+    "explicacao": "Miriã ficou leprosa e permaneceu fora do acampamento por sete dias."
+  },
+  {
+    "id": 4170,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual foi o fruto trazido pelos espias para mostrar a fertilidade de Canaã?",
+    "alternativas": [
+      "Uma oliveira.",
+      "Um cacho de uvas.",
+      "Um trigo dourado.",
+      "Uma figueira inteira."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Números 13:23",
+    "explicacao": "Os espias trouxeram um enorme cacho de uvas como prova da riqueza da terra."
+  },
+  {
+    "id": 4171,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus enviou para alimentar o povo no deserto?",
+    "alternativas": [
+      "Carneiros.",
+      "Pães.",
+      "Maná.",
+      "Frutas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 11:7-9",
+    "explicacao": "Deus sustentou Israel no deserto com o maná, um alimento enviado diariamente."
+  },
+  {
+    "id": 4172,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Quem se levantou contra a liderança de Moisés?",
+    "alternativas": [
+      "Josué",
+      "Calebe",
+      "Corá, Datã e Abirão",
+      "Eleazar"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 16:1-3",
+    "explicacao": "Corá, Datã e Abirão lideraram uma rebelião contra Moisés e Arão."
+  },
+  {
+    "id": 4173,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu com Corá e seus seguidores?",
+    "alternativas": [
+      "Foram perdoados.",
+      "Foram enviados para outra terra.",
+      "A terra os engoliu.",
+      "Tornaram-se sacerdotes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 16:31-32",
+    "explicacao": "Deus julgou a rebelião fazendo a terra se abrir e engolir Corá e seus seguidores."
+  },
+  {
+    "id": 4174,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Qual objeto Deus usou para confirmar o sacerdócio de Arão?",
+    "alternativas": [
+      "Uma pedra preciosa.",
+      "Uma espada.",
+      "Uma vara que floresceu.",
+      "Uma coroa."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 17:8",
+    "explicacao": "A vara de Arão floresceu, brotou e produziu amêndoas como sinal da escolha divina."
+  },
+  {
+    "id": 4175,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Qual animal Deus usou para falar com Balaão?",
+    "alternativas": [
+      "Leão",
+      "Cordeiro",
+      "Jumenta",
+      "Águia"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 22:28",
+    "explicacao": "Deus abriu a boca da jumenta de Balaão para falar com ele."
+  },
+  {
+    "id": 4176,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Quem tentou amaldiçoar Israel, mas acabou abençoando?",
+    "alternativas": [
+      "Balaque",
+      "Corá",
+      "Balaão",
+      "Seom"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 23:11-12",
+    "explicacao": "Balaão foi chamado por Balaque para amaldiçoar Israel, mas Deus permitiu que ele pronunciasse bênçãos."
+  },
+  {
+    "id": 4177,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Qual serpente Deus mandou Moisés levantar no deserto?",
+    "alternativas": [
+      "Serpente de ouro.",
+      "Serpente de madeira.",
+      "Serpente de bronze.",
+      "Serpente de prata."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 21:8-9",
+    "explicacao": "Deus ordenou que Moisés fizesse uma serpente de bronze e a colocasse sobre uma haste."
+  },
+  {
+    "id": 4178,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "O que acontecia com quem olhava para a serpente de bronze?",
+    "alternativas": [
+      "Recebia riquezas.",
+      "Era curado das mordidas das serpentes.",
+      "Tornava-se líder.",
+      "Recebia uma nova terra."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Números 21:9",
+    "explicacao": "Aqueles que olhavam para a serpente de bronze eram curados das mordidas das serpentes."
+  },
+  {
+    "id": 4179,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o nome do monte onde Moisés subiu antes de morrer?",
+    "alternativas": [
+      "Sinai",
+      "Carmelo",
+      "Monte Nebo",
+      "Sião"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 27:12",
+    "explicacao": "Deus ordenou que Moisés subisse ao monte Nebo para contemplar a terra prometida."
+  },
+  {
+    "id": 4180,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi o pecado que impediu Moisés de entrar na terra prometida?",
+    "alternativas": [
+      "Ter fugido do Egito.",
+      "Ter quebrado as tábuas da Lei.",
+      "Ter ferido a rocha quando Deus mandou falar com ela.",
+      "Ter construído um altar."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 20:8-12",
+    "explicacao": "Moisés desobedeceu à ordem de Deus ao ferir a rocha em vez de falar com ela."
+  },
+  {
+    "id": 4181,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Quem escreveu o livro de Números?",
+    "alternativas": [
+      "Josué",
+      "Davi",
+      "Moisés",
+      "Samuel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 1:1",
+    "explicacao": "O livro de Números faz parte dos cinco livros escritos por Moisés."
+  },
+  {
+    "id": 4182,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Por que o livro é chamado de Números?",
+    "alternativas": [
+      "Porque fala sobre os reis de Israel.",
+      "Porque registra muitas leis.",
+      "Porque registra contagens e censos do povo de Israel.",
+      "Porque fala sobre matemática."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 1:2-3",
+    "explicacao": "O nome do livro está relacionado aos censos e contagens realizados durante a caminhada de Israel."
+  },
+  {
+    "id": 4183,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Onde Deus falou com Moisés no início do livro?",
+    "alternativas": [
+      "Monte Sinai",
+      "Rio Jordão",
+      "Deserto do Sinai",
+      "Jerusalém"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 1:1",
+    "explicacao": "Deus falou com Moisés no deserto do Sinai, na tenda da congregação."
+  },
+  {
+    "id": 4184,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o irmão de Moisés que foi escolhido como sacerdote?",
+    "alternativas": [
+      "Josué",
+      "Calebe",
+      "Arão",
+      "Eleazar"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 3:10",
+    "explicacao": "Arão, irmão de Moisés, foi escolhido por Deus para exercer o sacerdócio."
+  },
+  {
+    "id": 4185,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Qual tribo foi escolhida para cuidar do tabernáculo?",
+    "alternativas": [
+      "Judá",
+      "Benjamim",
+      "Levi",
+      "Rúben"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 3:5-8",
+    "explicacao": "A tribo de Levi foi separada para servir no cuidado do tabernáculo."
+  },
+  {
+    "id": 4186,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Quantos homens de Israel foram contados no primeiro censo, sem contar os levitas?",
+    "alternativas": [
+      "100 mil",
+      "500 mil",
+      "603.550",
+      "1 milhão"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 1:46",
+    "explicacao": "O primeiro censo registrou 603.550 homens aptos para a guerra, sem incluir os levitas."
+  },
+  {
+    "id": 4187,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi escolhido para suceder Moisés como líder de Israel?",
+    "alternativas": [
+      "Arão",
+      "Calebe",
+      "Josué",
+      "Eleazar"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 27:18-23",
+    "explicacao": "Josué foi escolhido por Deus para liderar Israel após Moisés."
+  },
+  {
+    "id": 4188,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Quantos espias foram enviados para observar a terra de Canaã?",
+    "alternativas": [
+      "5",
+      "7",
+      "12",
+      "20"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 13:2",
+    "explicacao": "Doze homens, um de cada tribo de Israel, foram enviados para espiar Canaã."
+  },
+  {
+    "id": 4189,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Quais dois espias deram um relatório de fé sobre a terra prometida?",
+    "alternativas": [
+      "Moisés e Arão",
+      "Nadabe e Abiú",
+      "Josué e Calebe",
+      "Eleazar e Fineias"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 14:6-9",
+    "explicacao": "Josué e Calebe confiaram na promessa de Deus e incentivaram o povo a conquistar a terra."
+  },
+  {
+    "id": 4190,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Por que Israel não entrou imediatamente na terra prometida?",
+    "alternativas": [
+      "Porque não tinha comida.",
+      "Porque perdeu a arca.",
+      "Porque o povo não creu na promessa de Deus.",
+      "Porque Moisés recusou."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Números 14:11",
+    "explicacao": "A incredulidade do povo diante do relatório dos espias impediu sua entrada imediata em Canaã."
+  },
+  {
+    "explicacao": "Soprou um vento do Senhor que trouxe codornizes do mar e as espalhou pelo acampamento israelita.",
+    "alternativas": [
+      "Enviou um grande bando de codornizes",
+      "Fez chover peixes no acampamento",
+      "Multiplicou os rebanhos instantaneamente",
+      "Transformou pedras em pão"
+    ],
+    "id": 4191,
+    "pergunta": "Como Deus supriu a falta de carne dos israelitas no deserto quando eles reclamaram do maná?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 11:31-32"
+  },
+  {
+    "explicacao": "No dia seguinte, a vara de Arão, pela casa de Levi, floresceu, produziu gomos, brotou flores e deu amêndoas.",
+    "alternativas": [
+      "O cajado brotou, floresceu e produziu amêndoas",
+      "O cajado se transformou em uma espada de ouro",
+      "O cajado começou a jorrar água doce",
+      "O cajado brilhou como o sol"
+    ],
+    "id": 4192,
+    "pergunta": "Que milagre aconteceu com o cajado de Arão para confirmar que sua liderança vinha de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 17:8"
+  },
+  {
+    "explicacao": "Moisés feriu a rocha duas vezes com a vara em Meribá e saiu muita água, mas sua desobediência custou a entrada em Canaã.",
+    "alternativas": [
+      "Meribá (ou Cades)",
+      "Elim",
+      "Refidim",
+      "Mará"
+    ],
+    "id": 4193,
+    "pergunta": "Onde os israelitas murmuraram por falta de água e Moisés bateu na rocha em vez de falar com ela?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 20:1-13"
+  },
+  {
+    "explicacao": "O livro ganhou o nome de 'Números' por causa da contagem minuciosa da população de Israel descrita nos capítulos 1 e 26.",
+    "alternativas": [
+      "Números",
+      "Levítico",
+      "Deuteronômio",
+      "Crônicas"
+    ],
+    "id": 4194,
+    "pergunta": "Em qual livro da Bíblia encontramos os dois censos do povo de Israel no deserto?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 1 e 26"
+  },
+  {
+    "explicacao": "Enquanto dez espias desanimaram o povo com relatos sobre gigantes, Josué e Calebe encorajaram Israel a confiar na promessa do Senhor.",
+    "alternativas": [
+      "Moisés e Arão",
+      "Gideão e Baraque",
+      "Josué e Calebe",
+      "Esdras e Neemias"
+    ],
+    "id": 4195,
+    "pergunta": "Quem foram os dois únicos espias que deram um relatório positivo e confiaram em Deus para entrar em Canaã?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 14:6-9"
+  },
+  {
+    "explicacao": "A nuvem guia se assentou no deserto após a partida de Israel dos arredores do monte sagrado, marcando sua longa peregrinação.",
+    "alternativas": [
+      "Deserto da Judeia",
+      "Deserto do Sinai",
+      "Deserto de Saara",
+      "Deserto da Arábia"
+    ],
+    "id": 4196,
+    "pergunta": "Qual era o nome da península ou deserto principal por onde o povo de Israel peregrinou durante os 40 anos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 10:12"
+  },
+  {
+    "explicacao": "Cades-Barneia foi o local histórico de acampamento na fronteira sul de onde os espias partiram e onde a rebelião do povo custou 40 anos de atraso.",
+    "alternativas": [
+      "Cades-Barneia",
+      "Gilgal",
+      "Berseba",
+      "Jericó"
+    ],
+    "id": 4197,
+    "pergunta": "De onde os israelitas enviaram os 12 espias para inspecionar a terra de Canaã?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 32:8"
+  },
+  {
+    "explicacao": "Moisés, Arão e Eleazar subiram ao Monte Hor diante de toda a congregação, onde as vestes sacerdotais de Arão foram transferidas ao seu filho antes de sua morte.",
+    "alternativas": [
+      "Monte Nebo",
+      "Monte Sinai",
+      "Monte Hor",
+      "Monte Carmelo"
+    ],
+    "id": 4198,
+    "pergunta": "Qual foi o monte onde o sumo sacerdote Arão morreu e foi sepultado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 20:28"
+  },
+  {
+    "explicacao": "Como sinal de julgamento divino à insubordinação, o solo cindiu-se sob as suas tendas, engolindo os rebeldes e todas as suas posses.",
+    "alternativas": [
+      "Foram consumidos por fogo do altar",
+      "A terra se abriu debaixo deles e os engoliu vivos",
+      "Ficaram instantaneamente leprosos",
+      "Foram picados por serpentes"
+    ],
+    "id": 4199,
+    "pergunta": "O que aconteceu com os cabeças da rebelião Corá, Datã e Abirão quando se levantaram contra a autoridade de Moisés e Arão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 16:31-33"
+  },
+  {
+    "explicacao": "O Senhor abriu a boca da jumenta, que questionou Balaão por espancá-la após ela desviar do Anjo do Senhor que barrava a passagem.",
+    "alternativas": [
+      "Uma ovelha",
+      "Uma jumenta",
+      "Um camelo",
+      "Uma pomba"
+    ],
+    "id": 4200,
+    "pergunta": "Que animal falou milagrosamente para repreender as intenções e cegueira espiritual do profeta Balaão no caminho?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 22:28"
+  },
+  {
+    "explicacao": "Como resposta direta à rebeldia verbal da congregação contra Moisés e Deus, répteis venenosos atacaram o povo, resultando em muitas fatalidades.",
+    "alternativas": [
+      "Enviou serpentes abrasadoras (venenosas) no acampamento",
+      "Abriu fendas de fogo no chão",
+      "Enviou uma tempestade de areia",
+      "Cortou o suprimento de água"
+    ],
+    "id": 4201,
+    "pergunta": "De que forma Deus castigou os israelitas por suas murmurações recorrentes contra o maná e a jornada após saírem do Monte Hor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 21:6"
+  },
+  {
+    "explicacao": "Por ordem de Deus, quem olhasse com fé para a réplica de bronze levantada no meio do arraial recebia a restauração da saúde.",
+    "alternativas": [
+      "Um altar de pedras brutas",
+      "Uma serpente de bronze",
+      "O cajado sacerdotal",
+      "Um escudo de ouro"
+    ],
+    "id": 4202,
+    "pergunta": "O que Moisés teve que fabricar e erguer em uma haste para que os picados por cobras fossem curados?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 21:8-9"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Balaque",
+    "alternativas": [
+      "Balaque",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 4203,
+    "pergunta": "Qual era o nome do rei de Moabe que contratou o profeta Balaão para amaldiçoar Israel no deserto?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 22:4-6"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Ribeiro de Escol",
+    "alternativas": [
+      "Ribeiro de Escol",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 4204,
+    "pergunta": "De qual ribeiro os israelitas colheram um cacho de uvas tão grande que precisou ser carregado por dois homens numa vara?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 13:23"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Uma grande praga os feriu enquanto a carne ainda estava entre os seus dentes",
+    "alternativas": [
+      "Uma grande praga os feriu enquanto a carne ainda estava entre os seus dentes",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 4205,
+    "pergunta": "Qual foi a punição de Deus para os israelitas que reclamaram do caminho no deserto e exigiram carne, gerando a sepultura dos cobiçosos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 11:33-34 (Quibrote-Hataavá)"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Porque não santificaram a Deus diante do povo e Moisés feriu a rocha duas vezes com o cajado em vez de falar a ela",
+    "alternativas": [
+      "Porque não santificaram a Deus diante do povo e Moisés feriu a rocha duas vezes com o cajado em vez de falar a ela",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 4206,
+    "pergunta": "Por qual motivo específico Deus proibiu Moisés e Arão de entrarem na Terra Prometida após o incidente em Cades?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 20:11-12"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Misturavam as cinzas com água corrente para fazer a 'água de purificação' contra a impureza de tocar em cadáveres",
+    "alternativas": [
+      "Misturavam as cinzas com água corrente para fazer a 'água de purificação' contra a impureza de tocar em cadáveres",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 4207,
+    "pergunta": "O que os sacerdotes levitas faziam com as cinzas da Novilha Ruiva conforme as leis de purificação?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Números 19"
+  }
+]

@@ -1,0 +1,1022 @@
+[
+  {
+    "explicacao": "A carta é atribuída ao apóstolo João, que se identifica como o presbítero.",
+    "alternativas": [
+      "Paulo",
+      "João",
+      "Pedro",
+      "Tiago"
+    ],
+    "id": 791,
+    "pergunta": "Quem escreveu a terceira carta de João?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:1"
+  },
+  {
+    "explicacao": "João escreveu a Gaio, a quem chama de amado.",
+    "alternativas": [
+      "Gaio",
+      "Demétrio",
+      "Diótrefes",
+      "Timóteo"
+    ],
+    "id": 792,
+    "pergunta": "Para quem João escreveu esta carta?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:1"
+  },
+  {
+    "explicacao": "João demonstra carinho por Gaio chamando-o de amado.",
+    "alternativas": [
+      "Meu servo fiel",
+      "Meu amado",
+      "Meu companheiro de prisão",
+      "Meu irmão de sangue"
+    ],
+    "id": 793,
+    "pergunta": "Como João chama Gaio na saudação da carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:1"
+  },
+  {
+    "explicacao": "João expressa o desejo de que Gaio tivesse saúde e prosperidade conforme sua vida espiritual.",
+    "alternativas": [
+      "Que fosse rico",
+      "Que prosperasse e tivesse saúde, assim como prosperava sua alma",
+      "Que fosse líder político",
+      "Que viajasse pelo mundo"
+    ],
+    "id": 794,
+    "pergunta": "O que João desejava que acontecesse com Gaio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:2"
+  },
+  {
+    "explicacao": "João ficou feliz ao saber que Gaio permanecia na verdade.",
+    "alternativas": [
+      "Em riquezas",
+      "Na verdade",
+      "Em fama",
+      "Em conhecimento humano"
+    ],
+    "id": 795,
+    "pergunta": "João se alegrou quando soube que Gaio andava:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:3"
+  },
+  {
+    "explicacao": "A maior alegria de João era ver seus filhos espirituais vivendo na verdade.",
+    "alternativas": [
+      "Em prosperidade",
+      "Na verdade",
+      "Em sabedoria",
+      "Em poder"
+    ],
+    "id": 796,
+    "pergunta": "João disse que não tinha maior alegria do que saber que seus filhos andavam:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:4"
+  },
+  {
+    "explicacao": "Gaio demonstrava fidelidade ajudando os irmãos e até estrangeiros.",
+    "alternativas": [
+      "Os soldados romanos",
+      "Os irmãos e estrangeiros",
+      "Os reis",
+      "Os sacerdotes"
+    ],
+    "id": 797,
+    "pergunta": "Gaio era fiel ao ajudar principalmente:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:5"
+  },
+  {
+    "explicacao": "O amor de Gaio foi reconhecido e testemunhado perante a igreja.",
+    "alternativas": [
+      "Paulo",
+      "A igreja",
+      "Os governadores",
+      "Os anjos"
+    ],
+    "id": 798,
+    "pergunta": "Os irmãos deram testemunho do amor de Gaio diante de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:6"
+  },
+  {
+    "explicacao": "Eles realizavam sua missão por amor ao nome de Cristo.",
+    "alternativas": [
+      "Dinheiro",
+      "Nome de Cristo",
+      "Poder",
+      "Conhecimento"
+    ],
+    "id": 799,
+    "pergunta": "Os irmãos saíram por amor ao:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:7"
+  },
+  {
+    "explicacao": "Ao receber os irmãos que trabalham pela verdade, participamos dessa obra.",
+    "alternativas": [
+      "Participantes da verdade",
+      "Líderes da igreja",
+      "Governantes",
+      "Ricos"
+    ],
+    "id": 800,
+    "pergunta": "João ensina que devemos receber os irmãos para sermos:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:8"
+  },
+  {
+    "explicacao": "Diótrefes é apresentado como alguém que buscava a primazia.",
+    "alternativas": [
+      "Gaio",
+      "Demétrio",
+      "Diótrefes",
+      "João"
+    ],
+    "id": 801,
+    "pergunta": "Quem gostava de ter o primeiro lugar entre eles?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:9"
+  },
+  {
+    "explicacao": "Diótrefes rejeitava a autoridade de João e não recebia os irmãos.",
+    "alternativas": [
+      "Os irmãos e João",
+      "Os líderes políticos",
+      "Os comerciantes",
+      "Os estrangeiros apenas"
+    ],
+    "id": 802,
+    "pergunta": "Diótrefes não recebia:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:9"
+  },
+  {
+    "explicacao": "Diótrefes espalhava palavras maliciosas contra João.",
+    "alternativas": [
+      "Escrevia elogios",
+      "Falava palavras maliciosas contra ele",
+      "Ajudava seu ministério",
+      "Enviava ofertas"
+    ],
+    "id": 803,
+    "pergunta": "O que Diótrefes fazia contra João?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:10"
+  },
+  {
+    "explicacao": "João aconselha a seguir o bem e não imitar o mal.",
+    "alternativas": [
+      "Bom",
+      "Mau",
+      "Justo",
+      "Verdadeiro"
+    ],
+    "id": 804,
+    "pergunta": "João orienta a não imitar o que é:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:11"
+  },
+  {
+    "explicacao": "João afirma que quem pratica o bem demonstra que pertence a Deus.",
+    "alternativas": [
+      "De Deus",
+      "Dos homens",
+      "Dos reis",
+      "Dos anjos"
+    ],
+    "id": 805,
+    "pergunta": "Quem pratica o bem é:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:11"
+  },
+  {
+    "explicacao": "Demétrio recebeu bom testemunho de todos e da própria verdade.",
+    "alternativas": [
+      "Demétrio",
+      "Diótrefes",
+      "Gaio",
+      "Timóteo"
+    ],
+    "id": 806,
+    "pergunta": "Quem tinha bom testemunho de todos e da própria verdade?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:12"
+  },
+  {
+    "explicacao": "João preferiu conversar pessoalmente em vez de escrever tudo.",
+    "alternativas": [
+      "Não falar mais",
+      "Falar pessoalmente",
+      "Enviar outro mensageiro",
+      "Guardar segredo"
+    ],
+    "id": 807,
+    "pergunta": "João disse que tinha muitas coisas para escrever, mas preferia:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:13-14"
+  },
+  {
+    "explicacao": "João encerra desejando paz a Gaio.",
+    "alternativas": [
+      "Riqueza e fama",
+      "Paz",
+      "Poder",
+      "Vitória militar"
+    ],
+    "id": 808,
+    "pergunta": "João desejou a Gaio:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:14"
+  },
+  {
+    "explicacao": "João se refere aos amigos como irmãos.",
+    "alternativas": [
+      "Irmãos",
+      "Soldados",
+      "Discípulos apenas",
+      "Servos romanos"
+    ],
+    "id": 809,
+    "pergunta": "João chama os amigos pelo nome de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:14"
+  },
+  {
+    "explicacao": "A carta termina com uma saudação de paz e uma despedida aos amigos.",
+    "alternativas": [
+      "Com uma ordem de guerra",
+      "Com uma despedida desejando paz e saudação aos amigos pelo nome",
+      "Com uma profecia",
+      "Com uma oração pelos reis"
+    ],
+    "id": 810,
+    "pergunta": "Como termina a terceira carta de João?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:15"
+  },
+  {
+    "explicacao": "João inicia sua carta chamando Gaio de amado.",
+    "alternativas": [
+      "Demétrio",
+      "Gaio",
+      "Diótrefes",
+      "Timóteo"
+    ],
+    "id": 811,
+    "pergunta": "A quem João chama de amado no início da carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:1"
+  },
+  {
+    "explicacao": "João deseja que Gaio prospere e tenha saúde, assim como sua alma prosperava.",
+    "alternativas": [
+      "Riqueza e fama",
+      "Saúde e prosperidade em tudo",
+      "Poder e autoridade",
+      "Muitos seguidores"
+    ],
+    "id": 812,
+    "pergunta": "O que João deseja que Gaio tenha, além de prosperidade espiritual?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:2"
+  },
+  {
+    "explicacao": "João se alegrou porque recebeu testemunho de que Gaio andava na verdade.",
+    "alternativas": [
+      "Riquezas",
+      "Sabedoria humana",
+      "Verdade",
+      "Tradições antigas"
+    ],
+    "id": 813,
+    "pergunta": "João se alegrou ao saber que Gaio andava em:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:3"
+  },
+  {
+    "explicacao": "A maior alegria de João era saber que seus filhos espirituais viviam na verdade.",
+    "alternativas": [
+      "Ver igrejas cheias",
+      "Ouvir que seus filhos andam na verdade",
+      "Receber ofertas",
+      "Ser reconhecido pelos homens"
+    ],
+    "id": 814,
+    "pergunta": "O que João diz que não tem maior alegria?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:4"
+  },
+  {
+    "explicacao": "Gaio ajudava fielmente os irmãos, inclusive aqueles que eram estrangeiros.",
+    "alternativas": [
+      "Os governantes",
+      "Os irmãos e estrangeiros",
+      "Os soldados romanos",
+      "Os sacerdotes"
+    ],
+    "id": 815,
+    "pergunta": "Gaio demonstrava fidelidade ao ajudar principalmente quem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:5"
+  },
+  {
+    "explicacao": "Os irmãos testemunharam sobre o amor demonstrado por Gaio.",
+    "alternativas": [
+      "Sua riqueza",
+      "Sua fé e amor",
+      "Sua liderança política",
+      "Sua inteligência"
+    ],
+    "id": 816,
+    "pergunta": "Os irmãos deram testemunho diante da igreja sobre qual atitude de Gaio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:6"
+  },
+  {
+    "explicacao": "Ao apoiar aqueles que trabalham pela verdade, participamos dessa obra.",
+    "alternativas": [
+      "Participantes da verdade",
+      "Mestres da Lei",
+      "Governantes",
+      "Profetas"
+    ],
+    "id": 817,
+    "pergunta": "João ensina que devemos receber os irmãos para sermos:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:8"
+  },
+  {
+    "explicacao": "Diótrefes é descrito como alguém que buscava a primazia.",
+    "alternativas": [
+      "Gaio",
+      "Demétrio",
+      "Diótrefes",
+      "João"
+    ],
+    "id": 818,
+    "pergunta": "Quem gostava de ter o primeiro lugar entre eles?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:9"
+  },
+  {
+    "explicacao": "Diótrefes rejeitava a autoridade de João e não recebia os irmãos.",
+    "alternativas": [
+      "Os pobres",
+      "A autoridade dos apóstolos e as cartas de João",
+      "Os visitantes",
+      "Os ensinamentos de Jesus"
+    ],
+    "id": 819,
+    "pergunta": "O que Diótrefes não recebia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:9"
+  },
+  {
+    "explicacao": "Diótrefes falava mal dos irmãos e impedia outros de recebê-los.",
+    "alternativas": [
+      "Ajudava financeiramente",
+      "Falava mal deles e os expulsava da igreja",
+      "Ensinava a Palavra",
+      "Recebia todos com amor"
+    ],
+    "id": 820,
+    "pergunta": "O que Diótrefes fazia contra os irmãos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:10"
+  },
+  {
+    "explicacao": "João orienta a praticar o bem e não seguir exemplos maus.",
+    "alternativas": [
+      "Os profetas",
+      "O mal, mas o bem",
+      "Os apóstolos",
+      "Os estrangeiros"
+    ],
+    "id": 821,
+    "pergunta": "João orienta Gaio a não imitar:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:11"
+  },
+  {
+    "explicacao": "João afirma que quem pratica o bem demonstra pertencer a Deus.",
+    "alternativas": [
+      "Deus",
+      "Roma",
+      "Israel",
+      "Os homens"
+    ],
+    "id": 822,
+    "pergunta": "Quem pratica o bem é de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:11"
+  },
+  {
+    "explicacao": "Demétrio recebeu bom testemunho de todos e da própria verdade.",
+    "alternativas": [
+      "Diótrefes",
+      "Demétrio",
+      "Gaio",
+      "Silvano"
+    ],
+    "id": 823,
+    "pergunta": "Quem João apresenta como alguém que tinha bom testemunho de todos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:12"
+  },
+  {
+    "explicacao": "Demétrio tinha testemunho positivo de todos e da própria verdade.",
+    "alternativas": [
+      "Apenas João",
+      "Todos e da própria verdade",
+      "Apenas os apóstolos",
+      "Os governadores"
+    ],
+    "id": 824,
+    "pergunta": "O testemunho sobre Demétrio vinha de quem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:12"
+  },
+  {
+    "explicacao": "João tinha muitas coisas para escrever, mas preferia falar pessoalmente.",
+    "alternativas": [
+      "Não conhecia Gaio",
+      "Não queria usar tinta e pena somente",
+      "Tinha medo dos irmãos",
+      "Não sabia escrever"
+    ],
+    "id": 825,
+    "pergunta": "João preferiu escrever a carta porque:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:13"
+  },
+  {
+    "explicacao": "João esperava encontrar Gaio e conversar pessoalmente.",
+    "alternativas": [
+      "No templo",
+      "Em breve, pessoalmente",
+      "Em Jerusalém",
+      "No céu"
+    ],
+    "id": 826,
+    "pergunta": "João esperava falar com Gaio:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:14"
+  },
+  {
+    "explicacao": "João encerra desejando paz a Gaio e enviando saudações.",
+    "alternativas": [
+      "Pela riqueza",
+      "Pela força",
+      "Pela paz vinda de Deus e dos irmãos",
+      "Pela autoridade romana"
+    ],
+    "id": 827,
+    "pergunta": "Como João deseja que Gaio tenha paz?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:15"
+  },
+  {
+    "explicacao": "João envia saudações individuais aos amigos.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "Cada um deles",
+      "Diótrefes"
+    ],
+    "id": 828,
+    "pergunta": "João envia saudações aos amigos pelo nome de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:15"
+  },
+  {
+    "explicacao": "Gaio era reconhecido por sua fidelidade e hospitalidade.",
+    "alternativas": [
+      "Hospitalidade aos irmãos",
+      "Busca por poder",
+      "Desejo de liderança",
+      "Riqueza material"
+    ],
+    "id": 829,
+    "pergunta": "Qual era uma característica de Gaio destacada por João?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:5-6"
+  },
+  {
+    "explicacao": "Gaio representa fidelidade e amor, enquanto Diótrefes representa orgulho e busca por posição.",
+    "alternativas": [
+      "Um buscava a verdade e o amor; o outro buscava o primeiro lugar",
+      "Um era judeu e outro romano",
+      "Um era apóstolo e outro profeta",
+      "Um era rico e outro pobre"
+    ],
+    "id": 830,
+    "pergunta": "Qual contraste principal aparece na carta entre Gaio e Diótrefes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:5-10"
+  },
+  {
+    "explicacao": "João chama Gaio de amado e afirma que o ama na verdade.",
+    "alternativas": [
+      "Servo fiel de Cristo",
+      "Amado a quem ele ama na verdade",
+      "Apóstolo escolhido",
+      "Presbítero da igreja"
+    ],
+    "id": 831,
+    "pergunta": "Como João descreve Gaio na saudação da carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:1"
+  },
+  {
+    "explicacao": "João desejava que Gaio prosperasse em tudo e tivesse saúde, assim como sua alma prosperava.",
+    "alternativas": [
+      "Que fosse líder entre os irmãos",
+      "Que prosperasse em tudo e tivesse saúde, assim como prosperava sua alma",
+      "Que viajasse anunciando o evangelho",
+      "Que recebesse autoridade espiritual"
+    ],
+    "id": 832,
+    "pergunta": "Qual era o maior desejo de João para Gaio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:2"
+  },
+  {
+    "explicacao": "João se alegrou ao saber que Gaio permanecia andando na verdade.",
+    "alternativas": [
+      "Sua riqueza e influência",
+      "Seu conhecimento da Lei",
+      "O testemunho de que ele andava na verdade",
+      "Sua posição na igreja"
+    ],
+    "id": 833,
+    "pergunta": "O que causou grande alegria em João ao receber notícias sobre Gaio?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:3"
+  },
+  {
+    "explicacao": "Ao ajudar os irmãos enviados por Cristo, os cristãos cooperavam com a verdade.",
+    "alternativas": [
+      "Para aumentar a fama da igreja",
+      "Para cooperar com a verdade",
+      "Para conquistar novos territórios",
+      "Para receber recompensas humanas"
+    ],
+    "id": 834,
+    "pergunta": "Segundo João, por que era importante receber os irmãos que viajavam pelo evangelho?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:5-8"
+  },
+  {
+    "explicacao": "Os irmãos viajantes testemunharam o amor demonstrado por Gaio.",
+    "alternativas": [
+      "Os soldados romanos",
+      "Os irmãos que estavam em viagem missionária",
+      "Os sacerdotes judeus",
+      "Os governadores"
+    ],
+    "id": 835,
+    "pergunta": "Quem eram os irmãos que deram testemunho do amor de Gaio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:5-6"
+  },
+  {
+    "explicacao": "Eles deram testemunho público do amor de Gaio.",
+    "alternativas": [
+      "Condenaram suas atitudes",
+      "Deram testemunho do seu amor",
+      "Pediram sua liderança",
+      "Solicitaram riquezas"
+    ],
+    "id": 836,
+    "pergunta": "O que esses irmãos fizeram diante da igreja em relação a Gaio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:6"
+  },
+  {
+    "explicacao": "Os missionários não recebiam apoio dos gentios e dependiam da ajuda dos irmãos.",
+    "alternativas": [
+      "Dos judeus",
+      "Dos gentios",
+      "Dos apóstolos",
+      "Dos anjos"
+    ],
+    "id": 837,
+    "pergunta": "Por causa do Nome de Cristo, os missionários saíam sem receber ajuda de quem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:7"
+  },
+  {
+    "explicacao": "João ensina que devemos apoiar aqueles que trabalham pela verdade.",
+    "alternativas": [
+      "Receber e ajudar os servos de Deus",
+      "Buscar reconhecimento público",
+      "Evitar estrangeiros",
+      "Criar novas doutrinas"
+    ],
+    "id": 838,
+    "pergunta": "Qual atitude João considera correta para aqueles que cooperam com a verdade?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:8"
+  },
+  {
+    "explicacao": "João menciona que havia escrito à igreja, mas Diótrefes rejeitou sua autoridade.",
+    "alternativas": [
+      "Uma carta de correção e orientação",
+      "Um livro de profecias",
+      "Uma carta aos reis",
+      "Uma lei para a igreja"
+    ],
+    "id": 839,
+    "pergunta": "O que João escreveu anteriormente à igreja, mas não foi aceito por Diótrefes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:9"
+  },
+  {
+    "explicacao": "Diótrefes era marcado pelo desejo de superioridade e liderança pessoal.",
+    "alternativas": [
+      "Falta de conhecimento",
+      "Gostava de exercer o primeiro lugar entre eles",
+      "Não sabia ensinar",
+      "Não tinha bens materiais"
+    ],
+    "id": 840,
+    "pergunta": "Qual era o principal problema de Diótrefes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:9"
+  },
+  {
+    "explicacao": "Diótrefes difamava João e os irmãos com palavras maliciosas.",
+    "alternativas": [
+      "Orava por eles",
+      "Falava palavras maliciosas contra João e os irmãos",
+      "Ajudava os necessitados",
+      "Ensinava sobre amor"
+    ],
+    "id": 841,
+    "pergunta": "Além de não receber os irmãos, o que Diótrefes fazia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:10"
+  },
+  {
+    "explicacao": "Diótrefes impedia a comunhão dos irmãos e expulsava aqueles que os recebiam.",
+    "alternativas": [
+      "Honrava-os",
+      "Imped ia-os e os expulsava da igreja",
+      "Colocava-os como líderes",
+      "Enviava-os para outras cidades"
+    ],
+    "id": 842,
+    "pergunta": "O que Diótrefes fazia com aqueles que queriam receber os irmãos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:10"
+  },
+  {
+    "explicacao": "João ensina que os cristãos devem seguir o exemplo do bem, não do mal.",
+    "alternativas": [
+      "Devemos seguir somente os líderes famosos",
+      "Não devemos imitar o mal, mas o bem",
+      "Devemos evitar todos os irmãos",
+      "Devemos buscar posições importantes"
+    ],
+    "id": 843,
+    "pergunta": "Qual princípio João apresenta ao falar sobre imitar exemplos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:11"
+  },
+  {
+    "explicacao": "João afirma que quem pratica o bem demonstra que pertence a Deus.",
+    "alternativas": [
+      "Uma tradição religiosa",
+      "Deus",
+      "Uma nação específica",
+      "Um grupo de líderes"
+    ],
+    "id": 844,
+    "pergunta": "Segundo João, quem pratica o bem demonstra que pertence a:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:11"
+  },
+  {
+    "explicacao": "Demétrio possuía um bom testemunho confirmado por todos e pela própria verdade.",
+    "alternativas": [
+      "Tinha testemunho de todos e da própria verdade",
+      "Era inimigo da igreja",
+      "Rejeitava os apóstolos",
+      "Procurava o primeiro lugar"
+    ],
+    "id": 845,
+    "pergunta": "O que João afirma sobre Demétrio?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:12"
+  },
+  {
+    "explicacao": "João também confirmou o bom testemunho de Demétrio.",
+    "alternativas": [
+      "João também dava testemunho dele",
+      "João o repreendia publicamente",
+      "João não o conhecia",
+      "João o expulsou da igreja"
+    ],
+    "id": 846,
+    "pergunta": "Qual era a relação de João com Demétrio?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:12"
+  },
+  {
+    "explicacao": "João preferiu conversar pessoalmente com Gaio em vez de continuar escrevendo.",
+    "alternativas": [
+      "Porque não sabia escrever",
+      "Porque esperava falar pessoalmente com Gaio",
+      "Porque perdeu os escritos",
+      "Porque não tinha mensagem"
+    ],
+    "id": 847,
+    "pergunta": "Por que João não quis escrever mais coisas com tinta e pena?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:13-14"
+  },
+  {
+    "explicacao": "João desejava encontrar Gaio pessoalmente para conversar face a face.",
+    "alternativas": [
+      "Ver-te-ei em breve e falaremos face a face",
+      "Encontrarei você em Jerusalém",
+      "Escreva-me novamente",
+      "Envie mensageiros"
+    ],
+    "id": 848,
+    "pergunta": "Qual expressão João usa ao desejar comunhão com Gaio?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:14"
+  },
+  {
+    "explicacao": "A verdade é um tema central da carta, especialmente relacionada ao modo de viver dos cristãos.",
+    "alternativas": [
+      "Poder",
+      "Verdade",
+      "Riqueza",
+      "Governo"
+    ],
+    "id": 849,
+    "pergunta": "Qual palavra aparece como característica central da carta de 3 João?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:3-4, 8"
+  },
+  {
+    "explicacao": "A carta contrasta Gaio, que demonstra amor, Diótrefes, que busca destaque, e Demétrio, que tem bom testemunho.",
+    "alternativas": [
+      "Gaio demonstra amor e fidelidade; Diótrefes demonstra orgulho; Demétrio possui bom testemunho",
+      "Gaio busca poder; Diótrefes serve; Demétrio rejeita a verdade",
+      "Todos tinham o mesmo comportamento",
+      "Apenas João tinha autoridade espiritual"
+    ],
+    "id": 850,
+    "pergunta": "Qual contraste espiritual a carta apresenta entre os personagens principais?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "3 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "3 João 1:5-12"
+  }
+]

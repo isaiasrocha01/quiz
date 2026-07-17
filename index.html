@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oficina Bíblica - Menu Principal</title>
+    <link rel="stylesheet" href="./css/estilo.css">
+</head>
+
+<body>
+
+    <main class="container home">
+
+        <header class="hero">
+            <h1>Oficina Bíblica</h1>
+
+            <p>
+                Sistema de Gestão de Conhecimento, Estudos e Quiz Bíblico
+            </p>
+
+            <!-- NOVO: Contador de Perguntas Premium -->
+            <div class="contador-container">
+                <span class="contador-icon">📜</span>
+                <span class="contador-numero" id="total-perguntas">...</span>
+                <span class="contador-texto">Questões Cadastradas</span>
+            </div>
+        </header>
+
+        <section class="menu-grid">
+            <!-- Seus cards de menu continuam aqui igualzinho... -->
+            <a href="editor/editor.html" class="menu-card">
+                <span class="menu-icon">✍️</span>
+                <h3>Editor de Questões</h3>
+                <p>Cadastre perguntas, defina níveis, referências e exporte seus estudos.</p>
+            </a>
+
+            <a href="quiz/quiz.html" class="menu-card">
+                <span class="menu-icon">⚔️</span>
+                <h3>Jogo de Quiz</h3>
+                <p>Teste seus conhecimentos bíblicos com feedback imediato.</p>
+            </a>
+
+            <a href="estudo/estudo.html" class="menu-card">
+                <span class="menu-icon">📖</span>
+                <h3>Espaço de Estudos</h3>
+                <p>Aprenda usando flashcards interativos e explicações.</p>
+            </a>
+        </section>
+
+        <footer class="footer">
+            Oficina Bíblica App — Desenvolvido para fixação e aprendizado das Escrituras.
+        </footer>
+
+    </main>
+
+    <!-- IMPORTANTE: Adicione esta linha bem aqui, antes de fechar o body -->
+    <script src="./js/contador.js"></script>
+</body>
+
+</html>

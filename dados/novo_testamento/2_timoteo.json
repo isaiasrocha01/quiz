@@ -1,0 +1,512 @@
+[
+  {
+    "explicacao": "Paulo se identifica como apóstolo de Cristo Jesus no início da carta.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 761,
+    "pergunta": "Quem escreveu a segunda carta a Timóteo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:1"
+  },
+  {
+    "explicacao": "A carta foi escrita por Paulo para Timóteo, seu cooperador na fé.",
+    "alternativas": [
+      "Tito",
+      "Timóteo",
+      "Silas",
+      "Lucas"
+    ],
+    "id": 762,
+    "pergunta": "Para quem Paulo escreveu essa carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:2"
+  },
+  {
+    "explicacao": "Paulo demonstra seu carinho espiritual chamando Timóteo de filho amado.",
+    "alternativas": [
+      "Meu irmão",
+      "Meu filho amado",
+      "Meu companheiro",
+      "Meu mestre"
+    ],
+    "id": 763,
+    "pergunta": "Como Paulo chama Timóteo na saudação da carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:2"
+  },
+  {
+    "explicacao": "Paulo afirma servir a Deus com consciência pura, seguindo o exemplo de seus antepassados.",
+    "alternativas": [
+      "Fraca",
+      "Pura",
+      "Humana",
+      "Insegura"
+    ],
+    "id": 764,
+    "pergunta": "Paulo diz que serve a Deus com uma consciência:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:3"
+  },
+  {
+    "explicacao": "Paulo desejava rever Timóteo para se alegrar com esse encontro.",
+    "alternativas": [
+      "Corrigi-lo",
+      "Vê-lo para se encher de alegria",
+      "Enviá-lo para outra cidade",
+      "Ensinar-lhe uma nova lei"
+    ],
+    "id": 765,
+    "pergunta": "Paulo lembra das lágrimas de Timóteo e desejava:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:4"
+  },
+  {
+    "explicacao": "Paulo orienta Timóteo a reavivar o dom de Deus recebido pela imposição das mãos.",
+    "alternativas": [
+      "O dom de ensinar",
+      "O dom de Deus que estava nele pela imposição das mãos",
+      "O dom de governar",
+      "O dom de falar línguas"
+    ],
+    "id": 766,
+    "pergunta": "Qual dom Paulo aconselha Timóteo a despertar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:6"
+  },
+  {
+    "explicacao": "Paulo ensina que Deus não deu espírito de medo, mas de poder, amor e moderação.",
+    "alternativas": [
+      "Alegria",
+      "Medo",
+      "Sabedoria",
+      "Amor"
+    ],
+    "id": 767,
+    "pergunta": "Deus não nos deu espírito de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:7"
+  },
+  {
+    "explicacao": "O Espírito dado por Deus produz poder, amor e equilíbrio.",
+    "alternativas": [
+      "Poder, amor e moderação",
+      "Riqueza e fama",
+      "Força e domínio",
+      "Conhecimento humano"
+    ],
+    "id": 768,
+    "pergunta": "Deus nos deu espírito de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:7"
+  },
+  {
+    "explicacao": "Paulo incentiva Timóteo a permanecer firme no testemunho de Cristo.",
+    "alternativas": [
+      "Trabalho",
+      "Testemunho de nosso Senhor",
+      "Estudo",
+      "Povo judeu"
+    ],
+    "id": 769,
+    "pergunta": "Paulo orienta Timóteo a não se envergonhar do:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:8"
+  },
+  {
+    "explicacao": "Paulo declara confiança em Deus para guardar aquilo que lhe foi confiado.",
+    "alternativas": [
+      "Timóteo",
+      "Deus",
+      "A igreja",
+      "Os apóstolos"
+    ],
+    "id": 770,
+    "pergunta": "Quem Paulo diz que é poderoso para guardar o seu depósito?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:12"
+  },
+  {
+    "explicacao": "Paulo declara que foi designado por Deus como pregador, apóstolo e mestre dos gentios.",
+    "alternativas": [
+      "Rei e governador",
+      "Pregador, apóstolo e mestre dos gentios",
+      "Sacerdote do templo",
+      "Juiz das nações"
+    ],
+    "id": 771,
+    "pergunta": "Paulo afirma que foi constituído por Deus como:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:11"
+  },
+  {
+    "explicacao": "Paulo lembra que Timóteo possuía uma fé sincera que havia sido vista primeiro em sua avó Loide e sua mãe Eunice.",
+    "alternativas": [
+      "Era uma fé herdada de grandes líderes",
+      "Era uma fé sem conhecimento",
+      "Era uma fé não fingida, que habitou primeiro em sua avó Loide e em sua mãe Eunice",
+      "Era uma fé baseada em milagres"
+    ],
+    "id": 772,
+    "pergunta": "Qual lembrança Paulo traz sobre a fé de Timóteo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:5"
+  },
+  {
+    "explicacao": "Timóteo deveria guardar o bom depósito pelo Espírito Santo que habita nos cristãos.",
+    "alternativas": [
+      "Guardá-lo pelo Espírito Santo que habita nele",
+      "Escondê-lo dos homens",
+      "Entregá-lo aos líderes",
+      "Modificá-lo conforme as pessoas"
+    ],
+    "id": 773,
+    "pergunta": "O que Paulo recomenda a Timóteo fazer com o bom depósito?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:14"
+  },
+  {
+    "explicacao": "Paulo menciona Figelo e Hermógenes como pessoas da Ásia que se afastaram dele.",
+    "alternativas": [
+      "Onesíforo",
+      "Figelo e Hermógenes",
+      "Lucas e Marcos",
+      "Tito e Silas"
+    ],
+    "id": 774,
+    "pergunta": "Quem Paulo menciona como alguém que se envergonhou dele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:15"
+  },
+  {
+    "explicacao": "Paulo elogia Onesíforo por ter demonstrado coragem e cuidado com ele.",
+    "alternativas": [
+      "Timóteo",
+      "Onesíforo",
+      "Demas",
+      "Alexandre"
+    ],
+    "id": 775,
+    "pergunta": "Quem Paulo destaca por ter procurado por ele e não se envergonhado das suas cadeias?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:16"
+  },
+  {
+    "explicacao": "Paulo orienta que o ensino fosse transmitido a pessoas fiéis e aptas para ensinar.",
+    "alternativas": [
+      "Ricos e famosos",
+      "Fiéis e capazes de ensinar outros",
+      "Sacerdotes judeus",
+      "Governantes romanos"
+    ],
+    "id": 776,
+    "pergunta": "Timóteo deveria confiar o ensino recebido a homens que fossem:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 2:2"
+  },
+  {
+    "explicacao": "Paulo ensina que o atleta só recebe a coroa se competir de acordo com as regras.",
+    "alternativas": [
+      "Conforme as regras",
+      "Com muita riqueza",
+      "Sem treinamento",
+      "Com ajuda dos reis"
+    ],
+    "id": 777,
+    "pergunta": "Paulo compara o atleta aprovado àquele que compete:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 2:5"
+  },
+  {
+    "explicacao": "Paulo destaca o trabalho dedicado do lavrador como exemplo de perseverança.",
+    "alternativas": [
+      "Trabalha arduamente",
+      "Possui autoridade",
+      "Tem muitos seguidores",
+      "Conhece a Lei"
+    ],
+    "id": 778,
+    "pergunta": "O lavrador deve ser o primeiro a participar dos frutos porque:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 2:6"
+  },
+  {
+    "explicacao": "Embora Paulo estivesse preso, ele afirma que a Palavra de Deus continuava livre.",
+    "alternativas": [
+      "Viajando",
+      "Preso como criminoso",
+      "Ensinando no templo",
+      "Pregando aos reis"
+    ],
+    "id": 779,
+    "pergunta": "Paulo afirma que a Palavra de Deus não está presa, mesmo quando ele está:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 2:9"
+  },
+  {
+    "explicacao": "Paulo afirma que Deus conhece aqueles que pertencem a Ele.",
+    "alternativas": [
+      "Todo homem é perfeito",
+      "O Senhor conhece os que são seus",
+      "Todos terão riquezas",
+      "Todos serão líderes"
+    ],
+    "id": 780,
+    "pergunta": "O fundamento de Deus permanece tendo este selo:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 2:19"
+  },
+  {
+    "explicacao": "Paulo ensina que a graça foi dada segundo o propósito de Deus antes dos tempos eternos, não por obras humanas.",
+    "alternativas": [
+      "Pelas boas obras dos homens",
+      "Segundo o seu propósito e graça antes dos tempos eternos",
+      "Pela obediência dos reis",
+      "Pelo cumprimento da Lei de Moisés"
+    ],
+    "id": 781,
+    "pergunta": "Segundo Paulo, qual foi a causa de Deus ter dado graça aos cristãos em Cristo Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:9"
+  },
+  {
+    "explicacao": "Cristo venceu a morte e revelou a vida e a imortalidade por meio do evangelho.",
+    "alternativas": [
+      "O sofrimento dos homens",
+      "A morte, trazendo à luz a vida e a imortalidade pelo evangelho",
+      "Os governos terrenos",
+      "Os anjos maus"
+    ],
+    "id": 782,
+    "pergunta": "O que Cristo Jesus aboliu por meio da sua manifestação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:10"
+  },
+  {
+    "explicacao": "Paulo sofreu por causa do evangelho e tinha confiança de que Deus guardaria o depósito confiado a ele.",
+    "alternativas": [
+      "Porque desobedeceu a Deus",
+      "Porque pregava o evangelho e guardava o depósito confiado a ele",
+      "Porque abandonou sua missão",
+      "Porque buscava reconhecimento"
+    ],
+    "id": 783,
+    "pergunta": "Por que Paulo sofreu essas coisas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:12"
+  },
+  {
+    "explicacao": "Timóteo deveria conservar o ensino verdadeiro recebido de Paulo com fé e amor em Cristo.",
+    "alternativas": [
+      "Guardá-lo na fé e no amor que há em Cristo Jesus",
+      "Esquecê-lo com o tempo",
+      "Adaptá-lo aos costumes romanos",
+      "Entregá-lo somente aos líderes"
+    ],
+    "id": 784,
+    "pergunta": "O que Timóteo deveria fazer com o modelo das sãs palavras que recebeu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:13"
+  },
+  {
+    "explicacao": "Paulo menciona que todos os da Ásia o abandonaram, incluindo Figelo e Hermógenes.",
+    "alternativas": [
+      "Todos os da Ásia",
+      "Os apóstolos",
+      "Os soldados romanos",
+      "Os cristãos de Roma"
+    ],
+    "id": 785,
+    "pergunta": "Quem abandonou Paulo na Ásia, entre os quais estavam Figelo e Hermógenes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 1:15"
+  },
+  {
+    "explicacao": "Paulo compara o cristão fiel a um soldado que busca agradar aquele que o alistou.",
+    "alternativas": [
+      "Um comerciante buscando lucro",
+      "Um soldado que agrada ao seu comandante sem se envolver com negócios desta vida",
+      "Um rei conquistando territórios",
+      "Um sacerdote oferecendo sacrifícios"
+    ],
+    "id": 786,
+    "pergunta": "Qual comparação Paulo usa para falar sobre o sofrimento pelo evangelho?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 2:3-4"
+  },
+  {
+    "explicacao": "Paulo afirma que os que perseverarem com Cristo também reinarão com Ele.",
+    "alternativas": [
+      "Seremos ricos",
+      "Reinaremos com Ele",
+      "Nunca sofreremos",
+      "Seremos anjos"
+    ],
+    "id": 787,
+    "pergunta": "Paulo afirma que se perseverarmos com Cristo, também:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 2:12"
+  },
+  {
+    "explicacao": "Paulo ensina que negar Cristo resulta em Cristo também negar essa pessoa.",
+    "alternativas": [
+      "O esquecerá completamente",
+      "O negará",
+      "O castigará imediatamente",
+      "O abandonará para sempre"
+    ],
+    "id": 788,
+    "pergunta": "Se alguém negar a Cristo, Cristo também:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 2:12"
+  },
+  {
+    "explicacao": "Paulo orienta Timóteo a ser aprovado por Deus e manejar corretamente a Palavra da verdade.",
+    "alternativas": [
+      "Um homem aprovado, que maneja bem a palavra da verdade",
+      "Um líder famoso",
+      "Um pregador rico",
+      "Um governante justo"
+    ],
+    "id": 789,
+    "pergunta": "O que Paulo orienta Timóteo a procurar apresentar diante de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 2:15"
+  },
+  {
+    "explicacao": "Paulo cita Himeneu e Fileto como exemplos de pessoas que se desviaram da verdade.",
+    "alternativas": [
+      "Himeneu e Fileto",
+      "Pedro e João",
+      "Lucas e Marcos",
+      "Tito e Silas"
+    ],
+    "id": 790,
+    "pergunta": "Quais homens Paulo cita como exemplo de pessoas que se desviaram da verdade?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "2 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Timóteo 2:17-18"
+  }
+]

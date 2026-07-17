@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 4061,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual porta foi restaurada por Eliasibe, o sumo sacerdote?",
+    "alternativas": [
+      "Porta do Vale.",
+      "Porta das Águas.",
+      "Porta das Ovelhas.",
+      "Porta dos Cavalos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 3:1",
+    "explicacao": "Eliasibe e os sacerdotes reconstruíram a Porta das Ovelhas e a consagraram."
+  },
+  {
+    "id": 4062,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era o principal objetivo dos inimigos ao ameaçar os construtores?",
+    "alternativas": [
+      "Tomar os materiais.",
+      "Mudar o governo de Judá.",
+      "Impedir a reconstrução e causar confusão.",
+      "Destruir o templo."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 4:7-8",
+    "explicacao": "Os inimigos queriam impedir a reconstrução dos muros e criar desordem entre o povo."
+  },
+  {
+    "id": 4063,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "O que Neemias colocou em pontos baixos e abertos do muro?",
+    "alternativas": [
+      "Sacerdotes.",
+      "Trabalhadores extras.",
+      "Famílias armadas com espadas, lanças e arcos.",
+      "Mensageiros do rei."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 4:13",
+    "explicacao": "Neemias organizou o povo para proteger os pontos vulneráveis com suas próprias famílias armadas."
+  },
+  {
+    "id": 4064,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a frase que Neemias usou para encorajar o povo diante do medo?",
+    "alternativas": [
+      "O rei está conosco.",
+      "Nossos inimigos serão vencidos.",
+      "Lembrai-vos do Senhor, grande e temível.",
+      "Não precisamos lutar."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 4:14",
+    "explicacao": "Neemias fortaleceu o povo lembrando que Deus era poderoso e digno de temor."
+  },
+  {
+    "id": 4065,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Por que Neemias considerou grande pecado abandonar a obra para se esconder?",
+    "alternativas": [
+      "Porque perderia dinheiro.",
+      "Porque o rei ficaria bravo.",
+      "Porque era chamado para liderar e confiava em Deus.",
+      "Porque os trabalhadores fugiriam."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 6:11",
+    "explicacao": "Neemias sabia que não deveria fugir, pois tinha uma missão dada por Deus."
+  },
+  {
+    "id": 4066,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Quem tentou profetizar falsamente para assustar Neemias?",
+    "alternativas": [
+      "Tobias.",
+      "Sambalate.",
+      "Semaías.",
+      "Gesém."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 6:10-12",
+    "explicacao": "Semaías tentou enganar Neemias com uma falsa profecia para fazê-lo pecar."
+  },
+  {
+    "id": 4067,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Quantas pessoas trabalharam na dedicação dos muros em dois grandes coros de louvor?",
+    "alternativas": [
+      "Um grupo de sacerdotes apenas.",
+      "Dois grandes coros que caminhavam sobre os muros.",
+      "Apenas os levitas jovens.",
+      "Somente os governadores."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Neemias 12:31-40",
+    "explicacao": "A dedicação dos muros contou com dois grandes grupos de louvor que marcharam sobre os muros."
+  },
+  {
+    "id": 4068,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual problema Neemias encontrou quando voltou a Jerusalém depois de algum tempo?",
+    "alternativas": [
+      "Os muros estavam destruídos novamente.",
+      "O rei havia mudado a lei.",
+      "O templo estava sendo usado de forma inadequada e havia mistura com estrangeiros.",
+      "O povo havia abandonado a cidade."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 13:4-9",
+    "explicacao": "Neemias encontrou corrupção no templo e problemas relacionados à influência de estrangeiros."
+  },
+  {
+    "id": 4069,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual atitude Neemias tomou ao descobrir que Tobias tinha uma câmara dentro do templo?",
+    "alternativas": [
+      "Deixou como estava.",
+      "Pediu autorização ao rei.",
+      "Mandou retirar os móveis de Tobias e purificou a câmara.",
+      "Entregou a Tobias outra sala."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 13:8-9",
+    "explicacao": "Neemias expulsou os pertences de Tobias e restaurou a pureza do local."
+  },
+  {
+    "id": 4070,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual foi uma das últimas orações registradas de Neemias no livro?",
+    "alternativas": [
+      "Senhor, dá-me riquezas.",
+      "Senhor, aumenta meu poder.",
+      "Lembra-te de mim, Deus meu, para o bem.",
+      "Senhor, destrói todos os meus inimigos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 13:31",
+    "explicacao": "Neemias encerra seu relato pedindo que Deus se lembre dele para o bem."
+  },
+  {
+    "id": 4071,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual era o mês em que Neemias recebeu notícias sobre Jerusalém?",
+    "alternativas": [
+      "Nisã",
+      "Tisri",
+      "Quisleu",
+      "Adar"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:1",
+    "explicacao": "Neemias recebeu as notícias no mês de Quisleu, no vigésimo ano do rei Artaxerxes."
+  },
+  {
+    "id": 4072,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Em que cidade Neemias estava quando recebeu as notícias sobre Jerusalém?",
+    "alternativas": [
+      "Babilônia",
+      "Jerusalém",
+      "Susã, a fortaleza",
+      "Damasco"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:1",
+    "explicacao": "Neemias estava em Susã, uma das residências reais do império persa."
+  },
+  {
+    "id": 4073,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Quem foi o responsável por trazer informações a Neemias sobre Jerusalém?",
+    "alternativas": [
+      "Esdras",
+      "Hanani, um de seus irmãos",
+      "Zorobabel",
+      "Joiada"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Neemias 1:2",
+    "explicacao": "Hanani e alguns homens de Judá informaram Neemias sobre a situação de Jerusalém."
+  },
+  {
+    "id": 4074,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual foi a primeira atitude de Neemias antes de pedir algo ao rei?",
+    "alternativas": [
+      "Preparou um exército.",
+      "Consultou os sacerdotes.",
+      "Fez oração ao Deus dos céus.",
+      "Escreveu uma carta a Jerusalém."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:4-5",
+    "explicacao": "Neemias primeiro buscou a Deus por meio de oração e jejum."
+  },
+  {
+    "id": 4075,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual título Neemias usou ao se referir a Deus em sua oração?",
+    "alternativas": [
+      "Deus de Abraão e Isaque.",
+      "Rei eterno de Israel.",
+      "Senhor, Deus dos céus, grande e temível.",
+      "Deus dos exércitos de Judá."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:5",
+    "explicacao": "Neemias reconheceu Deus como Senhor dos céus, grande e temível, que guarda sua aliança."
+  },
+  {
+    "id": 4076,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "O que Neemias pediu ao rei Artaxerxes além da autorização para ir a Jerusalém?",
+    "alternativas": [
+      "Um novo cargo no palácio.",
+      "Um exército permanente.",
+      "Cartas para os governadores e madeira para a reconstrução.",
+      "Ouro e prata do tesouro real."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:7-8",
+    "explicacao": "Neemias pediu cartas de autorização e madeira para a reconstrução."
+  },
+  {
+    "id": 4077,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Quem era o responsável pela floresta de onde viria a madeira solicitada por Neemias?",
+    "alternativas": [
+      "Sambalate.",
+      "Tobias.",
+      "Asafe.",
+      "Gesém."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:8",
+    "explicacao": "Asafe era o responsável pela floresta do rei e forneceria a madeira necessária."
+  },
+  {
+    "id": 4078,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual foi a reação de Sambalate e Tobias ao saberem que alguém buscava o bem dos filhos de Israel?",
+    "alternativas": [
+      "Ficaram felizes.",
+      "Ofereceram ajuda.",
+      "Ficaram muito descontentes.",
+      "Foram embora."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:10",
+    "explicacao": "Sambalate e Tobias ficaram indignados com a chegada de Neemias."
+  },
+  {
+    "id": 4079,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "O que Neemias fez antes de revelar ao povo seu plano de reconstrução?",
+    "alternativas": [
+      "Convocou uma assembleia pública.",
+      "Pediu ajuda ao rei.",
+      "Examinou os muros durante a noite.",
+      "Construiu primeiro o templo."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:12-15",
+    "explicacao": "Neemias avaliou secretamente a situação dos muros antes de apresentar o projeto ao povo."
+  },
+  {
+    "id": 4080,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Quem foi o sumo sacerdote que participou da reconstrução do muro?",
+    "alternativas": [
+      "Esdras.",
+      "Zadoque.",
+      "Eliasibe.",
+      "Josué."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 3:1",
+    "explicacao": "Eliasibe, o sumo sacerdote, liderou a reconstrução da Porta das Ovelhas."
+  },
+  {
+    "id": 4081,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Qual problema social Neemias encontrou entre o povo?",
+    "alternativas": [
+      "Falta de sacerdotes.",
+      "Falta de soldados.",
+      "Pobres sendo explorados pelos seus próprios irmãos.",
+      "Falta de alimentos no templo."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 5:1-5",
+    "explicacao": "Neemias encontrou uma situação de injustiça social, onde muitos pobres estavam sendo explorados pelos próprios israelitas."
+  },
+  {
+    "id": 4082,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "O que Neemias exigiu dos nobres e autoridades que cobravam juros abusivos?",
+    "alternativas": [
+      "Que abandonassem Jerusalém.",
+      "Que entregassem seus bens ao rei.",
+      "Que devolvessem os campos, vinhas e valores cobrados injustamente.",
+      "Que deixassem seus cargos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 5:11",
+    "explicacao": "Neemias ordenou que os nobres devolvessem o que haviam tomado injustamente do povo."
+  },
+  {
+    "id": 4083,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Por quanto tempo Neemias foi governador de Judá?",
+    "alternativas": [
+      "5 anos.",
+      "10 anos.",
+      "12 anos.",
+      "20 anos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 5:14",
+    "explicacao": "Neemias serviu como governador de Judá durante doze anos."
+  },
+  {
+    "id": 4084,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Por que Neemias não aceitou o sustento devido ao governador?",
+    "alternativas": [
+      "Porque não gostava do povo.",
+      "Porque era rico demais.",
+      "Porque temia a Deus e não queria aumentar o peso sobre o povo.",
+      "Porque o rei proibiu."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 5:15",
+    "explicacao": "Neemias abriu mão de seus direitos para não sobrecarregar o povo e por temor a Deus."
+  },
+  {
+    "id": 4085,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Qual estratégia Sambalate e seus aliados usaram para tentar impedir Neemias?",
+    "alternativas": [
+      "Invadir Jerusalém.",
+      "Roubar os materiais.",
+      "Convocar Neemias para uma reunião com intenção de prejudicá-lo.",
+      "Prender os trabalhadores."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 6:2",
+    "explicacao": "Os inimigos tentaram atrair Neemias para uma armadilha fingindo querer uma reunião."
+  },
+  {
+    "id": 4086,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Quantas vezes Sambalate enviou mensagens para Neemias ir ao encontro dele?",
+    "alternativas": [
+      "Duas vezes.",
+      "Três vezes.",
+      "Quatro vezes.",
+      "Sete vezes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 6:4",
+    "explicacao": "Sambalate enviou a mesma mensagem quatro vezes, mas Neemias permaneceu firme."
+  },
+  {
+    "id": 4087,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Qual foi o motivo pelo qual Neemias recusou abandonar a obra?",
+    "alternativas": [
+      "Queria receber uma recompensa.",
+      "Temia perder seu cargo.",
+      "Reconhecia que estava realizando uma grande obra.",
+      "Queria vencer seus inimigos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 6:3",
+    "explicacao": "Neemias sabia que sua missão era importante e não permitiu que distrações o afastassem."
+  },
+  {
+    "id": 4088,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Quem ajudou Esdras na leitura e explicação da Lei ao povo?",
+    "alternativas": [
+      "Os soldados.",
+      "Os reis persas.",
+      "Os levitas.",
+      "Os comerciantes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 8:7-8",
+    "explicacao": "Os levitas ajudaram o povo a compreender a Lei de Deus."
+  },
+  {
+    "id": 4089,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Qual foi uma das principais reformas espirituais realizadas por Neemias?",
+    "alternativas": [
+      "Construção de um novo palácio.",
+      "Conquista de novos territórios.",
+      "Restauração da obediência à Lei de Deus.",
+      "Criação de um novo exército."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 13:1-3",
+    "explicacao": "Neemias promoveu reformas para que o povo voltasse a obedecer aos ensinamentos da Lei."
+  },
+  {
+    "id": 4090,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Qual frase resume a confiança de Neemias durante sua liderança?",
+    "alternativas": [
+      "Minha força vem dos homens.",
+      "O rei sempre me protegerá.",
+      "O Deus dos céus é quem nos fará prosperar.",
+      "Nossos inimigos serão maiores."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:20",
+    "explicacao": "Neemias declarou sua confiança em Deus como aquele que concederia sucesso à obra."
+  },
+  {
+    "id": 4091,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Qual foi a reação de Neemias ao ouvir as notícias sobre Jerusalém?",
+    "alternativas": [
+      "Preparou imediatamente um exército.",
+      "Pediu riquezas ao rei.",
+      "Sentou-se, chorou, lamentou, jejuou e orou perante Deus.",
+      "Voltou para sua família."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:4",
+    "explicacao": "Neemias demonstrou tristeza e buscou a Deus em oração e jejum ao saber da situação de Jerusalém."
+  },
+  {
+    "id": 4092,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Na oração de Neemias, ele reconheceu que Israel havia pecado contra quem?",
+    "alternativas": [
+      "Somente os reis de Judá.",
+      "Os povos vizinhos.",
+      "Deus, transgredindo seus mandamentos.",
+      "O império persa."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:6-7",
+    "explicacao": "Neemias confessou que o povo havia pecado contra Deus e desobedecido aos seus mandamentos."
+  },
+  {
+    "id": 4093,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Qual promessa de Deus Neemias lembrou em sua oração?",
+    "alternativas": [
+      "Que Israel nunca seria derrotado.",
+      "Que Jerusalém nunca seria destruída.",
+      "Que reuniria o povo se este voltasse para Ele e guardasse seus mandamentos.",
+      "Que os reis estrangeiros serviriam Israel."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:8-9",
+    "explicacao": "Neemias lembrou a promessa de restauração para aqueles que retornassem a Deus."
+  },
+  {
+    "id": 4094,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Por que Neemias estava triste diante do rei Artaxerxes?",
+    "alternativas": [
+      "Porque perdeu seu cargo.",
+      "Porque estava doente.",
+      "Porque a cidade dos sepulcros de seus pais estava destruída.",
+      "Porque havia perdido sua família."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:3",
+    "explicacao": "Neemias estava triste porque Jerusalém, a cidade dos sepulcros de seus antepassados, estava destruída."
+  },
+  {
+    "id": 4095,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Antes de responder ao rei sobre seu pedido, o que Neemias fez?",
+    "alternativas": [
+      "Consultou os sacerdotes.",
+      "Pediu conselho aos amigos.",
+      "Orou ao Deus dos céus.",
+      "Leu a Lei de Moisés."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:4",
+    "explicacao": "Neemias fez uma oração breve antes de apresentar seu pedido ao rei."
+  },
+  {
+    "id": 4096,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Quais inimigos ficaram descontentes quando Neemias chegou para ajudar Israel?",
+    "alternativas": [
+      "Faraó e Nabucodonosor.",
+      "Sambalate, Tobias e Gesém.",
+      "Esdras e Zorobabel.",
+      "Saul e Davi."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Neemias 2:10,19",
+    "explicacao": "Sambalate, Tobias e Gesém se opuseram ao trabalho de Neemias."
+  },
+  {
+    "id": 4097,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Por que Neemias examinou os muros de Jerusalém durante a noite?",
+    "alternativas": [
+      "Para esconder seus planos do povo.",
+      "Porque tinha medo dos inimigos.",
+      "Para avaliar a situação antes de iniciar a reconstrução.",
+      "Para procurar tesouros escondidos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:12-15",
+    "explicacao": "Neemias avaliou pessoalmente a condição dos muros antes de iniciar a obra."
+  },
+  {
+    "id": 4098,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Como os trabalhadores construíam os muros enquanto enfrentavam ameaças?",
+    "alternativas": [
+      "Abandonando a obra.",
+      "Trabalhando somente de dia.",
+      "Com uma mão trabalhando e outra segurando armas.",
+      "Esperando soldados do rei."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 4:17",
+    "explicacao": "Os trabalhadores permaneciam preparados para defesa enquanto edificavam os muros."
+  },
+  {
+    "id": 4099,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Qual era a preocupação dos inimigos quando viram a reconstrução avançar?",
+    "alternativas": [
+      "Que Israel ficasse rico.",
+      "Que o templo fosse maior.",
+      "Que Jerusalém fosse fortalecida novamente.",
+      "Que Neemias fosse rei."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 4:7-8",
+    "explicacao": "Os inimigos temiam que Jerusalém fosse restaurada e fortalecida."
+  },
+  {
+    "id": 4100,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Qual atitude Neemias tomou diante das ameaças dos inimigos?",
+    "alternativas": [
+      "Fugiu da cidade.",
+      "Pediu para parar a construção.",
+      "Orava a Deus e colocava guardas contra eles.",
+      "Fez acordo com Sambalate."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 4:9",
+    "explicacao": "Neemias confiou em Deus e tomou medidas de proteção para o povo."
+  },
+  {
+    "id": 4101,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "O que os inimigos disseram quando souberam que os muros foram terminados?",
+    "alternativas": [
+      "Ficaram felizes.",
+      "Pediram ajuda.",
+      "Ficaram abatidos porque reconheceram que Deus havia ajudado o povo.",
+      "Foram morar em Jerusalém."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 6:16",
+    "explicacao": "Os inimigos perceberam que a obra havia sido realizada com a ajuda de Deus."
+  },
+  {
+    "id": 4102,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Quem leu o livro da Lei diante do povo?",
+    "alternativas": [
+      "Neemias.",
+      "Esdras.",
+      "Tobias.",
+      "Sambalate."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Neemias 8:2-3",
+    "explicacao": "Esdras, o escriba, leu a Lei de Moisés diante da congregação."
+  },
+  {
+    "id": 4103,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "O que o povo fez ao ouvir a leitura da Lei?",
+    "alternativas": [
+      "Começou uma guerra.",
+      "Saiu da cidade.",
+      "Chorou e se arrependeu.",
+      "Destruiu os muros."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 8:9",
+    "explicacao": "O povo chorou ao compreender a Palavra de Deus e reconhecer seus erros."
+  },
+  {
+    "id": 4104,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Qual festa o povo celebrou depois da leitura da Lei?",
+    "alternativas": [
+      "Páscoa.",
+      "Pentecostes.",
+      "Festa dos Tabernáculos.",
+      "Festa das Trombetas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 8:14-17",
+    "explicacao": "O povo celebrou a Festa dos Tabernáculos conforme estava escrito na Lei."
+  },
+  {
+    "id": 4105,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "O que Neemias pediu ao povo para não fazer no dia santo?",
+    "alternativas": [
+      "Trabalhar.",
+      "Viajar.",
+      "Ficar triste, pois a alegria do Senhor era a sua força.",
+      "Construir muros."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 8:10",
+    "explicacao": "Neemias ensinou ao povo que a alegria do Senhor era a sua força."
+  },
+  {
+    "id": 4106,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o nome do governador que liderou a reconstrução dos muros?",
+    "alternativas": [
+      "Esdras.",
+      "Zorobabel.",
+      "Neemias.",
+      "Josué."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 5:14",
+    "explicacao": "Neemias exerceu a função de governador de Judá durante a reconstrução."
+  },
+  {
+    "id": 4107,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "O que Neemias fez quando viu injustiças entre o povo?",
+    "alternativas": [
+      "Ignorou o problema.",
+      "Saiu de Jerusalém.",
+      "Repreendeu os nobres e pediu que corrigissem a situação.",
+      "Entregou o povo ao rei."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 5:7-11",
+    "explicacao": "Neemias confrontou os nobres que exploravam o povo e exigiu justiça."
+  },
+  {
+    "id": 4108,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Quem tentou enganar Neemias para que ele entrasse no templo?",
+    "alternativas": [
+      "Esdras.",
+      "Semaías.",
+      "Elias.",
+      "Jeremias."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Neemias 6:10",
+    "explicacao": "Semaías tentou convencer Neemias a se esconder no templo por causa de uma falsa ameaça."
+  },
+  {
+    "id": 4109,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "O que Neemias respondeu quando tentaram fazê-lo parar a obra?",
+    "alternativas": [
+      "Vou pensar.",
+      "Vou abandonar tudo.",
+      "Estou fazendo uma grande obra, de modo que não poderei descer.",
+      "Vou pedir ajuda ao rei."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 6:3",
+    "explicacao": "Neemias permaneceu focado na missão que Deus havia colocado em suas mãos."
+  },
+  {
+    "id": 4110,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi a principal característica de Neemias durante a reconstrução?",
+    "alternativas": [
+      "Medo dos inimigos.",
+      "Riqueza e poder.",
+      "Fé, oração e liderança.",
+      "Busca por fama."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:4-11; 2:17-18",
+    "explicacao": "Neemias liderou com fé, dependência de Deus e compromisso com a reconstrução."
+  },
+  {
+    "id": 4111,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi o autor principal do livro de Neemias?",
+    "alternativas": [
+      "Esdras",
+      "Zorobabel",
+      "Neemias",
+      "Daniel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:1",
+    "explicacao": "Neemias é apresentado como o personagem principal do livro, relatando sua missão de reconstrução dos muros de Jerusalém."
+  },
+  {
+    "id": 4112,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Qual era a função de Neemias no palácio do rei?",
+    "alternativas": [
+      "Soldado",
+      "Sacerdote",
+      "Escriba",
+      "Copeiro do rei"
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Neemias 1:11",
+    "explicacao": "Neemias servia como copeiro do rei Artaxerxes."
+  },
+  {
+    "id": 4113,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Qual rei permitiu que Neemias fosse a Jerusalém?",
+    "alternativas": [
+      "Nabucodonosor",
+      "Dario",
+      "Ciro",
+      "Artaxerxes"
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Neemias 2:1",
+    "explicacao": "O rei Artaxerxes autorizou Neemias a ir para Jerusalém."
+  },
+  {
+    "id": 4114,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "O que Neemias ficou sabendo sobre Jerusalém?",
+    "alternativas": [
+      "Que estava rica e fortalecida.",
+      "Que o templo estava maior.",
+      "Que os muros estavam derrubados e as portas queimadas.",
+      "Que havia um novo rei."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:3",
+    "explicacao": "Neemias soube que Jerusalém estava em grande miséria, com os muros destruídos e as portas queimadas."
+  },
+  {
+    "id": 4115,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "O que Neemias fez quando ouviu sobre a situação de Jerusalém?",
+    "alternativas": [
+      "Fugiu para outra cidade.",
+      "Começou uma guerra.",
+      "Jejuou e orou diante de Deus.",
+      "Abandonou o palácio."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 1:4",
+    "explicacao": "Neemias buscou a Deus em oração e jejum antes de agir."
+  },
+  {
+    "id": 4116,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Qual pedido Neemias fez ao rei Artaxerxes?",
+    "alternativas": [
+      "Ser nomeado sacerdote.",
+      "Receber riquezas.",
+      "Permissão para reconstruir Jerusalém.",
+      "Tornar-se governador do Egito."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:5",
+    "explicacao": "Neemias pediu autorização para reconstruir a cidade de Jerusalém."
+  },
+  {
+    "id": 4117,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "O que Neemias foi reconstruir em Jerusalém?",
+    "alternativas": [
+      "O templo.",
+      "O palácio.",
+      "Os muros da cidade.",
+      "As casas dos moradores."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:17",
+    "explicacao": "A principal missão de Neemias era reconstruir os muros de Jerusalém."
+  },
+  {
+    "id": 4118,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Quem se opôs à reconstrução dos muros?",
+    "alternativas": [
+      "Pedro e João.",
+      "Sambalate e Tobias.",
+      "Moisés e Arão.",
+      "Saul e Davi."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Neemias 2:10",
+    "explicacao": "Sambalate e Tobias foram alguns dos opositores da reconstrução."
+  },
+  {
+    "id": 4119,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "O que o povo respondeu quando Neemias falou sobre reconstruir os muros?",
+    "alternativas": [
+      "Não podemos fazer isso.",
+      "Vamos esperar o rei.",
+      "Levantemo-nos e edifiquemos.",
+      "Vamos abandonar a cidade."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Neemias 2:18",
+    "explicacao": "O povo aceitou o desafio e decidiu reconstruir os muros."
+  },
+  {
+    "id": 4120,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Quanto tempo levou para reconstruir os muros de Jerusalém?",
+    "alternativas": [
+      "7 dias",
+      "40 dias",
+      "1 ano",
+      "52 dias"
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Neemias 6:15",
+    "explicacao": "Os muros foram concluídos em cinquenta e dois dias."
+  }
+]

@@ -1,0 +1,1022 @@
+[
+  {
+    "explicacao": "O autor se identifica como Judas, servo de Jesus Cristo e irmão de Tiago.",
+    "alternativas": [
+      "Judas Iscariotes",
+      "Judas, servo de Jesus Cristo e irmão de Tiago",
+      "Pedro",
+      "João"
+    ],
+    "id": 1395,
+    "pergunta": "Quem escreveu a carta de Judas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:1"
+  },
+  {
+    "explicacao": "Judas apresenta-se como servo de Jesus Cristo.",
+    "alternativas": [
+      "Rei de Israel",
+      "Profeta maior",
+      "Servo de Jesus Cristo",
+      "Sacerdote do templo"
+    ],
+    "id": 1396,
+    "pergunta": "Judas se apresenta como:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:1"
+  },
+  {
+    "explicacao": "Judas escreve aos chamados, amados por Deus e guardados em Cristo.",
+    "alternativas": [
+      "Aos reis da terra",
+      "Aos chamados, amados por Deus Pai e guardados em Jesus Cristo",
+      "Aos soldados romanos",
+      "Aos sacerdotes judeus"
+    ],
+    "id": 1397,
+    "pergunta": "A quem Judas escreve sua carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:1"
+  },
+  {
+    "explicacao": "Judas deseja que graça, misericórdia e paz sejam multiplicadas aos leitores.",
+    "alternativas": [
+      "Riqueza e poder",
+      "Graça, misericórdia e paz",
+      "Conhecimento e fama",
+      "Força e vitória"
+    ],
+    "id": 1398,
+    "pergunta": "O que Judas deseja que seja multiplicado aos leitores?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:2"
+  },
+  {
+    "explicacao": "Judas incentiva os cristãos a batalharem pela fé verdadeira.",
+    "alternativas": [
+      "Pela riqueza",
+      "Pela fé que uma vez foi entregue aos santos",
+      "Pelo governo",
+      "Pela sabedoria humana"
+    ],
+    "id": 1399,
+    "pergunta": "Pelo que Judas aconselha os cristãos a batalharem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:3"
+  },
+  {
+    "explicacao": "Judas alerta sobre pessoas que distorciam a graça de Deus e negavam Jesus.",
+    "alternativas": [
+      "Negando Jesus e transformando a graça em libertinagem",
+      "Construindo templos",
+      "Ensinando a Lei corretamente",
+      "Ajudando os pobres"
+    ],
+    "id": 1400,
+    "pergunta": "O que alguns homens ímpios estavam fazendo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:4"
+  },
+  {
+    "explicacao": "Judas lembra o povo de Israel que saiu do Egito, mas muitos não creram.",
+    "alternativas": [
+      "Os egípcios",
+      "O povo que saiu do Egito",
+      "Os romanos",
+      "Os samaritanos"
+    ],
+    "id": 1401,
+    "pergunta": "Quem Judas menciona como exemplo de pessoas que não creram?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:5"
+  },
+  {
+    "explicacao": "Judas afirma que esses anjos estão guardados sob trevas e em algemas eternas.",
+    "alternativas": [
+      "Foram enviados para pregar",
+      "Foram presos em algemas eternas",
+      "Tornaram-se homens",
+      "Receberam uma nova missão"
+    ],
+    "id": 1402,
+    "pergunta": "O que aconteceu com os anjos que não guardaram seu estado original?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:6"
+  },
+  {
+    "explicacao": "Judas cita Sodoma e Gomorra como exemplos de julgamento divino.",
+    "alternativas": [
+      "Jerusalém e Samaria",
+      "Sodoma e Gomorra",
+      "Belém e Nazaré",
+      "Roma e Corinto"
+    ],
+    "id": 1403,
+    "pergunta": "Quais cidades são citadas como exemplo de julgamento por imoralidade?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:7"
+  },
+  {
+    "explicacao": "Judas menciona Miguel, o arcanjo, em disputa com o diabo pelo corpo de Moisés.",
+    "alternativas": [
+      "Pedro",
+      "Miguel, o arcanjo",
+      "Gabriel",
+      "Josué"
+    ],
+    "id": 1404,
+    "pergunta": "Quem é citado disputando com o diabo pelo corpo de Moisés?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:9"
+  },
+  {
+    "explicacao": "Miguel deixou o julgamento nas mãos do Senhor e disse: 'O Senhor te repreenda'.",
+    "alternativas": [
+      "\"Eu te condeno\"",
+      "\"O Senhor te repreenda\"",
+      "\"Saia daqui\"",
+      "\"Eu tenho autoridade sobre você\""
+    ],
+    "id": 1405,
+    "pergunta": "O que Miguel disse ao diabo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:9"
+  },
+  {
+    "explicacao": "Judas usa a imagem de nuvens sem água para mostrar a inutilidade dos falsos mestres.",
+    "alternativas": [
+      "Estrelas brilhantes",
+      "Nuvens sem água levadas pelos ventos",
+      "Árvores frutíferas",
+      "Fontes de água viva"
+    ],
+    "id": 1406,
+    "pergunta": "Judas compara os falsos mestres a:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:12"
+  },
+  {
+    "explicacao": "Judas denuncia líderes que buscavam apenas seus próprios interesses.",
+    "alternativas": [
+      "Pastores fiéis",
+      "Profetas verdadeiros",
+      "Pastores que a si mesmos se apascentam",
+      "Servos humildes"
+    ],
+    "id": 1407,
+    "pergunta": "Os falsos mestres são chamados de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:12"
+  },
+  {
+    "explicacao": "Judas orienta os cristãos a orarem no Espírito Santo e permanecerem no amor de Deus.",
+    "alternativas": [
+      "Guardar riquezas",
+      "Orar em todo tempo",
+      "Construir templos",
+      "Buscar reconhecimento"
+    ],
+    "id": 1408,
+    "pergunta": "O que Judas diz que devemos fazer para permanecer no amor de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:20-21"
+  },
+  {
+    "explicacao": "Judas ensina que os cristãos devem se edificar na santíssima fé.",
+    "alternativas": [
+      "Na tradição humana",
+      "Na sua santíssima fé",
+      "Na riqueza",
+      "No conhecimento do mundo"
+    ],
+    "id": 1409,
+    "pergunta": "Sobre o que os cristãos deveriam edificar-se?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:20"
+  },
+  {
+    "explicacao": "Judas ensina que esperamos a misericórdia de Jesus Cristo para a vida eterna.",
+    "alternativas": [
+      "Os profetas",
+      "A misericórdia de nosso Senhor Jesus Cristo",
+      "Os anjos",
+      "Os reis"
+    ],
+    "id": 1410,
+    "pergunta": "Quem devemos esperar para a vida eterna?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:21"
+  },
+  {
+    "explicacao": "Judas orienta os cristãos a demonstrarem misericórdia para com os que duvidam.",
+    "alternativas": [
+      "Abandoná-los",
+      "Repreendê-los sempre",
+      "Ter misericórdia deles",
+      "Ignorá-los"
+    ],
+    "id": 1411,
+    "pergunta": "O que devemos fazer com aqueles que têm dúvidas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:22"
+  },
+  {
+    "explicacao": "Judas usa a expressão de tirar alguns do fogo como imagem de resgate.",
+    "alternativas": [
+      "Tirando-os do fogo",
+      "Levando-os ao templo",
+      "Dando-lhes riquezas",
+      "Enviando-os aos reis"
+    ],
+    "id": 1412,
+    "pergunta": "Judas fala sobre salvar alguns:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:23"
+  },
+  {
+    "explicacao": "Judas encerra sua carta exaltando a Deus por meio de Jesus Cristo.",
+    "alternativas": [
+      "Aos anjos",
+      "A Deus, nosso Salvador, por Jesus Cristo",
+      "Aos apóstolos",
+      "Aos profetas"
+    ],
+    "id": 1413,
+    "pergunta": "A quem Judas atribui glória, majestade, domínio e autoridade?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:25"
+  },
+  {
+    "explicacao": "A carta de Judas possui apenas um capítulo com 25 versículos.",
+    "alternativas": [
+      "Um capítulo",
+      "Dois capítulos",
+      "Três capítulos",
+      "Cinco capítulos"
+    ],
+    "id": 1414,
+    "pergunta": "Quantos capítulos possui a carta de Judas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:1-25"
+  },
+  {
+    "explicacao": "Judas escreveu para incentivar os cristãos a defenderem a fé entregue aos santos.",
+    "alternativas": [
+      "Falar sobre a construção do templo",
+      "Exortar os cristãos a batalharem pela fé",
+      "Ensinar sobre as viagens missionárias",
+      "Relatar a vida dos apóstolos"
+    ],
+    "id": 1415,
+    "pergunta": "Qual foi o motivo principal que levou Judas a escrever sua carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:3"
+  },
+  {
+    "explicacao": "Judas condena aqueles que usavam a graça como desculpa para viver em pecado.",
+    "alternativas": [
+      "Sabedoria humana",
+      "Liberdade espiritual",
+      "Libertinagem",
+      "Justiça própria"
+    ],
+    "id": 1416,
+    "pergunta": "Segundo Judas, os falsos mestres haviam transformado a graça de Deus em:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:4"
+  },
+  {
+    "explicacao": "Judas lembra que Deus julgou os israelitas que não creram.",
+    "alternativas": [
+      "Os que não tinham fé",
+      "Os reis inimigos",
+      "Os sacerdotes rebeldes",
+      "Os estrangeiros"
+    ],
+    "id": 1417,
+    "pergunta": "Judas lembra que o Senhor, depois de salvar o povo do Egito, destruiu:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:5"
+  },
+  {
+    "explicacao": "Judas afirma que esses anjos estão reservados para o juízo em algemas eternas.",
+    "alternativas": [
+      "No templo celestial",
+      "Debaixo da terra",
+      "Em algemas eternas para o juízo",
+      "Entre os homens"
+    ],
+    "id": 1418,
+    "pergunta": "Os anjos que abandonaram sua própria habitação estão guardados:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:6"
+  },
+  {
+    "explicacao": "Essas cidades são apresentadas como exemplo do julgamento divino sobre o pecado.",
+    "alternativas": [
+      "Fidelidade a Deus",
+      "Julgamento por imoralidade e pecado",
+      "Prosperidade espiritual",
+      "Obediência aos profetas"
+    ],
+    "id": 1419,
+    "pergunta": "Sodoma, Gomorra e cidades vizinhas são exemplos de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:7"
+  },
+  {
+    "explicacao": "Judas afirma que os falsos mestres rejeitam autoridades e falam contra elas.",
+    "alternativas": [
+      "A oração e o jejum",
+      "A autoridade e difamam autoridades superiores",
+      "A comunhão entre irmãos",
+      "A música no culto"
+    ],
+    "id": 1420,
+    "pergunta": "Os falsos mestres, segundo Judas, rejeitam:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:8"
+  },
+  {
+    "explicacao": "Judas menciona Miguel, o arcanjo, nessa disputa com o diabo.",
+    "alternativas": [
+      "Gabriel",
+      "Miguel, o arcanjo",
+      "Rafael",
+      "Um dos apóstolos"
+    ],
+    "id": 1421,
+    "pergunta": "Quem disputou com o diabo pelo corpo de Moisés?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:9"
+  },
+  {
+    "explicacao": "Miguel deixou o julgamento nas mãos do Senhor.",
+    "alternativas": [
+      "\"Eu te condeno pelo pecado\"",
+      "\"O Senhor te repreenda\"",
+      "\"Fuja da presença de Deus\"",
+      "\"Você será destruído hoje\""
+    ],
+    "id": 1422,
+    "pergunta": "Miguel não proferiu juízo contra o diabo, mas disse:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:9"
+  },
+  {
+    "explicacao": "Judas usa a imagem de rochas escondidas para mostrar o perigo desses falsos mestres.",
+    "alternativas": [
+      "Árvores plantadas junto às águas",
+      "Pastores fiéis",
+      "Rochas submersas nos banquetes de amor",
+      "Videiras produtivas"
+    ],
+    "id": 1423,
+    "pergunta": "Judas compara os falsos mestres a:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:12"
+  },
+  {
+    "explicacao": "Judas compara os falsos mestres a nuvens sem água, sem produzir benefício espiritual.",
+    "alternativas": [
+      "Cheias de chuva",
+      "Sem água, levadas pelos ventos",
+      "Brilhantes como o sol",
+      "Sobre o templo"
+    ],
+    "id": 1424,
+    "pergunta": "Os falsos mestres são comparados a nuvens:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:12"
+  },
+  {
+    "explicacao": "Judas cita Enoque como o sétimo depois de Adão.",
+    "alternativas": [
+      "Noé",
+      "Abraão",
+      "Enoque",
+      "Sete"
+    ],
+    "id": 1425,
+    "pergunta": "Quem foi o sétimo depois de Adão mencionado por Judas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:14"
+  },
+  {
+    "explicacao": "Enoque profetizou sobre a vinda do Senhor para executar juízo.",
+    "alternativas": [
+      "Que construiria um templo",
+      "Que viria com milhares de seus santos para julgar",
+      "Que libertaria Israel do Egito",
+      "Que destruiria Jerusalém"
+    ],
+    "id": 1426,
+    "pergunta": "O que Enoque profetizou sobre o Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:14-15"
+  },
+  {
+    "explicacao": "Judas descreve os falsos mestres como pessoas guiadas por seus próprios desejos.",
+    "alternativas": [
+      "Murmurar e seguir seus próprios desejos",
+      "Servir aos pobres",
+      "Ensinar humildade",
+      "Amar a correção"
+    ],
+    "id": 1427,
+    "pergunta": "Os falsos mestres eram conhecidos por:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:16"
+  },
+  {
+    "explicacao": "Os apóstolos alertaram sobre pessoas que zombariam e seguiriam desejos pecaminosos.",
+    "alternativas": [
+      "Muitos milagres",
+      "Escarnecedores seguindo suas paixões ímpias",
+      "Paz mundial",
+      "Ausência de perseguição"
+    ],
+    "id": 1428,
+    "pergunta": "Judas lembra que os apóstolos disseram que nos últimos tempos haveria:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:17-18"
+  },
+  {
+    "explicacao": "Judas afirma que os causadores de divisões são pessoas sem o Espírito.",
+    "alternativas": [
+      "Espirituais e sábias",
+      "Naturais, sem o Espírito",
+      "Profetas verdadeiros",
+      "Mestres aprovados"
+    ],
+    "id": 1429,
+    "pergunta": "Pessoas que causam divisões são descritas como:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:19"
+  },
+  {
+    "explicacao": "Judas orienta os cristãos a se fortalecerem na santíssima fé.",
+    "alternativas": [
+      "Na tradição dos homens",
+      "Na santíssima fé",
+      "Na riqueza material",
+      "Na filosofia"
+    ],
+    "id": 1430,
+    "pergunta": "Sobre o que os cristãos devem edificar-se?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:20"
+  },
+  {
+    "explicacao": "Judas ensina que os cristãos devem orar no Espírito Santo.",
+    "alternativas": [
+      "Orar no Espírito Santo",
+      "Buscar riquezas",
+      "Evitar todos os pecadores",
+      "Abandonar os incrédulos"
+    ],
+    "id": 1431,
+    "pergunta": "Além de edificar-se na fé, os cristãos devem:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:20"
+  },
+  {
+    "explicacao": "Judas ensina que devemos demonstrar misericórdia aos que têm dúvidas.",
+    "alternativas": [
+      "Condená-los",
+      "Ter misericórdia deles",
+      "Afastá-los da igreja",
+      "Ignorá-los"
+    ],
+    "id": 1432,
+    "pergunta": "Como devemos agir com aqueles que estão em dúvida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:22"
+  },
+  {
+    "explicacao": "Judas usa a expressão tirar do fogo como símbolo de resgate espiritual.",
+    "alternativas": [
+      "Tirá-los do fogo",
+      "Expulsá-los da comunidade",
+      "Deixá-los sozinhos",
+      "Enviá-los aos sacerdotes"
+    ],
+    "id": 1433,
+    "pergunta": "Em relação a alguns que estão em perigo espiritual, Judas orienta:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:23"
+  },
+  {
+    "explicacao": "Judas encerra sua carta com uma doxologia, atribuindo glória a Deus.",
+    "alternativas": [
+      "Com uma oração de louvor a Deus",
+      "Com uma lista de regras",
+      "Com uma genealogia",
+      "Com uma profecia sobre reis"
+    ],
+    "id": 1434,
+    "pergunta": "Como Judas termina sua carta?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:24-25"
+  },
+  {
+    "explicacao": "Judas inicia a carta apresentando-se como servo de Jesus Cristo e irmão de Tiago.",
+    "alternativas": [
+      "Apóstolo de Cristo e líder dos doze",
+      "Servo de Jesus Cristo e irmão de Tiago",
+      "Profeta enviado às nações",
+      "Presbítero da igreja de Jerusalém"
+    ],
+    "id": 1435,
+    "pergunta": "Como Judas se identifica no início da carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:1"
+  },
+  {
+    "explicacao": "Judas escreveu para incentivar os cristãos a defenderem a fé verdadeira.",
+    "alternativas": [
+      "Ensinar sobre os dons espirituais",
+      "Corrigir problemas de casamento",
+      "Exortar a batalhar pela fé entregue aos santos",
+      "Anunciar uma nova revelação"
+    ],
+    "id": 1436,
+    "pergunta": "Judas diz que sua carta foi escrita por causa de uma necessidade específica. Qual era ela?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:3"
+  },
+  {
+    "explicacao": "Os falsos mestres negavam a autoridade divina e Jesus Cristo.",
+    "alternativas": [
+      "A existência dos anjos",
+      "O único Senhor Deus e nosso Senhor Jesus Cristo",
+      "A autoridade dos apóstolos",
+      "A ressurreição dos mortos"
+    ],
+    "id": 1437,
+    "pergunta": "Segundo Judas, os homens ímpios estavam negando:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:4"
+  },
+  {
+    "explicacao": "Judas lembra que muitos israelitas pereceram no deserto por causa da incredulidade.",
+    "alternativas": [
+      "Os moradores de Jericó",
+      "Os israelitas que saíram do Egito",
+      "Os habitantes de Nínive",
+      "Os sacerdotes de Israel"
+    ],
+    "id": 1438,
+    "pergunta": "Qual grupo Judas usa como exemplo de pessoas que receberam livramento, mas depois foram destruídas por não crerem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:5"
+  },
+  {
+    "explicacao": "Judas afirma que esses anjos abandonaram sua posição estabelecida por Deus.",
+    "alternativas": [
+      "Roubar a glória de Deus",
+      "Não guardar sua posição original e abandonar sua habitação",
+      "Ensinar falsas doutrinas",
+      "Adorar outros deuses"
+    ],
+    "id": 1439,
+    "pergunta": "O pecado dos anjos mencionados por Judas foi:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:6"
+  },
+  {
+    "explicacao": "Judas usa Sodoma e Gomorra como exemplo de julgamento por imoralidade.",
+    "alternativas": [
+      "Buscaram sabedoria humana",
+      "Praticaram imoralidade e seguiram carne estranha",
+      "Rejeitaram os profetas",
+      "Construíram ídolos"
+    ],
+    "id": 1440,
+    "pergunta": "As cidades de Sodoma e Gomorra são apresentadas como exemplo de pessoas que:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:7"
+  },
+  {
+    "explicacao": "Judas descreve três atitudes dos falsos mestres: imoralidade, rejeição da autoridade e blasfêmia.",
+    "alternativas": [
+      "Seus próprios corpos e pensamentos",
+      "A própria carne, rejeitavam autoridade e difamavam autoridades superiores",
+      "Apenas os templos",
+      "Somente os livros sagrados"
+    ],
+    "id": 1441,
+    "pergunta": "Segundo Judas, os falsos mestres contaminavam:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:8"
+  },
+  {
+    "explicacao": "Miguel não julgou o diabo por conta própria, mas declarou: O Senhor te repreenda.",
+    "alternativas": [
+      "Miguel venceu pela força",
+      "Miguel entregou o julgamento ao Senhor",
+      "Miguel destruiu o diabo",
+      "Miguel chamou outros anjos"
+    ],
+    "id": 1442,
+    "pergunta": "Qual era a diferença entre Miguel e o diabo na disputa pelo corpo de Moisés?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:9"
+  },
+  {
+    "explicacao": "Judas cita Caim como exemplo de alguém que seguiu um caminho de rebeldia.",
+    "alternativas": [
+      "Construíram cidades",
+      "Seguiram o caminho do erro e da rebeldia",
+      "Foram reis de Israel",
+      "Escreveram profecias"
+    ],
+    "id": 1443,
+    "pergunta": "Os falsos mestres são comparados a Caim porque:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:11"
+  },
+  {
+    "explicacao": "Judas relaciona os falsos mestres ao erro de Balaão, ligado à ganância.",
+    "alternativas": [
+      "Ao caminho de Balaão",
+      "Ao trono de Salomão",
+      "À força de Sansão",
+      "À coragem de Josué"
+    ],
+    "id": 1444,
+    "pergunta": "A que Judas compara os falsos mestres por causa de sua ganância?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:11"
+  },
+  {
+    "explicacao": "Corá é citado como exemplo de rebelião contra a autoridade estabelecida por Deus.",
+    "alternativas": [
+      "Corá",
+      "Saul",
+      "Acã",
+      "Esaú"
+    ],
+    "id": 1445,
+    "pergunta": "Qual outro personagem é citado junto com Caim e Balaão como exemplo de rebelião?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:11"
+  },
+  {
+    "explicacao": "Judas mostra que esses falsos mestres eram perigosos e cuidavam apenas de si mesmos.",
+    "alternativas": [
+      "Árvores sem frutos",
+      "Rochas submersas, sem temor, apascentando a si mesmos",
+      "Leões ferozes",
+      "Torres destruídas"
+    ],
+    "id": 1446,
+    "pergunta": "Nos banquetes de amor, os falsos mestres eram comparados a:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:12"
+  },
+  {
+    "explicacao": "Judas compara os falsos mestres a estrelas errantes destinadas à escuridão.",
+    "alternativas": [
+      "Estrelas brilhantes",
+      "Estrelas errantes",
+      "Estrelas do céu novo",
+      "Estrelas do amanhecer"
+    ],
+    "id": 1447,
+    "pergunta": "Como Judas descreve as estrelas reservadas para a escuridão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:13"
+  },
+  {
+    "explicacao": "Enoque é identificado como o sétimo depois de Adão.",
+    "alternativas": [
+      "Quinto",
+      "Sexto",
+      "Sétimo",
+      "Oitavo"
+    ],
+    "id": 1448,
+    "pergunta": "Quantos anos de gerações depois de Adão Enoque é mencionado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:14"
+  },
+  {
+    "explicacao": "Enoque profetizou o juízo do Senhor contra todos os ímpios.",
+    "alternativas": [
+      "Apenas contra reis",
+      "Contra todos os ímpios",
+      "Apenas contra Israel",
+      "Contra os anjos"
+    ],
+    "id": 1449,
+    "pergunta": "Contra quem Enoque profetizou que o Senhor viria para exercer juízo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:14-15"
+  },
+  {
+    "explicacao": "Judas afirma que os causadores de divisões são pessoas sem o Espírito de Deus.",
+    "alternativas": [
+      "Homens espirituais cheios de sabedoria",
+      "Pessoas naturais que não têm o Espírito",
+      "Profetas enviados por Deus",
+      "Mestres da verdade"
+    ],
+    "id": 1450,
+    "pergunta": "Como Judas descreve aqueles que causam divisões?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:19"
+  },
+  {
+    "explicacao": "Judas apresenta essas três práticas para fortalecer a vida espiritual.",
+    "alternativas": [
+      "Trabalhar, jejuar e evangelizar",
+      "Edificar-se na fé, orar no Espírito Santo e guardar-se no amor de Deus",
+      "Ensinar, governar e julgar",
+      "Cantar, ofertar e jejuar"
+    ],
+    "id": 1451,
+    "pergunta": "Quais são as três atitudes que Judas recomenda aos cristãos nos versículos 20 e 21?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:20-21"
+  },
+  {
+    "explicacao": "Judas ensina que devemos tratar os que têm dúvidas com misericórdia.",
+    "alternativas": [
+      "Devem ser ignorados",
+      "Devem receber misericórdia",
+      "Devem ser expulsos",
+      "Devem ser julgados"
+    ],
+    "id": 1452,
+    "pergunta": "O que deve ser feito com aqueles que estão em dúvida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:22"
+  },
+  {
+    "explicacao": "Judas orienta a resgatar pessoas do perigo espiritual com temor e misericórdia.",
+    "alternativas": [
+      "Pelo conhecimento da Lei",
+      "Com temor, arrebatando-os do fogo",
+      "Pela riqueza",
+      "Pela tradição dos anciãos"
+    ],
+    "id": 1453,
+    "pergunta": "Judas orienta que alguns devem ser salvos:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:23"
+  },
+  {
+    "explicacao": "Judas termina destacando o poder de Deus para guardar e aperfeiçoar os seus.",
+    "alternativas": [
+      "Dar riquezas aos seus servos",
+      "Guardar os crentes de tropeçar e apresentá-los sem defeito diante da sua glória",
+      "Destruir todos os inimigos imediatamente",
+      "Revelar todos os mistérios"
+    ],
+    "id": 1454,
+    "pergunta": "Segundo Judas 1:24, Deus é poderoso para:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Judas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Judas 1:24"
+  }
+]

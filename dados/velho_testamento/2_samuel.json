@@ -1,0 +1,1277 @@
+[
+  {
+    "explicacao": "Aitofel aconselhou Absalão a perseguir Davi durante a noite com doze mil homens para atacá-lo de surpresa.",
+    "alternativas": [
+      "Atacar Jerusalém imediatamente",
+      "Perseguir Davi com doze mil homens durante a noite",
+      "Fazer paz com Davi",
+      "Fugir para o Egito"
+    ],
+    "id": 2426,
+    "pergunta": "Qual conselho Aitofel deu a Absalão para derrotar Davi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 17:1-2"
+  },
+  {
+    "explicacao": "Husai, o arquita, aconselhou Absalão contra a estratégia de Aitofel e favoreceu Davi.",
+    "alternativas": [
+      "Joabe",
+      "Husai",
+      "Abner",
+      "Natã"
+    ],
+    "id": 2427,
+    "pergunta": "Quem era o homem que aconselhou Absalão contra o conselho de Aitofel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 17:5-14"
+  },
+  {
+    "explicacao": "Quando seu conselho foi rejeitado, Aitofel voltou para sua casa e se enforcou.",
+    "alternativas": [
+      "Fugiu para outro país",
+      "Foi preso por Davi",
+      "Enforcou-se",
+      "Tornou-se sacerdote"
+    ],
+    "id": 2428,
+    "pergunta": "O que aconteceu com Aitofel depois que seu conselho não foi aceito?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 17:23"
+  },
+  {
+    "explicacao": "Joabe encontrou Absalão preso pelos cabelos em uma árvore e o matou durante a batalha.",
+    "alternativas": [
+      "Davi",
+      "Joabe",
+      "Abisai",
+      "Benaia"
+    ],
+    "id": 2429,
+    "pergunta": "Quem matou Absalão depois que ele ficou preso pelos cabelos na árvore?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 18:14"
+  },
+  {
+    "explicacao": "Aimaás, filho de Zadoque, levou a notícia da vitória e da morte de Absalão até Davi.",
+    "alternativas": [
+      "Aimaás",
+      "Husai",
+      "Joabe",
+      "Natã"
+    ],
+    "id": 2430,
+    "pergunta": "Quem era o mensageiro que levou a notícia da morte de Absalão a Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 18:19-23"
+  },
+  {
+    "explicacao": "Adonias tentou se declarar rei no final do reinado de Davi, antes da confirmação de Salomão.",
+    "alternativas": [
+      "Salomão",
+      "Adonias",
+      "Absalão",
+      "Amnom"
+    ],
+    "id": 2431,
+    "pergunta": "Qual homem tentou se declarar rei no final do reinado de Davi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 24:1-2 (continuidade em 1 Reis 1)"
+  },
+  {
+    "explicacao": "Davi pecou ao realizar um censo do povo sem obedecer à direção do Senhor, trazendo juízo sobre Israel.",
+    "alternativas": [
+      "Adultério com Bate-Seba",
+      "Contagem do povo sem autorização do Senhor",
+      "Idolatria",
+      "Abandono do templo"
+    ],
+    "id": 2432,
+    "pergunta": "Qual foi o pecado de Davi que trouxe juízo sobre Israel no final do livro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 24:1-10"
+  },
+  {
+    "explicacao": "O profeta Gade orientou Davi sobre o altar que deveria ser construído após o pecado do censo.",
+    "alternativas": [
+      "Natã",
+      "Gade",
+      "Samuel",
+      "Elias"
+    ],
+    "id": 2433,
+    "pergunta": "Quem era o profeta que aconselhou Davi sobre o altar após o pecado do censo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 24:11-18"
+  },
+  {
+    "explicacao": "Davi construiu um altar ao Senhor na eira de Araúna, o jebuseu.",
+    "alternativas": [
+      "Monte Sinai",
+      "Eira de Araúna, o jebuseu",
+      "Monte Carmelo",
+      "Belém"
+    ],
+    "id": 2434,
+    "pergunta": "Em qual lugar Davi construiu um altar ao Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 24:18-25"
+  },
+  {
+    "explicacao": "Davi reinou quarenta anos sobre Israel: sete anos e seis meses em Hebrom e trinta e três anos em Jerusalém.",
+    "alternativas": [
+      "30 anos",
+      "33 anos",
+      "40 anos",
+      "70 anos"
+    ],
+    "id": 2435,
+    "pergunta": "Quantos anos Davi reinou sobre Israel ao todo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 5:4-5"
+  },
+  {
+    "explicacao": "Após receber a promessa de Deus através de Natã, Davi entrou diante do Senhor e fez uma oração de gratidão.",
+    "alternativas": [
+      "Fugiu para o deserto",
+      "Entrou e orou diante do Senhor",
+      "Construiu imediatamente o templo",
+      "Fez guerra contra seus inimigos"
+    ],
+    "id": 2436,
+    "pergunta": "Qual foi a atitude de Davi ao receber a promessa de Deus através de Natã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 7:18"
+  },
+  {
+    "explicacao": "O jovem que levou a notícia da morte de Saul era um amalequita que não teve seu nome registrado.",
+    "alternativas": [
+      "Um amalequita sem nome",
+      "Um filho de Abner",
+      "Um servo de Joabe",
+      "Um mensageiro filisteu"
+    ],
+    "id": 2437,
+    "pergunta": "Qual era o nome do jovem que trouxe a notícia da morte de Saul a Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 1:6-8"
+  },
+  {
+    "explicacao": "Davi ordenou a morte do amalequita porque ele declarou ter matado o ungido do Senhor.",
+    "alternativas": [
+      "Tornou-o comandante do exército",
+      "Mandou prendê-lo",
+      "Mandou matá-lo por ter tocado no ungido do Senhor",
+      "Deixou que fugisse"
+    ],
+    "id": 2438,
+    "pergunta": "O que Davi fez com o homem que afirmou ter matado Saul?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 1:14-16"
+  },
+  {
+    "explicacao": "Mefibosete, filho de Jônatas e neto de Saul, ficou aleijado após uma queda quando era criança.",
+    "alternativas": [
+      "Isbosete",
+      "Jônatas",
+      "Mefibosete",
+      "Malquisua"
+    ],
+    "id": 2439,
+    "pergunta": "Qual foi o nome do filho de Saul que ficou aleijado após uma queda?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 4:4"
+  },
+  {
+    "explicacao": "Asael era irmão de Joabe e filho de Zeruia. Ele era conhecido por sua velocidade e morreu pelas mãos de Abner.",
+    "alternativas": [
+      "Irmão de Joabe e filho de Zeruia",
+      "Filho de Saul",
+      "Filho de Davi",
+      "Sacerdote de Israel"
+    ],
+    "id": 2440,
+    "pergunta": "Quem era Asael, morto por Abner durante a batalha?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 2:18-23"
+  },
+  {
+    "explicacao": "Abner concordou em apoiar Davi, mas pediu que Mical, filha de Saul e antiga esposa de Davi, fosse devolvida.",
+    "alternativas": [
+      "Que Davi entregasse Jerusalém",
+      "Que Davi fizesse aliança com os filisteus",
+      "Que Davi trouxesse Mical, filha de Saul, de volta",
+      "Que Davi entregasse seu exército"
+    ],
+    "id": 2441,
+    "pergunta": "Qual condição Abner colocou para ajudar Davi a reinar sobre todo Israel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 3:13-15"
+  },
+  {
+    "explicacao": "Joabe matou Abner por vingança pela morte de seu irmão Asael.",
+    "alternativas": [
+      "Davi, por vingança",
+      "Joabe, por causa da morte de Asael",
+      "Absalão, por disputa pelo trono",
+      "Benaia, por ordem de Saul"
+    ],
+    "id": 2442,
+    "pergunta": "Quem matou Abner e qual foi o motivo declarado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 3:27,30"
+  },
+  {
+    "explicacao": "Maaca era filha de Talmai, rei de Gesur, e mãe de Absalão.",
+    "alternativas": [
+      "Mical",
+      "Maaca",
+      "Abigail",
+      "Bate-Seba"
+    ],
+    "id": 2443,
+    "pergunta": "Qual era o nome da mãe de Absalão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 3:3"
+  },
+  {
+    "explicacao": "Simei amaldiçoou Davi e lançou pedras contra ele quando Davi fugia de Absalão.",
+    "alternativas": [
+      "Simei",
+      "Aitofel",
+      "Husai",
+      "Ziba"
+    ],
+    "id": 2444,
+    "pergunta": "Qual homem amaldiçoou Davi quando ele fugia de Absalão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 16:5-7"
+  },
+  {
+    "explicacao": "Ziba era servo da casa de Saul e cuidava dos bens que pertenciam à família de Saul.",
+    "alternativas": [
+      "Servo da casa de Saul que cuidava dos bens de Mefibosete",
+      "General do exército de Davi",
+      "Sacerdote do templo",
+      "Filho de Absalão"
+    ],
+    "id": 2445,
+    "pergunta": "Quem era Ziba?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 9:9-10"
+  },
+  {
+    "explicacao": "Quando Davi tentou levar a Arca da Aliança para Jerusalém, Uzá tocou nela e morreu por causa da irreverência.",
+    "alternativas": [
+      "A Arca foi destruída",
+      "Uzá morreu ao tocar na Arca",
+      "Os filisteus roubaram a Arca",
+      "Davi perdeu o reino"
+    ],
+    "id": 2446,
+    "pergunta": "O que aconteceu quando Davi tentou levar a Arca da Aliança para Jerusalém de maneira incorreta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 6:6-7"
+  },
+  {
+    "explicacao": "A Arca da Aliança ficou na casa de Obede-Edom durante três meses, e Deus abençoou sua casa.",
+    "alternativas": [
+      "Obede-Edom",
+      "Natã",
+      "Zadoque",
+      "Joabe"
+    ],
+    "id": 2447,
+    "pergunta": "Na casa de quem a Arca ficou por três meses?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 6:10-11"
+  },
+  {
+    "explicacao": "Mical desprezou Davi por ele ter dançado diante do Senhor quando a Arca foi levada para Jerusalém.",
+    "alternativas": [
+      "Abigail",
+      "Mical",
+      "Bate-Seba",
+      "Tamar"
+    ],
+    "id": 2448,
+    "pergunta": "Quem repreendeu Davi por ter dançado diante da Arca?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 6:16,20"
+  },
+  {
+    "explicacao": "Natã anunciou a Davi a promessa de Deus de estabelecer uma casa e um reino duradouro.",
+    "alternativas": [
+      "Samuel",
+      "Natã",
+      "Elias",
+      "Gade"
+    ],
+    "id": 2449,
+    "pergunta": "Qual profeta anunciou a Davi a promessa de uma casa eterna?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 7:12-16"
+  },
+  {
+    "explicacao": "Hadadezer era rei de Zobá e foi derrotado por Davi quando tentou recuperar seu domínio.",
+    "alternativas": [
+      "Hadadezer",
+      "Hanum",
+      "Toí",
+      "Mesa"
+    ],
+    "id": 2450,
+    "pergunta": "Quem era o rei de Zobá derrotado por Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 8:3"
+  },
+  {
+    "explicacao": "Abiatar servia como sacerdote junto com Zadoque durante o reinado de Davi.",
+    "alternativas": [
+      "Abiatar",
+      "Eli",
+      "Joiada",
+      "Hilquias"
+    ],
+    "id": 2451,
+    "pergunta": "Qual sacerdote servia junto com Zadoque nos dias de Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 8:17"
+  },
+  {
+    "explicacao": "Mefibosete era filho de Jônatas e neto de Saul, e Davi demonstrou bondade para com ele.",
+    "alternativas": [
+      "Filho de Saul e neto de Jônatas",
+      "Filho de Davi",
+      "Rei dos filisteus",
+      "General de Davi"
+    ],
+    "id": 2452,
+    "pergunta": "Quem era Mefibosete?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 9:6"
+  },
+  {
+    "explicacao": "Mefibosete ficou aleijado quando caiu enquanto sua ama fugia com ele após a morte de Saul e Jônatas.",
+    "alternativas": [
+      "Por causa de uma batalha",
+      "Por causa de uma doença",
+      "Porque caiu quando sua ama fugia com ele",
+      "Porque nasceu assim"
+    ],
+    "id": 2453,
+    "pergunta": "Por que Mefibosete era aleijado dos pés?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 4:4"
+  },
+  {
+    "explicacao": "Aitofel era conselheiro de Davi, mas abandonou o rei e apoiou a revolta de Absalão.",
+    "alternativas": [
+      "Husai",
+      "Aitofel",
+      "Natã",
+      "Joabe"
+    ],
+    "id": 2454,
+    "pergunta": "Quem foi o conselheiro de Davi que se juntou à rebelião de Absalão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 15:12"
+  },
+  {
+    "explicacao": "Husai, o arquita, permaneceu fiel a Davi e ajudou a frustrar o conselho de Aitofel.",
+    "alternativas": [
+      "Husai, o arquita",
+      "Abner",
+      "Isbosete",
+      "Simei"
+    ],
+    "id": 2455,
+    "pergunta": "Quem ficou ao lado de Davi contra o conselho de Aitofel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 15:32-37"
+  },
+  {
+    "explicacao": "Absalão ficou preso pelos cabelos nos galhos de uma árvore durante a batalha e foi morto por Joabe.",
+    "alternativas": [
+      "Foi morto por Davi",
+      "Morreu na batalha contra os filisteus",
+      "Ficou preso pelos cabelos em uma árvore e foi morto por Joabe",
+      "Fugiu para o Egito"
+    ],
+    "id": 2456,
+    "pergunta": "Como Absalão morreu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 18:9-14"
+  },
+  {
+    "explicacao": "Um homem amalequita afirmou ter matado Saul e levou a coroa e o bracelete de Saul para Davi.",
+    "alternativas": [
+      "Um filisteu",
+      "Um amalequita",
+      "Um israelita",
+      "Um edomita"
+    ],
+    "id": 2457,
+    "pergunta": "Quem era o homem que afirmou ter matado Saul e levou a coroa dele para Davi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 1:8-10"
+  },
+  {
+    "explicacao": "Davi ensinou aos filhos de Judá o cântico do arco como forma de lamentação pela morte de Saul e Jônatas.",
+    "alternativas": [
+      "Cântico do templo",
+      "Cântico do arco",
+      "Cântico da vitória",
+      "Cântico de Sião"
+    ],
+    "id": 2458,
+    "pergunta": "Qual foi o cântico que Davi ensinou aos filhos de Judá após a morte de Saul e Jônatas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 1:17-18"
+  },
+  {
+    "explicacao": "Abner era o comandante do exército de Saul e apoiou Isbosete como rei de Israel.",
+    "alternativas": [
+      "Joabe",
+      "Abner",
+      "Benaia",
+      "Urias"
+    ],
+    "id": 2459,
+    "pergunta": "Quem era o comandante do exército de Saul que apoiou Isbosete?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 2:8"
+  },
+  {
+    "explicacao": "Joabe matou Abner em Hebrom após fingir uma conversa amigável com ele.",
+    "alternativas": [
+      "Davi",
+      "Joabe",
+      "Isbosete",
+      "Absalão"
+    ],
+    "id": 2460,
+    "pergunta": "Quem matou Abner, comandante do exército de Saul?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 3:27"
+  },
+  {
+    "explicacao": "Joabe matou Abner porque ele havia matado seu irmão Asael durante a batalha entre Israel e Judá.",
+    "alternativas": [
+      "Porque Abner atacou Jerusalém",
+      "Porque Abner matou seu irmão Asael",
+      "Porque Abner roubou o reino",
+      "Porque Abner traiu Davi"
+    ],
+    "id": 2461,
+    "pergunta": "Por que Joabe matou Abner?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 3:30"
+  },
+  {
+    "explicacao": "Recabe e Baaná mataram Isbosete enquanto ele descansava em sua casa.",
+    "alternativas": [
+      "Recabe e Baaná",
+      "Joabe e Abisai",
+      "Abner e Saul",
+      "Davi e Natã"
+    ],
+    "id": 2462,
+    "pergunta": "Quem matou Isbosete, filho de Saul?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 4:5-7"
+  },
+  {
+    "explicacao": "Davi condenou os homens que mataram Isbosete, pois eles haviam assassinado um inocente.",
+    "alternativas": [
+      "Recompensou-os",
+      "Fez deles soldados",
+      "Mandou matá-los",
+      "Mandou-os embora"
+    ],
+    "id": 2463,
+    "pergunta": "O que Davi fez com os homens que mataram Isbosete?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 4:9-12"
+  },
+  {
+    "explicacao": "Davi tinha trinta anos quando começou a reinar sobre todo Israel.",
+    "alternativas": [
+      "20 anos",
+      "30 anos",
+      "40 anos",
+      "50 anos"
+    ],
+    "id": 2464,
+    "pergunta": "Quantos anos Davi tinha quando começou a reinar sobre todo Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 5:4"
+  },
+  {
+    "explicacao": "Hirão, rei de Tiro, enviou madeira e trabalhadores para ajudar Davi a construir sua casa.",
+    "alternativas": [
+      "Aquis",
+      "Hirão",
+      "Abimeleque",
+      "Hanum"
+    ],
+    "id": 2465,
+    "pergunta": "Quem era o rei dos filisteus que enviou presentes a Davi para construir sua casa?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 5:11"
+  },
+  {
+    "explicacao": "Davi desejava construir uma casa para o Senhor, mas Deus revelou através de Natã que não seria ele quem construiria o templo.",
+    "alternativas": [
+      "Um palácio",
+      "Um templo",
+      "Uma cidade",
+      "Um altar de ouro"
+    ],
+    "id": 2466,
+    "pergunta": "O que Davi desejava construir para o Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 7:1-2"
+  },
+  {
+    "explicacao": "O profeta Natã foi enviado por Deus para falar com Davi sobre a construção do templo.",
+    "alternativas": [
+      "Samuel",
+      "Natã",
+      "Elias",
+      "Zadoque"
+    ],
+    "id": 2467,
+    "pergunta": "Quem disse a Davi que ele não construiria o templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 7:4-5"
+  },
+  {
+    "explicacao": "Deus prometeu a Davi que sua casa e seu reino permaneceriam para sempre diante dele.",
+    "alternativas": [
+      "Que ele teria muitos cavalos",
+      "Que sua casa e seu reino seriam estabelecidos para sempre",
+      "Que ele nunca enfrentaria inimigos",
+      "Que construiria o templo"
+    ],
+    "id": 2468,
+    "pergunta": "Qual promessa Deus fez a Davi através do profeta Natã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 7:16"
+  },
+  {
+    "explicacao": "Davi venceu Hanum, rei dos amonitas, após um conflito envolvendo seus mensageiros.",
+    "alternativas": [
+      "Saul",
+      "Golias",
+      "Hanum",
+      "Abner"
+    ],
+    "id": 2469,
+    "pergunta": "Quem Davi derrotou em uma batalha e depois poupou a vida?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 10:1-4"
+  },
+  {
+    "explicacao": "Davi cometeu adultério com Bate-Seba, esposa de Urias, durante o período em que estava em Jerusalém.",
+    "alternativas": [
+      "Abigail",
+      "Mical",
+      "Bate-Seba",
+      "Tamar"
+    ],
+    "id": 2470,
+    "pergunta": "Com quem Davi pecou ao cometer adultério?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 11:2-4"
+  },
+  {
+    "explicacao": "Urias era o marido de Bate-Seba e um dos soldados de Davi.",
+    "alternativas": [
+      "Urias",
+      "Joabe",
+      "Abner",
+      "Eliabe"
+    ],
+    "id": 2471,
+    "pergunta": "Qual era o nome do marido de Bate-Seba?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 11:3"
+  },
+  {
+    "explicacao": "Davi enviou uma carta por meio de Urias para Joabe, ordenando que Urias fosse colocado na frente da batalha.",
+    "alternativas": [
+      "Saul",
+      "Joabe",
+      "Absalão",
+      "Natã"
+    ],
+    "id": 2472,
+    "pergunta": "Quem enviou Davi para a guerra onde Urias morreu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 11:14-17"
+  },
+  {
+    "explicacao": "O profeta Natã confrontou Davi e revelou o pecado que ele havia cometido.",
+    "alternativas": [
+      "Samuel",
+      "Natã",
+      "Elias",
+      "Eliseu"
+    ],
+    "id": 2473,
+    "pergunta": "Qual profeta repreendeu Davi pelo pecado com Bate-Seba?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 12:7"
+  },
+  {
+    "explicacao": "Absalão, filho de Davi, liderou uma rebelião contra o próprio pai para tomar o reino.",
+    "alternativas": [
+      "Salomão",
+      "Absalão",
+      "Amnom",
+      "Quileabe"
+    ],
+    "id": 2474,
+    "pergunta": "Qual filho de Davi se rebelou contra ele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 15:10-14"
+  },
+  {
+    "explicacao": "Joabe matou Absalão durante a batalha, apesar da ordem de Davi para que poupassem sua vida.",
+    "alternativas": [
+      "Joabe",
+      "Davi",
+      "Abner",
+      "Benaia"
+    ],
+    "id": 2475,
+    "pergunta": "Quem matou Absalão durante a batalha?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 18:14"
+  },
+  {
+    "explicacao": "Após Saul, Davi foi escolhido e ungido como rei de Israel, governando primeiro sobre Judá e depois sobre todo Israel.",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Roboão",
+      "Samuel"
+    ],
+    "id": 2476,
+    "pergunta": "Quem substituiu Saul como rei de Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 5:3-4"
+  },
+  {
+    "explicacao": "Após a morte de Saul, Davi foi ungido rei sobre Israel pelos anciãos de Israel.",
+    "alternativas": [
+      "Salomão",
+      "Davi",
+      "Jônatas",
+      "Abner"
+    ],
+    "id": 2477,
+    "pergunta": "Quem se tornou rei de Israel após a morte de Saul?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 5:3"
+  },
+  {
+    "explicacao": "Um mensageiro amalequita informou Davi sobre a morte de Saul e disse ter participado do acontecimento.",
+    "alternativas": [
+      "Jônatas",
+      "Um mensageiro amalequita",
+      "Abner",
+      "Joabe"
+    ],
+    "id": 2478,
+    "pergunta": "Quem contou a Davi sobre a morte de Saul?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 1:6-10"
+  },
+  {
+    "explicacao": "Davi lamentou a morte de Saul e Jônatas, rasgando suas vestes e chorando.",
+    "alternativas": [
+      "Ficou feliz",
+      "Fugiu para outra cidade",
+      "Chorou e lamentou",
+      "Preparou uma guerra"
+    ],
+    "id": 2479,
+    "pergunta": "Qual foi a reação de Davi ao saber da morte de Saul e Jônatas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 1:11-12"
+  },
+  {
+    "explicacao": "Jônatas, filho de Saul e grande amigo de Davi, morreu junto com Saul na batalha.",
+    "alternativas": [
+      "Abner",
+      "Jônatas",
+      "Joabe",
+      "Isbosete"
+    ],
+    "id": 2480,
+    "pergunta": "Quem era o grande amigo de Davi que morreu junto com Saul?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 1:25-26"
+  },
+  {
+    "explicacao": "Davi foi orientado pelo Senhor a ir para Hebrom, onde foi ungido rei sobre Judá.",
+    "alternativas": [
+      "Jerusalém",
+      "Belém",
+      "Hebrom",
+      "Samaria"
+    ],
+    "id": 2481,
+    "pergunta": "Qual cidade foi escolhida por Davi para ser rei de Judá primeiro?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 2:1-4"
+  },
+  {
+    "explicacao": "Isbosete, filho de Saul, foi colocado como rei sobre Israel após a morte de seu pai.",
+    "alternativas": [
+      "Jônatas",
+      "Isbosete",
+      "Mefibosete",
+      "Absalão"
+    ],
+    "id": 2482,
+    "pergunta": "Quem era o filho de Saul que reinou sobre Israel após a morte dele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 2:8-10"
+  },
+  {
+    "explicacao": "Joabe era o comandante do exército de Davi e participou de muitas batalhas.",
+    "alternativas": [
+      "Abner",
+      "Joabe",
+      "Benaia",
+      "Urias"
+    ],
+    "id": 2483,
+    "pergunta": "Quem era o comandante do exército de Davi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 8:16"
+  },
+  {
+    "explicacao": "Davi conquistou Jerusalém dos jebuseus e fez dela a capital do seu reino.",
+    "alternativas": [
+      "Jericó",
+      "Jerusalém",
+      "Betel",
+      "Gilgal"
+    ],
+    "id": 2484,
+    "pergunta": "Qual cidade Davi conquistou e tornou sua capital?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 5:6-9"
+  },
+  {
+    "explicacao": "Mical, esposa de Davi e filha de Saul, desprezou Davi quando ele dançou diante da Arca.",
+    "alternativas": [
+      "Abigail",
+      "Mical",
+      "Bate-Seba",
+      "Tamar"
+    ],
+    "id": 2485,
+    "pergunta": "Quem era a esposa de Davi que desprezou sua dança diante da Arca?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 6:16"
+  },
+  {
+    "explicacao": "Davi conquistou a fortaleza de Sião, que passou a se chamar a Cidade de Davi (Jerusalém).",
+    "alternativas": [
+      "Jerusalém",
+      "Samaria",
+      "Hebrom",
+      "Belém"
+    ],
+    "id": 2486,
+    "pergunta": "Qual cidade se tornou a capital do reino de Davi e o lugar do Templo de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 5:6-9"
+  },
+  {
+    "explicacao": "Enquanto 1 Samuel foca em Saul e na juventude de Davi, 2 Samuel narra exclusivamente o trono de Davi.",
+    "alternativas": [
+      "2 Samuel",
+      "1 Samuel",
+      "1 Reis",
+      "1 Crônicas"
+    ],
+    "id": 2487,
+    "pergunta": "Qual livro se concentra quase inteiramente na história do reinado de Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 1-24"
+  },
+  {
+    "explicacao": "Para encobrir o adultério, Davi ordenou por carta que Urias fosse abandonado no ponto mais violento do combate.",
+    "alternativas": [
+      "Urias, o heteu",
+      "Joabe",
+      "Abisai",
+      "Itai"
+    ],
+    "id": 2488,
+    "pergunta": "Quem era o marido de Bate-Seba que Davi mandou colocar na frente de batalha para ser morto?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 11:14-15"
+  },
+  {
+    "explicacao": "Ao fugir montado em uma mula, a cabeça de Absalão ficou presa nos galhos de um grande carvalho, facilitando sua execução por Joabe.",
+    "alternativas": [
+      "Adonias",
+      "Amnon",
+      "Absalão",
+      "Salomão"
+    ],
+    "id": 2489,
+    "pergunta": "Qual filho de Davi se rebelou contra o próprio pai, tentou roubar o trono e morreu pendurado pelos cabelos em uma árvore?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 18:9-14"
+  },
+  {
+    "explicacao": "Natã propôs uma parábola sobre um homem rico que roubou a única cordeira de um pobre, levando Davi a se autojulgar sem perceber.",
+    "alternativas": [
+      "Samuel",
+      "Elias",
+      "Natã",
+      "Gad"
+    ],
+    "id": 2490,
+    "pergunta": "Quem foi o profeta que confrontou diretamente o rei Davi pelo seu pecado com Bate-Seba usando a parábola da ovelha?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 12:1-7"
+  },
+  {
+    "explicacao": "A ira de Deus se acendeu contra Uzá por sua irreverência ao estender a mão para segurar a Arca sagrada, violando a ordenança de transporte.",
+    "alternativas": [
+      "Uzá",
+      "Aió",
+      "Obede-Edom",
+      "Abinadabe"
+    ],
+    "id": 2491,
+    "pergunta": "Quem foi o homem que tocou na Arca da Aliança para que ela não caísse do carro de bois e morreu imediatamente?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 6:6-7"
+  },
+  {
+    "explicacao": "Por direção divina, Davi subiu com suas mulheres e aliados para Hebrom, onde os homens de Judá o ungiram rei sobre a sua tribo.",
+    "alternativas": [
+      "Jerusalém",
+      "Hebrom",
+      "Belém",
+      "Gabaon"
+    ],
+    "id": 2492,
+    "pergunta": "Qual foi a cidade onde Davi foi ungido rei de Judá e reinou pelos seus primeiros sete anos e meio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 2:1-4"
+  },
+  {
+    "explicacao": "Ao chegarem à eira de Nacom (chamada de Quidon em Crônicas), os bois tropeçaram, provocando o gesto fatal de Uzá.",
+    "alternativas": [
+      "Eira de Araúna",
+      "Eira de Nacom",
+      "Eira de Ornã",
+      "Eira de Boaz"
+    ],
+    "id": 2493,
+    "pergunta": "Qual era o nome da eira onde Uzá tocou na Arca, que depois passou a se chamar Perez-Uzá?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 6:6"
+  },
+  {
+    "explicacao": "Ao ordenar o recenseamento do exército movido por orgulho militar, Davi pecou por confiar na força humana, gerando severa punição nacional.",
+    "alternativas": [
+      "A construção de um palácio de marfim",
+      "O confisco das terras das tribos",
+      "A realização de um censo militar orgulhoso",
+      "O casamento com mulheres estrangeiras"
+    ],
+    "id": 2494,
+    "pergunta": "Qual foi a atitude de soberba do rei Davi que trouxe o julgamento de uma peste que eliminou 70 mil israelitas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 24:10-15"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Isbosete (também chamado Esbaal)",
+    "alternativas": [
+      "Isbosete (também chamado Esbaal)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2495,
+    "pergunta": "Qual era o nome do homem que tentou se fazer rei em Israel logo após a morte de Saul, governando sobre as tribos do norte por dois anos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 2:8-10"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Aitofel",
+    "alternativas": [
+      "Aitofel",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2496,
+    "pergunta": "Quem era o conselheiro pessoal de Davi que o traiu, aliando-se à rebelião de Absalão, e depois se enforcou ao ver que seu conselho fora rejeitado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 17:23"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Gade (o vidente de Davi)",
+    "alternativas": [
+      "Gade (o vidente de Davi)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2497,
+    "pergunta": "Quem foi o profeta enviado por Deus para confrontar o rei Davi logo após ele ter feito o censo pecaminoso do povo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 24:11"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: O homem de Gate (descendente dos gigantes)",
+    "alternativas": [
+      "O homem de Gate (descendente dos gigantes)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2498,
+    "pergunta": "Qual era o nome do gigante de quatro braços/dedos extras (seis em cada mão e pé) que foi morto por Jônatas, sobrinho de Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 21:20-21"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Tanque de Gibeão",
+    "alternativas": [
+      "Tanque de Gibeão",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2499,
+    "pergunta": "Onde se localizava o grande tanque de águas onde os exércitos de Joabe (Davi) e Abner (Isbosete) se enfrentaram na prova dos doze jovens?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 2:12-13"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: O estupro de Tamar por seu meio-irmão Amnom (e o subsequente assassinato de Amnom por Absalão)",
+    "alternativas": [
+      "O estupro de Tamar por seu meio-irmão Amnom (e o subsequente assassinato de Amnom por Absalão)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2500,
+    "pergunta": "Qual pecado familiar de Davi engatilhou a profecia de Natã de que 'a espada jamais se apartaria da sua casa', envolvendo Amnom e Tamar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "2 Samuel 13"
+  }
+]

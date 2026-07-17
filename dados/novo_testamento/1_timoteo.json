@@ -1,0 +1,1022 @@
+[
+  {
+    "explicacao": "Timóteo foi um grande colaborador e aprendiz de Paulo.",
+    "alternativas": [
+      "Tito",
+      "Silas",
+      "Timóteo",
+      "Marcos"
+    ],
+    "id": 545,
+    "pergunta": "Quem era o jovem discípulo a quem Paulo chamava de 'verdadeiro filho na fé'?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:2"
+  },
+  {
+    "explicacao": "Paulo se apresenta como autor da carta a Timóteo.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 546,
+    "pergunta": "Quem escreveu a primeira carta a Timóteo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:1"
+  },
+  {
+    "explicacao": "Paulo chama Timóteo de verdadeiro filho na fé.",
+    "alternativas": [
+      "Meu irmão",
+      "Meu servo",
+      "Meu verdadeiro filho na fé",
+      "Meu companheiro de prisão"
+    ],
+    "id": 547,
+    "pergunta": "Como Paulo chama Timóteo na carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:2"
+  },
+  {
+    "explicacao": "Paulo orientou Timóteo a combater falsos ensinamentos.",
+    "alternativas": [
+      "Construir templos",
+      "Ordenar que não ensinassem outra doutrina",
+      "Governar a cidade",
+      "Reunir os soldados"
+    ],
+    "id": 548,
+    "pergunta": "O que Paulo pediu que Timóteo permanecesse em Éfeso para fazer?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:3"
+  },
+  {
+    "explicacao": "Paulo ensina que o objetivo do mandamento é o amor genuíno.",
+    "alternativas": [
+      "O amor de um coração puro, boa consciência e fé sem hipocrisia",
+      "A riqueza dos homens",
+      "A fama dos líderes",
+      "O conhecimento das leis humanas"
+    ],
+    "id": 549,
+    "pergunta": "O objetivo do mandamento é:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:5"
+  },
+  {
+    "explicacao": "Paulo afirma que Cristo veio ao mundo para salvar os pecadores.",
+    "alternativas": [
+      "Ensinar filosofia",
+      "Salvar os pecadores",
+      "Dar riquezas",
+      "Construir um reino terreno"
+    ],
+    "id": 550,
+    "pergunta": "Cristo Jesus veio ao mundo para:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:15"
+  },
+  {
+    "explicacao": "Paulo ensina a orar por todos os homens.",
+    "alternativas": [
+      "Todos os homens",
+      "Somente os líderes",
+      "Somente os judeus",
+      "Somente os ricos"
+    ],
+    "id": 551,
+    "pergunta": "Paulo orienta que sejam feitas orações por:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 2:1"
+  },
+  {
+    "explicacao": "Paulo afirma que há um só mediador, Jesus Cristo homem.",
+    "alternativas": [
+      "Profeta",
+      "Mediador entre Deus e os homens",
+      "Sacerdote",
+      "Anjo"
+    ],
+    "id": 552,
+    "pergunta": "Há um só Deus e um só:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 2:5"
+  },
+  {
+    "explicacao": "Paulo apresenta requisitos para os bispos da igreja.",
+    "alternativas": [
+      "O bispo",
+      "O soldado",
+      "O comerciante",
+      "O estrangeiro"
+    ],
+    "id": 553,
+    "pergunta": "Quem deve ser irrepreensível para exercer o episcopado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 3:2"
+  },
+  {
+    "explicacao": "A igreja é descrita como coluna e firmeza da verdade.",
+    "alternativas": [
+      "Coluna e firmeza da verdade",
+      "Cidade santa",
+      "Casa dos reis",
+      "Lugar dos anjos"
+    ],
+    "id": 554,
+    "pergunta": "Como a igreja do Deus vivo é chamada?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 3:15"
+  },
+  {
+    "explicacao": "Paulo ensina que a piedade é proveitosa para todas as coisas.",
+    "alternativas": [
+      "É inútil",
+      "Tem valor para tudo",
+      "Não serve para nada",
+      "É apenas tradição"
+    ],
+    "id": 555,
+    "pergunta": "O exercício físico para pouco aproveita, mas a piedade:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 4:8"
+  },
+  {
+    "explicacao": "Paulo se identifica como apóstolo de Cristo Jesus na saudação da carta.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 556,
+    "pergunta": "Quem escreveu a primeira carta a Timóteo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:1"
+  },
+  {
+    "explicacao": "Paulo escreve a Timóteo, chamando-o de verdadeiro filho na fé.",
+    "alternativas": [
+      "Tito",
+      "Timóteo",
+      "Filemom",
+      "Silas"
+    ],
+    "id": 557,
+    "pergunta": "Para quem Paulo escreveu a primeira carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:2"
+  },
+  {
+    "explicacao": "Paulo pediu que Timóteo ficasse em Éfeso para orientar a igreja.",
+    "alternativas": [
+      "Roma",
+      "Corinto",
+      "Éfeso",
+      "Jerusalém"
+    ],
+    "id": 558,
+    "pergunta": "Onde Paulo pediu que Timóteo permanecesse?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:3"
+  },
+  {
+    "explicacao": "Paulo ensina que o propósito do mandamento é o amor verdadeiro.",
+    "alternativas": [
+      "Riqueza",
+      "Amor de coração puro, boa consciência e fé sem hipocrisia",
+      "Fama entre os homens",
+      "Poder político"
+    ],
+    "id": 559,
+    "pergunta": "O objetivo da instrução cristã é o quê?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:5"
+  },
+  {
+    "explicacao": "Paulo afirma que Jesus veio salvar os pecadores.",
+    "alternativas": [
+      "Os reis",
+      "Os pecadores",
+      "Os anjos",
+      "Os sábios"
+    ],
+    "id": 560,
+    "pergunta": "Cristo Jesus veio ao mundo para salvar quem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:15"
+  },
+  {
+    "explicacao": "Paulo ensina que há um só Deus e um só mediador, Jesus Cristo.",
+    "alternativas": [
+      "Muitos",
+      "Dois",
+      "Um",
+      "Nenhum"
+    ],
+    "id": 561,
+    "pergunta": "Quantos mediadores existem entre Deus e os homens?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 2:5"
+  },
+  {
+    "explicacao": "Paulo afirma que Deus deseja a salvação de todos.",
+    "alternativas": [
+      "Paulo",
+      "Os apóstolos",
+      "Deus",
+      "Os anjos"
+    ],
+    "id": 562,
+    "pergunta": "Quem deseja que todos sejam salvos e cheguem ao conhecimento da verdade?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 2:4"
+  },
+  {
+    "explicacao": "Paulo apresenta requisitos para os líderes da igreja.",
+    "alternativas": [
+      "Uma mulher",
+      "Duas mulheres",
+      "Nenhuma mulher",
+      "Muitas mulheres"
+    ],
+    "id": 563,
+    "pergunta": "O bispo deve ser irrepreensível, marido de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 3:2"
+  },
+  {
+    "explicacao": "Paulo descreve a igreja como coluna e sustentáculo da verdade.",
+    "alternativas": [
+      "Coluna e baluarte da verdade",
+      "Casa dos reis",
+      "Templo dos anjos",
+      "Lugar de riquezas"
+    ],
+    "id": 564,
+    "pergunta": "A igreja do Deus vivo é chamada de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 3:15"
+  },
+  {
+    "explicacao": "Timóteo deveria ser exemplo para os fiéis em várias áreas da vida cristã.",
+    "alternativas": [
+      "Palavra, procedimento, amor, fé e pureza",
+      "Riqueza e autoridade",
+      "Força e inteligência",
+      "Poder e influência"
+    ],
+    "id": 565,
+    "pergunta": "Paulo orientou Timóteo a ser exemplo em quais áreas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 4:12"
+  },
+  {
+    "explicacao": "Paulo orienta Timóteo a manter a fé e a boa consciência.",
+    "alternativas": [
+      "A riqueza e a fama",
+      "A fé e a boa consciência",
+      "O poder político",
+      "A sabedoria dos homens"
+    ],
+    "id": 566,
+    "pergunta": "Segundo Paulo, Timóteo deveria combater o bom combate mantendo:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:18-19"
+  },
+  {
+    "explicacao": "Paulo exalta o único Deus eterno, imortal e invisível.",
+    "alternativas": [
+      "O Deus invisível e eterno",
+      "O Deus dos exércitos somente",
+      "O Deus dos judeus apenas",
+      "O Deus dos anjos"
+    ],
+    "id": 567,
+    "pergunta": "Quem Paulo afirma ser o único Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:17"
+  },
+  {
+    "explicacao": "Paulo afirma que Deus deseja a salvação de todos e o conhecimento da verdade.",
+    "alternativas": [
+      "Ricos e poderosos",
+      "Salvos e cheguem ao conhecimento da verdade",
+      "Governantes da terra",
+      "Mestres da Lei"
+    ],
+    "id": 568,
+    "pergunta": "Segundo Paulo, Deus deseja que todos os homens sejam:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 2:4"
+  },
+  {
+    "explicacao": "Paulo destaca a fé, amor, santificação e modéstia.",
+    "alternativas": [
+      "Riquezas e boas obras",
+      "A fama diante dos homens",
+      "A fé, o amor, a santificação e a modéstia",
+      "O cumprimento da lei romana"
+    ],
+    "id": 569,
+    "pergunta": "Paulo ensina que a mulher será salva mediante:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 2:15"
+  },
+  {
+    "explicacao": "Paulo apresenta o caráter e o bom governo da casa como requisitos.",
+    "alternativas": [
+      "Ser rico",
+      "Ser irrepreensível e governar bem sua própria casa",
+      "Ter muitos seguidores",
+      "Ser conhecido pelos governantes"
+    ],
+    "id": 570,
+    "pergunta": "Qual é uma das qualificações para um bispo segundo Paulo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 3:2-5"
+  },
+  {
+    "explicacao": "Paulo ensina que os diáconos devem conservar o mistério da fé com boa consciência.",
+    "alternativas": [
+      "Grande riqueza",
+      "Boa consciência",
+      "Autoridade política",
+      "Conhecimento filosófico"
+    ],
+    "id": 571,
+    "pergunta": "Os diáconos devem guardar o mistério da fé com:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 3:9"
+  },
+  {
+    "explicacao": "Paulo alerta sobre pessoas que seguiriam espíritos enganadores e doutrinas de demônios.",
+    "alternativas": [
+      "Doutrinas de demônios",
+      "Conselhos dos reis",
+      "Ensinos dos profetas",
+      "Tradições antigas"
+    ],
+    "id": 572,
+    "pergunta": "O Espírito afirma expressamente que nos últimos tempos alguns abandonarão a fé por dar ouvidos a:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 4:1"
+  },
+  {
+    "explicacao": "Paulo orienta Timóteo a ser exemplo em várias áreas da vida cristã.",
+    "alternativas": [
+      "Palavra, procedimento, amor, fé e pureza",
+      "Riqueza, influência e poder",
+      "Força, coragem e liderança",
+      "Conhecimento, cultura e política"
+    ],
+    "id": 573,
+    "pergunta": "Timóteo deveria ser exemplo dos fiéis em:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 4:12"
+  },
+  {
+    "explicacao": "Timóteo deveria se dedicar ao ensino da Palavra.",
+    "alternativas": [
+      "Ao comércio",
+      "Ao ensino",
+      "À política",
+      "À guerra"
+    ],
+    "id": 574,
+    "pergunta": "Paulo aconselha Timóteo a dedicar-se à leitura, à exortação e:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 4:13"
+  },
+  {
+    "explicacao": "Paulo ensina que o amor ao dinheiro é raiz de todos os males.",
+    "alternativas": [
+      "A raiz de todos os bens",
+      "A raiz de todos os males",
+      "Uma virtude espiritual",
+      "Uma bênção garantida"
+    ],
+    "id": 575,
+    "pergunta": "Paulo afirma que o amor ao dinheiro é:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:10"
+  },
+  {
+    "explicacao": "Paulo orienta o homem de Deus a fugir das coisas erradas e buscar virtudes cristãs.",
+    "alternativas": [
+      "Da pobreza e buscar riquezas",
+      "Das paixões da mocidade e seguir justiça, fé, amor e paz",
+      "Dos irmãos e buscar liderança",
+      "Dos ensinamentos antigos e buscar fama"
+    ],
+    "id": 576,
+    "pergunta": "Paulo orienta Timóteo a fugir de quê e seguir quais virtudes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:11"
+  },
+  {
+    "explicacao": "Timóteo havia feito uma boa confissão diante de muitas testemunhas.",
+    "alternativas": [
+      "A boa confissão de sua fé",
+      "Sua riqueza pessoal",
+      "Sua autoridade política",
+      "Seu conhecimento romano"
+    ],
+    "id": 577,
+    "pergunta": "Qual testemunho Paulo lembra que Timóteo deu diante de muitas testemunhas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:12"
+  },
+  {
+    "explicacao": "Paulo ensina que os ricos não devem confiar nas riquezas, mas em Deus.",
+    "alternativas": [
+      "Em Deus",
+      "Nas boas obras",
+      "Nas riquezas incertas",
+      "Na oração"
+    ],
+    "id": 578,
+    "pergunta": "Paulo ordena aos ricos deste mundo que não coloquem sua esperança:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:17"
+  },
+  {
+    "explicacao": "Paulo afirma que Deus nos concede todas as coisas ricamente para delas desfrutarmos.",
+    "alternativas": [
+      "Desfrutarmos com abundância",
+      "Acumulamos sem limites",
+      "Sermos superiores aos outros",
+      "Conquistarmos poder"
+    ],
+    "id": 579,
+    "pergunta": "Segundo Paulo, Deus nos dá todas as coisas para:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:17"
+  },
+  {
+    "explicacao": "Paulo orienta os ricos a praticarem boas obras e serem generosos.",
+    "alternativas": [
+      "Ouro e prata",
+      "Boas obras, generosidade e prontidão em repartir",
+      "Influência política",
+      "Conhecimento humano"
+    ],
+    "id": 580,
+    "pergunta": "Os ricos devem ser ricos em:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:18"
+  },
+  {
+    "explicacao": "Paulo pede que Timóteo guarde o mandamento até a manifestação de Cristo.",
+    "alternativas": [
+      "O templo de Jerusalém",
+      "O mandamento sem mácula e irrepreensível",
+      "As riquezas da igreja",
+      "As tradições dos homens"
+    ],
+    "id": 581,
+    "pergunta": "O que Paulo diz que Timóteo deveria guardar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:14"
+  },
+  {
+    "explicacao": "Paulo orienta a honrar as viúvas que realmente estão sem apoio e colocam sua esperança em Deus.",
+    "alternativas": [
+      "É muito rica",
+      "Tem muitos filhos famosos",
+      "É verdadeiramente viúva e espera em Deus",
+      "Possui grande influência"
+    ],
+    "id": 582,
+    "pergunta": "Segundo Paulo, a mulher viúva deve ser honrada quando:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 5:3-5"
+  },
+  {
+    "explicacao": "Os presbíteros que lideram bem são considerados dignos de dupla honra.",
+    "alternativas": [
+      "Dupla honra",
+      "Riqueza obrigatória",
+      "Autoridade política",
+      "Isenção de responsabilidades"
+    ],
+    "id": 583,
+    "pergunta": "Paulo ensina que os presbíteros que governam bem são dignos de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 5:17"
+  },
+  {
+    "explicacao": "Paulo segue o princípio de confirmar acusações com duas ou três testemunhas.",
+    "alternativas": [
+      "Uma carta dos reis",
+      "Duas ou três testemunhas",
+      "A aprovação do povo",
+      "Um sinal dos céus"
+    ],
+    "id": 584,
+    "pergunta": "Paulo orienta Timóteo a não receber acusação contra um presbítero sem:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 5:19"
+  },
+  {
+    "explicacao": "Paulo afirma que a piedade com contentamento é grande fonte de lucro.",
+    "alternativas": [
+      "Grande fonte de lucro",
+      "Uma fraqueza espiritual",
+      "Uma perda de tempo",
+      "Uma tradição humana"
+    ],
+    "id": 585,
+    "pergunta": "Paulo ensina que a piedade acompanhada de contentamento é:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:6"
+  },
+  {
+    "explicacao": "Paulo afirma que alguns, rejeitando a boa consciência, naufragaram na fé.",
+    "alternativas": [
+      "A sabedoria humana",
+      "A boa consciência",
+      "A tradição dos apóstolos",
+      "A oração constante"
+    ],
+    "id": 586,
+    "pergunta": "Segundo Paulo, o que alguns rejeitaram e por isso naufragaram na fé?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:19"
+  },
+  {
+    "explicacao": "Paulo menciona Himeneu e Alexandre como exemplos de disciplina.",
+    "alternativas": [
+      "Himeneu e Alexandre",
+      "Pedro e João",
+      "Tito e Silas",
+      "Marcos e Lucas"
+    ],
+    "id": 587,
+    "pergunta": "Quais homens Paulo entregou a Satanás para aprenderem a não blasfemar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 1:20"
+  },
+  {
+    "explicacao": "Paulo orienta que sejam feitas orações por todos os homens.",
+    "alternativas": [
+      "Somente pelos líderes",
+      "Por todos os homens",
+      "Somente pelos cristãos",
+      "Somente pelos reis"
+    ],
+    "id": 588,
+    "pergunta": "Segundo Paulo, por quem devem ser feitas súplicas, orações e intercessões?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 2:1"
+  },
+  {
+    "explicacao": "O objetivo das orações pelas autoridades era viver uma vida tranquila e piedosa.",
+    "alternativas": [
+      "Rica e famosa",
+      "Longa e poderosa",
+      "Tranquila e mansa, com piedade e respeito",
+      "Livre de todo sofrimento"
+    ],
+    "id": 589,
+    "pergunta": "Paulo recomenda orar pelos reis e autoridades para que tenhamos uma vida:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 2:2"
+  },
+  {
+    "explicacao": "Paulo apresenta a encarnação de Cristo como o grande mistério da piedade.",
+    "alternativas": [
+      "Deus foi manifestado em carne",
+      "O homem conquistou a salvação",
+      "A Lei trouxe perfeição",
+      "Os anjos governam a igreja"
+    ],
+    "id": 590,
+    "pergunta": "Como Paulo descreve o mistério da piedade?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 3:16"
+  },
+  {
+    "explicacao": "Paulo alerta sobre falsos ensinos nos últimos tempos.",
+    "alternativas": [
+      "Vozes de profetas",
+      "Espíritos enganadores e doutrinas de demônios",
+      "Conselhos dos apóstolos",
+      "Leis dos governantes"
+    ],
+    "id": 591,
+    "pergunta": "Nos últimos tempos, alguns apostatariam da fé dando ouvidos a:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 4:1"
+  },
+  {
+    "explicacao": "Paulo afirma que o exercício físico tem algum valor, mas a piedade é superior.",
+    "alternativas": [
+      "Aproveita",
+      "É inútil",
+      "Tem algum valor",
+      "É proibido"
+    ],
+    "id": 592,
+    "pergunta": "Paulo disse que o exercício físico para pouco:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 4:8"
+  },
+  {
+    "explicacao": "Paulo orienta Timóteo a perseverar na leitura, exortação e ensino.",
+    "alternativas": [
+      "Preguiça",
+      "Ensino",
+      "Riqueza",
+      "Política"
+    ],
+    "id": 593,
+    "pergunta": "Timóteo deveria dedicar-se à leitura, exortação e:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 4:13"
+  },
+  {
+    "explicacao": "Paulo ensina que o amor ao dinheiro é raiz de todos os males.",
+    "alternativas": [
+      "Raiz de todos os males",
+      "Maior virtude",
+      "Sinal de bênção",
+      "Demonstração de fé"
+    ],
+    "id": 594,
+    "pergunta": "O amor ao dinheiro é chamado por Paulo de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:10"
+  },
+  {
+    "explicacao": "Paulo apresenta virtudes que Timóteo deveria perseguir.",
+    "alternativas": [
+      "Fama e poder",
+      "Justiça, piedade, fé, amor, perseverança e mansidão",
+      "Riquezas e influência",
+      "Conhecimento filosófico"
+    ],
+    "id": 595,
+    "pergunta": "O homem de Deus deve fugir do amor ao dinheiro e buscar:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:11"
+  },
+  {
+    "explicacao": "Paulo coloca Deus e Cristo como testemunhas da fidelidade de Timóteo.",
+    "alternativas": [
+      "Diante de Deus e de Cristo Jesus",
+      "Diante dos reis",
+      "Diante dos sacerdotes",
+      "Diante da multidão"
+    ],
+    "id": 596,
+    "pergunta": "Diante de quem Paulo ordena que Timóteo guarde o mandamento?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:13-14"
+  },
+  {
+    "explicacao": "Paulo descreve a majestade e a eternidade de Deus.",
+    "alternativas": [
+      "Os anjos",
+      "Os apóstolos",
+      "Deus",
+      "Os profetas"
+    ],
+    "id": 597,
+    "pergunta": "Quem possui imortalidade e habita em luz inacessível?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:16"
+  },
+  {
+    "explicacao": "Paulo orienta os ricos a praticarem boas obras.",
+    "alternativas": [
+      "Bens materiais",
+      "Boas obras, generosidade e prontidão em repartir",
+      "Autoridade",
+      "Conhecimento humano"
+    ],
+    "id": 598,
+    "pergunta": "Os ricos deste mundo devem ser ricos em:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:18"
+  },
+  {
+    "explicacao": "Paulo alerta contra falsos conhecimentos e discussões vazias.",
+    "alternativas": [
+      "As tradições antigas",
+      "As conversas inúteis e o falso conhecimento",
+      "As reuniões da igreja",
+      "As cartas de Paulo"
+    ],
+    "id": 599,
+    "pergunta": "O que Timóteo deveria guardar evitando?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:20"
+  },
+  {
+    "explicacao": "Paulo ensina que a confiança deve estar em Deus.",
+    "alternativas": [
+      "Nas riquezas incertas",
+      "Em si mesmos",
+      "Em Deus, que tudo nos proporciona ricamente",
+      "Nos governantes"
+    ],
+    "id": 600,
+    "pergunta": "Qual era a esperança que os ricos deveriam colocar?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:17"
+  },
+  {
+    "explicacao": "Timóteo deveria ser exemplo na palavra, conduta, amor, fé e pureza.",
+    "alternativas": [
+      "Fugir dos desafios",
+      "Ser exemplo para os fiéis",
+      "Buscar riquezas",
+      "Evitar ensinar"
+    ],
+    "id": 601,
+    "pergunta": "Qual conselho Paulo deu a Timóteo sobre ninguém desprezar sua mocidade?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 4:12"
+  },
+  {
+    "explicacao": "Paulo ensina que os presbíteros que trabalham na palavra são dignos de dupla honra.",
+    "alternativas": [
+      "Grande honra",
+      "Riqueza",
+      "Dupla honra",
+      "Autoridade política"
+    ],
+    "id": 602,
+    "pergunta": "Segundo Paulo, quem trabalha no ensino deve ser considerado digno de quê?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 5:17"
+  },
+  {
+    "explicacao": "Paulo afirma que a piedade com contentamento é grande fonte de lucro.",
+    "alternativas": [
+      "Grandes riquezas",
+      "Piedade com contentamento",
+      "Muita fama",
+      "Poder sobre outros"
+    ],
+    "id": 603,
+    "pergunta": "Paulo ensina que devemos estar contentes tendo:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:6"
+  },
+  {
+    "explicacao": "Paulo lembra que não levamos bens materiais ao deixar este mundo.",
+    "alternativas": [
+      "Aprender",
+      "Perder",
+      "Levar dele",
+      "Construir"
+    ],
+    "id": 604,
+    "pergunta": "O que Paulo afirma que nada trouxemos para este mundo e nada podemos:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Timóteo",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Timóteo 6:7"
+  }
+]

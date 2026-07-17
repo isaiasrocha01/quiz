@@ -1,0 +1,1022 @@
+[
+  {
+    "explicacao": "A carta aos Gálatas foi escrita pelo apóstolo Paulo.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 1208,
+    "pergunta": "Quem escreveu a carta aos Gálatas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 1:1"
+  },
+  {
+    "explicacao": "Paulo escreveu a carta às igrejas da região da Galácia.",
+    "alternativas": [
+      "Aos romanos",
+      "Aos coríntios",
+      "Às igrejas da Galácia",
+      "Aos efésios"
+    ],
+    "id": 1209,
+    "pergunta": "Para quem a carta aos Gálatas foi escrita?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 1:2"
+  },
+  {
+    "explicacao": "Paulo afirma que Deus Pai ressuscitou Jesus dentre os mortos.",
+    "alternativas": [
+      "Paulo",
+      "Deus Pai",
+      "Pedro",
+      "Os discípulos"
+    ],
+    "id": 1210,
+    "pergunta": "Quem ressuscitou Jesus dentre os mortos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 1:1"
+  },
+  {
+    "explicacao": "Cristo entregou a si mesmo pelos pecados para nos livrar do presente século mau.",
+    "alternativas": [
+      "Esqueceu-os",
+      "Escondeu-os",
+      "Entregou-se por eles",
+      "Julgou-os"
+    ],
+    "id": 1211,
+    "pergunta": "O que Cristo fez pelos nossos pecados?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 1:4"
+  },
+  {
+    "explicacao": "Paulo ensina que recebeu o evangelho por revelação de Jesus Cristo.",
+    "alternativas": [
+      "Dos homens",
+      "Dos reis",
+      "De revelação de Jesus Cristo",
+      "Dos filósofos"
+    ],
+    "id": 1212,
+    "pergunta": "Segundo Paulo, de onde vem o evangelho que ele pregava?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 1:11-12"
+  },
+  {
+    "explicacao": "Paulo declarou que perseguia a igreja de Deus e tentava destruí-la.",
+    "alternativas": [
+      "O povo romano",
+      "A igreja de Deus",
+      "Os soldados",
+      "Os profetas"
+    ],
+    "id": 1213,
+    "pergunta": "Antes de sua conversão, Paulo perseguia o quê?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 1:13"
+  },
+  {
+    "explicacao": "Paulo cita Tiago, Cefas (Pedro) e João como colunas da igreja.",
+    "alternativas": [
+      "Pedro, Tiago e João",
+      "Mateus, Marcos e Lucas",
+      "Barnabé, Silas e Timóteo",
+      "Filipe, Estêvão e André"
+    ],
+    "id": 1214,
+    "pergunta": "Quem Paulo menciona como líderes que reconheceram seu ministério?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:9"
+  },
+  {
+    "explicacao": "Paulo repreendeu Pedro porque ele estava agindo de maneira incoerente com o evangelho.",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "Tiago",
+      "Barnabé"
+    ],
+    "id": 1215,
+    "pergunta": "Quem Paulo repreendeu publicamente?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:11"
+  },
+  {
+    "explicacao": "Paulo ensina que a justificação não acontece pelas obras, mas pela fé em Cristo.",
+    "alternativas": [
+      "Obras da lei",
+      "Obras humanas",
+      "Nenhuma obra",
+      "Obras de caridade apenas"
+    ],
+    "id": 1216,
+    "pergunta": "O homem é justificado por quais obras?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:16"
+  },
+  {
+    "explicacao": "A justificação acontece mediante a fé em Jesus Cristo.",
+    "alternativas": [
+      "Pela fé em Cristo Jesus",
+      "Pelo conhecimento",
+      "Pela riqueza",
+      "Pela tradição"
+    ],
+    "id": 1217,
+    "pergunta": "Como somos justificados segundo Gálatas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:16"
+  },
+  {
+    "explicacao": "Paulo declarou que já não vivia mais para si mesmo, mas que Cristo vivia nele.",
+    "alternativas": [
+      "Moisés",
+      "Cristo",
+      "Abraão",
+      "Elias"
+    ],
+    "id": 1218,
+    "pergunta": "Quem vive em Paulo, segundo seu testemunho?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:20"
+  },
+  {
+    "explicacao": "Paulo afirmou que vivia pela fé no Filho de Deus, que o amou e se entregou por ele.",
+    "alternativas": [
+      "Pela força humana",
+      "Pela fé no Filho de Deus",
+      "Pela lei de Moisés",
+      "Pela sabedoria do mundo"
+    ],
+    "id": 1219,
+    "pergunta": "Como Paulo diz que vive agora?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:20"
+  },
+  {
+    "explicacao": "Paulo chama os gálatas de insensatos por se afastarem da verdade da fé.",
+    "alternativas": [
+      "Amigos",
+      "Insensatos",
+      "Discípulos",
+      "Santos"
+    ],
+    "id": 1220,
+    "pergunta": "Como Paulo chama os gálatas ao perguntar se receberam o Espírito?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:1-2"
+  },
+  {
+    "explicacao": "A fé de Abraão foi considerada por Deus como justiça.",
+    "alternativas": [
+      "Poder",
+      "Justiça",
+      "Sabedoria",
+      "Vitória"
+    ],
+    "id": 1221,
+    "pergunta": "Abraão creu em Deus, e isso lhe foi atribuído como:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:6"
+  },
+  {
+    "explicacao": "Paulo ensina que os que têm fé são considerados filhos de Abraão.",
+    "alternativas": [
+      "Os que têm riquezas",
+      "Os que têm a mesma fé",
+      "Os descendentes apenas de sangue",
+      "Os reis de Israel"
+    ],
+    "id": 1222,
+    "pergunta": "Quem são considerados filhos de Abraão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:7"
+  },
+  {
+    "explicacao": "Cristo nos resgatou da maldição da lei ao se tornar maldição em nosso lugar.",
+    "alternativas": [
+      "Da pobreza",
+      "Da lei",
+      "Da morte física",
+      "Dos homens"
+    ],
+    "id": 1223,
+    "pergunta": "Cristo nos resgatou da maldição de quê?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:13"
+  },
+  {
+    "explicacao": "As promessas foram feitas primeiramente a Abraão e à sua descendência.",
+    "alternativas": [
+      "Moisés",
+      "Abraão",
+      "Davi",
+      "Salomão"
+    ],
+    "id": 1224,
+    "pergunta": "Quem recebeu as promessas antes da lei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:16-17"
+  },
+  {
+    "explicacao": "Paulo compara a lei a um tutor que conduzia as pessoas até Cristo.",
+    "alternativas": [
+      "Juiz final",
+      "Guia para conduzir a Cristo",
+      "Substituto da fé",
+      "Caminho de salvação"
+    ],
+    "id": 1225,
+    "pergunta": "A lei serviu como um:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:24"
+  },
+  {
+    "explicacao": "Paulo afirma que todos são um em Cristo Jesus, sem distinções espirituais.",
+    "alternativas": [
+      "Reis",
+      "Sacerdotes apenas",
+      "Um só",
+      "Profetas"
+    ],
+    "id": 1226,
+    "pergunta": "Em Cristo Jesus, todos são:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:28"
+  },
+  {
+    "explicacao": "Paulo ensina que, pertencendo a Cristo, somos descendência de Abraão e herdeiros segundo a promessa.",
+    "alternativas": [
+      "Moisés",
+      "Abraão",
+      "Davi",
+      "Adão"
+    ],
+    "id": 1227,
+    "pergunta": "Se somos de Cristo, somos descendência de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:29"
+  },
+  {
+    "explicacao": "Paulo afirmou que o evangelho que pregava não era de origem humana, mas recebido por revelação de Jesus Cristo.",
+    "alternativas": [
+      "A tradição dos judeus",
+      "O homem",
+      "A lei romana",
+      "Os profetas antigos"
+    ],
+    "id": 1228,
+    "pergunta": "Paulo disse que o evangelho que pregava não era segundo o quê?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 1:11"
+  },
+  {
+    "explicacao": "Paulo relata que ficou quinze dias com Pedro em Jerusalém.",
+    "alternativas": [
+      "Sete dias",
+      "Quinze dias",
+      "Trinta dias",
+      "Três meses"
+    ],
+    "id": 1229,
+    "pergunta": "Por quanto tempo Paulo permaneceu com Pedro em Jerusalém na primeira visita?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 1:18"
+  },
+  {
+    "explicacao": "Paulo subiu a Jerusalém acompanhado de Barnabé e levou Tito consigo.",
+    "alternativas": [
+      "Barnabé e Tito",
+      "Pedro e João",
+      "Silas e Timóteo",
+      "Marcos e Lucas"
+    ],
+    "id": 1230,
+    "pergunta": "Quem acompanhou Paulo quando ele foi a Jerusalém para tratar do evangelho aos gentios?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:1"
+  },
+  {
+    "explicacao": "Paulo afirma que Tito era grego e não foi obrigado a se circuncidar.",
+    "alternativas": [
+      "Um judeu convertido",
+      "Um sacerdote",
+      "Um grego",
+      "Um romano"
+    ],
+    "id": 1231,
+    "pergunta": "Tito, que estava com Paulo, era:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:3"
+  },
+  {
+    "explicacao": "Paulo disse que falsos irmãos entraram secretamente para observar e tentar limitar a liberdade em Cristo.",
+    "alternativas": [
+      "Para aprenderem a lei",
+      "Para espionarem a liberdade em Cristo",
+      "Para ajudarem Paulo",
+      "Para pregarem aos judeus"
+    ],
+    "id": 1232,
+    "pergunta": "Por que alguns falsos irmãos entraram entre os cristãos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:4"
+  },
+  {
+    "explicacao": "Paulo afirmou que não recebeu o evangelho de homem algum, mas por revelação de Jesus Cristo.",
+    "alternativas": [
+      "Jesus Cristo",
+      "Revelação divina",
+      "Homem algum",
+      "O Espírito Santo"
+    ],
+    "id": 1233,
+    "pergunta": "Paulo afirmou que não recebeu o evangelho por meio de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 1:12"
+  },
+  {
+    "explicacao": "Paulo afirmou que, se ainda pregasse a circuncisão como exigência, a perseguição da cruz cessaria.",
+    "alternativas": [
+      "Seria perseguido",
+      "Seria elogiado",
+      "Teria mais discípulos",
+      "Seria considerado sábio"
+    ],
+    "id": 1234,
+    "pergunta": "O que Paulo disse que faria se ainda pregasse a circuncisão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 5:11"
+  },
+  {
+    "explicacao": "Paulo temia que seu esforço entre os gálatas tivesse sido em vão.",
+    "alternativas": [
+      "Que perdessem seus bens",
+      "Que seu trabalho tivesse sido inútil",
+      "Que deixassem de orar",
+      "Que abandonassem Jerusalém"
+    ],
+    "id": 1235,
+    "pergunta": "Qual era a preocupação de Paulo com os gálatas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 4:11"
+  },
+  {
+    "explicacao": "Paulo usou a figura das dores de parto para expressar seu cuidado espiritual pelos gálatas.",
+    "alternativas": [
+      "Como soldados sem armas",
+      "Como filhos em dores de parto",
+      "Como ovelhas perdidas",
+      "Como pescadores sem peixes"
+    ],
+    "id": 1236,
+    "pergunta": "Paulo comparou a situação dos gálatas a qual problema?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 4:19"
+  },
+  {
+    "explicacao": "Paulo ensina que os cristãos são filhos da promessa, como Isaque, por meio da fé.",
+    "alternativas": [
+      "Os que seguem a lei",
+      "Os que creem em Cristo",
+      "Os reis de Israel",
+      "Os descendentes de Esaú"
+    ],
+    "id": 1237,
+    "pergunta": "Quais são apresentados como filhos da promessa?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 4:28"
+  },
+  {
+    "explicacao": "Paulo usa Agar e Sara como figuras das duas alianças: uma relacionada à escravidão e outra à promessa.",
+    "alternativas": [
+      "Maria e Isabel",
+      "Sara e Rebeca",
+      "Agar e Sara",
+      "Raquel e Lia"
+    ],
+    "id": 1238,
+    "pergunta": "Paulo usa quais mulheres como exemplo de duas alianças?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 4:22-24"
+  },
+  {
+    "explicacao": "Paulo compara Agar com a aliança do monte Sinai, associada à escravidão.",
+    "alternativas": [
+      "Jerusalém celestial",
+      "A lei e a escravidão",
+      "A liberdade espiritual",
+      "A nova criação"
+    ],
+    "id": 1239,
+    "pergunta": "Agar representa a aliança relacionada com:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 4:24"
+  },
+  {
+    "explicacao": "Paulo afirma que a Jerusalém de cima é livre e representa a promessa de Deus.",
+    "alternativas": [
+      "Escrava",
+      "Poderosa",
+      "Livre",
+      "Terrena"
+    ],
+    "id": 1240,
+    "pergunta": "A Jerusalém de cima é descrita como:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 4:26"
+  },
+  {
+    "explicacao": "Cristo libertou os cristãos da escravidão espiritual e do peso da lei como meio de justificação.",
+    "alternativas": [
+      "Liberdade política",
+      "Liberdade financeira",
+      "Liberdade espiritual",
+      "Liberdade militar"
+    ],
+    "id": 1241,
+    "pergunta": "Para qual liberdade Cristo nos libertou?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 5:1"
+  },
+  {
+    "explicacao": "Paulo ensina que buscar justificação pela circuncisão anulava a obra de Cristo para aquela pessoa.",
+    "alternativas": [
+      "Cristo de nada aproveitaria",
+      "Receberia mais bênçãos",
+      "Seria considerado perfeito",
+      "Tornar-se-ia sacerdote"
+    ],
+    "id": 1242,
+    "pergunta": "O que Paulo disse que aconteceria se alguém recebesse a circuncisão como requisito de salvação?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 5:2"
+  },
+  {
+    "explicacao": "Paulo afirma que nem circuncisão nem incircuncisão têm valor, mas a fé que opera pelo amor.",
+    "alternativas": [
+      "A circuncisão",
+      "A posição social",
+      "A fé que atua pelo amor",
+      "A riqueza"
+    ],
+    "id": 1243,
+    "pergunta": "O que vale em Cristo Jesus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 5:6"
+  },
+  {
+    "explicacao": "Paulo questiona quem havia influenciado os gálatas a abandonarem o caminho da verdade.",
+    "alternativas": [
+      "Um inimigo romano",
+      "Um perseguidor judeu",
+      "Alguém que os influenciou negativamente",
+      "Um apóstolo"
+    ],
+    "id": 1244,
+    "pergunta": "Quem Paulo disse que havia impedido os gálatas de obedecerem à verdade?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 5:7"
+  },
+  {
+    "explicacao": "O primeiro fruto citado por Paulo é o amor.",
+    "alternativas": [
+      "Alegria",
+      "Amor",
+      "Paz",
+      "Mansidão"
+    ],
+    "id": 1245,
+    "pergunta": "Qual fruto do Espírito aparece primeiro na lista de Gálatas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 5:22"
+  },
+  {
+    "explicacao": "Paulo afirma que não existe condenação ou lei contra as características produzidas pelo Espírito.",
+    "alternativas": [
+      "Contra os dons espirituais",
+      "Contra o fruto do Espírito",
+      "Contra os sacrifícios",
+      "Contra os mandamentos"
+    ],
+    "id": 1246,
+    "pergunta": "Contra quais coisas não há lei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 5:23"
+  },
+  {
+    "explicacao": "Paulo ensina que os seguidores de Cristo crucificaram a natureza pecaminosa com seus desejos.",
+    "alternativas": [
+      "Construíram templos",
+      "Crucificaram a carne com suas paixões",
+      "Guardaram toda a lei",
+      "Abandonaram o mundo físico"
+    ],
+    "id": 1247,
+    "pergunta": "O que Paulo disse que aqueles que pertencem a Cristo fizeram?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 5:24"
+  },
+  {
+    "explicacao": "Paulo declarou que buscar agradar aos homens impediria que ele fosse verdadeiramente servo de Cristo.",
+    "alternativas": [
+      "Servo de Cristo",
+      "Apóstolo dos gentios",
+      "Pregador da lei",
+      "Discípulo dos profetas"
+    ],
+    "id": 1248,
+    "pergunta": "Paulo afirmou que, se ainda buscasse agradar aos homens, não seria:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 1:10"
+  },
+  {
+    "explicacao": "Paulo afirma que após quatorze anos voltou a Jerusalém com Barnabé e Tito.",
+    "alternativas": [
+      "Dois anos",
+      "Cinco anos",
+      "Quatorze anos",
+      "Vinte anos"
+    ],
+    "id": 1249,
+    "pergunta": "Quantos anos depois da primeira visita a Jerusalém Paulo voltou novamente?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:1"
+  },
+  {
+    "explicacao": "Tiago, Cefas e João eram reconhecidos como colunas da igreja.",
+    "alternativas": [
+      "Paulo, Barnabé e Tito",
+      "Tiago, Cefas e João",
+      "Pedro, André e Filipe",
+      "João, Marcos e Lucas"
+    ],
+    "id": 1250,
+    "pergunta": "Paulo disse que os líderes reconhecidos como colunas eram:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:9"
+  },
+  {
+    "explicacao": "Paulo repreendeu Pedro porque ele se afastava dos gentios quando chegaram alguns judeus.",
+    "alternativas": [
+      "Pedro abandonou a oração",
+      "Pedro deixou de pregar",
+      "Pedro se afastava dos gentios por medo dos judeus",
+      "Pedro negou Jesus novamente"
+    ],
+    "id": 1251,
+    "pergunta": "Qual foi o motivo da repreensão de Paulo a Pedro?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:12-14"
+  },
+  {
+    "explicacao": "A justificação acontece pela fé em Cristo e não pelas obras da lei.",
+    "alternativas": [
+      "Obras da lei",
+      "Obras de misericórdia",
+      "Orações constantes",
+      "Boas intenções"
+    ],
+    "id": 1252,
+    "pergunta": "Paulo afirmou que ninguém será justificado pelas:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:16"
+  },
+  {
+    "explicacao": "Paulo declarou que foi crucificado com Cristo, indicando sua nova vida pela fé.",
+    "alternativas": [
+      "A antiga aliança",
+      "O seu velho homem",
+      "O próprio Paulo",
+      "A lei de Moisés"
+    ],
+    "id": 1253,
+    "pergunta": "O que Paulo declarou ter sido crucificado com Cristo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:20"
+  },
+  {
+    "explicacao": "Paulo ensina que a morte de Cristo perderia seu significado se a lei pudesse justificar.",
+    "alternativas": [
+      "A lei seria inútil",
+      "Cristo teria morrido em vão",
+      "Todos seriam salvos",
+      "Abraão estaria errado"
+    ],
+    "id": 1254,
+    "pergunta": "Paulo disse que se a justiça viesse pela lei, então:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 2:21"
+  },
+  {
+    "explicacao": "Paulo cita que todos os que dependem das obras da lei estão debaixo de maldição.",
+    "alternativas": [
+      "Abençoados",
+      "Perfeitos",
+      "Debaixo de maldição",
+      "Livres"
+    ],
+    "id": 1255,
+    "pergunta": "Como Paulo descreve aqueles que dependem das obras da lei?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:10"
+  },
+  {
+    "explicacao": "Paulo ensina que a vida do justo é fundamentada na fé.",
+    "alternativas": [
+      "Pela lei",
+      "Pela fé",
+      "Pelas obras",
+      "Pela sabedoria"
+    ],
+    "id": 1256,
+    "pergunta": "“O justo viverá” por quê?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:11"
+  },
+  {
+    "explicacao": "Cristo tomou sobre si a maldição da lei para resgatar os seres humanos.",
+    "alternativas": [
+      "Rei",
+      "Profeta",
+      "Maldição em nosso lugar",
+      "Sacerdote terreno"
+    ],
+    "id": 1257,
+    "pergunta": "Cristo nos resgatou da maldição da lei tornando-se:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:13"
+  },
+  {
+    "explicacao": "Paulo afirma que a lei foi dada 430 anos depois da promessa feita por Deus a Abraão.",
+    "alternativas": [
+      "100 anos",
+      "200 anos",
+      "430 anos",
+      "500 anos"
+    ],
+    "id": 1258,
+    "pergunta": "Segundo Paulo, a lei veio quantos anos depois da promessa feita a Abraão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:17"
+  },
+  {
+    "explicacao": "Paulo ensina que a lei foi acrescentada por causa das transgressões até a vinda da descendência prometida.",
+    "alternativas": [
+      "Da promessa",
+      "Das transgressões",
+      "Da fé",
+      "Dos gentios"
+    ],
+    "id": 1259,
+    "pergunta": "Por causa de quê a lei foi acrescentada?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:19"
+  },
+  {
+    "explicacao": "A lei serviu como tutor para conduzir até Cristo, depois da chegada da fé.",
+    "alternativas": [
+      "Até a morte de Moisés",
+      "Até a vinda de Cristo",
+      "Até o fim do mundo",
+      "Até o reinado de Davi"
+    ],
+    "id": 1260,
+    "pergunta": "Até quando a lei serviu como aio (tutor)?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:24-25"
+  },
+  {
+    "explicacao": "Paulo declara que todos são filhos de Deus mediante a fé em Cristo Jesus.",
+    "alternativas": [
+      "Pela descendência de Abraão",
+      "Pela fé em Cristo Jesus",
+      "Pela obediência à lei",
+      "Pela tradição judaica"
+    ],
+    "id": 1261,
+    "pergunta": "Por meio de quem os cristãos são filhos de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:26"
+  },
+  {
+    "explicacao": "Paulo ensina que os que foram batizados em Cristo passaram a estar revestidos dele.",
+    "alternativas": [
+      "Recebem riquezas",
+      "Se revestiram de Cristo",
+      "Tornam-se anjos",
+      "Tornam-se sacerdotes"
+    ],
+    "id": 1262,
+    "pergunta": "O que acontece com aqueles que foram batizados em Cristo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:27"
+  },
+  {
+    "explicacao": "Paulo afirma que em Cristo Jesus não há distinção espiritual entre esses grupos.",
+    "alternativas": [
+      "Todos possuem a mesma função social",
+      "Todos são iguais em Cristo Jesus",
+      "Todos devem seguir a lei judaica",
+      "Todos devem abandonar suas culturas"
+    ],
+    "id": 1263,
+    "pergunta": "Qual afirmação aparece em Gálatas sobre judeu e grego, escravo e livre, homem e mulher?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 3:28"
+  },
+  {
+    "explicacao": "Deus enviou o Espírito de seu Filho aos corações dos seus filhos, levando-os a clamar por Deus como Pai.",
+    "alternativas": [
+      "Anjos",
+      "O Espírito de seu Filho",
+      "A lei escrita",
+      "Profetas"
+    ],
+    "id": 1264,
+    "pergunta": "O que Paulo diz que Deus enviou aos corações dos seus filhos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 4:6"
+  },
+  {
+    "explicacao": "Paulo lista obras da carne como inimizades, ciúmes, iras e outros comportamentos pecaminosos.",
+    "alternativas": [
+      "Amor e alegria",
+      "Mansidão e domínio próprio",
+      "Inimizades e ciúmes",
+      "Paz e bondade"
+    ],
+    "id": 1265,
+    "pergunta": "Quais são algumas obras da carne citadas por Paulo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 5:19-21"
+  },
+  {
+    "explicacao": "Paulo ensina que cada pessoa colherá aquilo que plantar através de suas atitudes.",
+    "alternativas": [
+      "O homem sempre controla seu futuro",
+      "Tudo depende da sorte",
+      "O que o homem semear, isso também colherá",
+      "A colheita não depende da semente"
+    ],
+    "id": 1266,
+    "pergunta": "O que Paulo ensina sobre semear e colher?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 6:7"
+  },
+  {
+    "explicacao": "Paulo afirmou carregar em seu corpo as marcas de Jesus, provavelmente referindo-se aos sofrimentos que enfrentou por Cristo.",
+    "alternativas": [
+      "A circuncisão",
+      "As marcas de Jesus",
+      "O sinal de Abraão",
+      "A marca dos apóstolos"
+    ],
+    "id": 1267,
+    "pergunta": "Qual era a marca que Paulo carregava em seu corpo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Gálatas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gálatas 6:17"
+  }
+]

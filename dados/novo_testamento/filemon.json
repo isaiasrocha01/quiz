@@ -1,0 +1,903 @@
+[
+  {
+    "explicacao": "Paulo é o autor da carta a Filemom, apresentando-se como prisioneiro de Cristo Jesus.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 1100,
+    "pergunta": "Quem escreveu a carta a Filemom?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:1"
+  },
+  {
+    "explicacao": "Paulo se identifica como apóstolo de Cristo Jesus e prisioneiro por causa de sua fé.",
+    "alternativas": [
+      "Rei de Israel",
+      "Apóstolo de Cristo Jesus e prisioneiro de Cristo Jesus",
+      "Sacerdote do templo",
+      "Governador romano"
+    ],
+    "id": 1101,
+    "pergunta": "Paulo se apresenta como:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:1"
+  },
+  {
+    "explicacao": "A carta foi direcionada a Filemom, um colaborador amado de Paulo.",
+    "alternativas": [
+      "Filemom",
+      "Timóteo",
+      "Tito",
+      "Lucas"
+    ],
+    "id": 1102,
+    "pergunta": "Para quem Paulo escreveu a carta?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:1"
+  },
+  {
+    "explicacao": "Timóteo é citado por Paulo como irmão na saudação inicial da carta.",
+    "alternativas": [
+      "Pedro",
+      "Timóteo",
+      "Silas",
+      "Barnabé"
+    ],
+    "id": 1103,
+    "pergunta": "Quem é mencionado como irmão junto com Paulo na saudação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:1"
+  },
+  {
+    "explicacao": "Paulo chama Filemom de amado e colaborador na obra de Deus.",
+    "alternativas": [
+      "Um soldado romano",
+      "Um amado colaborador de Paulo",
+      "Um rei judeu",
+      "Um profeta do Antigo Testamento"
+    ],
+    "id": 1104,
+    "pergunta": "Filemom é descrito como:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:1-2"
+  },
+  {
+    "explicacao": "Áfia é mencionada na saudação da carta como irmã.",
+    "alternativas": [
+      "Maria",
+      "Áfia",
+      "Marta",
+      "Priscila"
+    ],
+    "id": 1105,
+    "pergunta": "Quem é mencionada como irmã na carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:2"
+  },
+  {
+    "explicacao": "Arquipo é citado por Paulo como companheiro de lutas.",
+    "alternativas": [
+      "Arquipo",
+      "João Marcos",
+      "Apolo",
+      "Silvano"
+    ],
+    "id": 1106,
+    "pergunta": "Quem é citado como companheiro de lutas de Paulo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:2"
+  },
+  {
+    "explicacao": "Paulo deseja graça e paz vindas de Deus Pai e do Senhor Jesus Cristo.",
+    "alternativas": [
+      "Riqueza e fama",
+      "Graça e paz da parte de Deus e de Jesus Cristo",
+      "Poder político",
+      "Honra diante dos homens"
+    ],
+    "id": 1107,
+    "pergunta": "Paulo deseja a Filemom:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:3"
+  },
+  {
+    "explicacao": "Paulo orava constantemente e agradecia a Deus quando se lembrava de Filemom.",
+    "alternativas": [
+      "Sempre que se lembrava dele em suas orações",
+      "Apenas uma vez por ano",
+      "Quando recebia ofertas",
+      "Quando viajava"
+    ],
+    "id": 1108,
+    "pergunta": "Paulo dava graças a Deus por Filemom:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:4"
+  },
+  {
+    "explicacao": "Filemom era reconhecido por sua fé em Cristo e pelo amor demonstrado aos irmãos.",
+    "alternativas": [
+      "Riqueza e autoridade",
+      "Fé no Senhor Jesus e amor para com todos os santos",
+      "Sabedoria política",
+      "Força militar"
+    ],
+    "id": 1109,
+    "pergunta": "Filemom era conhecido por sua:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:5"
+  },
+  {
+    "explicacao": "Paulo ouviu falar do amor e da fé que Filemom possuía.",
+    "alternativas": [
+      "Sobre sua fama entre os reis",
+      "Sobre seu amor e fé para com o Senhor e os santos",
+      "Sobre suas conquistas militares",
+      "Sobre seus bens materiais"
+    ],
+    "id": 1110,
+    "pergunta": "O que Paulo ouviu sobre Filemom?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:5"
+  },
+  {
+    "explicacao": "Paulo desejava que a fé de Filemom produzisse frutos através do conhecimento das bênçãos em Cristo.",
+    "alternativas": [
+      "Oculta dos homens",
+      "Eficaz no conhecimento de todo bem que há em Cristo",
+      "Usada para ganhar dinheiro",
+      "Limitada à família"
+    ],
+    "id": 1111,
+    "pergunta": "Paulo queria que a comunhão da fé de Filemom fosse:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:6"
+  },
+  {
+    "explicacao": "O amor de Filemom trouxe encorajamento e alegria aos santos.",
+    "alternativas": [
+      "Filemom",
+      "Paulo",
+      "Timóteo",
+      "Onésimo"
+    ],
+    "id": 1112,
+    "pergunta": "O coração dos santos foi reanimado por meio de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:7"
+  },
+  {
+    "explicacao": "Paulo preferiu fazer um pedido baseado no amor, não em uma ordem.",
+    "alternativas": [
+      "Usar sua autoridade",
+      "Pedir por amor",
+      "Mandar soldados",
+      "Ignorar o assunto"
+    ],
+    "id": 1113,
+    "pergunta": "Paulo poderia ordenar algo a Filemom, mas preferiu:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:8-9"
+  },
+  {
+    "explicacao": "Paulo escreveu a carta enquanto estava preso por causa do evangelho.",
+    "alternativas": [
+      "Não",
+      "Sim, como prisioneiro de Cristo Jesus",
+      "Apenas por alguns dias",
+      "Como soldado romano"
+    ],
+    "id": 1114,
+    "pergunta": "Paulo estava preso quando escreveu a carta?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:9"
+  },
+  {
+    "explicacao": "Paulo chama Onésimo de filho espiritual, pois ele se converteu durante sua prisão.",
+    "alternativas": [
+      "Timóteo",
+      "Tito",
+      "Onésimo",
+      "Arquipo"
+    ],
+    "id": 1115,
+    "pergunta": "Quem Paulo chama de seu filho gerado nas prisões?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:10"
+  },
+  {
+    "explicacao": "O nome Onésimo significa útil, e Paulo faz um contraste entre seu passado e sua nova vida.",
+    "alternativas": [
+      "Guerreiro",
+      "Útil",
+      "Rei",
+      "Servo fiel"
+    ],
+    "id": 1116,
+    "pergunta": "O nome Onésimo significa:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:11"
+  },
+  {
+    "explicacao": "Paulo assumiu a responsabilidade por qualquer prejuízo causado por Onésimo.",
+    "alternativas": [
+      "Com ouro",
+      "Com seu próprio dinheiro",
+      "Colocando em sua própria conta",
+      "Pedindo ajuda aos irmãos"
+    ],
+    "id": 1117,
+    "pergunta": "Paulo promete pagar qualquer dívida de Onésimo:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:18-19"
+  },
+  {
+    "explicacao": "Paulo encerra sua carta desejando a graça de Cristo sobre Filemom.",
+    "alternativas": [
+      "A graça do Senhor Jesus Cristo com o espírito de Filemom",
+      "Riquezas para a igreja",
+      "Vitória nas guerras",
+      "Um novo templo"
+    ],
+    "id": 1118,
+    "pergunta": "Paulo termina a carta desejando:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:25"
+  },
+  {
+    "explicacao": "Paulo agradecia a Deus pela fé de Filemom no Senhor Jesus e pelo amor que ele demonstrava aos santos.",
+    "alternativas": [
+      "Porque Filemom era rico e importante",
+      "Porque ouvia falar da fé em Cristo e do amor que Filemom tinha pelos santos",
+      "Porque Filemom ajudava os reis",
+      "Porque Filemom era líder dos apóstolos"
+    ],
+    "id": 1119,
+    "pergunta": "Por que Paulo agradecia a Deus sempre que se lembrava de Filemom?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:4-5"
+  },
+  {
+    "explicacao": "Paulo desejava que Filemom participasse ativamente da fé, reconhecendo as bênçãos e o bem que existem em Cristo.",
+    "alternativas": [
+      "Que Filemom conquistasse novos territórios",
+      "Que Filemom compartilhasse a comunhão da fé conhecendo todo bem que há em Cristo",
+      "Que Filemom abandonasse seus bens",
+      "Que Filemom se tornasse sacerdote"
+    ],
+    "id": 1120,
+    "pergunta": "Qual era o pedido de Paulo para que a fé de Filemom fosse eficaz?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:6"
+  },
+  {
+    "explicacao": "O amor demonstrado por Filemom trouxe alegria a Paulo e fortaleceu os irmãos.",
+    "alternativas": [
+      "A prisão de Paulo",
+      "O amor de Filemom, que reanimava o coração dos santos",
+      "A riqueza da igreja",
+      "A pregação dos apóstolos"
+    ],
+    "id": 1121,
+    "pergunta": "O que Paulo disse que teve grande alegria e consolação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:7"
+  },
+  {
+    "explicacao": "Paulo escolheu apelar ao amor de Filemom, não usar sua autoridade para obrigá-lo.",
+    "alternativas": [
+      "Fazer um julgamento",
+      "Pedir por amor, como um homem idoso e prisioneiro de Cristo Jesus",
+      "Mandar uma autoridade romana",
+      "Não falar sobre o assunto"
+    ],
+    "id": 1122,
+    "pergunta": "Paulo poderia ordenar a Filemom, mas preferiu:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:8-9"
+  },
+  {
+    "explicacao": "Onésimo antes era considerado inútil, mas após sua transformação tornou-se útil no Senhor.",
+    "alternativas": [
+      "Um líder da igreja",
+      "Um escravo que havia sido inútil a Filemom, mas agora era útil",
+      "Um apóstolo",
+      "Um soldado romano"
+    ],
+    "id": 1123,
+    "pergunta": "Quem era Onésimo antes de se tornar útil a Paulo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:11"
+  },
+  {
+    "explicacao": "Paulo demonstrou profundo carinho por Onésimo, chamando-o de seu próprio coração.",
+    "alternativas": [
+      "Como seu próprio coração",
+      "Como um soldado fiel",
+      "Como um profeta",
+      "Como um mestre da Lei"
+    ],
+    "id": 1124,
+    "pergunta": "Como Paulo descreve Onésimo depois de sua conversão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:12"
+  },
+  {
+    "explicacao": "Paulo gostaria que Onésimo o ajudasse durante sua prisão, mas respeitou a decisão de Filemom.",
+    "alternativas": [
+      "Para que ele cuidasse de suas necessidades enquanto estava preso",
+      "Para torná-lo governador",
+      "Para enviá-lo a Roma",
+      "Para ensinar a Lei judaica"
+    ],
+    "id": 1125,
+    "pergunta": "Por que Paulo desejava manter Onésimo consigo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:13"
+  },
+  {
+    "explicacao": "Paulo queria que Filemom agisse espontaneamente, demonstrando amor verdadeiro.",
+    "alternativas": [
+      "Porque tinha medo de Filemom",
+      "Para que a bondade de Filemom não fosse por obrigação, mas voluntária",
+      "Porque não conhecia Onésimo",
+      "Porque não tinha autoridade apostólica"
+    ],
+    "id": 1126,
+    "pergunta": "Por que Paulo não quis fazer nada sem o consentimento de Filemom?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:14"
+  },
+  {
+    "explicacao": "Paulo vê a situação de Onésimo como parte da providência de Deus para uma reconciliação permanente.",
+    "alternativas": [
+      "Ser castigado",
+      "Ser recebido para sempre",
+      "Fugir da igreja",
+      "Perder sua fé"
+    ],
+    "id": 1127,
+    "pergunta": "Paulo sugere que talvez Onésimo tenha se separado de Filemom para:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:15"
+  },
+  {
+    "explicacao": "Paulo ensinou que a relação espiritual em Cristo transformava a forma como Filemom deveria tratar Onésimo.",
+    "alternativas": [
+      "Como escravo apenas",
+      "Como inimigo arrependido",
+      "Como irmão amado, tanto na carne como no Senhor",
+      "Como estrangeiro"
+    ],
+    "id": 1128,
+    "pergunta": "Como Filemom deveria receber Onésimo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:16"
+  },
+  {
+    "explicacao": "Paulo pediu que Filemom tratasse Onésimo com a mesma consideração que teria por ele.",
+    "alternativas": [
+      "Pedro",
+      "Um anjo",
+      "O próprio Paulo",
+      "Um sacerdote"
+    ],
+    "id": 1129,
+    "pergunta": "Paulo pede que Filemom recebesse Onésimo como receberia:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:17"
+  },
+  {
+    "explicacao": "Paulo se colocou como responsável por qualquer dívida ou prejuízo causado por Onésimo.",
+    "alternativas": [
+      "Filemom deveria esquecê-lo",
+      "Ele colocaria a dívida em sua própria conta",
+      "A igreja pagaria",
+      "Deus cobraria dele"
+    ],
+    "id": 1130,
+    "pergunta": "Se Onésimo tivesse causado algum prejuízo, Paulo disse que:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:18"
+  },
+  {
+    "explicacao": "Paulo lembra que Filemom recebeu transformação espiritual por meio do ministério dele.",
+    "alternativas": [
+      "Dinheiro",
+      "A própria vida espiritual",
+      "Uma casa",
+      "Um serviço no ministério"
+    ],
+    "id": 1131,
+    "pergunta": "Paulo lembra Filemom que ele próprio lhe devia:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:19"
+  },
+  {
+    "explicacao": "Paulo encerra sua carta desejando que a graça de Cristo estivesse com Filemom.",
+    "alternativas": [
+      "Que tivesse riqueza abundante",
+      "Que a graça do Senhor Jesus Cristo estivesse com seu espírito",
+      "Que liderasse todas as igrejas",
+      "Que viajasse com Paulo"
+    ],
+    "id": 1132,
+    "pergunta": "Qual era o desejo final de Paulo para Filemom?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:25"
+  },
+  {
+    "explicacao": "Paulo apresenta-se como apóstolo de Cristo Jesus e também como prisioneiro por causa de Cristo.",
+    "alternativas": [
+      "Prisioneiro de Cristo Jesus",
+      "Rei dos judeus",
+      "Sacerdote do templo",
+      "Governador de Roma"
+    ],
+    "id": 1133,
+    "pergunta": "Paulo se identifica na introdução da carta não apenas como apóstolo, mas também como:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:1"
+  },
+  {
+    "explicacao": "Paulo menciona a igreja que se reunia na casa de Filemom.",
+    "alternativas": [
+      "No templo de Jerusalém",
+      "Na casa de Filemom",
+      "Na prisão de Roma",
+      "Na casa de Paulo"
+    ],
+    "id": 1134,
+    "pergunta": "A carta de Filemom é dirigida também à igreja que se reunia:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:2"
+  },
+  {
+    "explicacao": "Paulo trata Filemom como colaborador, companheiro e irmão amado na fé.",
+    "alternativas": [
+      "Mestre e discípulo",
+      "Senhor e servo",
+      "Companheiro e irmão amado",
+      "Rei e súdito"
+    ],
+    "id": 1135,
+    "pergunta": "Qual relação Paulo demonstra ter com Filemom ao escrever a carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:1, 1:17"
+  },
+  {
+    "explicacao": "Paulo destaca a fé e o amor de Filemom como base para seu pedido.",
+    "alternativas": [
+      "Sua autoridade política",
+      "Sua fé no Senhor Jesus e seu amor pelos santos",
+      "Sua riqueza material",
+      "Seu conhecimento da Lei de Moisés"
+    ],
+    "id": 1136,
+    "pergunta": "O que Paulo reconhece sobre Filemom antes de fazer seu pedido sobre Onésimo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:4-7"
+  },
+  {
+    "explicacao": "Paulo desejava que a relação entre Filemom e Onésimo fosse transformada pelo amor cristão.",
+    "alternativas": [
+      "Transformar Onésimo em líder da igreja",
+      "Que Filemom o recebesse não mais como escravo, mas como irmão amado",
+      "Que Onésimo fosse enviado para Roma",
+      "Que Filemom esquecesse o passado"
+    ],
+    "id": 1137,
+    "pergunta": "Qual era o objetivo de Paulo ao pedir a restauração de Onésimo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:15-16"
+  },
+  {
+    "explicacao": "Paulo escolheu apelar ao amor, evitando usar uma ordem autoritária.",
+    "alternativas": [
+      "Fazer um pedido baseado no amor",
+      "Usar autoridade romana",
+      "Consultar os sacerdotes",
+      "Deixar o assunto para a igreja"
+    ],
+    "id": 1138,
+    "pergunta": "Paulo afirma que poderia ordenar a Filemom algo em Cristo, mas preferiu:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:8-9"
+  },
+  {
+    "explicacao": "Paulo faz um contraste entre o passado inútil de Onésimo e sua nova utilidade em Cristo.",
+    "alternativas": [
+      "Fraco e forte",
+      "Inútil e útil",
+      "Perdido e famoso",
+      "Servo e rei"
+    ],
+    "id": 1139,
+    "pergunta": "Qual palavra Paulo usa para descrever Onésimo antes e depois de sua transformação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:11"
+  },
+  {
+    "explicacao": "Paulo chama Onésimo de filho porque ele nasceu espiritualmente através do evangelho durante sua prisão.",
+    "alternativas": [
+      "Porque era seu parente",
+      "Porque o gerou espiritualmente enquanto estava preso",
+      "Porque trabalhou com ele por muitos anos",
+      "Porque era seu herdeiro"
+    ],
+    "id": 1140,
+    "pergunta": "Por que Paulo considerava Onésimo como seu filho?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:10"
+  },
+  {
+    "explicacao": "Paulo queria que Filemom demonstrasse bondade de forma espontânea.",
+    "alternativas": [
+      "Perdoar e receber Onésimo sem obrigação",
+      "Enviar dinheiro para Paulo",
+      "Abandonar sua casa",
+      "Tornar-se apóstolo"
+    ],
+    "id": 1141,
+    "pergunta": "O que Paulo desejava que Filemom fizesse voluntariamente?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:14"
+  },
+  {
+    "explicacao": "Paulo sugere que Deus poderia ter permitido a separação para uma reconciliação permanente.",
+    "alternativas": [
+      "Que aconteceu para que Onésimo fosse destruído",
+      "Que talvez tenha acontecido para que Filemom o recebesse para sempre",
+      "Que foi uma punição de Deus",
+      "Que foi uma ordem de Paulo"
+    ],
+    "id": 1142,
+    "pergunta": "Qual possibilidade Paulo apresenta sobre a separação de Onésimo e Filemom?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:15"
+  },
+  {
+    "explicacao": "A fé em Cristo mudou a relação entre eles, trazendo uma nova realidade espiritual.",
+    "alternativas": [
+      "Apenas como senhor e escravo",
+      "Como irmãos no Senhor, além da relação humana",
+      "Como líderes da mesma igreja",
+      "Como parentes próximos"
+    ],
+    "id": 1143,
+    "pergunta": "Como Paulo descreve a nova relação entre Filemom e Onésimo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:16"
+  },
+  {
+    "explicacao": "Paulo demonstra amor e responsabilidade ao interceder por Onésimo.",
+    "alternativas": [
+      "Justiça e intercessão em favor de outro",
+      "Orgulho espiritual",
+      "Desejo de recompensa",
+      "Medo de punição"
+    ],
+    "id": 1144,
+    "pergunta": "Qual atitude Paulo demonstra ao assumir a dívida de Onésimo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:18-19"
+  },
+  {
+    "explicacao": "Paulo reforça pessoalmente seu compromisso de assumir a dívida.",
+    "alternativas": [
+      "Confirmando pessoalmente sua promessa de pagar qualquer prejuízo",
+      "Encerrando a autoridade de Filemom",
+      "Negando sua prisão",
+      "Criticando Onésimo"
+    ],
+    "id": 1145,
+    "pergunta": "Ao dizer 'eu, Paulo, de minha própria mão o escrevi', Paulo estava:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:19"
+  },
+  {
+    "explicacao": "Paulo lembra que Filemom recebeu uma nova vida por meio do evangelho.",
+    "alternativas": [
+      "Filemom recebeu riquezas de Paulo",
+      "Filemom devia a Paulo sua própria vida espiritual",
+      "Filemom era seu empregado",
+      "Filemom era seu discípulo político"
+    ],
+    "id": 1146,
+    "pergunta": "Qual argumento Paulo usa para lembrar Filemom de sua dívida espiritual?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:19"
+  },
+  {
+    "explicacao": "Paulo esperava ser confortado pela atitude amorosa de Filemom.",
+    "alternativas": [
+      "Sua obediência e atitude em Cristo",
+      "Sua riqueza",
+      "Seu cargo na igreja",
+      "Sua influência em Roma"
+    ],
+    "id": 1147,
+    "pergunta": "Paulo esperava que Filemom lhe desse alegria por meio de:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:20"
+  },
+  {
+    "explicacao": "Paulo esperava que Deus permitisse sua libertação e uma futura visita.",
+    "alternativas": [
+      "Esperança de ser libertado e visitar os irmãos",
+      "Desejo de abandonar o ministério",
+      "Medo de permanecer preso",
+      "Desejo de fugir de Roma"
+    ],
+    "id": 1148,
+    "pergunta": "O que Paulo demonstra ao escrever que preparasse hospedagem para ele?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:22"
+  },
+  {
+    "explicacao": "Epafras é citado como companheiro de prisão de Paulo.",
+    "alternativas": [
+      "Epafras",
+      "Demas",
+      "Lucas",
+      "Aristarco"
+    ],
+    "id": 1149,
+    "pergunta": "Quem Paulo chama de companheiro de prisão em Cristo Jesus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:23"
+  },
+  {
+    "explicacao": "Paulo cita Marcos, Aristarco, Demas e Lucas como seus cooperadores.",
+    "alternativas": [
+      "Marcos, Aristarco, Demas e Lucas",
+      "Pedro, João e Tiago",
+      "Tito, Silas e Barnabé",
+      "Timóteo, Apolo e Pedro"
+    ],
+    "id": 1150,
+    "pergunta": "Quais cooperadores de Paulo são mencionados na saudação final?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:24"
+  },
+  {
+    "explicacao": "A carta ensina sobre perdão, restauração de relacionamentos e amor em Cristo.",
+    "alternativas": [
+      "Guerras espirituais",
+      "Perdão, reconciliação e amor cristão",
+      "Leis do templo",
+      "Profecias futuras"
+    ],
+    "id": 1151,
+    "pergunta": "A carta de Filemom apresenta principalmente um ensino sobre:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:15-17"
+  },
+  {
+    "explicacao": "Paulo encerra a carta desejando que a graça de Cristo esteja com o espírito de Filemom.",
+    "alternativas": [
+      "A paz de Jerusalém",
+      "A graça do Senhor Jesus Cristo com o espírito de Filemom",
+      "A prosperidade dos santos",
+      "A vitória sobre os inimigos"
+    ],
+    "id": 1152,
+    "pergunta": "Qual é a bênção final deixada por Paulo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Filemom",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Filemom 1:25"
+  }
+]

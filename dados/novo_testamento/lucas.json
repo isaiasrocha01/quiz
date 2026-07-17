@@ -1,0 +1,971 @@
+[
+  {
+    "explicacao": "Lucas é identificado como o autor do Evangelho destinado a Teófilo.",
+    "alternativas": [
+      "Pedro",
+      "Lucas",
+      "João",
+      "Mateus"
+    ],
+    "id": 1455,
+    "pergunta": "Quem escreveu o Evangelho de Lucas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:3"
+  },
+  {
+    "explicacao": "Lucas escreveu seu relato organizado para Teófilo.",
+    "alternativas": [
+      "Teófilo",
+      "Pedro",
+      "Paulo",
+      "João Batista"
+    ],
+    "id": 1456,
+    "pergunta": "Para quem Lucas escreveu seu Evangelho?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:3"
+  },
+  {
+    "explicacao": "O anjo Gabriel anunciou a Maria o nascimento de Jesus.",
+    "alternativas": [
+      "Miguel",
+      "Gabriel",
+      "Rafael",
+      "Um profeta"
+    ],
+    "id": 1457,
+    "pergunta": "Quem anunciou a Maria que ela teria Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:26-31"
+  },
+  {
+    "explicacao": "Maria foi escolhida por Deus para ser a mãe de Jesus.",
+    "alternativas": [
+      "Marta",
+      "Maria",
+      "Isabel",
+      "Ana"
+    ],
+    "id": 1458,
+    "pergunta": "Quem era a mãe de Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:27"
+  },
+  {
+    "explicacao": "Jesus nasceu em Belém, conforme o relato de Lucas.",
+    "alternativas": [
+      "Nazaré",
+      "Jerusalém",
+      "Belém",
+      "Cafarnaum"
+    ],
+    "id": 1459,
+    "pergunta": "Onde Jesus nasceu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 2:4-7"
+  },
+  {
+    "explicacao": "Anjos anunciaram aos pastores o nascimento do Salvador.",
+    "alternativas": [
+      "Reis",
+      "Pastores",
+      "Sacerdotes",
+      "Soldados"
+    ],
+    "id": 1460,
+    "pergunta": "Quem recebeu a notícia do nascimento de Jesus no campo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 2:8-11"
+  },
+  {
+    "explicacao": "Simeão recebeu Jesus no templo e glorificou a Deus.",
+    "alternativas": [
+      "Simeão",
+      "Zacarias",
+      "José",
+      "André"
+    ],
+    "id": 1461,
+    "pergunta": "Qual era o nome do homem que recebeu Jesus no templo quando era bebê?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 2:25-28"
+  },
+  {
+    "explicacao": "Jesus tinha doze anos quando foi encontrado no templo.",
+    "alternativas": [
+      "10 anos",
+      "12 anos",
+      "15 anos",
+      "20 anos"
+    ],
+    "id": 1462,
+    "pergunta": "Quantos anos Jesus tinha quando foi encontrado no templo conversando com os doutores?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 2:42-46"
+  },
+  {
+    "explicacao": "João Batista preparou o caminho anunciando o arrependimento.",
+    "alternativas": [
+      "Pedro",
+      "João Batista",
+      "Paulo",
+      "Tiago"
+    ],
+    "id": 1463,
+    "pergunta": "Quem preparou o caminho para Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 3:3-4"
+  },
+  {
+    "explicacao": "Jesus foi batizado no rio Jordão.",
+    "alternativas": [
+      "Nilo",
+      "Jordão",
+      "Eufrates",
+      "Quisom"
+    ],
+    "id": 1464,
+    "pergunta": "Jesus foi batizado no rio:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 3:21-22"
+  },
+  {
+    "explicacao": "Jesus jejuou quarenta dias no deserto antes de ser tentado.",
+    "alternativas": [
+      "7 dias",
+      "20 dias",
+      "40 dias",
+      "50 dias"
+    ],
+    "id": 1465,
+    "pergunta": "Quantos dias Jesus jejuou no deserto?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 4:1-2"
+  },
+  {
+    "explicacao": "Lucas registra a libertação de um homem com espírito imundo como um dos primeiros milagres de Jesus.",
+    "alternativas": [
+      "Transformar água em vinho",
+      "Curar um paralítico",
+      "Curar um homem com espírito imundo",
+      "Multiplicar os pães"
+    ],
+    "id": 1466,
+    "pergunta": "Qual foi o primeiro milagre de Jesus registrado em Lucas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 4:33-35"
+  },
+  {
+    "explicacao": "Jesus escolheu doze apóstolos.",
+    "alternativas": [
+      "7",
+      "10",
+      "12",
+      "70"
+    ],
+    "id": 1467,
+    "pergunta": "Quantos discípulos Jesus escolheu como apóstolos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 6:13"
+  },
+  {
+    "explicacao": "Zaqueu subiu em uma árvore para conseguir ver Jesus.",
+    "alternativas": [
+      "Zaqueu",
+      "Bartimeu",
+      "Lázaro",
+      "Jairo"
+    ],
+    "id": 1468,
+    "pergunta": "Quem subiu em uma árvore para ver Jesus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 19:4"
+  },
+  {
+    "explicacao": "Zaqueu era chefe dos cobradores de impostos.",
+    "alternativas": [
+      "Pescador",
+      "Sacerdote",
+      "Cobrador de impostos",
+      "Soldado"
+    ],
+    "id": 1469,
+    "pergunta": "Qual era a profissão de Zaqueu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 19:2"
+  },
+  {
+    "explicacao": "Jesus contou a parábola do bom samaritano.",
+    "alternativas": [
+      "Pedro",
+      "Jesus",
+      "Paulo",
+      "João"
+    ],
+    "id": 1470,
+    "pergunta": "Quem contou a parábola do bom samaritano?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 10:30-37"
+  },
+  {
+    "explicacao": "Lázaro era irmão de Marta e Maria.",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "Lázaro",
+      "Filipe"
+    ],
+    "id": 1471,
+    "pergunta": "Quem era o irmão de Marta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 10:38-39"
+  },
+  {
+    "explicacao": "Jesus ensinou a oração conhecida como Pai Nosso.",
+    "alternativas": [
+      "Oração de Salomão",
+      "Pai Nosso",
+      "Salmo 23",
+      "Oração de Moisés"
+    ],
+    "id": 1472,
+    "pergunta": "Qual oração Jesus ensinou aos discípulos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 11:1-4"
+  },
+  {
+    "explicacao": "Judas Iscariotes traiu Jesus entregando-o aos seus inimigos.",
+    "alternativas": [
+      "Judas Iscariotes",
+      "Pedro",
+      "Tomé",
+      "João"
+    ],
+    "id": 1473,
+    "pergunta": "Quem traiu Jesus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 22:47-48"
+  },
+  {
+    "explicacao": "Jesus ressuscitou ao terceiro dia, conforme havia anunciado.",
+    "alternativas": [
+      "Depois de três dias",
+      "Depois de sete dias",
+      "Depois de dez dias",
+      "Depois de quarenta dias"
+    ],
+    "id": 1474,
+    "pergunta": "Jesus ressuscitou:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 24:6-7"
+  },
+  {
+    "explicacao": "Maria foi a escolhida por Deus para gerar o Salvador.",
+    "alternativas": [
+      "Isabel",
+      "Ana",
+      "Maria",
+      "Débora"
+    ],
+    "id": 1475,
+    "pergunta": "Quem foi a mãe terrena de Jesus, que o concebeu por obra do Espírito Santo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:30-35"
+  },
+  {
+    "explicacao": "Zaqueu, o publicano, precisou subir no sicômoro pela sua baixa estatura.",
+    "alternativas": [
+      "Nicodemos",
+      "Zaqueu",
+      "Mateus",
+      "Lázaro"
+    ],
+    "id": 1476,
+    "pergunta": "Qual homem rico e de baixa estatura subiu em uma árvore para ver Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 19:1-4"
+  },
+  {
+    "explicacao": "Simão de Cirene foi forçado a carregar a cruz de Jesus.",
+    "alternativas": [
+      "Pedro",
+      "João",
+      "Simão Cirineu",
+      "José de Arimateia"
+    ],
+    "id": 1477,
+    "pergunta": "Quem ajudou Jesus a carregar a cruz a caminho do Calvário?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 23:26"
+  },
+  {
+    "explicacao": "Lucas era médico e pesquisou minuciosamente os relatos sobre Jesus.",
+    "alternativas": [
+      "Mateus",
+      "Marcos",
+      "Lucas",
+      "João"
+    ],
+    "id": 1478,
+    "pergunta": "Qual Evangelho foi escrito por um médico e endereçado a um homem chamado Teófilo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:1-3"
+  },
+  {
+    "explicacao": "Zacarias era sacerdote e pai de João Batista.",
+    "alternativas": [
+      "José",
+      "Zacarias",
+      "Simeão",
+      "Joaquim"
+    ],
+    "id": 1479,
+    "pergunta": "Quem era o pai de João Batista?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:5-13"
+  },
+  {
+    "explicacao": "Isabel era esposa de Zacarias e mãe de João Batista.",
+    "alternativas": [
+      "Maria",
+      "Marta",
+      "Isabel",
+      "Ana"
+    ],
+    "id": 1480,
+    "pergunta": "Qual era o nome da mãe de João Batista?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:5,13"
+  },
+  {
+    "explicacao": "Maria demonstrou submissão à vontade de Deus.",
+    "alternativas": [
+      "Não posso aceitar",
+      "Faça-se em mim segundo a tua palavra",
+      "Vou consultar José primeiro",
+      "Estou com medo de todos"
+    ],
+    "id": 1481,
+    "pergunta": "O que Maria respondeu ao anjo Gabriel quando recebeu a notícia sobre Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:38"
+  },
+  {
+    "explicacao": "O Magnificat é o cântico de louvor de Maria ao Senhor.",
+    "alternativas": [
+      "Seu cântico de louvor a Deus",
+      "Uma oração de Salomão",
+      "Um salmo de Davi",
+      "Uma profecia de João"
+    ],
+    "id": 1482,
+    "pergunta": "Qual foi o cântico de Maria conhecido como Magnificat?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:46-55"
+  },
+  {
+    "explicacao": "Simeão declarou palavras proféticas sobre Jesus.",
+    "alternativas": [
+      "Simeão",
+      "Pedro",
+      "José",
+      "Nicodemos"
+    ],
+    "id": 1483,
+    "pergunta": "Quem profetizou sobre Jesus quando Ele foi apresentado no templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 2:25-35"
+  },
+  {
+    "explicacao": "Ana era uma profetisa que servia no templo.",
+    "alternativas": [
+      "Débora",
+      "Ana",
+      "Isabel",
+      "Marta"
+    ],
+    "id": 1484,
+    "pergunta": "Qual profetisa estava no templo quando Jesus foi apresentado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 2:36-38"
+  },
+  {
+    "explicacao": "Quirino era governador da Síria no período citado por Lucas.",
+    "alternativas": [
+      "Herodes",
+      "Quirino",
+      "Pilatos",
+      "Félix"
+    ],
+    "id": 1485,
+    "pergunta": "Qual era o nome do governador da Síria mencionado no nascimento de Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 2:2"
+  },
+  {
+    "explicacao": "Jesus respondeu usando a Palavra de Deus.",
+    "alternativas": [
+      "O homem viverá só de pão",
+      "Nem só de pão viverá o homem",
+      "Eu farei o milagre",
+      "Não tentarei Deus"
+    ],
+    "id": 1486,
+    "pergunta": "Qual foi a resposta de Jesus quando Satanás pediu que Ele transformasse pedra em pão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 4:4"
+  },
+  {
+    "explicacao": "Jesus leu Isaías na sinagoga de Nazaré.",
+    "alternativas": [
+      "Belém",
+      "Jerusalém",
+      "Nazaré",
+      "Cafarnaum"
+    ],
+    "id": 1487,
+    "pergunta": "Em qual cidade Jesus leu o livro do profeta Isaías na sinagoga?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 4:16-17"
+  },
+  {
+    "explicacao": "Mateus deixou a coletoria para seguir Jesus.",
+    "alternativas": [
+      "Mateus",
+      "Pedro",
+      "João",
+      "Tiago"
+    ],
+    "id": 1488,
+    "pergunta": "Qual discípulo era cobrador de impostos antes de seguir Jesus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 5:27-28"
+  },
+  {
+    "explicacao": "Jesus curou dez leprosos, mas apenas um voltou para agradecer.",
+    "alternativas": [
+      "Cinco",
+      "Dez",
+      "Doze",
+      "Setenta"
+    ],
+    "id": 1489,
+    "pergunta": "Quantos leprosos Jesus curou, mas somente um voltou para agradecer?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 17:12-15"
+  },
+  {
+    "explicacao": "O homem que voltou era samaritano.",
+    "alternativas": [
+      "Judeu",
+      "Romano",
+      "Samaritano",
+      "Grego"
+    ],
+    "id": 1490,
+    "pergunta": "De qual povo era o único leproso que voltou para agradecer?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 17:16"
+  },
+  {
+    "explicacao": "Maria escolheu ouvir Jesus enquanto Marta servia.",
+    "alternativas": [
+      "Marta",
+      "Maria",
+      "Isabel",
+      "Joana"
+    ],
+    "id": 1491,
+    "pergunta": "Qual mulher sentou-se aos pés de Jesus para ouvir sua palavra?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 10:39"
+  },
+  {
+    "explicacao": "A parábola do filho pródigo fala sobre arrependimento e perdão.",
+    "alternativas": [
+      "O administrador infiel",
+      "O rico e Lázaro",
+      "O filho pródigo",
+      "Os talentos"
+    ],
+    "id": 1492,
+    "pergunta": "Qual parábola ensina sobre um filho que voltou para a casa do pai?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 15:11-32"
+  },
+  {
+    "explicacao": "Um dos criminosos crucificados reconheceu Jesus como Rei.",
+    "alternativas": [
+      "Um dos ladrões crucificados com Jesus",
+      "Pedro",
+      "José de Arimateia",
+      "Um soldado romano"
+    ],
+    "id": 1493,
+    "pergunta": "Quem pediu para Jesus lembrar-se dele quando estivesse no Reino?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 23:42-43"
+  },
+  {
+    "explicacao": "José de Arimateia providenciou o sepultamento de Jesus.",
+    "alternativas": [
+      "Nicodemos",
+      "José de Arimateia",
+      "Pedro",
+      "João"
+    ],
+    "id": 1494,
+    "pergunta": "Quem ajudou a levar o corpo de Jesus para ser sepultado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 23:50-53"
+  },
+  {
+    "explicacao": "Lucas menciona Cleopas e outro discípulo no caminho de Emaús.",
+    "alternativas": [
+      "Pedro e João",
+      "Maria e Marta",
+      "Cleopas e outro discípulo",
+      "Tiago e André"
+    ],
+    "id": 1495,
+    "pergunta": "Quem eram os dois discípulos que encontraram Jesus no caminho de Emaús?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 24:13-18"
+  },
+  {
+    "explicacao": "Jesus levantou as mãos e abençoou os discípulos antes de subir aos céus.",
+    "alternativas": [
+      "Escolheu novos discípulos",
+      "Abençoou os discípulos",
+      "Construiu um altar",
+      "Voltou para Nazaré"
+    ],
+    "id": 1496,
+    "pergunta": "O que Jesus fez antes de ascender aos céus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 24:50-51"
+  },
+  {
+    "explicacao": "Zacarias era sacerdote e pertencia à ordem sacerdotal de Abias.",
+    "alternativas": [
+      "Rei de Israel",
+      "Sacerdote da ordem de Abias",
+      "Escriba do templo",
+      "Governador da Judeia"
+    ],
+    "id": 1497,
+    "pergunta": "Qual era a função de Zacarias, pai de João Batista?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:5"
+  },
+  {
+    "explicacao": "O anjo anunciou que Zacarias ficaria sem falar até o cumprimento da promessa.",
+    "alternativas": [
+      "Foi expulso do templo",
+      "Ficou cego",
+      "Ficou mudo até o nascimento de João",
+      "Perdeu sua posição sacerdotal"
+    ],
+    "id": 1498,
+    "pergunta": "O que aconteceu com Zacarias por não acreditar na mensagem do anjo Gabriel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:20, 62-64"
+  },
+  {
+    "explicacao": "Gabriel declarou que João seria cheio do Espírito Santo desde o ventre materno.",
+    "alternativas": [
+      "Desde os 12 anos",
+      "Desde o nascimento",
+      "Desde o ventre de sua mãe",
+      "Após seu batismo"
+    ],
+    "id": 1499,
+    "pergunta": "Segundo o anjo Gabriel, João Batista seria cheio do Espírito Santo:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:15"
+  },
+  {
+    "explicacao": "Lucas menciona Isabel como parente de Maria.",
+    "alternativas": [
+      "Eram irmãs",
+      "Eram primas",
+      "Eram mãe e filha",
+      "Eram cunhadas"
+    ],
+    "id": 1500,
+    "pergunta": "Qual era o parentesco entre Maria e Isabel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 1:36"
+  },
+  {
+    "explicacao": "Simeão profetizou que Maria enfrentaria grande sofrimento.",
+    "alternativas": [
+      "Ela seria rainha de Israel",
+      "Uma espada atravessaria sua alma",
+      "Ela viveria no templo",
+      "Ela teria muitos filhos"
+    ],
+    "id": 1501,
+    "pergunta": "Qual foi a profecia de Simeão sobre Maria?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 2:35"
+  },
+  {
+    "explicacao": "Jesus foi encontrado no templo conversando com os doutores da Lei.",
+    "alternativas": [
+      "Na casa de José",
+      "Na sinagoga de Nazaré",
+      "No templo, entre os doutores",
+      "No monte das Oliveiras"
+    ],
+    "id": 1502,
+    "pergunta": "Aos 12 anos, onde Jesus foi encontrado por seus pais?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 2:46"
+  },
+  {
+    "explicacao": "Lucas apresenta Adão como filho de Deus na genealogia de Jesus.",
+    "alternativas": [
+      "Abraão",
+      "Davi",
+      "Adão",
+      "Noé"
+    ],
+    "id": 1503,
+    "pergunta": "Qual antepassado de Jesus é citado por Lucas como filho de Enos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 3:38"
+  },
+  {
+    "explicacao": "Lucas relata que Satanás mostrou os reinos do mundo em um momento.",
+    "alternativas": [
+      "Um monte muito alto",
+      "Uma visão no deserto",
+      "Um instante de tempo",
+      "Um sonho"
+    ],
+    "id": 1504,
+    "pergunta": "Na tentação de Jesus, Satanás mostrou a Ele todos os reinos do mundo em:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 4:5"
+  },
+  {
+    "explicacao": "Jesus leu o texto do profeta Isaías sobre sua missão.",
+    "alternativas": [
+      "Jeremias",
+      "Isaías",
+      "Ezequiel",
+      "Daniel"
+    ],
+    "id": 1505,
+    "pergunta": "Qual profeta Jesus citou ao falar sobre sua missão na sinagoga de Nazaré?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 4:17-21"
+  },
+  {
+    "explicacao": "Lucas não informa o nome da sogra de Pedro.",
+    "alternativas": [
+      "Marta",
+      "O texto não informa",
+      "Isabel",
+      "Maria"
+    ],
+    "id": 1506,
+    "pergunta": "Qual era o nome da sogra de Pedro que Jesus curou?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 4:38-39"
+  },
+  {
+    "explicacao": "Simão Pedro participou da pesca milagrosa e foi chamado por Jesus.",
+    "alternativas": [
+      "Judas",
+      "Simão Pedro",
+      "Mateus",
+      "Tomé"
+    ],
+    "id": 1507,
+    "pergunta": "Qual discípulo estava junto quando Jesus realizou a pesca milagrosa em Lucas 5?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 5:4-10"
+  },
+  {
+    "explicacao": "Jairo era líder da sinagoga e pai da menina.",
+    "alternativas": [
+      "Jairo",
+      "Simão",
+      "Levi",
+      "Cleopas"
+    ],
+    "id": 1508,
+    "pergunta": "Quem era o pai da menina de 12 anos que Jesus ressuscitou?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 8:41-42"
+  },
+  {
+    "explicacao": "Moisés e Elias apareceram falando com Jesus na transfiguração.",
+    "alternativas": [
+      "Abraão e Davi",
+      "Moisés e Elias",
+      "Pedro e João",
+      "Isaías e Jeremias"
+    ],
+    "id": 1509,
+    "pergunta": "Na transfiguração de Jesus, quais dois personagens apareceram com Ele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 9:28-30"
+  },
+  {
+    "explicacao": "João fez essa pergunta junto com Tiago.",
+    "alternativas": [
+      "Pedro",
+      "João",
+      "Tiago",
+      "André"
+    ],
+    "id": 1510,
+    "pergunta": "Qual discípulo perguntou a Jesus se poderiam mandar fogo do céu sobre os samaritanos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 9:54"
+  },
+  {
+    "explicacao": "Jesus explicou aos discípulos o que estava escrito sobre Ele em todas as Escrituras.",
+    "alternativas": [
+      "As cartas dos apóstolos",
+      "Os livros dos reis",
+      "Todas as Escrituras",
+      "Apenas os Salmos"
+    ],
+    "id": 1511,
+    "pergunta": "Após a ressurreição, Jesus explicou aos discípulos de Emaús as coisas referentes a Ele em:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 24:27"
+  }
+]

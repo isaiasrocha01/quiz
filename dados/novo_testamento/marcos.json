@@ -1,0 +1,1005 @@
+[
+  {
+    "explicacao": "O Evangelho de Marcos é tradicionalmente atribuído a Marcos, que apresenta o início do evangelho de Jesus Cristo.",
+    "alternativas": [
+      "Marcos",
+      "Pedro",
+      "João",
+      "Mateus"
+    ],
+    "id": 1512,
+    "pergunta": "Quem escreveu o Evangelho de Marcos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:1"
+  },
+  {
+    "explicacao": "Marcos inicia seu relato apresentando o princípio do evangelho de Jesus Cristo, Filho de Deus.",
+    "alternativas": [
+      "O nascimento de Jesus",
+      "A genealogia de Jesus",
+      "O princípio do evangelho de Jesus Cristo",
+      "A crucificação de Jesus"
+    ],
+    "id": 1513,
+    "pergunta": "O Evangelho de Marcos começa falando sobre:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:1"
+  },
+  {
+    "explicacao": "João Batista foi enviado para preparar o caminho do Senhor.",
+    "alternativas": [
+      "Pedro",
+      "João Batista",
+      "Paulo",
+      "André"
+    ],
+    "id": 1514,
+    "pergunta": "Quem preparou o caminho para Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:2-4"
+  },
+  {
+    "explicacao": "João Batista batizava no rio Jordão, onde muitas pessoas confessavam seus pecados.",
+    "alternativas": [
+      "Rio Nilo",
+      "Rio Jordão",
+      "Mar da Galileia",
+      "Mar Morto"
+    ],
+    "id": 1515,
+    "pergunta": "Onde João Batista batizava?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:5"
+  },
+  {
+    "explicacao": "Jesus foi batizado por João Batista no rio Jordão.",
+    "alternativas": [
+      "Pedro",
+      "João Batista",
+      "Tiago",
+      "André"
+    ],
+    "id": 1516,
+    "pergunta": "Quem batizou Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:9"
+  },
+  {
+    "explicacao": "Jesus permaneceu quarenta dias no deserto sendo tentado por Satanás.",
+    "alternativas": [
+      "7 dias",
+      "12 dias",
+      "40 dias",
+      "70 dias"
+    ],
+    "id": 1517,
+    "pergunta": "Quantos dias Jesus ficou no deserto sendo tentado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:13"
+  },
+  {
+    "explicacao": "Jesus chamou Pedro e André enquanto eles lançavam redes ao mar.",
+    "alternativas": [
+      "Pedro e André",
+      "Mateus e Tomé",
+      "Tiago e João apenas",
+      "Filipe e Bartolomeu"
+    ],
+    "id": 1518,
+    "pergunta": "Quais foram os primeiros discípulos chamados por Jesus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:16-18"
+  },
+  {
+    "explicacao": "Pedro e André eram pescadores antes de seguirem Jesus.",
+    "alternativas": [
+      "Agricultores",
+      "Pescadores",
+      "Soldados",
+      "Pastores"
+    ],
+    "id": 1519,
+    "pergunta": "Qual era a profissão de Pedro e André?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:16"
+  },
+  {
+    "explicacao": "Jesus curou a sogra de Pedro que estava com febre.",
+    "alternativas": [
+      "Cegueira",
+      "Febre",
+      "Lepra",
+      "Paralisia"
+    ],
+    "id": 1520,
+    "pergunta": "Jesus curou a sogra de Pedro de qual enfermidade?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:30-31"
+  },
+  {
+    "explicacao": "Levi era cobrador de impostos quando Jesus o chamou para segui-lo.",
+    "alternativas": [
+      "Um pescador",
+      "Um cobrador de impostos",
+      "Um sacerdote",
+      "Um soldado"
+    ],
+    "id": 1521,
+    "pergunta": "Quem Jesus chamou de Levi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 2:14"
+  },
+  {
+    "explicacao": "Jesus multiplicou os pães e peixes e alimentou cerca de cinco mil pessoas.",
+    "alternativas": [
+      "Curou um cego",
+      "Alimentou uma multidão",
+      "Acalmou uma tempestade",
+      "Ressuscitou Lázaro"
+    ],
+    "id": 1522,
+    "pergunta": "Qual milagre Jesus realizou com cinco pães e dois peixes?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 6:41-44"
+  },
+  {
+    "explicacao": "Havia cinco pães e dois peixes que Jesus multiplicou.",
+    "alternativas": [
+      "Dois",
+      "Cinco",
+      "Sete",
+      "Doze"
+    ],
+    "id": 1523,
+    "pergunta": "Quantos pães havia na multiplicação dos pães para cinco mil pessoas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 6:38"
+  },
+  {
+    "explicacao": "Jesus caminhou sobre as águas durante uma tempestade.",
+    "alternativas": [
+      "A terra",
+      "O fogo",
+      "As águas",
+      "As nuvens"
+    ],
+    "id": 1524,
+    "pergunta": "Jesus andou sobre:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 6:48"
+  },
+  {
+    "explicacao": "Pedro declarou que Jesus era o Cristo.",
+    "alternativas": [
+      "Pedro",
+      "João",
+      "Judas",
+      "Tomé"
+    ],
+    "id": 1525,
+    "pergunta": "Quem declarou que Jesus era o Cristo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 8:29"
+  },
+  {
+    "explicacao": "Jesus ensinou que quem deseja segui-lo deve negar a si mesmo e tomar sua cruz.",
+    "alternativas": [
+      "Sua coroa",
+      "Sua cruz",
+      "Sua espada",
+      "Seu livro"
+    ],
+    "id": 1526,
+    "pergunta": "O que Jesus disse que cada pessoa deveria tomar para segui-lo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 8:34"
+  },
+  {
+    "explicacao": "Maria Madalena foi a quem Jesus apareceu primeiro após ressuscitar.",
+    "alternativas": [
+      "Maria, mãe de Jesus",
+      "Marta",
+      "Maria Madalena",
+      "Salomé"
+    ],
+    "id": 1527,
+    "pergunta": "Qual mulher foi liberta por Jesus de sete demônios e tornou-se a primeira testemunha da ressurreição?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 16:9"
+  },
+  {
+    "explicacao": "Bartimeu estava à beira do caminho em Jericó quando encontrou Jesus.",
+    "alternativas": [
+      "Zaqueu",
+      "Bartimeu",
+      "Lázaro",
+      "Nicodemos"
+    ],
+    "id": 1528,
+    "pergunta": "Quem era o homem cego que clamou: 'Jesus, Filho de Davi, tem misericórdia de mim!'?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 10:46-47"
+  },
+  {
+    "explicacao": "Jesus foi batizado por João Batista nas águas do Rio Jordão.",
+    "alternativas": [
+      "Nilo",
+      "Jordão",
+      "Eufrates",
+      "Tigre"
+    ],
+    "id": 1529,
+    "pergunta": "Qual é o nome do rio onde Jesus foi batizado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:9"
+  },
+  {
+    "explicacao": "Marcos é conhecido por ser um Evangelho dinâmico e focado no serviço de Jesus.",
+    "alternativas": [
+      "Mateus",
+      "Marcos",
+      "Lucas",
+      "João"
+    ],
+    "id": 1530,
+    "pergunta": "Qual é o livro mais curto entre os quatro Evangelhos, focado nas ações de Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:1"
+  },
+  {
+    "explicacao": "João Batista pregava o batismo de arrependimento para perdão dos pecados.",
+    "alternativas": [
+      "Reino de Israel",
+      "Batismo de arrependimento para perdão dos pecados",
+      "Fim do templo",
+      "Julgamento dos romanos"
+    ],
+    "id": 1531,
+    "pergunta": "Segundo Marcos, João Batista pregava o:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:4"
+  },
+  {
+    "explicacao": "O Espírito Santo desceu sobre Jesus em forma de pomba no momento do batismo.",
+    "alternativas": [
+      "Fogo do céu",
+      "Uma nuvem de glória",
+      "O Espírito Santo como pomba",
+      "Um anjo do Senhor"
+    ],
+    "id": 1532,
+    "pergunta": "O que desceu sobre Jesus quando Ele foi batizado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:10"
+  },
+  {
+    "explicacao": "Jesus anunciou que o tempo havia chegado e chamou as pessoas ao arrependimento e à fé no evangelho.",
+    "alternativas": [
+      "Construam um templo",
+      "Arrependam-se e creiam no evangelho",
+      "Guardem todos os sábados",
+      "Formem um exército"
+    ],
+    "id": 1533,
+    "pergunta": "Qual foi a mensagem inicial de Jesus ao começar seu ministério?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:15"
+  },
+  {
+    "explicacao": "Tiago e João eram filhos de Zebedeu e foram chamados por Jesus.",
+    "alternativas": [
+      "Pedro e André",
+      "Tiago e João",
+      "Filipe e Bartolomeu",
+      "Mateus e Tomé"
+    ],
+    "id": 1534,
+    "pergunta": "Quem eram os filhos de Zebedeu chamados por Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:19-20"
+  },
+  {
+    "explicacao": "Jesus ensinava na sinagoga de Cafarnaum quando libertou um homem de um espírito imundo.",
+    "alternativas": [
+      "Nazaré",
+      "Jerusalém",
+      "Cafarnaum",
+      "Belém"
+    ],
+    "id": 1535,
+    "pergunta": "Em qual cidade Jesus ensinava quando expulsou um espírito imundo de um homem?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:21-27"
+  },
+  {
+    "explicacao": "Jesus afirmou que veio chamar pecadores ao arrependimento, não aqueles que se consideravam justos.",
+    "alternativas": [
+      "Porque os justos não precisam de arrependimento",
+      "Porque os pecadores eram mais importantes",
+      "Porque a Lei havia acabado",
+      "Porque os fariseus pediram"
+    ],
+    "id": 1536,
+    "pergunta": "Por que Jesus disse que veio chamar pecadores?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 2:17"
+  },
+  {
+    "explicacao": "Um paralítico foi levado até Jesus por seus amigos, que abriram o telhado para colocá-lo diante dele.",
+    "alternativas": [
+      "Um cego",
+      "Um paralítico",
+      "Um leproso",
+      "Um surdo"
+    ],
+    "id": 1537,
+    "pergunta": "Quem foi levado até Jesus descendo pelo telhado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 2:3-4"
+  },
+  {
+    "explicacao": "Jairo era chefe da sinagoga e pediu ajuda a Jesus para sua filha.",
+    "alternativas": [
+      "Jairo",
+      "Bartimeu",
+      "Levi",
+      "Malco"
+    ],
+    "id": 1538,
+    "pergunta": "Qual era o nome do chefe da sinagoga cuja filha Jesus ressuscitou?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 5:22"
+  },
+  {
+    "explicacao": "A mulher sofria de hemorragia havia doze anos.",
+    "alternativas": [
+      "7 anos",
+      "10 anos",
+      "12 anos",
+      "20 anos"
+    ],
+    "id": 1539,
+    "pergunta": "Quantos anos a mulher que tocou nas vestes de Jesus sofria de hemorragia?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 5:25"
+  },
+  {
+    "explicacao": "O Evangelho de Marcos não informa o nome da filha de Jairo.",
+    "alternativas": [
+      "Maria",
+      "O texto não informa",
+      "Marta",
+      "Isabel"
+    ],
+    "id": 1540,
+    "pergunta": "Qual era o nome da filha de Jairo que Jesus ressuscitou?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 5:41-42"
+  },
+  {
+    "explicacao": "Jesus alimentou cerca de cinco mil homens com cinco pães e dois peixes.",
+    "alternativas": [
+      "3 mil",
+      "4 mil",
+      "5 mil",
+      "7 mil"
+    ],
+    "id": 1541,
+    "pergunta": "Quantas pessoas Jesus alimentou com cinco pães e dois peixes?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 6:44"
+  },
+  {
+    "explicacao": "Após todos comerem, foram recolhidos doze cestos de pedaços.",
+    "alternativas": [
+      "5",
+      "7",
+      "10",
+      "12"
+    ],
+    "id": 1542,
+    "pergunta": "Quantos cestos de pedaços sobraram após a multiplicação dos pães?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 6:43"
+  },
+  {
+    "explicacao": "Pedro declarou que Jesus era o Cristo.",
+    "alternativas": [
+      "João Batista",
+      "Pedro",
+      "Tomé",
+      "Bartimeu"
+    ],
+    "id": 1543,
+    "pergunta": "Quem disse: 'Tu és o Cristo'?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 8:29"
+  },
+  {
+    "explicacao": "Jesus ensinou que aquele que perder sua vida por causa dele e do evangelho a salvará.",
+    "alternativas": [
+      "Teria muitos bens",
+      "Perderia sua vida",
+      "Seria rei",
+      "Nunca sofreria"
+    ],
+    "id": 1544,
+    "pergunta": "O que Jesus disse que aconteceria com quem quisesse salvar a sua vida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 8:35"
+  },
+  {
+    "explicacao": "Moisés e Elias apareceram conversando com Jesus durante a transfiguração.",
+    "alternativas": [
+      "Abraão e Isaque",
+      "Moisés e Elias",
+      "Davi e Salomão",
+      "Pedro e João"
+    ],
+    "id": 1545,
+    "pergunta": "Quem apareceu conversando com Jesus no monte da transfiguração?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 9:4"
+  },
+  {
+    "explicacao": "Jesus ensinou que quem quer ser o primeiro deve servir e receber o Reino como uma criança.",
+    "alternativas": [
+      "Deve possuir riquezas",
+      "Deve ser como uma criança",
+      "Deve dominar os outros",
+      "Deve ser sacerdote"
+    ],
+    "id": 1546,
+    "pergunta": "O que Jesus ensinou sobre o maior no Reino de Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 9:35-37"
+  },
+  {
+    "explicacao": "Um escriba perguntou a Jesus qual era o principal de todos os mandamentos.",
+    "alternativas": [
+      "Um escriba",
+      "Um soldado romano",
+      "Um pescador",
+      "Um fariseu cego"
+    ],
+    "id": 1547,
+    "pergunta": "Quem perguntou a Jesus qual era o maior mandamento?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 12:28"
+  },
+  {
+    "explicacao": "Jesus ensinou que o maior mandamento é amar a Deus com todo o coração, alma, entendimento e força.",
+    "alternativas": [
+      "Guardar o sábado",
+      "Amar a Deus de todo o coração",
+      "Oferecer sacrifícios",
+      "Fazer jejuns"
+    ],
+    "id": 1548,
+    "pergunta": "Qual foi o maior mandamento segundo Jesus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 12:30"
+  },
+  {
+    "explicacao": "José de Arimateia pediu a Pilatos o corpo de Jesus para sepultá-lo.",
+    "alternativas": [
+      "Pedro",
+      "José de Arimateia",
+      "João",
+      "Nicodemos"
+    ],
+    "id": 1549,
+    "pergunta": "Quem pediu o corpo de Jesus após sua morte?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 15:43"
+  },
+  {
+    "explicacao": "O anjo anunciou que Jesus iria adiante dos discípulos para a Galileia.",
+    "alternativas": [
+      "Nazaré",
+      "Galileia",
+      "Roma",
+      "Betânia"
+    ],
+    "id": 1550,
+    "pergunta": "Para onde Jesus disse aos discípulos que iria depois da ressurreição?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 16:7"
+  },
+  {
+    "explicacao": "Marcos apresenta Jesus como Cristo e Filho de Deus desde o início do Evangelho.",
+    "alternativas": [
+      "Filho de Davi e Rei dos judeus",
+      "Filho de Deus e Cristo",
+      "Profeta de Nazaré",
+      "Sumo sacerdote eterno"
+    ],
+    "id": 1551,
+    "pergunta": "Como Marcos identifica Jesus no início do seu Evangelho?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:1"
+  },
+  {
+    "explicacao": "Marcos cita a profecia sobre o mensageiro que prepararia o caminho do Senhor.",
+    "alternativas": [
+      "Isaías",
+      "Jeremias",
+      "Daniel",
+      "Ezequiel"
+    ],
+    "id": 1552,
+    "pergunta": "Qual profeta é citado por Marcos ao falar sobre aquele que prepararia o caminho do Senhor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 1:2-3"
+  },
+  {
+    "explicacao": "Antes da cura física, Jesus declarou o perdão dos pecados daquele homem.",
+    "alternativas": [
+      "Levanta-te e anda",
+      "A tua fé te salvou",
+      "Filho, perdoados estão os teus pecados",
+      "Recebe o Espírito Santo"
+    ],
+    "id": 1553,
+    "pergunta": "O que Jesus disse ao paralítico antes de curá-lo fisicamente?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 2:5"
+  },
+  {
+    "explicacao": "Jesus chamou Levi, que era cobrador de impostos, para ser seu discípulo.",
+    "alternativas": [
+      "Levi",
+      "Zaqueu",
+      "Bartimeu",
+      "Jairo"
+    ],
+    "id": 1554,
+    "pergunta": "Qual era o nome do cobrador de impostos que Jesus chamou para segui-lo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 2:14"
+  },
+  {
+    "explicacao": "Jesus ensinou que o sábado foi estabelecido para benefício do homem.",
+    "alternativas": [
+      "Os sacerdotes",
+      "O templo",
+      "O homem",
+      "Os discípulos"
+    ],
+    "id": 1555,
+    "pergunta": "Segundo Jesus, o sábado foi feito por causa de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 2:27"
+  },
+  {
+    "explicacao": "Os moradores citaram Tiago, José, Judas e Simão como irmãos de Jesus.",
+    "alternativas": [
+      "Pedro, Tiago, João e André",
+      "Tiago, José, Judas e Simão",
+      "Mateus, Filipe, Tomé e Bartolomeu",
+      "José, João, Elias e Samuel"
+    ],
+    "id": 1556,
+    "pergunta": "Quem eram os irmãos de Jesus mencionados pelos moradores de Nazaré?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 6:3"
+  },
+  {
+    "explicacao": "Marcos relata que Jesus se admirou da incredulidade deles.",
+    "alternativas": [
+      "Porque estava cansado",
+      "Porque faltava fé entre eles",
+      "Porque os discípulos não permitiram",
+      "Porque não era o momento"
+    ],
+    "id": 1557,
+    "pergunta": "Por que Jesus não realizou muitos milagres em Nazaré?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 6:5-6"
+  },
+  {
+    "explicacao": "Herodes Antipas ordenou a execução de João Batista após o pedido da filha de Herodias.",
+    "alternativas": [
+      "Pilatos",
+      "Herodes Antipas",
+      "Caifás",
+      "Herodes Agripa"
+    ],
+    "id": 1558,
+    "pergunta": "Quem mandou matar João Batista?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 6:16-28"
+  },
+  {
+    "explicacao": "O texto de Marcos não informa o nome dela, mas a tradição a identifica como Salomé.",
+    "alternativas": [
+      "Salomé (tradicionalmente identificada)",
+      "Marta",
+      "Maria",
+      "Joana"
+    ],
+    "id": 1559,
+    "pergunta": "Qual era o nome da filha de Herodias que dançou diante de Herodes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 6:22"
+  },
+  {
+    "explicacao": "Na alimentação dos quatro mil havia sete pães.",
+    "alternativas": [
+      "Cinco",
+      "Sete",
+      "Doze",
+      "Dez"
+    ],
+    "id": 1560,
+    "pergunta": "Quantos pães havia quando Jesus alimentou os quatro mil?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 8:5-6"
+  },
+  {
+    "explicacao": "Depois da multiplicação dos pães, sobraram sete cestos de pedaços.",
+    "alternativas": [
+      "Sete",
+      "Doze",
+      "Cinco",
+      "Quatro"
+    ],
+    "id": 1561,
+    "pergunta": "Quantos cestos sobraram após a alimentação dos quatro mil?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 8:8"
+  },
+  {
+    "explicacao": "O nome do homem cego curado em Betsaida não é informado por Marcos.",
+    "alternativas": [
+      "Bartimeu",
+      "O texto não informa",
+      "Malco",
+      "Jairo"
+    ],
+    "id": 1562,
+    "pergunta": "Quem era o homem cego que Jesus curou em Betsaida?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 8:22-26"
+  },
+  {
+    "explicacao": "Jesus anunciou seu sofrimento, morte e ressurreição.",
+    "alternativas": [
+      "Seria coroado rei imediatamente",
+      "Sofreria, seria rejeitado, morto e ressuscitaria ao terceiro dia",
+      "Construiria um novo templo",
+      "Governaria Roma"
+    ],
+    "id": 1563,
+    "pergunta": "O que Jesus disse que aconteceria com o Filho do Homem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 8:31"
+  },
+  {
+    "explicacao": "Tiago e João perguntaram a Jesus sobre os acontecimentos futuros relacionados ao templo.",
+    "alternativas": [
+      "Pedro",
+      "André",
+      "Tiago e João",
+      "Todos os doze"
+    ],
+    "id": 1564,
+    "pergunta": "Qual discípulo queria saber sobre a destruição do templo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 13:3"
+  },
+  {
+    "explicacao": "Marcos relata que uma mulher não identificada pelo nome ungiu Jesus em Betânia.",
+    "alternativas": [
+      "Maria, irmã de Lázaro (identificação tradicional)",
+      "Maria Madalena (identificação tradicional)",
+      "Uma mulher cujo nome não é informado",
+      "Marta"
+    ],
+    "id": 1565,
+    "pergunta": "Quem ungiu Jesus com perfume de nardo puro em Betânia?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 14:3"
+  },
+  {
+    "explicacao": "Jesus enviou dois discípulos para preparar o local da ceia.",
+    "alternativas": [
+      "Pedro e João",
+      "Dois discípulos enviados por Jesus",
+      "José de Arimateia",
+      "Nicodemos"
+    ],
+    "id": 1566,
+    "pergunta": "Quem preparou a sala onde Jesus celebrou a última ceia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 14:13-16"
+  },
+  {
+    "explicacao": "Marcos não informa o nome do servo que teve a orelha cortada.",
+    "alternativas": [
+      "Malco",
+      "O texto não informa",
+      "Bartimeu",
+      "Jairo"
+    ],
+    "id": 1567,
+    "pergunta": "Qual era o nome do servo do sumo sacerdote que teve a orelha cortada?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 14:47"
+  },
+  {
+    "explicacao": "Simão, o cireneu, foi obrigado a carregar a cruz de Jesus.",
+    "alternativas": [
+      "Simão Pedro",
+      "Simão, o cireneu",
+      "José de Arimateia",
+      "João"
+    ],
+    "id": 1568,
+    "pergunta": "Quem ajudou Jesus a carregar a cruz?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 15:21"
+  },
+  {
+    "explicacao": "O centurião reconheceu Jesus como Filho de Deus ao vê-lo morrer.",
+    "alternativas": [
+      "Este homem era justo",
+      "Verdadeiramente este homem era o Filho de Deus",
+      "Ele era um profeta",
+      "Ele era o Rei de Israel"
+    ],
+    "id": 1569,
+    "pergunta": "Qual foi a declaração do centurião ao ver Jesus morrer?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 15:39"
+  },
+  {
+    "explicacao": "O jovem anunciou às mulheres que Jesus iria adiante dos discípulos para a Galileia.",
+    "alternativas": [
+      "Jerusalém",
+      "Betânia",
+      "Galileia",
+      "Nazaré"
+    ],
+    "id": 1570,
+    "pergunta": "Para onde o jovem vestido de branco disse que Jesus havia ido após ressuscitar?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Marcos",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Marcos 16:7"
+  }
+]

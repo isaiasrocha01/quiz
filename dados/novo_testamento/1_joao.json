@@ -1,0 +1,1022 @@
+[
+  {
+    "explicacao": "A Primeira Epístola de João é tradicionalmente atribuída ao apóstolo João.",
+    "alternativas": [
+      "Pedro.",
+      "João.",
+      "Paulo.",
+      "Tiago."
+    ],
+    "id": 391,
+    "pergunta": "Quem é o autor tradicional da primeira carta de João?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:1-4"
+  },
+  {
+    "explicacao": "João declara que Deus é luz e que nele não há treva alguma.",
+    "alternativas": [
+      "Fogo consumidor.",
+      "Espírito.",
+      "Luz.",
+      "Rocha."
+    ],
+    "id": 392,
+    "pergunta": "O que João diz que Deus é?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:5"
+  },
+  {
+    "explicacao": "João afirma que Deus é perfeitamente santo e nele não existe qualquer treva.",
+    "alternativas": [
+      "Sim, pouca.",
+      "Apenas à noite.",
+      "Não, nenhuma.",
+      "Somente no juízo."
+    ],
+    "id": 393,
+    "pergunta": "Em Deus existe alguma treva?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:5"
+  },
+  {
+    "explicacao": "O sangue de Jesus Cristo purifica todo aquele que anda na luz.",
+    "alternativas": [
+      "Moisés.",
+      "Pedro.",
+      "Jesus Cristo.",
+      "Abraão."
+    ],
+    "id": 394,
+    "pergunta": "O sangue de quem nos purifica de todo pecado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:7"
+  },
+  {
+    "explicacao": "Deus promete perdoar e purificar aqueles que confessam sinceramente seus pecados.",
+    "alternativas": [
+      "Apenas misericordioso.",
+      "Apenas amoroso.",
+      "Fiel e justo para nos perdoar.",
+      "Apenas paciente."
+    ],
+    "id": 395,
+    "pergunta": "Se confessarmos os nossos pecados, Deus é:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:9"
+  },
+  {
+    "explicacao": "Jesus Cristo é apresentado como nosso Advogado diante do Pai.",
+    "alternativas": [
+      "Pedro.",
+      "O Espírito Santo.",
+      "Jesus Cristo, o Justo.",
+      "João Batista."
+    ],
+    "id": 396,
+    "pergunta": "Quem é o nosso Advogado junto ao Pai?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:1"
+  },
+  {
+    "explicacao": "A obediência aos mandamentos de Deus demonstra que verdadeiramente o conhecemos.",
+    "alternativas": [
+      "Porque frequentamos a igreja.",
+      "Porque fazemos boas obras.",
+      "Se guardamos os seus mandamentos.",
+      "Porque lemos a Bíblia."
+    ],
+    "id": 397,
+    "pergunta": "Como sabemos que conhecemos a Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:3"
+  },
+  {
+    "explicacao": "João ensina que o ódio ao irmão demonstra que a pessoa ainda está nas trevas.",
+    "alternativas": [
+      "Na verdade.",
+      "No caminho certo.",
+      "Nas trevas.",
+      "Em santidade."
+    ],
+    "id": 398,
+    "pergunta": "Quem diz estar na luz, mas odeia seu irmão, está:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:9"
+  },
+  {
+    "explicacao": "João adverte que o amor ao mundo é incompatível com o amor ao Pai.",
+    "alternativas": [
+      "A família.",
+      "A igreja.",
+      "O mundo, nem o que há no mundo.",
+      "Os amigos."
+    ],
+    "id": 399,
+    "pergunta": "O que João afirma que não devemos amar?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:15"
+  },
+  {
+    "explicacao": "O mundo passa, mas quem faz a vontade de Deus permanece eternamente.",
+    "alternativas": [
+      "Quem é rico.",
+      "Quem é sábio.",
+      "Quem faz a vontade de Deus.",
+      "Quem é forte."
+    ],
+    "id": 400,
+    "pergunta": "Quem permanece para sempre?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:17"
+  },
+  {
+    "explicacao": "João afirma que mentiroso é quem nega que Jesus é o Cristo.",
+    "alternativas": [
+      "Quem não vai à igreja.",
+      "Quem nega que Jesus é o Cristo.",
+      "Quem não jejua.",
+      "Quem não oferta."
+    ],
+    "id": 401,
+    "pergunta": "Quem é chamado de mentiroso?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:22"
+  },
+  {
+    "explicacao": "O grande amor do Pai é demonstrado ao nos chamar de filhos de Deus.",
+    "alternativas": [
+      "Prosperidade.",
+      "Muitos bens.",
+      "Sermos chamados filhos de Deus.",
+      "Longa vida."
+    ],
+    "id": 402,
+    "pergunta": "Que grande amor o Pai nos concedeu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:1"
+  },
+  {
+    "explicacao": "O amor de Deus foi revelado quando Cristo entregou sua vida por nós.",
+    "alternativas": [
+      "Pela criação.",
+      "Pela Lei.",
+      "Porque Cristo deu a sua vida por nós.",
+      "Pelos profetas."
+    ],
+    "id": 403,
+    "pergunta": "Como conhecemos o amor de Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:16"
+  },
+  {
+    "explicacao": "Mesmo quando o coração nos acusa, Deus é maior que o nosso coração e conhece todas as coisas.",
+    "alternativas": [
+      "O universo.",
+      "Os anjos.",
+      "O nosso coração.",
+      "Os reis."
+    ],
+    "id": 404,
+    "pergunta": "Deus é maior do que:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:20"
+  },
+  {
+    "explicacao": "O verdadeiro amor deve ser demonstrado por atitudes e ações sinceras.",
+    "alternativas": [
+      "Apenas de palavra.",
+      "Apenas com sentimentos.",
+      "De fato e de verdade.",
+      "Apenas os amigos."
+    ],
+    "id": 405,
+    "pergunta": "Devemos amar:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:18"
+  },
+  {
+    "explicacao": "A presença do Espírito Santo confirma que permanecemos em Deus e Ele em nós.",
+    "alternativas": [
+      "Pelos milagres.",
+      "Pela riqueza.",
+      "Porque Ele nos deu do seu Espírito.",
+      "Pela idade."
+    ],
+    "id": 406,
+    "pergunta": "Como sabemos que permanecemos em Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:13"
+  },
+  {
+    "explicacao": "João declara que Deus é amor e que quem ama conhece a Deus.",
+    "alternativas": [
+      "Justiça.",
+      "Poder.",
+      "Amor.",
+      "Verdade."
+    ],
+    "id": 407,
+    "pergunta": "Deus é:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:8"
+  },
+  {
+    "explicacao": "O perfeito amor lança fora o medo, pois o medo envolve castigo.",
+    "alternativas": [
+      "Esperança.",
+      "Alegria.",
+      "Medo.",
+      "Paciência."
+    ],
+    "id": 408,
+    "pergunta": "No amor não existe:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:18"
+  },
+  {
+    "explicacao": "A vitória sobre o mundo pertence àquele que crê que Jesus é o Filho de Deus.",
+    "alternativas": [
+      "O mais forte.",
+      "O mais inteligente.",
+      "Quem crê que Jesus é o Filho de Deus.",
+      "O mais rico."
+    ],
+    "id": 409,
+    "pergunta": "Quem vence o mundo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 5:5"
+  },
+  {
+    "explicacao": "João escreveu para que os que creem em Jesus tenham certeza de que possuem a vida eterna.",
+    "alternativas": [
+      "Ensinar profecias.",
+      "Revelar o futuro.",
+      "Para que saibais que tendes a vida eterna.",
+      "Ensinar a Lei de Moisés."
+    ],
+    "id": 410,
+    "pergunta": "Qual é o propósito da carta, segundo João?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 5:13"
+  },
+  {
+    "explicacao": "João declara que os discípulos anunciaram aquilo que viram e ouviram para que outros também tivessem comunhão com Deus.",
+    "alternativas": [
+      "Que Jesus era apenas um profeta.",
+      "Que Jesus era um grande mestre.",
+      "Que tinham comunhão com o Pai e com seu Filho Jesus Cristo.",
+      "Que Jesus era apenas um rei terreno."
+    ],
+    "id": 411,
+    "pergunta": "O que João afirma que ele e os outros discípulos anunciaram sobre Jesus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:3"
+  },
+  {
+    "explicacao": "João anuncia que Deus é luz e que não existe nele qualquer treva.",
+    "alternativas": [
+      "Deus é amor e prosperidade.",
+      "Deus é poder e justiça.",
+      "Deus é luz, e nele não há treva alguma.",
+      "Deus é somente Espírito."
+    ],
+    "id": 412,
+    "pergunta": "Qual é a mensagem que João ouviu e anunciou?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:5"
+  },
+  {
+    "explicacao": "João ensina que negar a existência do pecado é enganar a si mesmo.",
+    "alternativas": [
+      "Recebemos uma bênção especial.",
+      "Somos considerados santos.",
+      "Enganamo-nos a nós mesmos e a verdade não está em nós.",
+      "Somos livres do julgamento."
+    ],
+    "id": 413,
+    "pergunta": "O que acontece se dissermos que não temos pecado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:8"
+  },
+  {
+    "explicacao": "João afirma que Cristo é a propiciação pelos pecados dos seus seguidores e do mundo inteiro.",
+    "alternativas": [
+      "Somente pelos discípulos.",
+      "Somente pelos judeus.",
+      "Pelos nossos pecados e pelos do mundo inteiro.",
+      "Somente pelos profetas."
+    ],
+    "id": 414,
+    "pergunta": "Para que Jesus Cristo é a propiciação?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:2"
+  },
+  {
+    "explicacao": "O amor ao irmão demonstra que a pessoa permanece na luz.",
+    "alternativas": [
+      "Guardando riquezas.",
+      "Buscando reconhecimento.",
+      "Permanecendo na luz.",
+      "Evitando pessoas."
+    ],
+    "id": 415,
+    "pergunta": "O que aquele que ama seu irmão permanece fazendo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:10"
+  },
+  {
+    "explicacao": "João reconhece a maturidade espiritual dos pais por conhecerem aquele que existe desde o princípio.",
+    "alternativas": [
+      "Tinham muitos filhos.",
+      "Conheciam aquele que existe desde o princípio.",
+      "Eram líderes da igreja.",
+      "Eram ricos."
+    ],
+    "id": 416,
+    "pergunta": "João escreve aos pais porque eles:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:14"
+  },
+  {
+    "explicacao": "João afirma que já era a última hora porque muitos anticristos haviam surgido.",
+    "alternativas": [
+      "O nascimento de Cristo.",
+      "A destruição de Jerusalém.",
+      "O surgimento de muitos anticristos.",
+      "O início da igreja."
+    ],
+    "id": 417,
+    "pergunta": "Qual é a última hora mencionada por João?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:18"
+  },
+  {
+    "explicacao": "João chama de mentiroso aquele que nega que Jesus é o Cristo.",
+    "alternativas": [
+      "Quem não conhece a Lei.",
+      "Quem não jejua.",
+      "Quem nega que Jesus é o Cristo.",
+      "Quem não faz milagres."
+    ],
+    "id": 418,
+    "pergunta": "Quem é o mentiroso segundo João?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:22"
+  },
+  {
+    "explicacao": "João ensina que a unção recebida de Deus guia os cristãos na verdade.",
+    "alternativas": [
+      "Como conquistar riquezas.",
+      "Como dominar pessoas.",
+      "Todas as coisas necessárias para permanecer na verdade.",
+      "Como evitar sofrimento."
+    ],
+    "id": 419,
+    "pergunta": "O que a unção que vem do Santo ensina aos cristãos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:27"
+  },
+  {
+    "explicacao": "João define o pecado como transgressão da lei.",
+    "alternativas": [
+      "A justiça.",
+      "A bondade.",
+      "A transgressão da lei.",
+      "A sabedoria."
+    ],
+    "id": 420,
+    "pergunta": "Quem pratica o pecado também pratica:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:4"
+  },
+  {
+    "explicacao": "Jesus veio para destruir as obras do diabo e trazer libertação do pecado.",
+    "alternativas": [
+      "Para ser servido pelos homens.",
+      "Para construir um reino terreno.",
+      "Para desfazer as obras do diabo.",
+      "Para ensinar filosofia."
+    ],
+    "id": 421,
+    "pergunta": "Por que o Filho de Deus se manifestou?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:8"
+  },
+  {
+    "explicacao": "O amor pelos irmãos é apresentado como evidência de uma nova vida em Cristo.",
+    "alternativas": [
+      "Porque temos riquezas.",
+      "Porque fazemos milagres.",
+      "Porque amamos os irmãos.",
+      "Porque somos conhecidos."
+    ],
+    "id": 422,
+    "pergunta": "Como sabemos que passamos da morte para a vida?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:14"
+  },
+  {
+    "explicacao": "Deus conhece todas as coisas e é maior do que qualquer acusação do nosso coração.",
+    "alternativas": [
+      "Menor que nosso coração.",
+      "Indiferente.",
+      "Maior que o nosso coração e conhece todas as coisas.",
+      "Incapaz de perdoar."
+    ],
+    "id": 423,
+    "pergunta": "Se o nosso coração nos condenar, Deus é:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:20"
+  },
+  {
+    "explicacao": "João orienta os cristãos a examinarem os espíritos para verificar se vêm de Deus.",
+    "alternativas": [
+      "Pela aparência das pessoas.",
+      "Pela quantidade de seguidores.",
+      "Para saber se procedem de Deus.",
+      "Pela riqueza dos pregadores."
+    ],
+    "id": 424,
+    "pergunta": "Como devemos provar os espíritos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:1"
+  },
+  {
+    "explicacao": "João afirma que reconhecer Jesus Cristo vindo em carne é uma evidência do Espírito de Deus.",
+    "alternativas": [
+      "Um espírito humano.",
+      "Um anjo.",
+      "De Deus.",
+      "Um profeta antigo."
+    ],
+    "id": 425,
+    "pergunta": "Todo espírito que confessa Jesus Cristo vindo em carne é:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:2"
+  },
+  {
+    "explicacao": "João ensina que o amor é uma característica essencial do próprio Deus.",
+    "alternativas": [
+      "Justiça.",
+      "Espírito.",
+      "Amor.",
+      "Poder."
+    ],
+    "id": 426,
+    "pergunta": "Quem não ama não conhece a Deus, porque Deus é:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:8"
+  },
+  {
+    "explicacao": "O perfeito amor de Deus remove o medo relacionado ao castigo.",
+    "alternativas": [
+      "A tristeza.",
+      "A dúvida.",
+      "O medo.",
+      "A fraqueza."
+    ],
+    "id": 427,
+    "pergunta": "O perfeito amor lança fora:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:18"
+  },
+  {
+    "explicacao": "João afirma que a fé em Deus é a vitória que vence o mundo.",
+    "alternativas": [
+      "A inteligência humana.",
+      "A riqueza.",
+      "A nossa fé.",
+      "A força física."
+    ],
+    "id": 428,
+    "pergunta": "Qual é a vitória que vence o mundo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 5:4"
+  },
+  {
+    "explicacao": "João declara que aquele que tem o Filho de Deus possui a vida eterna.",
+    "alternativas": [
+      "Muitos bens.",
+      "Poder sobre os homens.",
+      "A vida.",
+      "Conhecimento completo."
+    ],
+    "id": 429,
+    "pergunta": "Quem tem o Filho tem:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 5:12"
+  },
+  {
+    "explicacao": "João encerra sua carta advertindo os cristãos a se guardarem dos ídolos.",
+    "alternativas": [
+      "Guardai os sábados.",
+      "Evitai os romanos.",
+      "Guardai-vos dos ídolos.",
+      "Buscai riquezas."
+    ],
+    "id": 430,
+    "pergunta": "Qual advertência João dá no final da carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 5:21"
+  },
+  {
+    "explicacao": "João afirma que os discípulos tiveram contato real com Jesus Cristo, o Verbo da vida.",
+    "alternativas": [
+      "A Lei de Moisés.",
+      "A glória dos anjos.",
+      "O Verbo da vida.",
+      "A sabedoria dos profetas."
+    ],
+    "id": 431,
+    "pergunta": "O que João afirma que ele e os outros discípulos haviam ouvido, visto, contemplado e tocado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:1"
+  },
+  {
+    "explicacao": "João anunciou a mensagem de Cristo para que houvesse comunhão com Deus e alegria completa.",
+    "alternativas": [
+      "Formar líderes religiosos.",
+      "Ensinar costumes judaicos.",
+      "Ter comunhão e que a alegria fosse completa.",
+      "Revelar segredos do futuro."
+    ],
+    "id": 432,
+    "pergunta": "Qual é a finalidade da mensagem anunciada por João?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:3-4"
+  },
+  {
+    "explicacao": "João ensina que negar o pecado é contradizer a verdade de Deus.",
+    "alternativas": [
+      "Torna-se perfeito.",
+      "Recebe uma nova bênção.",
+      "Faz de Deus um mentiroso e a palavra de Deus não está nele.",
+      "É considerado justo pelos homens."
+    ],
+    "id": 433,
+    "pergunta": "O que acontece quando alguém afirma estar sem pecado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 1:10"
+  },
+  {
+    "explicacao": "Jesus Cristo é apresentado como nosso Advogado junto ao Pai.",
+    "alternativas": [
+      "Juiz dos homens.",
+      "Profeta diante de Deus.",
+      "Advogado junto ao Pai.",
+      "Sacerdote de Israel."
+    ],
+    "id": 434,
+    "pergunta": "Qual é a função de Jesus Cristo quando pecamos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:1"
+  },
+  {
+    "explicacao": "João ensina que o verdadeiro conhecimento de Deus é demonstrado pela obediência aos seus mandamentos.",
+    "alternativas": [
+      "Quem conhece as Escrituras apenas.",
+      "Quem realiza muitos milagres.",
+      "Quem guarda os seus mandamentos.",
+      "Quem possui muitos dons."
+    ],
+    "id": 435,
+    "pergunta": "Quem conhece verdadeiramente a Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:3-4"
+  },
+  {
+    "explicacao": "O mandamento do amor é antigo por sua origem e novo por sua revelação em Cristo.",
+    "alternativas": [
+      "Guardar o sábado.",
+      "Fazer sacrifícios.",
+      "Amar o irmão.",
+      "Jejuar constantemente."
+    ],
+    "id": 436,
+    "pergunta": "Qual mandamento João chama de antigo e novo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:7-8"
+  },
+  {
+    "explicacao": "João ensina que os desejos passageiros do mundo acabam, mas a vontade de Deus permanece.",
+    "alternativas": [
+      "Porque será destruído pelo fogo.",
+      "Porque os homens são fracos.",
+      "Porque a sua cobiça passa, mas quem faz a vontade de Deus permanece para sempre.",
+      "Porque os reis perderão o poder."
+    ],
+    "id": 437,
+    "pergunta": "Por que João diz que o mundo passa?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:17"
+  },
+  {
+    "explicacao": "João afirma que os anticristos negam a identidade de Jesus como Cristo e Filho de Deus.",
+    "alternativas": [
+      "A existência dos anjos.",
+      "A criação do mundo.",
+      "Que Jesus é o Cristo e o Filho.",
+      "A autoridade dos profetas."
+    ],
+    "id": 438,
+    "pergunta": "O que os anticristos negam segundo João?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:22"
+  },
+  {
+    "explicacao": "João afirma que a unção recebida de Deus permanece nos cristãos e os guia na verdade.",
+    "alternativas": [
+      "A sabedoria humana.",
+      "A tradição dos anciãos.",
+      "A unção que receberam do Santo.",
+      "O conhecimento dos filósofos."
+    ],
+    "id": 439,
+    "pergunta": "O que permanece nos cristãos e os ensina segundo João?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 2:27"
+  },
+  {
+    "explicacao": "João identifica os filhos de Deus pela prática da justiça e pelo amor aos irmãos.",
+    "alternativas": [
+      "A aparência e a cultura.",
+      "A posição social.",
+      "A prática da justiça e o amor aos irmãos.",
+      "A quantidade de conhecimento."
+    ],
+    "id": 440,
+    "pergunta": "Qual é a diferença entre os filhos de Deus e os filhos do diabo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:10"
+  },
+  {
+    "explicacao": "João usa Caim como exemplo de alguém dominado pelo ódio contra seu irmão.",
+    "alternativas": [
+      "Saul.",
+      "Judas.",
+      "Caim, que matou seu irmão.",
+      "Faraó."
+    ],
+    "id": 441,
+    "pergunta": "Quem João apresenta como exemplo negativo de ódio?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:12"
+  },
+  {
+    "explicacao": "Cristo demonstrou o verdadeiro amor ao entregar sua vida por nós.",
+    "alternativas": [
+      "Pelas palavras dos profetas.",
+      "Pela criação de Deus.",
+      "Porque Cristo deu sua vida por nós.",
+      "Pelos sinais e maravilhas."
+    ],
+    "id": 442,
+    "pergunta": "Como conhecemos o amor, segundo João?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:16"
+  },
+  {
+    "explicacao": "João ensina que negar ajuda ao necessitado revela falta de amor de Deus.",
+    "alternativas": [
+      "Grande sabedoria.",
+      "Prudência financeira.",
+      "Falta do amor de Deus nele.",
+      "Santidade."
+    ],
+    "id": 443,
+    "pergunta": "Se alguém possui recursos e vê seu irmão necessitado, mas fecha o coração, o que isso demonstra?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 3:17"
+  },
+  {
+    "explicacao": "A presença do Espírito Santo é a evidência de que Deus permanece em nós.",
+    "alternativas": [
+      "Porque nunca enfrentamos problemas.",
+      "Porque temos riquezas.",
+      "Porque Ele nos deu do seu Espírito.",
+      "Porque somos líderes."
+    ],
+    "id": 444,
+    "pergunta": "Como podemos saber que o Espírito de Deus permanece em nós?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:13"
+  },
+  {
+    "explicacao": "João ensina que Deus é amor e que permanecer no amor é permanecer em Deus.",
+    "alternativas": [
+      "O amor é apenas um sentimento.",
+      "O amor depende das circunstâncias.",
+      "Deus é amor, e quem permanece no amor permanece em Deus.",
+      "O amor é menor que a fé."
+    ],
+    "id": 445,
+    "pergunta": "Qual é a afirmação central sobre o amor em 1 João 4?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:16"
+  },
+  {
+    "explicacao": "Nosso amor por Deus é uma resposta ao amor que Ele demonstrou primeiro.",
+    "alternativas": [
+      "Porque somos perfeitos.",
+      "Porque recebemos riquezas.",
+      "Porque Ele nos amou primeiro.",
+      "Porque temos conhecimento."
+    ],
+    "id": 446,
+    "pergunta": "Por que amamos a Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:19"
+  },
+  {
+    "explicacao": "João afirma que não é possível amar a Deus e odiar o irmão.",
+    "alternativas": [
+      "Quem não conhece a Lei.",
+      "Quem não ora.",
+      "Quem diz amar a Deus e odeia seu irmão.",
+      "Quem não faz milagres."
+    ],
+    "id": 447,
+    "pergunta": "Quem é mentiroso segundo João em relação ao amor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 4:20"
+  },
+  {
+    "explicacao": "A fé em Deus é apresentada como o meio pelo qual os nascidos de Deus vencem o mundo.",
+    "alternativas": [
+      "Sua própria força.",
+      "Sua inteligência.",
+      "Sua fé.",
+      "Suas obras."
+    ],
+    "id": 448,
+    "pergunta": "Quem é nascido de Deus vence o mundo por meio de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 5:4"
+  },
+  {
+    "explicacao": "João menciona o testemunho do Pai, da Palavra e do Espírito Santo.",
+    "alternativas": [
+      "Abraão, Isaque e Jacó.",
+      "Paulo, Pedro e João.",
+      "O Pai, a Palavra e o Espírito Santo.",
+      "Os anjos, profetas e apóstolos."
+    ],
+    "id": 449,
+    "pergunta": "Quais são os três que dão testemunho no céu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 5:7-8"
+  },
+  {
+    "explicacao": "João afirma que a vida eterna está em Cristo e quem tem o Filho possui essa vida.",
+    "alternativas": [
+      "Tem riqueza eterna.",
+      "Nunca terá dificuldades.",
+      "Tem a vida eterna.",
+      "Recebe todos os dons."
+    ],
+    "id": 450,
+    "pergunta": "O que João afirma sobre quem tem o Filho de Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 João",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 João 5:11-12"
+  }
+]

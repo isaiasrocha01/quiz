@@ -1,0 +1,1039 @@
+[
+  {
+    "explicacao": "A primeira mensagem do Senhor a Ageu veio no primeiro dia do sexto mês do segundo ano do reinado de Dario.",
+    "alternativas": [
+      "No primeiro dia do sexto mês do segundo ano.",
+      "No décimo dia do quinto mês do primeiro ano.",
+      "No vigésimo quarto dia do nono mês do segundo ano.",
+      "No sétimo dia do sétimo mês do segundo ano."
+    ],
+    "id": 2501,
+    "pergunta": "Em que dia, mês e ano do reinado de Dario a palavra do Senhor veio pela primeira vez a Ageu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "Zorobabel é identificado em Ageu como filho de Salatiel.",
+    "alternativas": [
+      "Salatiel.",
+      "Jeozadaque.",
+      "Sealtiel.",
+      "Pedaías."
+    ],
+    "id": 2502,
+    "pergunta": "Quem era o pai de Zorobabel, conforme registrado em Ageu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "Josué, filho de Jeozadaque, exercia o ofício de sumo sacerdote.",
+    "alternativas": [
+      "Governador de Judá.",
+      "Escriba.",
+      "Sumo sacerdote.",
+      "Capitão do exército."
+    ],
+    "id": 2503,
+    "pergunta": "Qual era a função de Josué, filho de Jeozadaque?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "Ageu declarou que o povo semeava muito, mas colhia pouco devido à sua desobediência.",
+    "alternativas": [
+      "Em abundância.",
+      "Apenas a metade.",
+      "Pouco.",
+      "Nada."
+    ],
+    "id": 2504,
+    "pergunta": "Segundo Ageu, o povo semeava muito e colhia:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:6"
+  },
+  {
+    "explicacao": "O salário recebido era colocado em um saco furado, simbolizando a falta de prosperidade.",
+    "alternativas": [
+      "Um baú furado.",
+      "Um saco furado.",
+      "Um vaso rachado.",
+      "Um cesto vazio."
+    ],
+    "id": 2505,
+    "pergunta": "O dinheiro recebido pelo trabalhador era colocado em:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:6"
+  },
+  {
+    "explicacao": "Por causa da negligência do povo, Deus reteve o orvalho e os frutos da terra.",
+    "alternativas": [
+      "A lua e as estrelas.",
+      "O orvalho e os frutos da terra.",
+      "Os ventos do oriente.",
+      "As chuvas temporãs."
+    ],
+    "id": 2506,
+    "pergunta": "O que Deus reteve por causa da negligência do povo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:10"
+  },
+  {
+    "explicacao": "Entre a primeira profecia e o início das obras passaram-se vinte e três dias.",
+    "alternativas": [
+      "15 dias.",
+      "21 dias.",
+      "23 dias.",
+      "30 dias."
+    ],
+    "id": 2507,
+    "pergunta": "Quantos dias após a primeira profecia o povo começou a trabalhar na Casa do Senhor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1; Ageu 1:15"
+  },
+  {
+    "explicacao": "A segunda mensagem de Ageu foi entregue no vigésimo primeiro dia do sétimo mês.",
+    "alternativas": [
+      "Primeiro dia.",
+      "Décimo dia.",
+      "Vigésimo primeiro dia.",
+      "Vigésimo quarto dia."
+    ],
+    "id": 2508,
+    "pergunta": "Em que dia do sétimo mês Ageu entregou sua segunda mensagem?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:1"
+  },
+  {
+    "explicacao": "Além de Zorobabel e Josué, todo o povo da terra foi incentivado a ser forte.",
+    "alternativas": [
+      "Apenas os sacerdotes.",
+      "Apenas os levitas.",
+      "Todo o povo da terra.",
+      "Apenas os anciãos."
+    ],
+    "id": 2509,
+    "pergunta": "Quem foi incentivado a ser forte juntamente com Zorobabel e Josué?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:4"
+  },
+  {
+    "explicacao": "Deus afirmou que o Seu Espírito permanecia no meio do povo.",
+    "alternativas": [
+      "Permanecia no meio deles.",
+      "Visitava apenas os sacerdotes.",
+      "Habitava somente no templo.",
+      "Retirava-se durante as guerras."
+    ],
+    "id": 2510,
+    "pergunta": "Segundo Ageu, o Espírito de Deus fazia o quê entre o povo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:5"
+  },
+  {
+    "explicacao": "Além dos céus e da terra, Deus declarou que abalaria o mar e a terra seca.",
+    "alternativas": [
+      "Apenas o mar.",
+      "O mar e a terra seca.",
+      "Apenas os rios.",
+      "Os desertos."
+    ],
+    "id": 2511,
+    "pergunta": "Além dos céus e da terra, quais elementos Deus disse que abalaria?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:6"
+  },
+  {
+    "explicacao": "Deus anunciou que faria tremer todas as nações.",
+    "alternativas": [
+      "Seriam destruídas.",
+      "Seriam abaladas.",
+      "Seriam divididas.",
+      "Seriam escravizadas."
+    ],
+    "id": 2512,
+    "pergunta": "O que aconteceria com todas as nações segundo Ageu 2:7?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:7"
+  },
+  {
+    "explicacao": "O Senhor declarou que tanto a prata quanto o ouro lhe pertencem.",
+    "alternativas": [
+      "Dos reis.",
+      "Dos sacerdotes.",
+      "Do Senhor dos Exércitos.",
+      "De Israel."
+    ],
+    "id": 2513,
+    "pergunta": "Segundo Ageu, de quem pertencem a prata e o ouro?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:8"
+  },
+  {
+    "explicacao": "Ageu perguntou se a carne santa transmitiria santidade a outro alimento pelo contato.",
+    "alternativas": [
+      "Se poderia ser sacrificada novamente.",
+      "Se santificaria outro alimento pelo contato.",
+      "Se deveria ser comida no mesmo dia.",
+      "Se poderia ser vendida."
+    ],
+    "id": 2514,
+    "pergunta": "Qual pergunta Ageu fez aos sacerdotes sobre carne santa?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:12"
+  },
+  {
+    "explicacao": "Os sacerdotes responderam que a santidade não era transmitida dessa forma.",
+    "alternativas": [
+      "Sim.",
+      "Apenas durante as festas.",
+      "Não.",
+      "Apenas no templo."
+    ],
+    "id": 2515,
+    "pergunta": "O que os sacerdotes responderam à pergunta sobre a carne santa?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:12"
+  },
+  {
+    "explicacao": "Os sacerdotes responderam que um alimento tocado por alguém impuro ficaria contaminado.",
+    "alternativas": [
+      "Santificado.",
+      "Consagrado.",
+      "Contaminado.",
+      "Abençoado."
+    ],
+    "id": 2516,
+    "pergunta": "Se alguém contaminado por um cadáver tocasse algum alimento, ele ficaria:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:13"
+  },
+  {
+    "explicacao": "Quando esperavam vinte medidas, encontravam apenas dez por causa da disciplina de Deus.",
+    "alternativas": [
+      "Quinze.",
+      "Dez.",
+      "Cinco.",
+      "Oito."
+    ],
+    "id": 2517,
+    "pergunta": "Antes da bênção de Deus, quando alguém esperava vinte medidas, encontrava apenas:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:16"
+  },
+  {
+    "explicacao": "Ao esperar cinquenta medidas no lagar, encontravam apenas vinte.",
+    "alternativas": [
+      "Vinte.",
+      "Vinte e cinco.",
+      "Trinta.",
+      "Quarenta."
+    ],
+    "id": 2518,
+    "pergunta": "Quando alguém ia ao lagar esperando tirar cinquenta medidas, encontrava apenas:",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:16"
+  },
+  {
+    "explicacao": "A última mensagem registrada em Ageu foi dada no vigésimo quarto dia do nono mês.",
+    "alternativas": [
+      "Décimo dia.",
+      "Vigésimo quarto dia.",
+      "Vigésimo primeiro dia.",
+      "Primeiro dia."
+    ],
+    "id": 2519,
+    "pergunta": "Em que dia do nono mês veio a última mensagem registrada por Ageu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:20"
+  },
+  {
+    "explicacao": "Deus prometeu fazer de Zorobabel como um anel de selar, pois o havia escolhido.",
+    "alternativas": [
+      "Torná-lo rei de Israel.",
+      "Dar-lhe uma coroa.",
+      "Fazê-lo como um anel de selar, porque o escolheu.",
+      "Colocá-lo como sumo sacerdote."
+    ],
+    "id": 2520,
+    "pergunta": "O que Deus prometeu fazer com Zorobabel, filho de Salatiel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:23"
+  },
+  {
+    "explicacao": "Foi o Senhor quem despertou o espírito de Zorobabel, Josué e do povo para realizar a obra.",
+    "alternativas": [
+      "O rei Dario.",
+      "Esdras.",
+      "O Senhor.",
+      "Os sacerdotes."
+    ],
+    "id": 2521,
+    "pergunta": "Quem despertou o espírito de Zorobabel, Josué e do povo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:14"
+  },
+  {
+    "explicacao": "Deus prometeu que a glória da última casa seria maior que a da primeira.",
+    "alternativas": [
+      "Igual.",
+      "Menor.",
+      "Maior.",
+      "Não haveria glória."
+    ],
+    "id": 2522,
+    "pergunta": "Como seria a glória da última casa em comparação com a primeira?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:9"
+  },
+  {
+    "explicacao": "Naquele lugar, Deus prometeu conceder paz ao seu povo.",
+    "alternativas": [
+      "Prosperidade.",
+      "Vitória militar.",
+      "Paz.",
+      "Longa vida."
+    ],
+    "id": 2523,
+    "pergunta": "O que Deus prometeu conceder naquele lugar?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:9"
+  },
+  {
+    "explicacao": "O Senhor declarou que tanto a prata quanto o ouro pertencem a Ele.",
+    "alternativas": [
+      "Dos reis.",
+      "Dos sacerdotes.",
+      "Do Senhor.",
+      "Do povo de Israel."
+    ],
+    "id": 2524,
+    "pergunta": "Segundo Ageu, de quem é a prata e o ouro?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:8"
+  },
+  {
+    "explicacao": "Deus incentivou Zorobabel, Josué e todo o povo a serem fortes e trabalharem.",
+    "alternativas": [
+      "Elias.",
+      "Zorobabel e Josué.",
+      "Samuel e Davi.",
+      "Neemias e Esdras."
+    ],
+    "id": 2525,
+    "pergunta": "A quem Deus ordenou que fosse forte juntamente com o povo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:4"
+  },
+  {
+    "explicacao": "Deus anunciou que abalaria os céus, a terra, o mar e a terra seca.",
+    "alternativas": [
+      "Apenas a terra.",
+      "Apenas os mares.",
+      "Os céus, a terra, o mar e a terra seca.",
+      "Apenas as montanhas."
+    ],
+    "id": 2526,
+    "pergunta": "O que Deus prometeu abalar?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:6"
+  },
+  {
+    "explicacao": "Ageu ensinou que a santidade não é transmitida automaticamente pelo simples contato, mas a impureza pode contaminar.",
+    "alternativas": [
+      "Sim.",
+      "Apenas aos sacerdotes.",
+      "Não.",
+      "Apenas durante as festas."
+    ],
+    "id": 2527,
+    "pergunta": "Segundo Ageu, a santidade é transmitida pelo simples contato?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:12-13"
+  },
+  {
+    "explicacao": "Deus prometeu abençoar o povo a partir do dia em que os fundamentos do templo foram lançados.",
+    "alternativas": [
+      "Desde a saída do Egito.",
+      "Desde o lançamento dos fundamentos do templo.",
+      "Após a morte de Zorobabel.",
+      "Depois da conquista de Jerusalém."
+    ],
+    "id": 2528,
+    "pergunta": "A partir de que momento Deus prometeu abençoar o povo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:18-19"
+  },
+  {
+    "explicacao": "No encerramento do livro, Deus chamou Zorobabel de seu servo, destacando sua escolha e missão.",
+    "alternativas": [
+      "Meu profeta.",
+      "Meu sacerdote.",
+      "Meu servo.",
+      "Meu rei."
+    ],
+    "id": 2529,
+    "pergunta": "Como Deus chamou Zorobabel no final do livro?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:23"
+  },
+  {
+    "explicacao": "Deus comparou Zorobabel a um anel de selar, símbolo de autoridade, confiança e escolha divina.",
+    "alternativas": [
+      "Uma coroa.",
+      "Um cetro.",
+      "Um anel de selar.",
+      "Uma espada."
+    ],
+    "id": 2530,
+    "pergunta": "Com o que Deus comparou Zorobabel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:23"
+  },
+  {
+    "explicacao": "A principal mensagem de Ageu foi incentivar o povo a priorizar a reconstrução do Templo do Senhor, acima de seus próprios interesses.",
+    "alternativas": [
+      "Construir um novo palácio para o rei.",
+      "Reconstruir o templo do Senhor.",
+      "Expandir os muros de Jerusalém.",
+      "Formar um novo exército."
+    ],
+    "id": 2531,
+    "pergunta": "Qual foi a principal mensagem de Ageu ao povo de Judá?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:2-8"
+  },
+  {
+    "explicacao": "Ageu iniciou seu ministério profético durante o reinado de Dario, rei da Pérsia.",
+    "alternativas": [
+      "Davi",
+      "Ezequias",
+      "Dario",
+      "Josias"
+    ],
+    "id": 2532,
+    "pergunta": "Em qual rei Ageu profetizou?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "Zorobabel era o governador de Judá durante o ministério de Ageu.",
+    "alternativas": [
+      "Neemias",
+      "Esdras",
+      "Zorobabel",
+      "Josué"
+    ],
+    "id": 2533,
+    "pergunta": "Quem era o governador de Judá na época de Ageu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "Josué, filho de Jeozadaque, era o sumo sacerdote mencionado por Ageu.",
+    "alternativas": [
+      "Eli",
+      "Josué, filho de Jeozadaque",
+      "Abiatar",
+      "Fineias"
+    ],
+    "id": 2534,
+    "pergunta": "Quem era o sumo sacerdote mencionado por Ageu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "O povo afirmava que ainda não havia chegado o tempo de reconstruir a Casa do Senhor.",
+    "alternativas": [
+      "Não havia madeira suficiente.",
+      "Ainda não era tempo de reconstruir a Casa do Senhor.",
+      "Os inimigos impediam a obra.",
+      "O rei proibiu a construção."
+    ],
+    "id": 2535,
+    "pergunta": "O que o povo dizia para justificar a demora na reconstrução do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:2"
+  },
+  {
+    "explicacao": "Antes de agir, Deus ordenou que o povo refletisse sobre sua condição espiritual e suas atitudes.",
+    "alternativas": [
+      "Jejuar quarenta dias.",
+      "Consultar os sacerdotes.",
+      "Considerar os seus caminhos.",
+      "Oferecer sacrifícios diários."
+    ],
+    "id": 2536,
+    "pergunta": "O que Deus mandou o povo fazer antes de agir?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:5"
+  },
+  {
+    "explicacao": "O Senhor ordenou que o povo subisse ao monte para buscar madeira para reconstruir o templo.",
+    "alternativas": [
+      "Ao vale.",
+      "Ao deserto.",
+      "Ao monte.",
+      "Ao rio Jordão."
+    ],
+    "id": 2537,
+    "pergunta": "Para onde Deus mandou o povo subir para buscar madeira?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:8"
+  },
+  {
+    "explicacao": "Por causa da desobediência, o povo semeava muito, mas colhia pouco.",
+    "alternativas": [
+      "Eram abundantes.",
+      "Produziam pouco.",
+      "Eram destruídas pelo fogo.",
+      "Eram levadas pelos inimigos."
+    ],
+    "id": 2538,
+    "pergunta": "O que acontecia com as colheitas do povo por causa da desobediência?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:6"
+  },
+  {
+    "explicacao": "Após ouvirem Ageu, o povo obedeceu à voz do Senhor e retomou a obra.",
+    "alternativas": [
+      "Ignorou o profeta.",
+      "Prendeu Ageu.",
+      "Obedeceu à voz do Senhor.",
+      "Fugiu de Jerusalém."
+    ],
+    "id": 2539,
+    "pergunta": "Como o povo reagiu à mensagem de Ageu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:12"
+  },
+  {
+    "explicacao": "Após a obediência do povo, Deus declarou que estaria com eles.",
+    "alternativas": [
+      "Eu vos darei riquezas.",
+      "Eu sou convosco.",
+      "Nunca mais tereis guerras.",
+      "Vivereis cem anos."
+    ],
+    "id": 2540,
+    "pergunta": "Qual foi a promessa de Deus ao povo após sua obediência?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:13"
+  },
+  {
+    "explicacao": "O livro de Ageu foi escrito pelo próprio profeta Ageu, que transmitiu as mensagens de Deus ao povo após o exílio.",
+    "alternativas": [
+      "Zacarias",
+      "Ageu",
+      "Malaquias",
+      "Esdras"
+    ],
+    "id": 2541,
+    "pergunta": "Quem era o profeta que escreveu o livro de Ageu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "Ageu profetizou depois que parte do povo de Judá retornou do exílio na Babilônia.",
+    "alternativas": [
+      "Durante o reinado de Davi",
+      "Após o retorno do povo de Judá do exílio",
+      "Antes do dilúvio",
+      "Durante o reinado de Saul"
+    ],
+    "id": 2542,
+    "pergunta": "Em que período Ageu profetizou?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "Zorobabel era o governador de Judá durante o período da reconstrução do templo.",
+    "alternativas": [
+      "Zorobabel",
+      "Neemias",
+      "Josias",
+      "Esdras"
+    ],
+    "id": 2543,
+    "pergunta": "Quem era o governador de Judá mencionado no livro de Ageu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "Josué, filho de Jozadaque, era o sumo sacerdote que liderava a comunidade religiosa junto com Zorobabel.",
+    "alternativas": [
+      "Arão",
+      "Eleazar",
+      "Josué, filho de Jozadaque",
+      "Samuel"
+    ],
+    "id": 2544,
+    "pergunta": "Quem era o sumo sacerdote citado junto com Zorobabel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "A principal mensagem de Ageu era incentivar o povo a reconstruir o templo do Senhor.",
+    "alternativas": [
+      "Construir um palácio para o rei",
+      "Reconstruir o templo do Senhor",
+      "Fazer guerra contra Babilônia",
+      "Abandonar Jerusalém"
+    ],
+    "id": 2545,
+    "pergunta": "Qual era a principal mensagem de Ageu ao povo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:8"
+  },
+  {
+    "explicacao": "O povo dizia que ainda não havia chegado o tempo certo para reconstruir a Casa do Senhor.",
+    "alternativas": [
+      "Que não era necessário reconstruí-lo",
+      "Que ainda não era tempo de reconstruir a Casa do Senhor",
+      "Que deveriam mudar a localização do templo",
+      "Que o templo deveria ser menor"
+    ],
+    "id": 2546,
+    "pergunta": "O que o povo dizia sobre a reconstrução do templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:2"
+  },
+  {
+    "explicacao": "Deus ordenou que o povo considerasse seus próprios caminhos e refletisse sobre sua atitude.",
+    "alternativas": [
+      "Seus caminhos",
+      "Seus inimigos",
+      "Suas riquezas",
+      "Suas armas"
+    ],
+    "id": 2547,
+    "pergunta": "O que Deus mandou o povo considerar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:5"
+  },
+  {
+    "explicacao": "A falta de bênçãos era consequência da desobediência do povo em deixar a Casa de Deus abandonada.",
+    "alternativas": [
+      "Porque não tinha terras",
+      "Porque Deus reteve a bênção por causa da desobediência",
+      "Porque havia guerra",
+      "Porque faltavam trabalhadores"
+    ],
+    "id": 2548,
+    "pergunta": "Por que o povo trabalhava muito e recebia pouco?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:6, 9-11"
+  },
+  {
+    "explicacao": "Zorobabel, Josué e o restante do povo obedeceram à mensagem de Deus e começaram a reconstrução.",
+    "alternativas": [
+      "Zorobabel, Josué e todo o restante do povo",
+      "Apenas os sacerdotes",
+      "Apenas os soldados",
+      "Apenas os estrangeiros"
+    ],
+    "id": 2549,
+    "pergunta": "Quem respondeu ao chamado de Deus para reconstruir o templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:12"
+  },
+  {
+    "explicacao": "Quando o povo começou a trabalhar, Deus prometeu estar com eles.",
+    "alternativas": [
+      "Que ficariam ricos imediatamente",
+      "Que estaria com eles",
+      "Que não enfrentariam inimigos",
+      "Que não precisariam trabalhar mais"
+    ],
+    "id": 2550,
+    "pergunta": "O que Deus prometeu ao povo quando eles começaram a trabalhar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:13"
+  },
+  {
+    "explicacao": "O profeta Ageu confrontou diretamente a negligência espiritual e a prioridade egoísta dos repatriados na reconstrução da Casa de Deus.",
+    "alternativas": [
+      "Zacarias",
+      "Malaquias",
+      "Ageu",
+      "Sofonias"
+    ],
+    "id": 2551,
+    "pergunta": "Quem foi o profeta contemporâneo de Neemias que repreendeu o povo por morar em casas luxuosas enquanto o Templo estava em ruínas?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:4"
+  },
+  {
+    "explicacao": "O Senhor despertou o espírito de Zorobabel, Josué e de todo o restante do povo para que trabalhassem na reconstrução do templo.",
+    "alternativas": [
+      "O rei da Pérsia",
+      "O Senhor",
+      "Os profetas falsos",
+      "Os sacerdotes estrangeiros"
+    ],
+    "id": 2552,
+    "pergunta": "Quem despertou o espírito de Zorobabel, Josué e do povo para reconstruir o templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:14"
+  },
+  {
+    "explicacao": "A reconstrução da Casa do Senhor começou no sexto mês do segundo ano do reinado de Dario.",
+    "alternativas": [
+      "Primeiro mês",
+      "Segundo mês",
+      "Sexto mês",
+      "Décimo mês"
+    ],
+    "id": 2553,
+    "pergunta": "Em que mês começou a reconstrução da Casa do Senhor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:15"
+  },
+  {
+    "explicacao": "Deus perguntou quem entre o povo ainda tinha visto a glória do antigo templo para comparar com a nova construção.",
+    "alternativas": [
+      "\"Quem vencerá a guerra?\"",
+      "\"Quem há entre vós que tenha ficado do templo antigo?\"",
+      "\"Quem será o próximo rei?\"",
+      "\"Quem construirá um altar?\""
+    ],
+    "id": 2554,
+    "pergunta": "Qual foi a pergunta de Deus aos que viram o antigo templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:3"
+  },
+  {
+    "explicacao": "Deus prometeu que a glória da segunda Casa seria maior do que a primeira.",
+    "alternativas": [
+      "Seria menor e sem importância",
+      "Seria maior que a primeira",
+      "Seria destruído rapidamente",
+      "Nunca seria terminado"
+    ],
+    "id": 2555,
+    "pergunta": "O que Deus prometeu sobre a glória do segundo templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:9"
+  },
+  {
+    "explicacao": "Além da promessa de glória para o templo, Deus prometeu conceder paz naquele lugar.",
+    "alternativas": [
+      "Daria paz naquele lugar",
+      "Daria muitos reis",
+      "Mudaria a capital",
+      "Acabaria com Israel"
+    ],
+    "id": 2556,
+    "pergunta": "Qual promessa Deus fez ao povo no segundo capítulo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:9"
+  },
+  {
+    "explicacao": "Deus comparou Zorobabel a um anel de selar, indicando sua escolha e autoridade.",
+    "alternativas": [
+      "Josué",
+      "Zorobabel",
+      "Ageu",
+      "Ciro"
+    ],
+    "id": 2557,
+    "pergunta": "Quem Deus chamou de \"anel de selar\" em sua promessa?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 2:23"
+  },
+  {
+    "explicacao": "Ageu profetizou durante o domínio do Império Persa, no período após o exílio babilônico.",
+    "alternativas": [
+      "Egípcio",
+      "Romano",
+      "Persa",
+      "Babilônico"
+    ],
+    "id": 2558,
+    "pergunta": "Qual império governava quando Ageu profetizou?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:1"
+  },
+  {
+    "explicacao": "O rei Ciro da Pérsia permitiu que os judeus retornassem a Jerusalém e reconstruíssem o templo.",
+    "alternativas": [
+      "Ciro",
+      "Dario",
+      "Xerxes",
+      "Artaxerxes"
+    ],
+    "id": 2559,
+    "pergunta": "Qual rei da Pérsia permitiu o retorno dos judeus para Jerusalém?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Esdras 1:1"
+  },
+  {
+    "explicacao": "O objetivo principal da reconstrução era restaurar a Casa do Senhor, que havia sido destruída.",
+    "alternativas": [
+      "Construir uma fortaleza",
+      "Restaurar a Casa do Senhor",
+      "Construir um mercado",
+      "Fazer uma nova cidade"
+    ],
+    "id": 2560,
+    "pergunta": "Qual era o objetivo principal da reconstrução ordenada por Ageu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:8"
+  },
+  {
+    "explicacao": "A mensagem central de Ageu era colocar Deus em primeiro lugar e obedecer à Sua vontade antes dos interesses pessoais.",
+    "alternativas": [
+      "Buscar riquezas pessoais",
+      "Colocar Deus em primeiro lugar e obedecer à Sua vontade",
+      "Fazer alianças militares",
+      "Abandonar Jerusalém"
+    ],
+    "id": 2561,
+    "pergunta": "Qual foi a mensagem central do livro de Ageu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Ageu",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Ageu 1:5-8"
+  }
+]

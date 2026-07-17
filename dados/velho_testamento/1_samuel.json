@@ -1,0 +1,1362 @@
+[
+  {
+    "explicacao": "Quis era o pai de Saul, pertencente à tribo de Benjamim.",
+    "alternativas": [
+      "Quis",
+      "Abner",
+      "Ner",
+      "Matri"
+    ],
+    "id": 2196,
+    "pergunta": "Qual era o nome do pai de Saul?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 9:1-2"
+  },
+  {
+    "explicacao": "O servo que acompanhava Saul na busca pelas jumentas não teve seu nome revelado no texto bíblico.",
+    "alternativas": [
+      "Ziba",
+      "O servo de Saul não é identificado pelo nome",
+      "Doegue",
+      "Abner"
+    ],
+    "id": 2197,
+    "pergunta": "Qual era o nome do servo que acompanhava Saul quando ele procurava as jumentas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 9:3-6"
+  },
+  {
+    "explicacao": "Samuel ungiu Saul em particular em Ramá.",
+    "alternativas": [
+      "Ramá",
+      "Gilgal",
+      "Zufe",
+      "Mispa"
+    ],
+    "id": 2198,
+    "pergunta": "Qual era o nome do lugar onde Samuel ungiu Saul em particular?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 10:1"
+  },
+  {
+    "explicacao": "Samuel deu sinais a Saul, incluindo o encontro com homens levando pães e profetas profetizando, confirmando a escolha de Deus.",
+    "alternativas": [
+      "Ele venceria uma guerra imediatamente",
+      "Encontraria homens com pães e receberia profecias dos profetas",
+      "Receberia uma espada de Samuel",
+      "O povo o coroaria no mesmo dia"
+    ],
+    "id": 2199,
+    "pergunta": "Qual sinal confirmou a Saul que Deus o havia escolhido como rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 10:2-7"
+  },
+  {
+    "explicacao": "Saul foi escolhido publicamente como rei por sorteio em Mizpá.",
+    "alternativas": [
+      "Siló",
+      "Mizpá",
+      "Ramá",
+      "Hebrom"
+    ],
+    "id": 2200,
+    "pergunta": "Onde Saul foi escolhido publicamente como rei por meio de sorteio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 10:17-24"
+  },
+  {
+    "explicacao": "Saul se escondeu entre a bagagem porque não queria assumir inicialmente a responsabilidade de ser rei.",
+    "alternativas": [
+      "Estava doente",
+      "Tinha medo do povo",
+      "Não queria aceitar a responsabilidade",
+      "Estava fugindo dos filisteus"
+    ],
+    "id": 2201,
+    "pergunta": "Qual foi o motivo pelo qual Saul se escondeu quando foi escolhido rei?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 10:21-22"
+  },
+  {
+    "explicacao": "Saul libertou Jabes-Gileade dos amonitas no início de seu reinado.",
+    "alternativas": [
+      "Jabes-Gileade",
+      "Betel",
+      "Jerusalém",
+      "Jericó"
+    ],
+    "id": 2202,
+    "pergunta": "Qual cidade Saul libertou dos amonitas no início de seu reinado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 11:1-11"
+  },
+  {
+    "explicacao": "Saul ofereceu o sacrifício sem esperar Samuel enquanto o povo estava com ele.",
+    "alternativas": [
+      "Jônatas",
+      "O povo que estava com ele",
+      "Davi",
+      "Abner"
+    ],
+    "id": 2203,
+    "pergunta": "Quem acompanhava Saul quando ele ofereceu o sacrifício sem esperar Samuel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 13:8-12"
+  },
+  {
+    "explicacao": "Jônatas usou sua lança para atacar a guarnição dos filisteus.",
+    "alternativas": [
+      "Arco e flecha",
+      "Espada",
+      "Lança",
+      "Funda"
+    ],
+    "id": 2204,
+    "pergunta": "Qual arma Jônatas usou para atacar a guarnição dos filisteus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 14:1-14"
+  },
+  {
+    "explicacao": "Saul fez um voto proibindo o povo de comer até vencer os filisteus.",
+    "alternativas": [
+      "Não comer até vencer os filisteus",
+      "Não beber água durante a batalha",
+      "Não falar com ninguém",
+      "Não usar armas"
+    ],
+    "id": 2205,
+    "pergunta": "Qual voto Saul fez que quase levou à morte de Jônatas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 14:24"
+  },
+  {
+    "explicacao": "O povo revelou a Saul que Jônatas havia comido mel.",
+    "alternativas": [
+      "Samuel",
+      "O povo",
+      "Davi",
+      "Abner"
+    ],
+    "id": 2206,
+    "pergunta": "Quem revelou a Saul que Jônatas havia comido mel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 14:25-27"
+  },
+  {
+    "explicacao": "Saul afirmou que havia poupado Agague e os animais porque pretendia oferecer sacrifícios ao Senhor.",
+    "alternativas": [
+      "Queria fazer comércio",
+      "Queria oferecer sacrifícios ao Senhor",
+      "Tinha medo de Agague",
+      "Não sabia da ordem de Deus"
+    ],
+    "id": 2207,
+    "pergunta": "Qual foi a justificativa de Saul para poupar Agague e os melhores animais dos amalequitas?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 15:15"
+  },
+  {
+    "explicacao": "Samuel ensinou que obedecer é melhor do que oferecer sacrifícios.",
+    "alternativas": [
+      "Jejum",
+      "Oração",
+      "Obediência",
+      "Riqueza"
+    ],
+    "id": 2208,
+    "pergunta": "O que Samuel disse ser melhor do que sacrifícios?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 15:22"
+  },
+  {
+    "explicacao": "Eliabe foi o filho de Jessé que Samuel pensou inicialmente que seria escolhido.",
+    "alternativas": [
+      "Eliabe",
+      "Abinadabe",
+      "Samá",
+      "Natanael"
+    ],
+    "id": 2209,
+    "pergunta": "Qual filho de Jessé Samuel pensou que seria escolhido antes de Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 16:6-7"
+  },
+  {
+    "explicacao": "Após o Espírito do Senhor se retirar de Saul, um espírito maligno da parte do Senhor o atormentava.",
+    "alternativas": [
+      "Espírito de medo",
+      "Espírito maligno da parte do Senhor",
+      "Espírito de tristeza comum",
+      "Espírito de mentira"
+    ],
+    "id": 2210,
+    "pergunta": "Qual espírito atormentava Saul depois que o Espírito do Senhor se retirou dele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 16:14"
+  },
+  {
+    "explicacao": "Um dos servos de Saul recomendou Davi e ele foi levado ao serviço do rei para tocar harpa.",
+    "alternativas": [
+      "Samuel",
+      "Jônatas",
+      "Um dos servos de Saul",
+      "Jessé"
+    ],
+    "id": 2211,
+    "pergunta": "Quem levou Davi ao serviço de Saul para tocar harpa?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 16:18-19"
+  },
+  {
+    "explicacao": "Golias desafiou o exército de Israel durante quarenta dias.",
+    "alternativas": [
+      "7 dias",
+      "20 dias",
+      "40 dias",
+      "70 dias"
+    ],
+    "id": 2212,
+    "pergunta": "Quantos dias Golias desafiou o exército de Israel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 17:16"
+  },
+  {
+    "explicacao": "Davi levou queijos e pães para seus irmãos quando foi ao acampamento de Israel.",
+    "alternativas": [
+      "Armas e dinheiro",
+      "Queijos e pães para seus irmãos",
+      "Um cavalo",
+      "Uma mensagem de Samuel"
+    ],
+    "id": 2213,
+    "pergunta": "O que Davi levou ao acampamento de Israel quando foi visitar seus irmãos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 17:17-18"
+  },
+  {
+    "explicacao": "Mical ajudou Davi a escapar de Saul descendo-o por uma janela.",
+    "alternativas": [
+      "Abigail",
+      "Mical",
+      "Jônatas",
+      "Ainoã"
+    ],
+    "id": 2214,
+    "pergunta": "Quem ajudou Davi a fugir de Saul descendo-o por uma janela?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 19:11-12"
+  },
+  {
+    "explicacao": "Segundo o relato de 1 Samuel, Saul caiu sobre sua própria espada e morreu no monte Gilboa.",
+    "alternativas": [
+      "Davi",
+      "Um soldado filisteu",
+      "O próprio Saul caiu sobre sua espada",
+      "Jônatas"
+    ],
+    "id": 2215,
+    "pergunta": "Quem matou Saul no monte Gilboa, segundo o relato de 1 Samuel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 31:4"
+  },
+  {
+    "explicacao": "Nos dias de Eli, a Arca da Aliança permanecia em Siló, onde ficava o santuário do Senhor.",
+    "alternativas": [
+      "Jerusalém",
+      "Siló",
+      "Hebrom",
+      "Gibeão"
+    ],
+    "id": 2216,
+    "pergunta": "Qual era o nome do lugar onde a Arca da Aliança permanecia nos dias de Eli?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 1:3"
+  },
+  {
+    "explicacao": "Ana prometeu dedicar seu filho ao Senhor todos os dias de sua vida.",
+    "alternativas": [
+      "Torná-lo rei",
+      "Entregá-lo ao Senhor todos os dias de sua vida",
+      "Levâ-lo para o Egito",
+      "Fazê-lo sacerdote de sua família"
+    ],
+    "id": 2217,
+    "pergunta": "O que Ana prometeu fazer se Deus lhe desse um filho?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 1:11"
+  },
+  {
+    "explicacao": "Hofni e Fineias eram os filhos de Eli que praticavam o pecado diante do Senhor.",
+    "alternativas": [
+      "Hofni e Fineias",
+      "Nadabe e Abiú",
+      "Joabe e Abner",
+      "Saul e Jônatas"
+    ],
+    "id": 2218,
+    "pergunta": "Quais eram os nomes dos dois filhos de Eli que pecavam contra o Senhor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 2:12"
+  },
+  {
+    "explicacao": "Deus revelou a Samuel que faria algo que faria tinir os ouvidos de quem ouvisse como julgamento sobre a casa de Eli.",
+    "alternativas": [
+      "Uma grande seca",
+      "A queda da Arca",
+      "Algo que faria tinir os ouvidos de quem ouvisse",
+      "Uma guerra contra Israel"
+    ],
+    "id": 2219,
+    "pergunta": "Qual sinal Deus deu a Samuel sobre o julgamento da casa de Eli?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 3:11"
+  },
+  {
+    "explicacao": "Os filisteus capturaram a Arca da Aliança durante uma batalha contra Israel.",
+    "alternativas": [
+      "Egípcios",
+      "Assírios",
+      "Filisteus",
+      "Moabitas"
+    ],
+    "id": 2220,
+    "pergunta": "Quem capturou a Arca da Aliança durante uma batalha contra Israel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 4:10-11"
+  },
+  {
+    "explicacao": "Ao saber que a Arca havia sido tomada, Eli caiu da cadeira, quebrou o pescoço e morreu.",
+    "alternativas": [
+      "Fugiu para o deserto",
+      "Caiu da cadeira e morreu",
+      "Tornou-se rei",
+      "Entrou no templo"
+    ],
+    "id": 2221,
+    "pergunta": "O que aconteceu com Eli quando soube que a Arca havia sido tomada?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 4:18"
+  },
+  {
+    "explicacao": "O filho de Fineias recebeu o nome Icabô, porque a glória havia se afastado de Israel com a captura da Arca.",
+    "alternativas": [
+      "Samuel",
+      "Icabô",
+      "Jônatas",
+      "Abner"
+    ],
+    "id": 2222,
+    "pergunta": "Qual nome foi dado ao filho de Fineias quando nasceu após a captura da Arca?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 4:19-22"
+  },
+  {
+    "explicacao": "A imagem de Dagom caiu diante da Arca do Senhor e ficou quebrada.",
+    "alternativas": [
+      "Foi coberta de ouro",
+      "Caiu por terra e quebrou",
+      "Foi levada para Jerusalém",
+      "Desapareceu no mar"
+    ],
+    "id": 2223,
+    "pergunta": "O que aconteceu com a imagem do deus Dagom diante da Arca do Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 5:2-4"
+  },
+  {
+    "explicacao": "Os filisteus enviaram cinco tumores e cinco ratos de ouro como oferta pela culpa.",
+    "alternativas": [
+      "Espadas de ouro",
+      "Cinco tumores e cinco ratos de ouro",
+      "Coroas de prata",
+      "Pedras preciosas"
+    ],
+    "id": 2224,
+    "pergunta": "Qual objeto os filisteus enviaram junto com a Arca como oferta pela culpa?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 6:4"
+  },
+  {
+    "explicacao": "Depois de retornar dos filisteus, a Arca ficou na casa de Abinadabe em Quiriate-Jearim.",
+    "alternativas": [
+      "Quiriate-Jearim",
+      "Belém",
+      "Ramá",
+      "Jerusalém"
+    ],
+    "id": 2225,
+    "pergunta": "Qual cidade recebeu a Arca depois que ela voltou dos filisteus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 7:1"
+  },
+  {
+    "explicacao": "Samuel julgou Israel em Mizpá depois que o povo abandonou os ídolos.",
+    "alternativas": [
+      "Construiu um palácio",
+      "Julgou Israel em Mizpá",
+      "Tornou Saul rei imediatamente",
+      "Fez uma aliança com os filisteus"
+    ],
+    "id": 2226,
+    "pergunta": "O que Samuel fez pelo povo depois que eles abandonaram os ídolos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 7:6"
+  },
+  {
+    "explicacao": "O povo pediu um rei para ser semelhante às outras nações.",
+    "alternativas": [
+      "Ter um templo maior",
+      "Ter um rei como as outras nações",
+      "Ter mais terras",
+      "Mudar a lei de Moisés"
+    ],
+    "id": 2227,
+    "pergunta": "Qual foi o pedido do povo de Israel que desagradou Samuel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 8:5"
+  },
+  {
+    "explicacao": "Saul procurava as jumentas perdidas de seu pai quando encontrou Samuel.",
+    "alternativas": [
+      "Ovelhas perdidas de seu pai",
+      "Jumentas perdidas de seu pai",
+      "Soldados perdidos",
+      "Um tesouro escondido"
+    ],
+    "id": 2228,
+    "pergunta": "Quem Saul procurava quando encontrou Samuel pela primeira vez?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 9:3"
+  },
+  {
+    "explicacao": "O primeiro grande livramento de Saul como rei foi a vitória contra os amonitas.",
+    "alternativas": [
+      "Vitória contra os amalequitas",
+      "Vitória contra os amonitas",
+      "Derrota dos filisteus em Jerusalém",
+      "Conquista de Canaã"
+    ],
+    "id": 2229,
+    "pergunta": "Qual foi o primeiro grande livramento de Saul como rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 11:11"
+  },
+  {
+    "explicacao": "Saul perdeu o direito de continuar no reino porque ofereceu sacrifício sem esperar Samuel.",
+    "alternativas": [
+      "Não construir o templo",
+      "Oferecer sacrifício sem esperar Samuel",
+      "Fugir da batalha",
+      "Não lutar contra os filisteus"
+    ],
+    "id": 2230,
+    "pergunta": "Qual desobediência fez Samuel dizer que Saul perdeu o direito de continuar no reino?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 13:13-14"
+  },
+  {
+    "explicacao": "Jônatas, filho de Saul, fez uma aliança de amizade com Davi.",
+    "alternativas": [
+      "Isbosete",
+      "Jônatas",
+      "Abner",
+      "Mefibosete"
+    ],
+    "id": 2231,
+    "pergunta": "Quem era o filho de Saul que fez uma aliança de amizade com Davi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 18:1-4"
+  },
+  {
+    "explicacao": "Saul poupou Agague, rei dos amalequitas, contrariando a ordem do Senhor.",
+    "alternativas": [
+      "Agague",
+      "Abimeleque",
+      "Aquis",
+      "Naás"
+    ],
+    "id": 2232,
+    "pergunta": "Qual rei dos amalequitas Saul poupou contra a ordem de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 15:8-9"
+  },
+  {
+    "explicacao": "Davi poupou a vida de Saul quando teve oportunidade de matá-lo na caverna.",
+    "alternativas": [
+      "A vida de Saul",
+      "A vida de Jônatas",
+      "A vida de Samuel",
+      "A vida de Agague"
+    ],
+    "id": 2233,
+    "pergunta": "Quem Davi poupou quando teve oportunidade de matar Saul na caverna?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 24:4-7"
+  },
+  {
+    "explicacao": "Abigail impediu Davi de matar Nabal e sua família ao agir com sabedoria.",
+    "alternativas": [
+      "Mical",
+      "Abigail",
+      "Ana",
+      "Rispa"
+    ],
+    "id": 2234,
+    "pergunta": "Qual mulher sábia impediu Davi de matar Nabal e sua família?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 25:23-33"
+  },
+  {
+    "explicacao": "Saul consultou uma médium em En-Dor antes da batalha contra os filisteus.",
+    "alternativas": [
+      "Davi",
+      "Saul",
+      "Samuel",
+      "Jônatas"
+    ],
+    "id": 2235,
+    "pergunta": "Quem consultou uma médium em En-Dor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 28:7-8"
+  },
+  {
+    "explicacao": "Ana era a mãe de Samuel e pediu ao Senhor um filho antes de dedicá-lo ao serviço de Deus.",
+    "alternativas": [
+      "Ana",
+      "Abigail",
+      "Mical",
+      "Débora"
+    ],
+    "id": 2236,
+    "pergunta": "Quem era a mãe de Samuel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 1:20"
+  },
+  {
+    "explicacao": "Elcana era o pai de Samuel e marido de Ana.",
+    "alternativas": [
+      "Jessé",
+      "Elcana",
+      "Eli",
+      "Saul"
+    ],
+    "id": 2237,
+    "pergunta": "Quem era o pai de Samuel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 1:1"
+  },
+  {
+    "explicacao": "Ana levou Samuel para servir ao Senhor na Casa do Senhor em Siló.",
+    "alternativas": [
+      "No palácio do rei Saul",
+      "Na casa de Davi",
+      "Na Casa do Senhor em Siló",
+      "No monte Carmelo"
+    ],
+    "id": 2238,
+    "pergunta": "Onde Ana levou Samuel para servir ao Senhor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 1:24-28"
+  },
+  {
+    "explicacao": "Eli era o sacerdote que cuidava do tabernáculo em Siló quando Samuel era criança.",
+    "alternativas": [
+      "Zadoque",
+      "Eli",
+      "Samuel",
+      "Natã"
+    ],
+    "id": 2239,
+    "pergunta": "Quem era o sacerdote que cuidava do tabernáculo quando Samuel era criança?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 1:9"
+  },
+  {
+    "explicacao": "Samuel ouviu uma voz chamando seu nome quando Deus o chamou durante a noite.",
+    "alternativas": [
+      "Uma trombeta",
+      "Uma voz chamando seu nome",
+      "Um trovão",
+      "Um anjo cantando"
+    ],
+    "id": 2240,
+    "pergunta": "O que Samuel ouviu durante a noite quando Deus o chamou?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 3:4-10"
+  },
+  {
+    "explicacao": "Saul foi escolhido por Deus e ungido como o primeiro rei de Israel.",
+    "alternativas": [
+      "Davi",
+      "Salomão",
+      "Saul",
+      "Samuel"
+    ],
+    "id": 2241,
+    "pergunta": "Quem foi o primeiro rei de Israel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 10:1"
+  },
+  {
+    "explicacao": "Saul pertencia à tribo de Benjamim.",
+    "alternativas": [
+      "Judá",
+      "Levi",
+      "Benjamim",
+      "Efraim"
+    ],
+    "id": 2242,
+    "pergunta": "De qual tribo era Saul?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 9:1-2"
+  },
+  {
+    "explicacao": "Samuel ungiu Saul como rei de Israel seguindo a orientação do Senhor.",
+    "alternativas": [
+      "Eli",
+      "Samuel",
+      "Davi",
+      "Jônatas"
+    ],
+    "id": 2243,
+    "pergunta": "Quem ungiu Saul como rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 10:1"
+  },
+  {
+    "explicacao": "Saul era mais alto que todo o povo de Israel.",
+    "alternativas": [
+      "Era muito baixo",
+      "Era o mais jovem da família",
+      "Era mais alto que todo o povo",
+      "Era conhecido pela sua força"
+    ],
+    "id": 2244,
+    "pergunta": "Qual era a aparência de Saul quando foi escolhido como rei?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 9:2"
+  },
+  {
+    "explicacao": "Davi derrotou o gigante Golias usando sua fé no Senhor e uma funda com uma pedra.",
+    "alternativas": [
+      "Saul",
+      "Davi",
+      "Jônatas",
+      "Samuel"
+    ],
+    "id": 2245,
+    "pergunta": "Quem derrotou o gigante Golias?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 17:49-50"
+  },
+  {
+    "explicacao": "Davi usou uma funda e uma pedra para vencer Golias.",
+    "alternativas": [
+      "Espada",
+      "Lança",
+      "Funda e pedra",
+      "Arco e flecha"
+    ],
+    "id": 2246,
+    "pergunta": "Qual arma Davi usou contra Golias?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 17:40,49"
+  },
+  {
+    "explicacao": "Jessé era o pai de Davi.",
+    "alternativas": [
+      "Jessé",
+      "Saul",
+      "Samuel",
+      "Eliabe"
+    ],
+    "id": 2247,
+    "pergunta": "Quem era o pai de Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 16:1"
+  },
+  {
+    "explicacao": "Samuel ungiu Davi como escolhido por Deus para ser rei.",
+    "alternativas": [
+      "Saul",
+      "Samuel",
+      "Jônatas",
+      "Eli"
+    ],
+    "id": 2248,
+    "pergunta": "Quem escolheu Davi para ser ungido rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 16:12-13"
+  },
+  {
+    "explicacao": "Antes de ser rei, Davi trabalhava como pastor de ovelhas.",
+    "alternativas": [
+      "Soldado",
+      "Sacerdote",
+      "Pastor de ovelhas",
+      "Agricultor"
+    ],
+    "id": 2249,
+    "pergunta": "Qual era o trabalho de Davi antes de ser rei?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 16:11"
+  },
+  {
+    "explicacao": "Jônatas, filho de Saul, tornou-se grande amigo de Davi.",
+    "alternativas": [
+      "Abner",
+      "Jônatas",
+      "Isbosete",
+      "Doegue"
+    ],
+    "id": 2250,
+    "pergunta": "Quem era o melhor amigo de Davi, filho de Saul?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 18:1-3"
+  },
+  {
+    "explicacao": "Saul ficou com inveja porque o povo celebrava mais as vitórias de Davi do que as dele.",
+    "alternativas": [
+      "Porque Davi era rico",
+      "Porque Davi era sacerdote",
+      "Porque o povo elogiava mais Davi",
+      "Porque Davi era seu irmão"
+    ],
+    "id": 2251,
+    "pergunta": "Por que Saul ficou com inveja de Davi?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 18:7-9"
+  },
+  {
+    "explicacao": "Mical, filha de Saul, tornou-se esposa de Davi.",
+    "alternativas": [
+      "Abigail",
+      "Mical",
+      "Ana",
+      "Bate-Seba"
+    ],
+    "id": 2252,
+    "pergunta": "Quem era a esposa de Davi, filha de Saul?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 18:27"
+  },
+  {
+    "explicacao": "Mical ajudou Davi a escapar de Saul pela janela de sua casa.",
+    "alternativas": [
+      "Abigail",
+      "Mical",
+      "Ana",
+      "A esposa de Samuel"
+    ],
+    "id": 2253,
+    "pergunta": "Quem ajudou Davi a escapar de Saul pela janela?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 19:11-12"
+  },
+  {
+    "explicacao": "Saul morreu junto com seus filhos na batalha contra os filisteus.",
+    "alternativas": [
+      "Samuel",
+      "Davi",
+      "Saul",
+      "Jônatas"
+    ],
+    "id": 2254,
+    "pergunta": "Quem morreu junto com seus filhos na batalha contra os filisteus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 31:1-6"
+  },
+  {
+    "explicacao": "Golias era o gigante filisteu derrotado por Davi no vale de Elá.",
+    "alternativas": [
+      "Golias",
+      "Agague",
+      "Nabal",
+      "Absalão"
+    ],
+    "id": 2255,
+    "pergunta": "Qual era o nome do gigante filisteu derrotado por Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 17:4-50"
+  },
+  {
+    "explicacao": "Os filisteus tomaram a arca de Deus e a introduziram na casa de Dagom, colocando-a junto a ele.",
+    "alternativas": [
+      "No templo de Dagom (em Asdode)",
+      "Na torre de Babel",
+      "No palácio de Faraó",
+      "Em Jerusalém"
+    ],
+    "id": 2256,
+    "pergunta": "Onde os filisteus colocaram a Arca da Aliança capturada, ao lado da estátua do seu deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 5:1-2"
+  },
+  {
+    "explicacao": "Samuel tomou um vaso de azeite, derramou-o sobre a cabeça de Saul, beijou-o e ungiu-o rei.",
+    "alternativas": [
+      "Saul",
+      "Davi",
+      "Salomão",
+      "Samuel"
+    ],
+    "id": 2257,
+    "pergunta": "Quem foi o primeiro rei de Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 10:1"
+  },
+  {
+    "explicacao": "Davi meteu a mão no alforje, tomou dali uma pedra e com a funda feriu o filisteu na testa.",
+    "alternativas": [
+      "Davi",
+      "Saul",
+      "Jonatas",
+      "Eliabe"
+    ],
+    "id": 2258,
+    "pergunta": "Qual jovem pastor derrotou o gigante filisteu Golias com uma funda e uma pedra?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 17:49"
+  },
+  {
+    "explicacao": "Sem usar armadura pesada ou espada, Davi confiou no Senhor e usou apenas uma funda pastoril.",
+    "alternativas": [
+      "Uma funda e uma pedra",
+      "Uma lança de bronze",
+      "Um arco e flecha",
+      "Um cajado de pastor"
+    ],
+    "id": 2259,
+    "pergunta": "O que Davi usou para derrubar o gigante Golias antes de decapitá-lo com a própria espada dele?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 17:49"
+  },
+  {
+    "explicacao": "O combate de fé de Davi contra Golias é detalhado no capítulo 17 do primeiro livro de Samuel.",
+    "alternativas": [
+      "1 Samuel",
+      "2 Samuel",
+      "Josué",
+      "Juízes"
+    ],
+    "id": 2260,
+    "pergunta": "Em qual livro histórico encontramos a famosa história de Davi e Golias?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 17"
+  },
+  {
+    "explicacao": "Em 1 Samuel o povo rejeita o governo teocrático dos juízes e pede um rei humano, iniciando a monarquia.",
+    "alternativas": [
+      "1 Samuel",
+      "Juízes",
+      "2 Samuel",
+      "1 Reis"
+    ],
+    "id": 2261,
+    "pergunta": "Qual livro histórico relata a transição do governo dos Juízes para a Monarquia em Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 8"
+  },
+  {
+    "explicacao": "Ana era estéril e sofria por isso, mas fez um voto sincero ao Senhor no Tabernáculo, que a ouviu e lhe deu Samuel.",
+    "alternativas": [
+      "Penina",
+      "Rute",
+      "Ana",
+      "Noemi"
+    ],
+    "id": 2262,
+    "pergunta": "Como se chamava a mãe do profeta Samuel, que era estéril e chorou no Tabernáculo pedindo um filho a Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 1:10-11"
+  },
+  {
+    "explicacao": "Ao receber a trágica notícia da morte de seus filhos e da captura da Arca da Aliança pelos filisteus, Eli caiu para trás e quebrou o pescoço.",
+    "alternativas": [
+      "Eli",
+      "Finéias",
+      "Hofni",
+      "Abiatar"
+    ],
+    "id": 2263,
+    "pergunta": "Quem era o sumo sacerdote que criou Samuel no Tabernáculo e que morreu ao cair da cadeira quando soube que a Arca havia sido tomada?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 4:18"
+  },
+  {
+    "explicacao": "Jônatas amava Davi como a si mesmo e estabeleceu um pacto profundo de amizade e proteção, mesmo sabendo que Davi herdaria o trono.",
+    "alternativas": [
+      "Abner",
+      "Jônatas",
+      "Isbosete",
+      "Joabe"
+    ],
+    "id": 2264,
+    "pergunta": "Quem era o melhor amigo de Davi, filho do rei Saul, que fez uma aliança de fidelidade com ele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 18:1-3"
+  },
+  {
+    "explicacao": "Sempre que o espírito maligno atormentava Saul, Davi tomava a harpa e tocava, trazendo alívio e bem-estar ao rei.",
+    "alternativas": [
+      "Jônatas",
+      "Abner",
+      "Davi",
+      "Benaia"
+    ],
+    "id": 2265,
+    "pergunta": "Quem foi o homem escolhido para carregar as armas de Saul e que acalmava o rei tocando harpa?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 16:23"
+  },
+  {
+    "explicacao": "Saul e os homens de Israel se acamparam e ordenaram a batalha contra os filisteus no Vale de Elá (também conhecido como Vale dos Terebintos).",
+    "alternativas": [
+      "Vale de Escol",
+      "Vale de Elá",
+      "Vale de Cedrom",
+      "Vale de Jizreel"
+    ],
+    "id": 2266,
+    "pergunta": "Em que vale Davi enfrentou e venceu o gigante Golias?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 17:2"
+  },
+  {
+    "explicacao": "A Caverna de Adulão serviu como base estratégica de refúgio onde homens descontentes se juntaram a Davi, tornando-o chefe deles.",
+    "alternativas": [
+      "Caverna de En-Gedi",
+      "Caverna de Macpela",
+      "Caverna de Adulão",
+      "Caverna de Meguido"
+    ],
+    "id": 2267,
+    "pergunta": "Para qual caverna Davi fugiu e se escondeu de Saul, reunindo ali cerca de 400 homens endividados e amargurados?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 22:1-2"
+  },
+  {
+    "explicacao": "Na desastrosa derrota militar israelita contra os filisteus, os filhos de Saul caíram mortos e o próprio rei tirou a vida no Monte Gilboa.",
+    "alternativas": [
+      "Monte Gilboa",
+      "Monte Tabor",
+      "Monte Hermom",
+      "Monte Gerizim"
+    ],
+    "id": 2268,
+    "pergunta": "Qual foi o monte onde o rei Saul e seus filhos morreram em batalha contra os filisteus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 31:1-8"
+  },
+  {
+    "explicacao": "Os moradores de Asdode encontraram o ídolo caído diante do símbolo sagrado de Israel e, no dia seguinte, a imagem apareceu com cabeça e mãos quebradas.",
+    "alternativas": [
+      "Ela foi consumida por fogo",
+      "Ela mudou de cor",
+      "Ela estava caída de bruços no chão diante da Arca",
+      "Ela desapareceu do templo"
+    ],
+    "id": 2269,
+    "pergunta": "O que aconteceu com a estátua do deus filisteu Dagom na manhã seguinte após colocarem a Arca da Aliança capturada ao seu lado?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 5:3"
+  },
+  {
+    "explicacao": "Saul poupou a vida do rei Agague e reteve o melhor dos rebanhos sob pretexto de sacrifício, o que Samuel condenou como rebeldia crassa.",
+    "alternativas": [
+      "Por cometer adultério",
+      "Por desobedecer a ordem de destruir totalmente os amalequitas",
+      "Por fugir da batalha",
+      "Por tentar matar seu filho Jônatas"
+    ],
+    "id": 2270,
+    "pergunta": "Por que o rei Saul perdeu definitivamente o direito de que sua linhagem familiar permanecesse estabelecida no trono de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 15:22-23"
+  },
+  {
+    "explicacao": "Desesperado pelo silêncio de Deus por sonhos ou profetas, Saul disfarçou-se e procurou uma mulher que invocava os mortos na localidade de En-Dor.",
+    "alternativas": [
+      "Consultou uma necromante (médium/feiticeira) em En-Dor",
+      "Fez sacrifício aos deuses filisteus",
+      "Consultou os profetas de Baal",
+      "Abriu a Arca da Aliança"
+    ],
+    "id": 2271,
+    "pergunta": "De que forma pecaminosa o rei Saul buscou orientação espiritual na véspera de sua morte em Gilboa?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 28:7"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Quis",
+    "alternativas": [
+      "Quis",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2272,
+    "pergunta": "Quem foi o pai do rei Saul?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 9:1-2"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Siló",
+    "alternativas": [
+      "Siló",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2273,
+    "pergunta": "Qual foi a cidade onde o Tabernáculo ficou armado durante quase todo o período dos Juízes até a perda da Arca?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Josué 18:1 / 1 Samuel 4:3"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: A mão do Senhor foi contra a cidade com grande vexame, ferindo os homens com tumores (hemorroidas)",
+    "alternativas": [
+      "A mão do Senhor foi contra a cidade com grande vexame, ferindo os homens com tumores (hemorroidas)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2274,
+    "pergunta": "O que aconteceu à Arca da Aliança quando os filisteus decidiram mudá-la de Asdode para a cidade de Gate?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 5:8-9"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: O Senhor os feriu com grande matança (morreram mais de 50 mil homens)",
+    "alternativas": [
+      "O Senhor os feriu com grande matança (morreram mais de 50 mil homens)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2275,
+    "pergunta": "O que aconteceu aos homens de Bete-Semes que olharam para dentro da Arca da Aliança quando ela retornou do território filisteu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Samuel 6:19"
+  }
+]

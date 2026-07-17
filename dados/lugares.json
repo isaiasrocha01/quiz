@@ -1,0 +1,1702 @@
+[
+  {
+    "explicacao": "O Monte Ebal era o monte onde foram pronunciadas as maldições sobre Israel, conforme a orientação dada por Deus.",
+    "alternativas": [
+      "Monte Carmelo",
+      "Monte Ebal",
+      "Monte Nebo",
+      "Monte Hor"
+    ],
+    "id": 231,
+    "pergunta": "Qual monte era associado às maldições pronunciadas sobre Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Deuteronômio 11:29"
+  },
+  {
+    "explicacao": "Gomorra foi destruída juntamente com Sodoma por causa da grande maldade de seus habitantes.",
+    "alternativas": [
+      "Gomorra",
+      "Tiro",
+      "Sidom",
+      "Gaza"
+    ],
+    "id": 232,
+    "pergunta": "Qual cidade foi destruída juntamente com Sodoma?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 19:24-25"
+  },
+  {
+    "explicacao": "Davi comprou a eira de Araúna em Jerusalém para construir um altar ao Senhor.",
+    "alternativas": [
+      "Monte Sião",
+      "Monte Moriá",
+      "Jerusalém",
+      "Hebrom"
+    ],
+    "id": 233,
+    "pergunta": "Onde Davi comprou a eira de Araúna para construir um altar ao Senhor?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "2 Samuel 24:18-25"
+  },
+  {
+    "explicacao": "Agar e Ismael ficaram no deserto de Sur quando foram despedidos por Abraão.",
+    "alternativas": [
+      "Deserto de Parã",
+      "Deserto de Zim",
+      "Deserto de Sinai",
+      "Deserto de Sur"
+    ],
+    "id": 234,
+    "pergunta": "Qual era o nome do deserto onde Agar e Ismael ficaram quando foram despedidos?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 16:7"
+  },
+  {
+    "explicacao": "Neemias liderou a reconstrução dos muros da cidade de Jerusalém após o retorno do exílio.",
+    "alternativas": [
+      "Jerusalém",
+      "Samaria",
+      "Babilônia",
+      "Nínive"
+    ],
+    "id": 235,
+    "pergunta": "Em qual cidade os muros foram reconstruídos por Neemias?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Neemias 2:17"
+  },
+  {
+    "explicacao": "Davi enfrentou Golias no Vale de Elá, onde ocorreu a batalha entre Israel e os filisteus.",
+    "alternativas": [
+      "Vale de Jezreel",
+      "Vale de Elá",
+      "Vale de Cedrom",
+      "Vale de Hinom"
+    ],
+    "id": 236,
+    "pergunta": "Qual lugar era conhecido como o vale onde Davi enfrentou Golias?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Samuel 17:2-3"
+  },
+  {
+    "explicacao": "Samaria foi a capital do reino do Norte de Israel durante o reinado de Onri.",
+    "alternativas": [
+      "Jerusalém",
+      "Samaria",
+      "Betel",
+      "Dã"
+    ],
+    "id": 237,
+    "pergunta": "Qual cidade foi a capital do reino de Israel durante o reinado de Onri?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 16:24"
+  },
+  {
+    "explicacao": "O povo de Israel peregrinou pelo deserto durante quarenta anos antes de entrar na Terra Prometida.",
+    "alternativas": [
+      "Deserto",
+      "Canaã",
+      "Babilônia",
+      "Filístia"
+    ],
+    "id": 238,
+    "pergunta": "Em qual região os israelitas ficaram 40 anos peregrinando?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Números 14:33"
+  },
+  {
+    "explicacao": "Após a queda de Jericó, Josué conquistou a cidade de Ai com a ajuda de Deus.",
+    "alternativas": [
+      "Ai",
+      "Nínive",
+      "Damasco",
+      "Tiro"
+    ],
+    "id": 239,
+    "pergunta": "Qual cidade foi conquistada por Josué após a queda de Jericó?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 8:1-2"
+  },
+  {
+    "explicacao": "Durante a seca em Israel, Elias se escondeu junto ao Ribeiro de Querite, onde foi alimentado por corvos enviados por Deus.",
+    "alternativas": [
+      "Ribeiro de Querite",
+      "Rio Jordão",
+      "Monte Sinai",
+      "Vale de Jezreel"
+    ],
+    "id": 240,
+    "pergunta": "Onde o profeta Elias se escondeu durante a seca e foi alimentado por corvos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 17:3-6"
+  },
+  {
+    "explicacao": "Jacó recebeu o nome Israel após lutar com Deus em Peniel, pois ali ele teve um encontro marcante com o Senhor.",
+    "alternativas": [
+      "Betel",
+      "Peniel",
+      "Siquém",
+      "Hebrom"
+    ],
+    "id": 241,
+    "pergunta": "Em qual lugar Jacó recebeu o nome de Israel após lutar com Deus?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 32:30"
+  },
+  {
+    "explicacao": "Abraão levou Isaque para ser oferecido em sacrifício no Monte Moriá, conforme Deus havia ordenado.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte Moriá",
+      "Monte Carmelo",
+      "Monte Nebo"
+    ],
+    "id": 242,
+    "pergunta": "Qual era o nome do lugar onde Abraão ofereceu Isaque como sacrifício?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 22:2"
+  },
+  {
+    "explicacao": "Os israelitas foram derrotados diante da cidade de Ai por causa do pecado de Acã.",
+    "alternativas": [
+      "Jericó",
+      "Ai",
+      "Hazor",
+      "Gibeão"
+    ],
+    "id": 243,
+    "pergunta": "Em qual cidade os israelitas foram derrotados por causa do pecado de Acã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 7:4-5"
+  },
+  {
+    "explicacao": "Betel foi o lugar onde Jacó teve o sonho da escada que chegava ao céu e recebeu a promessa de Deus.",
+    "alternativas": [
+      "Betel",
+      "Gilgal",
+      "Ramá",
+      "Siló"
+    ],
+    "id": 244,
+    "pergunta": "Qual lugar foi conhecido como o local onde Deus apareceu a Jacó em sonho?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 28:12-19"
+  },
+  {
+    "explicacao": "Elias foi levado ao céu em um redemoinho próximo ao rio Jordão, diante de Eliseu.",
+    "alternativas": [
+      "Próximo ao Jordão",
+      "Monte Carmelo",
+      "Monte Sinai",
+      "Jerusalém"
+    ],
+    "id": 245,
+    "pergunta": "Onde Elias foi levado ao céu em um redemoinho?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "2 Reis 2:11"
+  },
+  {
+    "explicacao": "Meribá foi o lugar onde Moisés feriu a rocha e Deus fez sair água para o povo.",
+    "alternativas": [
+      "Meribá",
+      "Horebe",
+      "Gilgal",
+      "Betel"
+    ],
+    "id": 246,
+    "pergunta": "Qual era o nome do lugar onde Moisés feriu a rocha e saiu água?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Números 20:13"
+  },
+  {
+    "explicacao": "Refidim foi o lugar onde os israelitas receberam água da rocha pela primeira vez durante a caminhada no deserto.",
+    "alternativas": [
+      "Refidim",
+      "Jericó",
+      "Canaã",
+      "Moabe"
+    ],
+    "id": 247,
+    "pergunta": "Em qual lugar os israelitas receberam água da rocha pela primeira vez?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 17:1-6"
+  },
+  {
+    "explicacao": "Nobe era conhecida como uma cidade dos sacerdotes, onde estava o sacerdote Aimeleque.",
+    "alternativas": [
+      "Nobe",
+      "Siló",
+      "Ramá",
+      "Betel"
+    ],
+    "id": 248,
+    "pergunta": "Qual cidade era chamada de 'cidade dos sacerdotes' no tempo de Saul?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Samuel 21:1"
+  },
+  {
+    "explicacao": "Saul consultou uma médium na cidade de En-Dor antes da batalha contra os filisteus.",
+    "alternativas": [
+      "En-Dor",
+      "Gilgal",
+      "Hebrom",
+      "Betel"
+    ],
+    "id": 249,
+    "pergunta": "Onde o rei Saul consultou uma médium?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Samuel 28:7"
+  },
+  {
+    "explicacao": "O Monte Gerizim era associado à bênção quando Israel entrou na Terra Prometida.",
+    "alternativas": [
+      "Monte Ebal",
+      "Monte Gerizim",
+      "Monte Sinai",
+      "Monte Moriá"
+    ],
+    "id": 250,
+    "pergunta": "Qual monte era considerado o lugar da bênção quando Israel entrou em Canaã?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Difícil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Deuteronômio 11:29"
+  },
+  {
+    "explicacao": "Moisés avistou a Terra Prometida do Monte Nebo antes de sua morte, conforme Deus havia determinado.",
+    "alternativas": [
+      "Monte Nebo",
+      "Monte Sinai",
+      "Monte Carmelo",
+      "Monte Moriá"
+    ],
+    "id": 251,
+    "pergunta": "Em qual monte Moisés avistou a Terra Prometida antes de morrer?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Deuteronômio 34:1"
+  },
+  {
+    "explicacao": "Hiel reconstruiu Jericó durante o reinado de Acabe, cumprindo uma antiga profecia sobre a cidade.",
+    "alternativas": [
+      "Jerusalém",
+      "Jericó",
+      "Nínive",
+      "Samaria"
+    ],
+    "id": 252,
+    "pergunta": "Qual cidade foi reconstruída por Hiel nos dias do rei Acabe?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 16:34"
+  },
+  {
+    "explicacao": "Gideão reuniu seu exército no Vale de Jezreel antes de derrotar os midianitas.",
+    "alternativas": [
+      "Vale de Jezreel",
+      "Monte Sinai",
+      "Rio Jordão",
+      "Vale de Cedrom"
+    ],
+    "id": 253,
+    "pergunta": "Onde Gideão derrotou os midianitas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Juízes",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Juízes 6:33"
+  },
+  {
+    "explicacao": "Antes de Jerusalém, o tabernáculo e o culto ao Senhor estavam estabelecidos em Siló.",
+    "alternativas": [
+      "Siló",
+      "Betel",
+      "Gilgal",
+      "Siquém"
+    ],
+    "id": 254,
+    "pergunta": "Qual era o nome da cidade onde estava o templo antes de Jerusalém?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Samuel 1:9"
+  },
+  {
+    "explicacao": "Davi reinou em Hebrom durante sete anos antes de conquistar Jerusalém e estabelecer sua capital.",
+    "alternativas": [
+      "Hebrom",
+      "Belém",
+      "Samaria",
+      "Betel"
+    ],
+    "id": 255,
+    "pergunta": "Em qual cidade Davi reinou antes de conquistar Jerusalém?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "2 Samuel 2:4"
+  },
+  {
+    "explicacao": "O reino do Norte de Israel foi levado ao cativeiro pela Assíria por causa da desobediência do povo.",
+    "alternativas": [
+      "Egito",
+      "Babilônia",
+      "Assíria",
+      "Pérsia"
+    ],
+    "id": 256,
+    "pergunta": "Qual país levou o reino de Israel (norte) ao cativeiro?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "2 Reis 17:6"
+  },
+  {
+    "explicacao": "Betel foi um dos locais onde Jeroboão colocou um altar para adoração no reino do Norte.",
+    "alternativas": [
+      "Betel",
+      "Jerusalém",
+      "Hebrom",
+      "Ramá"
+    ],
+    "id": 257,
+    "pergunta": "Qual cidade era conhecida como a cidade onde ficava o altar de Jeroboão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 12:28-29"
+  },
+  {
+    "explicacao": "Durante a fuga do Egito, Deus abriu o Mar Vermelho para que os israelitas passassem em terra seca.",
+    "alternativas": [
+      "Mar Vermelho",
+      "Mar Morto",
+      "Rio Jordão",
+      "Rio Nilo"
+    ],
+    "id": 258,
+    "pergunta": "Onde os israelitas atravessaram o mar durante a fuga do Egito?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 14:21"
+  },
+  {
+    "explicacao": "Senaqueribe, rei da Assíria, cercou Jerusalém durante o reinado de Ezequias.",
+    "alternativas": [
+      "Jerusalém",
+      "Belém",
+      "Jericó",
+      "Samaria"
+    ],
+    "id": 259,
+    "pergunta": "Qual cidade foi cercada por Senaqueribe, rei da Assíria?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "2 Reis 18:17"
+  },
+  {
+    "explicacao": "A Filístia era a região habitada pelos filisteus, inimigos frequentes de Israel.",
+    "alternativas": [
+      "Filístia",
+      "Moabe",
+      "Edom",
+      "Amom"
+    ],
+    "id": 260,
+    "pergunta": "Qual região era conhecida como terra dos filisteus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 13:17"
+  },
+  {
+    "explicacao": "Abraão comprou a Caverna de Macpela para sepultar Sara, sua esposa, na terra de Canaã.",
+    "alternativas": [
+      "Caverna de Macpela",
+      "Monte Moriá",
+      "Vale de Cedrom",
+      "Campo de Boaz"
+    ],
+    "id": 261,
+    "pergunta": "Qual era o nome do lugar onde Abraão sepultou Sara?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 23:17-19"
+  },
+  {
+    "explicacao": "Jacó comprou um pedaço de terra em Siquém, onde armou sua tenda após voltar para Canaã.",
+    "alternativas": [
+      "Hebrom",
+      "Siquém",
+      "Betel",
+      "Ramá"
+    ],
+    "id": 262,
+    "pergunta": "Em qual cidade Jacó comprou um pedaço de terra?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 33:18-19"
+  },
+  {
+    "explicacao": "Elias escolheu o Monte Carmelo para desafiar os profetas de Baal e mostrar o poder de Deus.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte Carmelo",
+      "Monte Nebo",
+      "Monte Ararate"
+    ],
+    "id": 263,
+    "pergunta": "Qual monte Elias escolheu para desafiar os profetas de Baal?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 18:19"
+  },
+  {
+    "explicacao": "Josué encontrou o comandante do exército do Senhor próximo a Jericó antes da conquista da cidade.",
+    "alternativas": [
+      "Próximo a Jericó",
+      "Em Gilgal",
+      "No monte Sinai",
+      "Em Betel"
+    ],
+    "id": 264,
+    "pergunta": "Onde Josué encontrou o comandante do exército do Senhor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 5:13-15"
+  },
+  {
+    "explicacao": "Jericó era conhecida como a cidade das palmeiras por causa de sua abundância de palmeiras.",
+    "alternativas": [
+      "Jerusalém",
+      "Jericó",
+      "Samaria",
+      "Betel"
+    ],
+    "id": 265,
+    "pergunta": "Qual cidade foi chamada de 'cidade das palmeiras'?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Deuteronômio 34:3"
+  },
+  {
+    "explicacao": "Arão morreu no Monte Hor, onde subiu por ordem de Deus.",
+    "alternativas": [
+      "Monte Hor",
+      "Monte Sinai",
+      "Monte Nebo",
+      "Monte Carmelo"
+    ],
+    "id": 266,
+    "pergunta": "Onde Arão morreu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Números 20:27-28"
+  },
+  {
+    "explicacao": "Os israelitas acamparam nas Planícies de Moabe antes de atravessar o rio Jordão e entrar em Canaã.",
+    "alternativas": [
+      "Planícies de Moabe",
+      "Deserto de Zim",
+      "Deserto de Parã",
+      "Terra de Midiã"
+    ],
+    "id": 267,
+    "pergunta": "Em qual região os israelitas acamparam antes de atravessar o Jordão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Números",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Números 22:1"
+  },
+  {
+    "explicacao": "A cidade de Ai foi conquistada por Israel depois da derrota inicial e da vitória liderada por Josué.",
+    "alternativas": [
+      "Hebrom",
+      "Jerusalém",
+      "Ai",
+      "Hazor"
+    ],
+    "id": 268,
+    "pergunta": "Qual cidade foi conquistada após Israel derrotar Ai?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 8:21-22"
+  },
+  {
+    "explicacao": "Depois da conquista de Canaã, o tabernáculo e a arca da aliança ficaram em Siló.",
+    "alternativas": [
+      "Siló",
+      "Dã",
+      "Samaria",
+      "Tiro"
+    ],
+    "id": 269,
+    "pergunta": "Onde os sacerdotes levaram a arca da aliança depois da conquista de Canaã?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 18:1"
+  },
+  {
+    "explicacao": "Ramá era a cidade onde Samuel nasceu e onde sua família vivia.",
+    "alternativas": [
+      "Ramá",
+      "Belém",
+      "Hebrom",
+      "Jericó"
+    ],
+    "id": 270,
+    "pergunta": "Qual cidade foi a terra natal de Samuel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Samuel 1:19"
+  },
+  {
+    "explicacao": "Elias subiu ao Monte Carmelo para orar e Deus enviou chuva após um longo período de seca.",
+    "alternativas": [
+      "Monte Carmelo",
+      "Monte Sinai",
+      "Monte Nebo",
+      "Monte Hermom"
+    ],
+    "id": 271,
+    "pergunta": "Em qual monte Elias subiu para ver o sinal da chuva depois da seca?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 18:42-45"
+  },
+  {
+    "explicacao": "O poço de Jacó ficava na região de Sicar, próxima de Siquém.",
+    "alternativas": [
+      "Sicar",
+      "Betel",
+      "Hebrom",
+      "Nazaré"
+    ],
+    "id": 272,
+    "pergunta": "Qual era o nome da cidade onde ficava o poço de Jacó?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 33:18"
+  },
+  {
+    "explicacao": "Moisés morreu no Monte Nebo antes de Israel entrar na Terra Prometida.",
+    "alternativas": [
+      "Monte Nebo",
+      "Monte Sinai",
+      "Monte Carmelo",
+      "Monte Moriá"
+    ],
+    "id": 273,
+    "pergunta": "Onde Moisés morreu antes da entrada de Israel em Canaã?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Deuteronômio",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Deuteronômio 34:1-5"
+  },
+  {
+    "explicacao": "Neemias liderou a reconstrução dos muros de Jerusalém após o retorno do exílio.",
+    "alternativas": [
+      "Jerusalém",
+      "Nínive",
+      "Babilônia",
+      "Damasco"
+    ],
+    "id": 274,
+    "pergunta": "Qual cidade foi reconstruída por Neemias após o exílio?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Neemias 2:17"
+  },
+  {
+    "explicacao": "Josué colocou doze pedras como memorial em Gilgal após a travessia do rio Jordão.",
+    "alternativas": [
+      "Gilgal",
+      "Betel",
+      "Hebrom",
+      "Sião"
+    ],
+    "id": 275,
+    "pergunta": "Onde Josué montou doze pedras como memorial após atravessar o Jordão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 4:20"
+  },
+  {
+    "explicacao": "Gomorra foi destruída por Deus junto com Sodoma devido ao pecado de seus habitantes.",
+    "alternativas": [
+      "Gomorra",
+      "Nínive",
+      "Jericó",
+      "Tiro"
+    ],
+    "id": 276,
+    "pergunta": "Qual cidade foi destruída por Deus junto com Sodoma?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 19:24"
+  },
+  {
+    "explicacao": "O povo de Israel fez o bezerro de ouro enquanto estava no deserto do Sinai, durante a ausência de Moisés.",
+    "alternativas": [
+      "Deserto do Sinai",
+      "Canaã",
+      "Egito",
+      "Moabe"
+    ],
+    "id": 277,
+    "pergunta": "Onde os israelitas fizeram o bezerro de ouro enquanto Moisés estava no monte?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 32:1-4"
+  },
+  {
+    "explicacao": "Jerusalém passou a ser chamada de cidade de Davi depois que ele conquistou a fortaleza dos jebuseus.",
+    "alternativas": [
+      "Jerusalém",
+      "Hebrom",
+      "Belém",
+      "Samaria"
+    ],
+    "id": 278,
+    "pergunta": "Qual cidade foi chamada de 'cidade de Davi' depois que ele tomou posse dela?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "2 Samuel 5:9"
+  },
+  {
+    "explicacao": "Os filisteus habitavam principalmente a região costeira de Canaã, conhecida como terra dos filisteus.",
+    "alternativas": [
+      "Canaã costeira",
+      "Babilônia",
+      "Egito",
+      "Assíria"
+    ],
+    "id": 279,
+    "pergunta": "Em qual região os filisteus habitavam?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 13:2-3"
+  },
+  {
+    "explicacao": "Gilgal foi o acampamento dos israelitas antes da batalha contra Jericó.",
+    "alternativas": [
+      "Gilgal",
+      "Betel",
+      "Hebrom",
+      "Siquém"
+    ],
+    "id": 280,
+    "pergunta": "Qual lugar foi o acampamento dos israelitas antes da batalha contra Jericó?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 5:10-11"
+  },
+  {
+    "explicacao": "Abraão construiu um altar ao Senhor em Betel depois de chegar à terra de Canaã.",
+    "alternativas": [
+      "Betel",
+      "Hebrom",
+      "Jericó",
+      "Samaria"
+    ],
+    "id": 281,
+    "pergunta": "Em qual cidade Abraão construiu um altar ao Senhor depois de chegar à terra de Canaã?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 12:8"
+  },
+  {
+    "explicacao": "Jacó chamou o lugar onde lutou com um anjo de Peniel, pois ali viu Deus face a face.",
+    "alternativas": [
+      "Peniel",
+      "Gilgal",
+      "Siquém",
+      "Betânia"
+    ],
+    "id": 282,
+    "pergunta": "Qual era o nome do lugar onde Jacó lutou com um anjo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 32:30"
+  },
+  {
+    "explicacao": "Gilgal foi o local onde os israelitas acamparam depois de atravessar o rio Jordão antes de conquistar Canaã.",
+    "alternativas": [
+      "Gilgal",
+      "Jerusalém",
+      "Betel",
+      "Hebrom"
+    ],
+    "id": 283,
+    "pergunta": "Em qual cidade os israelitas atravessaram o Jordão e acamparam antes de conquistar Canaã?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 4:19"
+  },
+  {
+    "explicacao": "Moisés viu a sarça ardente no monte Horebe, onde Deus falou com ele.",
+    "alternativas": [
+      "Horebe",
+      "Carmelo",
+      "Moriá",
+      "Ararate"
+    ],
+    "id": 284,
+    "pergunta": "Qual era o nome do lugar onde Moisés viu a sarça ardente?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 3:1-2"
+  },
+  {
+    "explicacao": "Salomão construiu o templo do Senhor no Monte Moriá, em Jerusalém.",
+    "alternativas": [
+      "Monte Sião",
+      "Monte Moriá",
+      "Monte Sinai",
+      "Monte Carmelo"
+    ],
+    "id": 285,
+    "pergunta": "Onde Salomão construiu o templo do Senhor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Crônicas",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "2 Crônicas 3:1"
+  },
+  {
+    "explicacao": "Ramá era o local onde Samuel julgava Israel e onde ele construiu um altar ao Senhor.",
+    "alternativas": [
+      "Ramá",
+      "Betel",
+      "Siló",
+      "Hebrom"
+    ],
+    "id": 286,
+    "pergunta": "Qual cidade era conhecida como o local onde Samuel julgava Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Samuel 7:17"
+  },
+  {
+    "explicacao": "O tabernáculo permaneceu em Siló durante muitos anos nos dias de Josué.",
+    "alternativas": [
+      "Siló",
+      "Jericó",
+      "Betel",
+      "Dã"
+    ],
+    "id": 287,
+    "pergunta": "Em qual lugar o tabernáculo permaneceu por muitos anos nos dias de Josué?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 18:1"
+  },
+  {
+    "explicacao": "Siquém foi a primeira capital do reino do Norte de Israel após a divisão do reino.",
+    "alternativas": [
+      "Jerusalém",
+      "Siquém",
+      "Samaria",
+      "Betel"
+    ],
+    "id": 288,
+    "pergunta": "Qual cidade foi a primeira capital do reino de Israel após a divisão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 12:25"
+  },
+  {
+    "explicacao": "Davi se escondeu de Saul no deserto de Zife enquanto fugia da perseguição do rei.",
+    "alternativas": [
+      "Deserto de Zife",
+      "Deserto de Sinai",
+      "Deserto de Parã",
+      "Deserto de Sur"
+    ],
+    "id": 289,
+    "pergunta": "Onde Davi escondeu-se de Saul no deserto?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Samuel 23:14"
+  },
+  {
+    "explicacao": "Jerusalém era conhecida como a cidade dos jebuseus antes de ser conquistada por Davi.",
+    "alternativas": [
+      "Jerusalém",
+      "Samaria",
+      "Belém",
+      "Ai"
+    ],
+    "id": 290,
+    "pergunta": "Qual cidade era conhecida como a cidade dos jebuseus antes de ser conquistada por Davi?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "2 Samuel 5:6-7"
+  },
+  {
+    "explicacao": "Elias enfrentou os profetas de Baal no Monte Carmelo, onde Deus respondeu com fogo do céu.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte Carmelo",
+      "Monte Ararate",
+      "Monte Moriá"
+    ],
+    "id": 291,
+    "pergunta": "Qual monte foi onde Elias enfrentou os profetas de Baal?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 18:19"
+  },
+  {
+    "explicacao": "Sodoma foi destruída junto com Gomorra por causa da grande maldade de seus habitantes.",
+    "alternativas": [
+      "Sodoma",
+      "Betel",
+      "Gilgal",
+      "Siquém"
+    ],
+    "id": 292,
+    "pergunta": "Qual cidade foi destruída junto com Gomorra?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 19:24-25"
+  },
+  {
+    "explicacao": "Noé construiu a arca seguindo exatamente a ordem dada por Deus antes do dilúvio.",
+    "alternativas": [
+      "No deserto",
+      "Em uma montanha",
+      "Conforme Deus ordenou, antes do dilúvio",
+      "No Egito"
+    ],
+    "id": 293,
+    "pergunta": "Onde Noé construiu a arca?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 6:14-22"
+  },
+  {
+    "explicacao": "Jacó teve o sonho da escada que chegava ao céu no lugar chamado Betel.",
+    "alternativas": [
+      "Betel",
+      "Hebrom",
+      "Jerusalém",
+      "Canaã"
+    ],
+    "id": 294,
+    "pergunta": "Em qual lugar Jacó sonhou com uma escada que chegava ao céu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 28:19"
+  },
+  {
+    "explicacao": "Canaã foi a terra prometida por Deus aos descendentes de Abraão.",
+    "alternativas": [
+      "Egito",
+      "Canaã",
+      "Babilônia",
+      "Assíria"
+    ],
+    "id": 295,
+    "pergunta": "Qual era a terra prometida por Deus aos descendentes de Abraão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 12:5-7"
+  },
+  {
+    "explicacao": "Deus abriu o Mar Vermelho para que Moisés e o povo de Israel atravessassem em terra seca.",
+    "alternativas": [
+      "Mar Morto",
+      "Mar Vermelho",
+      "Mar da Galileia",
+      "Rio Jordão"
+    ],
+    "id": 296,
+    "pergunta": "Onde Moisés abriu o mar para o povo passar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 14:21-22"
+  },
+  {
+    "explicacao": "Samaria foi escolhida pelo rei Onri como capital do reino do Norte de Israel.",
+    "alternativas": [
+      "Jerusalém",
+      "Samaria",
+      "Belém",
+      "Hebrom"
+    ],
+    "id": 297,
+    "pergunta": "Qual cidade foi capital do reino de Israel (reino do Norte)?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 16:24"
+  },
+  {
+    "explicacao": "Abraão levou Isaque ao Monte Moriá para oferecê-lo como sacrifício em obediência ao teste de Deus.",
+    "alternativas": [
+      "Monte Moriá",
+      "Monte Sinai",
+      "Monte Carmelo",
+      "Monte Ararate"
+    ],
+    "id": 298,
+    "pergunta": "Onde Abraão levou Isaque para oferecê-lo como sacrifício?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 22:2"
+  },
+  {
+    "explicacao": "Jericó foi conquistada por Josué depois que o povo de Israel atravessou o rio Jordão.",
+    "alternativas": [
+      "Jericó",
+      "Nínive",
+      "Tiro",
+      "Babilônia"
+    ],
+    "id": 299,
+    "pergunta": "Qual cidade foi conquistada por Josué após a travessia do Jordão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 6:1-2"
+  },
+  {
+    "explicacao": "Deus mandou Abraão deixar sua terra e ir para Canaã, uma terra que Ele prometeu mostrar a ele.",
+    "alternativas": [
+      "Canaã",
+      "Egito",
+      "Moabe",
+      "Filístia"
+    ],
+    "id": 300,
+    "pergunta": "Para qual terra Deus mandou Abraão ir?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 12:1-5"
+  },
+  {
+    "explicacao": "Abraão morava em Ur dos Caldeus antes de receber o chamado de Deus para seguir para a terra de Canaã.",
+    "alternativas": [
+      "Ur dos Caldeus",
+      "Jerusalém",
+      "Nínive",
+      "Betel"
+    ],
+    "id": 301,
+    "pergunta": "Em qual cidade Abraão morou antes de ir para Canaã?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 11:31"
+  },
+  {
+    "explicacao": "O jardim onde Deus colocou Adão e Eva no início da criação foi chamado Jardim do Éden.",
+    "alternativas": [
+      "Jardim de Sião",
+      "Jardim do Éden",
+      "Jardim de Betel",
+      "Jardim de Jerusalém"
+    ],
+    "id": 302,
+    "pergunta": "Qual era o nome do jardim onde Deus colocou Adão e Eva?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 2:8"
+  },
+  {
+    "explicacao": "Os israelitas foram escravizados no Egito antes de Deus enviar Moisés para libertá-los.",
+    "alternativas": [
+      "Egito",
+      "Babilônia",
+      "Assíria",
+      "Moabe"
+    ],
+    "id": 303,
+    "pergunta": "Em qual país os israelitas ficaram escravos antes de Moisés libertá-los?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 1:13-14"
+  },
+  {
+    "explicacao": "O povo de Israel atravessou o rio Jordão para entrar na Terra Prometida sob a liderança de Josué.",
+    "alternativas": [
+      "Nilo",
+      "Eufrates",
+      "Jordão",
+      "Tigre"
+    ],
+    "id": 304,
+    "pergunta": "Qual rio o povo de Israel atravessou para entrar na Terra Prometida?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 3:14-17"
+  },
+  {
+    "explicacao": "Os Dez Mandamentos foram entregues por Deus a Moisés no Monte Sinai.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte Carmelo",
+      "Monte Moriá",
+      "Monte das Oliveiras"
+    ],
+    "id": 305,
+    "pergunta": "Onde os Dez Mandamentos foram entregues a Moisés?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 19:20"
+  },
+  {
+    "explicacao": "Jericó foi a cidade onde Deus fez os muros caírem diante do povo de Israel.",
+    "alternativas": [
+      "Jericó",
+      "Samaria",
+      "Hebrom",
+      "Belém"
+    ],
+    "id": 306,
+    "pergunta": "Qual cidade teve seus muros derrubados pelo povo de Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 6:20"
+  },
+  {
+    "explicacao": "Davi nasceu em Belém, cidade onde também era a família de seu pai Jessé.",
+    "alternativas": [
+      "Jerusalém",
+      "Belém",
+      "Nazaré",
+      "Betânia"
+    ],
+    "id": 307,
+    "pergunta": "Em qual cidade Davi nasceu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Samuel 16:1"
+  },
+  {
+    "explicacao": "José foi vendido pelos irmãos e levado para o Egito, onde Deus o colocou em uma posição de autoridade.",
+    "alternativas": [
+      "Egito",
+      "Canaã",
+      "Pérsia",
+      "Síria"
+    ],
+    "id": 308,
+    "pergunta": "Para onde José foi levado depois de ser vendido pelos irmãos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 37:28"
+  },
+  {
+    "explicacao": "Jerusalém era conhecida como cidade santa e nela ficava o templo construído por Salomão.",
+    "alternativas": [
+      "Jericó",
+      "Jerusalém",
+      "Samaria",
+      "Betel"
+    ],
+    "id": 309,
+    "pergunta": "Qual cidade era conhecida como a cidade santa onde ficava o templo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 8:1"
+  },
+  {
+    "explicacao": "Jonas foi enviado por Deus para pregar uma mensagem de arrependimento na cidade de Nínive.",
+    "alternativas": [
+      "Nínive",
+      "Tiro",
+      "Damasco",
+      "Babilônia"
+    ],
+    "id": 310,
+    "pergunta": "Onde Jonas foi enviado para pregar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jonas",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Jonas 1:2"
+  },
+  {
+    "explicacao": "Moisés foi colocado em um cesto no rio Nilo quando era bebê para ser protegido da ordem do faraó.",
+    "alternativas": [
+      "Rio Jordão",
+      "Rio Nilo",
+      "Mar Vermelho",
+      "Rio Eufrates"
+    ],
+    "id": 311,
+    "pergunta": "Onde Moisés foi colocado quando bebê?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 2:3"
+  },
+  {
+    "explicacao": "Elias enfrentou os profetas de Baal no Monte Carmelo, onde Deus demonstrou seu poder.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte Carmelo",
+      "Monte Moriá",
+      "Monte Ararate"
+    ],
+    "id": 312,
+    "pergunta": "Em qual monte Elias enfrentou os profetas de Baal?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 18:19"
+  },
+  {
+    "explicacao": "Sodoma foi destruída juntamente com Gomorra por causa da grande maldade de seus habitantes.",
+    "alternativas": [
+      "Jericó",
+      "Sodoma",
+      "Nínive",
+      "Betel"
+    ],
+    "id": 313,
+    "pergunta": "Qual cidade foi destruída junto com Gomorra por causa do pecado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 19:24-25"
+  },
+  {
+    "explicacao": "Jacó teve o sonho da escada que chegava ao céu no lugar chamado Betel.",
+    "alternativas": [
+      "Betel",
+      "Hebrom",
+      "Siquém",
+      "Gilgal"
+    ],
+    "id": 314,
+    "pergunta": "Onde Jacó teve o sonho da escada que chegava ao céu?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 28:10-19"
+  },
+  {
+    "explicacao": "Belém foi a cidade onde Davi nasceu e onde também nasceu Jesus muitos anos depois.",
+    "alternativas": [
+      "Jerusalém",
+      "Belém",
+      "Hebrom",
+      "Nazaré"
+    ],
+    "id": 315,
+    "pergunta": "Qual era a cidade onde Davi nasceu?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Samuel 16:1"
+  },
+  {
+    "explicacao": "O povo de Israel atravessou o Mar Vermelho a seco quando Deus abriu as águas por meio de Moisés.",
+    "alternativas": [
+      "Mar Morto",
+      "Rio Jordão",
+      "Mar Vermelho",
+      "Rio Nilo"
+    ],
+    "id": 316,
+    "pergunta": "Em qual lugar o povo de Israel atravessou o mar a seco com Moisés?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 14:21-22"
+  },
+  {
+    "explicacao": "Samaria foi escolhida como capital do reino do norte de Israel pelo rei Onri.",
+    "alternativas": [
+      "Jerusalém",
+      "Samaria",
+      "Betânia",
+      "Hebrom"
+    ],
+    "id": 317,
+    "pergunta": "Qual cidade foi escolhida como capital do reino do norte de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 16:24"
+  },
+  {
+    "explicacao": "Abraão levou Isaque ao Monte Moriá para oferecê-lo como sacrifício em obediência ao teste de Deus.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte Moriá",
+      "Monte Carmelo",
+      "Monte Ararate"
+    ],
+    "id": 318,
+    "pergunta": "Em qual monte Abraão levou Isaque para oferecê-lo?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 22:2"
+  },
+  {
+    "explicacao": "Jericó foi a primeira grande cidade conquistada pelos israelitas após atravessarem o rio Jordão.",
+    "alternativas": [
+      "Jericó",
+      "Babilônia",
+      "Nínive",
+      "Tiro"
+    ],
+    "id": 319,
+    "pergunta": "Qual cidade foi conquistada por Josué após atravessar o rio Jordão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 6:2-5"
+  },
+  {
+    "explicacao": "Os israelitas receberam a Lei de Deus no Monte Sinai através de Moisés.",
+    "alternativas": [
+      "Monte Sinai",
+      "Egito",
+      "Canaã",
+      "Jerusalém"
+    ],
+    "id": 320,
+    "pergunta": "Em qual lugar os israelitas receberam a Lei de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 24:12"
+  },
+  {
+    "explicacao": "Adão e Eva viviam no Jardim do Éden, o lugar preparado por Deus para o início da humanidade.",
+    "alternativas": [
+      "Monte Sinai",
+      "Jardim do Éden",
+      "Canaã",
+      "Jerusalém"
+    ],
+    "id": 321,
+    "pergunta": "Em qual lugar Adão e Eva viviam no início da criação?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 2:8"
+  },
+  {
+    "explicacao": "Deus chamou Abraão para sair de Ur dos Caldeus e seguir para a terra que Ele mostraria.",
+    "alternativas": [
+      "Ur dos Caldeus",
+      "Egito",
+      "Babilônia",
+      "Samaria"
+    ],
+    "id": 322,
+    "pergunta": "Em qual lugar Deus chamou Abraão para sair da sua terra?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 11:31; 12:1"
+  },
+  {
+    "explicacao": "Após o dilúvio, a arca de Noé descansou sobre os montes de Ararate.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte Carmelo",
+      "Montes de Ararate",
+      "Monte Moriá"
+    ],
+    "id": 323,
+    "pergunta": "Em qual monte Noé recebeu a arca depois do dilúvio?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 8:4"
+  },
+  {
+    "explicacao": "Canaã foi a terra prometida por Deus aos descendentes de Abraão e ao povo de Israel.",
+    "alternativas": [
+      "Egito",
+      "Canaã",
+      "Assíria",
+      "Moabe"
+    ],
+    "id": 324,
+    "pergunta": "Qual era a terra prometida por Deus ao povo de Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 3:17"
+  },
+  {
+    "explicacao": "Jericó foi a cidade onde Josué e o povo de Israel derrubaram os muros pelo poder de Deus.",
+    "alternativas": [
+      "Jericó",
+      "Betel",
+      "Hebrom",
+      "Samaria"
+    ],
+    "id": 325,
+    "pergunta": "Em qual cidade Josué e o povo de Israel derrubaram os muros?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Josué 6:20"
+  },
+  {
+    "explicacao": "Moisés recebeu os Dez Mandamentos no Monte Sinai, onde Deus falou com ele.",
+    "alternativas": [
+      "Monte Carmelo",
+      "Monte Sinai",
+      "Monte Sião",
+      "Monte das Oliveiras"
+    ],
+    "id": 326,
+    "pergunta": "Em qual monte Moisés recebeu os Dez Mandamentos?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Êxodo 19:20"
+  },
+  {
+    "explicacao": "Jerusalém ficou conhecida como a cidade de Davi depois que ele conquistou e estabeleceu seu reino nela.",
+    "alternativas": [
+      "Belém",
+      "Jerusalém",
+      "Nazaré",
+      "Hebrom"
+    ],
+    "id": 327,
+    "pergunta": "Qual cidade era conhecida como a cidade de Davi?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "2 Samuel 5:7"
+  },
+  {
+    "explicacao": "O templo construído por Salomão ficava em Jerusalém, a cidade escolhida para o culto a Deus.",
+    "alternativas": [
+      "Samaria",
+      "Jerusalém",
+      "Jericó",
+      "Betel"
+    ],
+    "id": 328,
+    "pergunta": "Em qual cidade ficava o templo construído por Salomão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "1 Reis 6:1"
+  },
+  {
+    "explicacao": "José foi vendido pelos seus irmãos e levado como escravo para o Egito.",
+    "alternativas": [
+      "Egito",
+      "Babilônia",
+      "Síria",
+      "Pérsia"
+    ],
+    "id": 329,
+    "pergunta": "Para qual país José foi levado como escravo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Gênesis 37:28"
+  },
+  {
+    "explicacao": "Jonas foi enviado por Deus para pregar arrependimento na cidade de Nínive.",
+    "alternativas": [
+      "Nínive",
+      "Tiro",
+      "Damasco",
+      "Betel"
+    ],
+    "id": 330,
+    "pergunta": "Em qual cidade Jonas pregou a mensagem de Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Jonas",
+    "nivel": "Fácil",
+    "categoria": "Lugares",
+    "referenciaBiblica": "Jonas 3:2-3"
+  }
+]

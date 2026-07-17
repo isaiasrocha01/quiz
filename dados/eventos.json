@@ -1,0 +1,3912 @@
+[
+  {
+    "explicacao": "Simão, também chamado de Simão Zelote, era um dos doze discípulos de Jesus e pertencia ao grupo conhecido como zelotes.",
+    "alternativas": [
+      "Simão",
+      "Tomé",
+      "Mateus",
+      "Bartolomeu"
+    ],
+    "id": 1,
+    "pergunta": "Qual discípulo era conhecido como 'o zelote'?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Lucas 6:15"
+  },
+  {
+    "explicacao": "Matias foi escolhido por sorteio pelos discípulos para ocupar o lugar deixado por Judas Iscariotes.",
+    "alternativas": [
+      "Matias",
+      "Barnabé",
+      "Silas",
+      "Paulo"
+    ],
+    "id": 2,
+    "pergunta": "Qual discípulo substituiu Judas Iscariotes após sua morte?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Atos 1:26"
+  },
+  {
+    "explicacao": "Malco era servo do sumo sacerdote e teve sua orelha cortada por Pedro durante a prisão de Jesus.",
+    "alternativas": [
+      "Malco",
+      "Ananias",
+      "Bartimeu",
+      "Demas"
+    ],
+    "id": 3,
+    "pergunta": "Qual era o nome do servo do sumo sacerdote que teve a orelha cortada por Pedro?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "João",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "João 18:10"
+  },
+  {
+    "explicacao": "João Marcos acompanhou Paulo e Barnabé na primeira viagem missionária, mas depois retornou para Jerusalém.",
+    "alternativas": [
+      "João Marcos",
+      "Lucas",
+      "Timóteo",
+      "Tito"
+    ],
+    "id": 4,
+    "pergunta": "Quem ajudou Paulo e Barnabé na primeira viagem missionária, mas depois voltou para Jerusalém?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Atos 13:5,13"
+  },
+  {
+    "explicacao": "Ananias e Safira venderam uma propriedade e mentiram aos apóstolos sobre o valor entregue, recebendo julgamento de Deus.",
+    "alternativas": [
+      "Priscila e Áquila",
+      "Ananias e Safira",
+      "Félix e Drusila",
+      "Herodes e Herodias"
+    ],
+    "id": 5,
+    "pergunta": "Qual casal mentiu sobre o valor da venda de uma propriedade?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Atos 5:1-2"
+  },
+  {
+    "explicacao": "Filipe foi enviado pelo anjo do Senhor para encontrar o oficial etíope e explicar-lhe as Escrituras.",
+    "alternativas": [
+      "Filipe",
+      "Pedro",
+      "Paulo",
+      "Estêvão"
+    ],
+    "id": 6,
+    "pergunta": "Quem foi escolhido para levar o evangelho ao oficial etíope?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Atos 8:26-29"
+  },
+  {
+    "explicacao": "Simão, o mágico, tentou comprar com dinheiro o poder de conceder o Espírito Santo, sendo repreendido por Pedro.",
+    "alternativas": [
+      "Simão, o mágico",
+      "Demétrio",
+      "Alexandre",
+      "Himeneu"
+    ],
+    "id": 7,
+    "pergunta": "Qual homem era conhecido por tentar comprar o poder do Espírito Santo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Atos 8:18-19"
+  },
+  {
+    "explicacao": "Êutico caiu da janela enquanto Paulo pregava por muitas horas, mas foi restaurado por um milagre.",
+    "alternativas": [
+      "Êutico",
+      "Trófimo",
+      "Aristarco",
+      "Onésimo"
+    ],
+    "id": 8,
+    "pergunta": "Quem caiu da janela durante uma longa pregação de Paulo e foi ressuscitado?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Atos 20:9-10"
+  },
+  {
+    "explicacao": "Paulo sofreu um naufrágio na ilha de Malta e, ao colocar lenha no fogo, foi picado por uma cobra.",
+    "alternativas": [
+      "Creta",
+      "Malta",
+      "Chipre",
+      "Patmos"
+    ],
+    "id": 9,
+    "pergunta": "Em qual ilha Paulo sofreu um naufrágio e depois foi picado por uma cobra?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Atos 28:1-3"
+  },
+  {
+    "explicacao": "O governador Félix ouviu Paulo falar sobre justiça, domínio próprio e juízo futuro, ficando amedrontado.",
+    "alternativas": [
+      "Pilatos",
+      "Félix",
+      "Herodes Agripa",
+      "Festo"
+    ],
+    "id": 10,
+    "pergunta": "Qual governador romano ouviu Paulo falar sobre sua fé em Cristo e ficou assustado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Atos",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Atos 24:24-25"
+  },
+  {
+    "explicacao": "Zacarias era o sacerdote pai de João Batista. Ele pertencia à linhagem sacerdotal e recebeu do anjo Gabriel a promessa do nascimento de seu filho.",
+    "alternativas": [
+      "Simeão",
+      "Zacarias",
+      "Anás",
+      "Caifás"
+    ],
+    "id": 11,
+    "pergunta": "Qual era o nome do sacerdote pai de João Batista?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Lucas 1:5"
+  },
+  {
+    "explicacao": "Zacarias fazia parte da divisão sacerdotal de Abias, uma das divisões estabelecidas para o serviço no templo.",
+    "alternativas": [
+      "Divisão de Abias",
+      "Divisão de Levi",
+      "Divisão de Arão",
+      "Divisão de Sadoc"
+    ],
+    "id": 12,
+    "pergunta": "De qual divisão sacerdotal Zacarias fazia parte?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Lucas 1:5"
+  },
+  {
+    "explicacao": "Jesus foi apresentado no templo conforme a Lei de Moisés, após os dias determinados para a purificação, quando ele tinha cerca de oito dias.",
+    "alternativas": [
+      "8 dias",
+      "30 dias",
+      "1 ano",
+      "12 anos"
+    ],
+    "id": 13,
+    "pergunta": "Qual era a idade aproximada de Jesus quando foi apresentado no templo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Lucas 2:22-24"
+  },
+  {
+    "explicacao": "Simeão estava no templo quando Jesus foi apresentado e declarou que ele era a salvação preparada por Deus.",
+    "alternativas": [
+      "Simeão",
+      "Nicodemos",
+      "José de Arimateia",
+      "Jairo"
+    ],
+    "id": 14,
+    "pergunta": "Quem reconheceu Jesus no templo quando ele era bebê e falou sobre sua missão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Lucas 2:25-32"
+  },
+  {
+    "explicacao": "A profetisa Ana estava no templo e falou sobre Jesus a todos que esperavam a redenção de Jerusalém.",
+    "alternativas": [
+      "Isabel",
+      "Ana",
+      "Marta",
+      "Maria Madalena"
+    ],
+    "id": 15,
+    "pergunta": "Qual profetisa estava no templo quando Jesus foi apresentado?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Lucas 2:36-38"
+  },
+  {
+    "explicacao": "Jesus tinha doze anos quando foi encontrado no templo entre os doutores, ouvindo e fazendo perguntas.",
+    "alternativas": [
+      "7 anos",
+      "10 anos",
+      "12 anos",
+      "15 anos"
+    ],
+    "id": 16,
+    "pergunta": "Quantos anos Jesus tinha quando foi encontrado no templo conversando com os doutores?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Lucas",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Lucas 2:42-46"
+  },
+  {
+    "explicacao": "João Batista pregava o arrependimento porque o Reino dos céus estava próximo.",
+    "alternativas": [
+      "Construir um novo templo",
+      "Arrepender-se, pois o Reino dos céus estava próximo",
+      "Formar um exército",
+      "Abandonar Jerusalém"
+    ],
+    "id": 17,
+    "pergunta": "Qual era a mensagem principal da pregação de João Batista?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Mateus 3:1-2"
+  },
+  {
+    "explicacao": "João Batista alimentava-se de gafanhotos e mel silvestre enquanto pregava no deserto.",
+    "alternativas": [
+      "Pão e peixe",
+      "Frutas e mel",
+      "Gafanhotos e mel silvestre",
+      "Carne e vinho"
+    ],
+    "id": 18,
+    "pergunta": "O que João Batista comia no deserto?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Mateus 3:4"
+  },
+  {
+    "explicacao": "Satanás tentou Jesus três vezes no deserto, mas Jesus venceu usando a Palavra de Deus.",
+    "alternativas": [
+      "Duas",
+      "Três",
+      "Cinco",
+      "Sete"
+    ],
+    "id": 19,
+    "pergunta": "Quantas tentações Satanás apresentou a Jesus no deserto?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Mateus 4:1-11"
+  },
+  {
+    "explicacao": "Jesus respondeu que a vida humana depende da palavra de Deus e não apenas do alimento físico.",
+    "alternativas": [
+      "O homem viverá de toda palavra que sai da boca de Deus",
+      "Somente o pão alimenta o homem",
+      "Não tentarás o Senhor",
+      "Adore somente a Deus"
+    ],
+    "id": 20,
+    "pergunta": "Qual foi a resposta de Jesus quando Satanás pediu que transformasse pedras em pães?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Novo Testamento",
+    "livro": "Mateus",
+    "nivel": "Difícil",
+    "categoria": "Eventos",
+    "referenciaBiblica": "Mateus 4:4"
+  },
+  {
+    "id": 21,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Por que Pedro começou a afundar quando andava sobre as águas?",
+    "alternativas": [
+      "Porque estava cansado",
+      "Porque teve medo e duvidou",
+      "Porque a água ficou profunda",
+      "Porque Jesus se afastou"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 14:30",
+    "explicacao": "Pedro começou a afundar quando tirou os olhos de Jesus e teve medo."
+  },
+  {
+    "id": 22,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi o homem que Jesus curou de uma doença chamada lepra?",
+    "alternativas": [
+      "Um centurião",
+      "Um leproso",
+      "Um paralítico",
+      "Um cego"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 8:2-3",
+    "explicacao": "Um homem leproso pediu a Jesus que fosse purificado e foi curado."
+  },
+  {
+    "id": 23,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual era a função do homem que pediu a cura de seu servo a Jesus?",
+    "alternativas": [
+      "Sacerdote",
+      "Centurião romano",
+      "Pescador",
+      "Governador"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 8:5",
+    "explicacao": "O homem era um centurião romano que demonstrou grande fé em Jesus."
+  },
+  {
+    "id": 24,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "O que Jesus disse sobre a fé do centurião?",
+    "alternativas": [
+      "Que nunca tinha visto tanta fé em Israel",
+      "Que sua fé era pequena",
+      "Que ele precisava estudar a Lei",
+      "Que ele deveria abandonar Roma"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 8:10",
+    "explicacao": "Jesus elogiou a fé do centurião dizendo que não havia encontrado fé semelhante em Israel."
+  },
+  {
+    "id": 25,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi descido pelo telhado para ser curado por Jesus?",
+    "alternativas": [
+      "Um cego",
+      "Um paralítico",
+      "Um surdo",
+      "Um leproso"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Marcos 2:3-5",
+    "explicacao": "Os amigos de um paralítico o levaram até Jesus descendo-o pelo telhado."
+  },
+  {
+    "id": 26,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "O que Jesus disse primeiro ao paralítico levado pelos amigos?",
+    "alternativas": [
+      "Levanta-te e anda",
+      "Teus pecados estão perdoados",
+      "Vai para tua casa",
+      "Segue-me"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Marcos 2:5",
+    "explicacao": "Jesus primeiro declarou o perdão dos pecados daquele homem."
+  },
+  {
+    "id": 27,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual discípulo era conhecido como o cobrador de impostos?",
+    "alternativas": [
+      "Mateus",
+      "Tomé",
+      "Judas",
+      "Filipe"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 9:9",
+    "explicacao": "Mateus era cobrador de impostos antes de seguir Jesus."
+  },
+  {
+    "id": 28,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem perguntou a Jesus: 'Que farei para herdar a vida eterna'?",
+    "alternativas": [
+      "Um jovem rico",
+      "Um sacerdote",
+      "Um soldado romano",
+      "Um pescador"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Marcos 10:17",
+    "explicacao": "Um jovem rico perguntou a Jesus sobre como alcançar a vida eterna."
+  },
+  {
+    "id": 29,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "O que Jesus pediu ao jovem rico que fizesse?",
+    "alternativas": [
+      "Construir um templo",
+      "Vender seus bens, dar aos pobres e segui-lo",
+      "Tornar-se sacerdote",
+      "Voltar para sua família"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Marcos 10:21",
+    "explicacao": "Jesus ensinou ao jovem rico sobre abrir mão das riquezas e segui-lo."
+  },
+  {
+    "id": 30,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem subiu em uma árvore para ver Jesus em Jericó?",
+    "alternativas": [
+      "Bartimeu",
+      "Zaqueu",
+      "Jairo",
+      "Nicodemos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Lucas 19:2-4",
+    "explicacao": "Zaqueu subiu em uma árvore para conseguir ver Jesus passar."
+  },
+  {
+    "id": 31,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o nome do anjo que anunciou o nascimento de João Batista a Zacarias?",
+    "alternativas": [
+      "Miguel",
+      "Gabriel",
+      "Rafael",
+      "Anjo do Senhor"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Lucas 1:11-13",
+    "explicacao": "O anjo Gabriel anunciou a Zacarias que Isabel teria um filho chamado João."
+  },
+  {
+    "id": 32,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Por que Zacarias ficou sem falar até o nascimento de João Batista?",
+    "alternativas": [
+      "Porque estava doente",
+      "Porque duvidou da mensagem do anjo",
+      "Porque perdeu a voz em uma batalha",
+      "Porque fez um voto"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Lucas 1:20",
+    "explicacao": "Zacarias ficou mudo porque não acreditou imediatamente na palavra do anjo Gabriel."
+  },
+  {
+    "id": 33,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era a mãe de João Batista?",
+    "alternativas": [
+      "Maria",
+      "Marta",
+      "Isabel",
+      "Ana"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Lucas 1:57-60",
+    "explicacao": "Isabel era esposa de Zacarias e mãe de João Batista."
+  },
+  {
+    "id": 34,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi o cântico de Maria após visitar Isabel?",
+    "alternativas": [
+      "Magnificat",
+      "Hosana",
+      "Aleluia",
+      "Benedictus"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 1:46-55",
+    "explicacao": "O cântico de Maria é conhecido como Magnificat."
+  },
+  {
+    "id": 35,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi o nome dado ao filho de Maria conforme ordenado pelo anjo?",
+    "alternativas": [
+      "João",
+      "Jesus",
+      "José",
+      "Emanuel"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Lucas 1:31",
+    "explicacao": "O anjo anunciou que Maria daria à luz um filho chamado Jesus."
+  },
+  {
+    "id": 36,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem declarou: 'Eis o Cordeiro de Deus, que tira o pecado do mundo'?",
+    "alternativas": [
+      "Pedro",
+      "João Batista",
+      "André",
+      "Filipe"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "João 1:29",
+    "explicacao": "João Batista apresentou Jesus como o Cordeiro de Deus."
+  },
+  {
+    "id": 37,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual discípulo encontrou primeiro seu irmão Simão e o levou até Jesus?",
+    "alternativas": [
+      "André",
+      "João",
+      "Filipe",
+      "Tiago"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 1:40-42",
+    "explicacao": "André encontrou seu irmão Simão Pedro e o apresentou a Jesus."
+  },
+  {
+    "id": 38,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual novo nome Jesus deu a Simão?",
+    "alternativas": [
+      "Boanerges",
+      "Cefas (Pedro)",
+      "Bartolomeu",
+      "Levi"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "João 1:42",
+    "explicacao": "Jesus chamou Simão de Cefas, que significa Pedro."
+  },
+  {
+    "id": 39,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi a profissão dos primeiros discípulos chamados por Jesus?",
+    "alternativas": [
+      "Agricultores",
+      "Pescadores",
+      "Soldados",
+      "Comerciantes"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 4:18-22",
+    "explicacao": "Pedro, André, Tiago e João eram pescadores antes de seguir Jesus."
+  },
+  {
+    "id": 40,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem disse a Jesus: 'Senhor, se és tu, manda-me ir ter contigo por cima das águas'?",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "Tiago",
+      "André"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 14:28",
+    "explicacao": "Pedro pediu para andar sobre as águas até Jesus."
+  },
+  {
+    "id": 41,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Apocalipse e Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem escreveu o livro de Apocalipse?",
+    "alternativas": [
+      "Pedro",
+      "João",
+      "Paulo",
+      "Lucas"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Apocalipse 1:1,9",
+    "explicacao": "João recebeu a revelação de Jesus Cristo e escreveu o livro de Apocalipse."
+  },
+  {
+    "id": 42,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Apocalipse e Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Em qual lugar João recebeu a revelação do Apocalipse?",
+    "alternativas": [
+      "Ilha de Patmos",
+      "Jerusalém",
+      "Roma",
+      "Éfeso"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Apocalipse 1:9",
+    "explicacao": "João estava na ilha de Patmos quando recebeu a visão."
+  },
+  {
+    "id": 43,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Apocalipse e Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quantas igrejas receberam mensagens no início do livro de Apocalipse?",
+    "alternativas": [
+      "5 igrejas",
+      "7 igrejas",
+      "10 igrejas",
+      "12 igrejas"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Apocalipse 1:11",
+    "explicacao": "Jesus enviou mensagens para sete igrejas da Ásia."
+  },
+  {
+    "id": 44,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Apocalipse e Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi a primeira igreja mencionada nas cartas do Apocalipse?",
+    "alternativas": [
+      "Éfeso",
+      "Esmirna",
+      "Pérgamo",
+      "Laodiceia"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Apocalipse 2:1",
+    "explicacao": "A primeira carta foi dirigida à igreja de Éfeso."
+  },
+  {
+    "id": 45,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Apocalipse e Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual igreja foi repreendida por ser morna?",
+    "alternativas": [
+      "Filadélfia",
+      "Sardes",
+      "Laodiceia",
+      "Esmirna"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Apocalipse 3:15-16",
+    "explicacao": "A igreja de Laodiceia foi repreendida por sua falta de fervor espiritual."
+  },
+  {
+    "id": 46,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Apocalipse e Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "O que João viu no céu antes da abertura dos selos?",
+    "alternativas": [
+      "Um trono e alguém sentado nele",
+      "Um grande templo terrestre",
+      "Uma cidade destruída",
+      "Um exército de anjos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Apocalipse 4:2-4",
+    "explicacao": "João viu o trono de Deus no céu."
+  },
+  {
+    "id": 47,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Apocalipse e Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quantos anciãos estavam ao redor do trono de Deus?",
+    "alternativas": [
+      "12",
+      "24",
+      "40",
+      "70"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Apocalipse 4:4",
+    "explicacao": "João viu vinte e quatro anciãos ao redor do trono."
+  },
+  {
+    "id": 48,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Apocalipse e Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi considerado digno de abrir o livro com os sete selos?",
+    "alternativas": [
+      "João",
+      "Um anjo",
+      "O Cordeiro",
+      "Pedro"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Apocalipse 5:5-7",
+    "explicacao": "O Cordeiro, que representa Jesus Cristo, foi digno de abrir o livro."
+  },
+  {
+    "id": 49,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Apocalipse e Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "O Cordeiro representa quem no livro de Apocalipse?",
+    "alternativas": [
+      "Moisés",
+      "Jesus Cristo",
+      "João Batista",
+      "Davi"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Apocalipse 5:9",
+    "explicacao": "O Cordeiro simboliza Jesus, que entregou sua vida pela humanidade."
+  },
+  {
+    "id": 50,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Apocalipse e Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quantos selos estavam no livro visto por João?",
+    "alternativas": [
+      "3 selos",
+      "5 selos",
+      "7 selos",
+      "12 selos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Apocalipse 5:1",
+    "explicacao": "O livro estava selado com sete selos."
+  },
+  {
+    "id": 51,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Quem batizou o oficial etíope?",
+    "alternativas": [
+      "Pedro",
+      "Filipe",
+      "Paulo",
+      "João"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 8:38",
+    "explicacao": "Filipe explicou as Escrituras ao oficial etíope e depois o batizou."
+  },
+  {
+    "id": 52,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o nome do homem que perseguia a igreja e depois se tornou apóstolo?",
+    "alternativas": [
+      "Saulo",
+      "Silas",
+      "Lucas",
+      "Tito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 9:1-15",
+    "explicacao": "Saulo perseguia os cristãos antes de ter um encontro com Jesus e se tornar Paulo."
+  },
+  {
+    "id": 53,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o homem que orou por Saulo para que recuperasse a visão?",
+    "alternativas": [
+      "Pedro",
+      "Ananias",
+      "Estêvão",
+      "Barnabé"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 9:17",
+    "explicacao": "Ananias foi enviado por Deus para orar por Saulo e restaurar sua visão."
+  },
+  {
+    "id": 54,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Em qual cidade os discípulos foram chamados cristãos pela primeira vez?",
+    "alternativas": [
+      "Jerusalém",
+      "Antioquia",
+      "Roma",
+      "Éfeso"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 11:26",
+    "explicacao": "Foi em Antioquia que os seguidores de Jesus foram chamados cristãos pela primeira vez."
+  },
+  {
+    "id": 55,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Quem acompanhou Paulo em sua primeira viagem missionária?",
+    "alternativas": [
+      "Barnabé",
+      "Pedro",
+      "João Batista",
+      "Tiago"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 13:2-5",
+    "explicacao": "Barnabé acompanhou Paulo no início de suas viagens missionárias."
+  },
+  {
+    "id": 56,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Qual apóstolo escreveu muitas cartas do Novo Testamento?",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Mateus"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Romanos 1:1",
+    "explicacao": "Paulo escreveu várias cartas às igrejas e pessoas do Novo Testamento."
+  },
+  {
+    "id": 57,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Qual era a cidade onde Paulo e Silas foram presos e cantaram louvores a Deus?",
+    "alternativas": [
+      "Filipos",
+      "Corinto",
+      "Roma",
+      "Éfeso"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 16:23-25",
+    "explicacao": "Paulo e Silas foram presos em Filipos durante uma viagem missionária."
+  },
+  {
+    "id": 58,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu enquanto Paulo e Silas oravam na prisão?",
+    "alternativas": [
+      "O rei os libertou",
+      "Houve um terremoto e as portas se abriram",
+      "Eles fugiram escondidos",
+      "Foram levados para Roma"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 16:26",
+    "explicacao": "Um terremoto abriu as portas da prisão e soltou as correntes dos presos."
+  },
+  {
+    "id": 59,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Quem disse: 'Combati o bom combate, acabei a carreira, guardei a fé'?",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "2 Timóteo 4:7",
+    "explicacao": "Paulo declarou essas palavras ao refletir sobre sua caminhada de fé."
+  },
+  {
+    "id": 60,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Qual é o último livro do Novo Testamento?",
+    "alternativas": [
+      "Judas",
+      "Hebreus",
+      "Apocalipse",
+      "Romanos"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Apocalipse 1:1",
+    "explicacao": "Apocalipse é o último livro da Bíblia e revela a visão dada a João."
+  },
+  {
+    "id": 61,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi escolhido para substituir Judas Iscariotes entre os apóstolos?",
+    "alternativas": [
+      "Matias",
+      "Paulo",
+      "Barnabé",
+      "Silas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 1:26",
+    "explicacao": "Matias foi escolhido por sorteio para ocupar o lugar deixado por Judas Iscariotes."
+  },
+  {
+    "id": 62,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu com Jesus antes de receber os discípulos no céu?",
+    "alternativas": [
+      "Foi coroado rei em Jerusalém",
+      "Foi elevado ao céu",
+      "Foi preso pelos romanos",
+      "Voltou para Nazaré"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 1:9",
+    "explicacao": "Jesus foi elevado ao céu diante dos seus discípulos."
+  },
+  {
+    "id": 63,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Quantas pessoas estavam reunidas quando Matias foi escolhido?",
+    "alternativas": [
+      "Cerca de 50 pessoas",
+      "Cerca de 120 pessoas",
+      "Cerca de 500 pessoas",
+      "Cerca de 1.000 pessoas"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 1:15",
+    "explicacao": "Pedro falou a um grupo de aproximadamente cento e vinte pessoas."
+  },
+  {
+    "id": 64,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Qual sinal acompanhou a descida do Espírito Santo no Pentecostes?",
+    "alternativas": [
+      "Chuva de ouro",
+      "Som como de um vento forte e línguas como de fogo",
+      "Terremoto e escuridão",
+      "Uma grande tempestade no mar"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 2:2-3",
+    "explicacao": "O Espírito Santo veio com um som semelhante a vento forte e línguas como fogo."
+  },
+  {
+    "id": 65,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Quantas pessoas foram acrescentadas à igreja após a pregação de Pedro no Pentecostes?",
+    "alternativas": [
+      "Cerca de 300",
+      "Cerca de 1.000",
+      "Cerca de 3.000",
+      "Cerca de 5.000"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Atos 2:41",
+    "explicacao": "Cerca de três mil pessoas aceitaram a mensagem e foram batizadas."
+  },
+  {
+    "id": 66,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Qual milagre Pedro e João realizaram na porta do templo?",
+    "alternativas": [
+      "Curaram um cego",
+      "Curaram um homem aleijado",
+      "Ressuscitaram um morto",
+      "Multiplicaram alimentos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 3:6-8",
+    "explicacao": "Pedro e João curaram um homem que era coxo desde o nascimento."
+  },
+  {
+    "id": 67,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o nome da porta do templo onde o homem coxo ficava?",
+    "alternativas": [
+      "Porta Formosa",
+      "Porta Oriental",
+      "Porta das Águas",
+      "Porta do Rei"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 3:2",
+    "explicacao": "O homem coxo era colocado diariamente na porta chamada Formosa."
+  },
+  {
+    "id": 68,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Quem mentiu sobre o valor da venda de uma propriedade e morreu?",
+    "alternativas": [
+      "Ananias",
+      "Barnabé",
+      "Filipe",
+      "Estêvão"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 5:1-5",
+    "explicacao": "Ananias mentiu ao Espírito Santo sobre o dinheiro da venda e morreu."
+  },
+  {
+    "id": 69,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Qual era o nome da esposa de Ananias?",
+    "alternativas": [
+      "Maria",
+      "Safira",
+      "Marta",
+      "Priscila"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 5:1",
+    "explicacao": "Safira era esposa de Ananias e também participou da mentira."
+  },
+  {
+    "id": 70,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Atos e Epístolas",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi escolhido como um dos sete diáconos e depois evangelizou na Samaria?",
+    "alternativas": [
+      "Filipe",
+      "Tiago",
+      "André",
+      "Tomé"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 6:5; 8:5",
+    "explicacao": "Filipe foi escolhido como diácono e pregou o evangelho em Samaria."
+  },
+  {
+    "id": 71,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "No terceiro dia, o que aconteceu com Jesus?",
+    "alternativas": [
+      "Ele desapareceu",
+      "Ele ressuscitou",
+      "Ele voltou para Nazaré",
+      "Ele foi preso novamente"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 28:5-6",
+    "explicacao": "Jesus ressuscitou ao terceiro dia, vencendo a morte."
+  },
+  {
+    "id": 72,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem encontrou o túmulo vazio de Jesus primeiro?",
+    "alternativas": [
+      "Os soldados romanos",
+      "As mulheres que foram ao sepulcro",
+      "Pedro e João",
+      "Os sacerdotes"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 28:1",
+    "explicacao": "As mulheres foram ao sepulcro e encontraram a pedra removida e o túmulo vazio."
+  },
+  {
+    "id": 73,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi a ordem de Jesus aos seus discípulos antes de subir ao céu?",
+    "alternativas": [
+      "Construir um templo",
+      "Fazer discípulos de todas as nações",
+      "Voltar para suas profissões",
+      "Esconder-se dos romanos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 28:19",
+    "explicacao": "Jesus ordenou que seus discípulos fossem e fizessem discípulos de todas as nações."
+  },
+  {
+    "id": 74,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem recebeu o Espírito Santo no dia de Pentecostes?",
+    "alternativas": [
+      "Os discípulos de Jesus",
+      "Os soldados romanos",
+      "Os sacerdotes do templo",
+      "Os reis da época"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 2:1-4",
+    "explicacao": "Os discípulos receberam o Espírito Santo enquanto estavam reunidos em Jerusalém."
+  },
+  {
+    "id": 75,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Em que cidade aconteceu o Pentecostes?",
+    "alternativas": [
+      "Belém",
+      "Jerusalém",
+      "Nazaré",
+      "Antioquia"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 2:1",
+    "explicacao": "O Pentecostes aconteceu em Jerusalém."
+  },
+  {
+    "id": 76,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem pregou no dia de Pentecostes?",
+    "alternativas": [
+      "Paulo",
+      "Pedro",
+      "João",
+      "Estêvão"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 2:14",
+    "explicacao": "Pedro levantou-se com os onze e pregou à multidão no dia de Pentecostes."
+  },
+  {
+    "id": 77,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem foi o primeiro mártir cristão registrado no Novo Testamento?",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "Estêvão",
+      "Tiago"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Atos 7:59-60",
+    "explicacao": "Estêvão foi morto por causa de sua fé em Jesus e é considerado o primeiro mártir cristão registrado."
+  },
+  {
+    "id": 78,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era conhecido por perseguir os cristãos antes de sua conversão?",
+    "alternativas": [
+      "Paulo (Saulo)",
+      "Barnabé",
+      "Filipe",
+      "Lucas"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Atos 9:1-2",
+    "explicacao": "Saulo perseguia os seguidores de Jesus antes de seu encontro com Cristo."
+  },
+  {
+    "id": 79,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Onde Saulo teve um encontro com Jesus?",
+    "alternativas": [
+      "No templo",
+      "No caminho para Damasco",
+      "No mar da Galileia",
+      "Em Jerusalém"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 9:3-5",
+    "explicacao": "Saulo encontrou Jesus no caminho para Damasco, onde recebeu uma grande transformação."
+  },
+  {
+    "id": 80,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem batizou Saulo após sua conversão?",
+    "alternativas": [
+      "Pedro",
+      "Ananias",
+      "Barnabé",
+      "João"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Atos 9:17-18",
+    "explicacao": "Ananias foi enviado por Deus para orar por Saulo e ele foi batizado."
+  },
+  {
+    "id": 81,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem confessou que Jesus era o Cristo, o Filho do Deus vivo?",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "Tomé",
+      "Filipe"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 16:16",
+    "explicacao": "Pedro declarou que Jesus era o Cristo, o Filho do Deus vivo."
+  },
+  {
+    "id": 82,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Qual discípulo traiu Jesus?",
+    "alternativas": [
+      "Pedro",
+      "Judas Iscariotes",
+      "João",
+      "André"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 26:14-16",
+    "explicacao": "Judas Iscariotes traiu Jesus entregando-o aos líderes religiosos."
+  },
+  {
+    "id": 83,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Por quantas moedas Judas entregou Jesus?",
+    "alternativas": [
+      "Dez moedas de ouro",
+      "Trinta moedas de prata",
+      "Cinquenta moedas de prata",
+      "Vinte moedas de bronze"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 26:15",
+    "explicacao": "Judas recebeu trinta moedas de prata para entregar Jesus."
+  },
+  {
+    "id": 84,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Onde Jesus orou antes de ser preso?",
+    "alternativas": [
+      "Monte Sinai",
+      "Jardim do Getsêmani",
+      "Monte Carmelo",
+      "Templo de Jerusalém"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 26:36",
+    "explicacao": "Jesus orou no Jardim do Getsêmani antes da sua prisão."
+  },
+  {
+    "id": 85,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem cortou a orelha do servo do sumo sacerdote?",
+    "alternativas": [
+      "Pedro",
+      "João",
+      "Tiago",
+      "André"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "João 18:10",
+    "explicacao": "Pedro cortou a orelha de Malco durante a prisão de Jesus."
+  },
+  {
+    "id": 86,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem negou Jesus três vezes?",
+    "alternativas": [
+      "Judas",
+      "Pedro",
+      "Tomé",
+      "Mateus"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 26:69-75",
+    "explicacao": "Pedro negou Jesus três vezes antes do cantar do galo."
+  },
+  {
+    "id": 87,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem condenou Jesus à crucificação?",
+    "alternativas": [
+      "Herodes",
+      "Pilatos",
+      "Caifás",
+      "João Batista"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 27:26",
+    "explicacao": "Pôncio Pilatos autorizou a crucificação de Jesus."
+  },
+  {
+    "id": 88,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Em qual lugar Jesus foi crucificado?",
+    "alternativas": [
+      "Getsêmani",
+      "Gólgota",
+      "Betânia",
+      "Nazaré"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 27:33",
+    "explicacao": "Jesus foi crucificado no lugar chamado Gólgota."
+  },
+  {
+    "id": 89,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem ajudou Jesus a carregar a cruz?",
+    "alternativas": [
+      "Simão Cireneu",
+      "José de Arimateia",
+      "Nicodemos",
+      "Bartimeu"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Marcos 15:21",
+    "explicacao": "Simão Cireneu foi obrigado a ajudar Jesus a carregar a cruz."
+  },
+  {
+    "id": 90,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos e Atos",
+    "nivel": "Fácil",
+    "pergunta": "Quem colocou Jesus em um sepulcro novo?",
+    "alternativas": [
+      "Pedro",
+      "José de Arimateia",
+      "João",
+      "Nicodemos"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 27:57-60",
+    "explicacao": "José de Arimateia colocou Jesus em seu próprio sepulcro novo."
+  },
+  {
+    "id": 91,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem tentou Jesus no deserto?",
+    "alternativas": [
+      "Herodes",
+      "Satanás",
+      "Pilatos",
+      "Caifás"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 4:1",
+    "explicacao": "Satanás tentou Jesus após os quarenta dias de jejum no deserto."
+  },
+  {
+    "id": 92,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi o primeiro milagre de Jesus registrado no Evangelho de João?",
+    "alternativas": [
+      "Curar um cego",
+      "Multiplicar pães",
+      "Transformar água em vinho",
+      "Ressuscitar Lázaro"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "João 2:1-11",
+    "explicacao": "Jesus realizou seu primeiro sinal transformando água em vinho nas bodas de Caná."
+  },
+  {
+    "id": 93,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Onde aconteceu o primeiro milagre de Jesus?",
+    "alternativas": [
+      "Belém",
+      "Caná da Galileia",
+      "Jerusalém",
+      "Nazaré"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "João 2:1",
+    "explicacao": "O primeiro milagre de Jesus aconteceu em uma festa de casamento em Caná da Galileia."
+  },
+  {
+    "id": 94,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quantos discípulos Jesus escolheu como apóstolos?",
+    "alternativas": [
+      "7",
+      "10",
+      "12",
+      "70"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Mateus 10:1-2",
+    "explicacao": "Jesus escolheu doze apóstolos para acompanhá-lo e anunciar o Reino de Deus."
+  },
+  {
+    "id": 95,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual discípulo era pescador antes de seguir Jesus?",
+    "alternativas": [
+      "Pedro",
+      "Mateus",
+      "Judas",
+      "Tomé"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 4:18-20",
+    "explicacao": "Pedro era pescador quando Jesus o chamou para segui-lo."
+  },
+  {
+    "id": 96,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual era a profissão de Mateus antes de seguir Jesus?",
+    "alternativas": [
+      "Pescador",
+      "Médico",
+      "Cobrador de impostos",
+      "Soldado"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Mateus 9:9",
+    "explicacao": "Mateus trabalhava como cobrador de impostos antes de ser chamado por Jesus."
+  },
+  {
+    "id": 97,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Qual oração Jesus ensinou aos discípulos?",
+    "alternativas": [
+      "Oração de Salomão",
+      "Pai Nosso",
+      "Oração de Davi",
+      "Oração de Moisés"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 6:9-13",
+    "explicacao": "Jesus ensinou a oração conhecida como Pai Nosso."
+  },
+  {
+    "id": 98,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quantos pães Jesus usou para alimentar uma multidão de cinco mil homens?",
+    "alternativas": [
+      "2 pães",
+      "5 pães",
+      "7 pães",
+      "12 pães"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 14:17-21",
+    "explicacao": "Jesus multiplicou cinco pães para alimentar a multidão."
+  },
+  {
+    "id": 99,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quantos peixes foram usados nesse milagre?",
+    "alternativas": [
+      "1 peixe",
+      "2 peixes",
+      "5 peixes",
+      "12 peixes"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 14:17",
+    "explicacao": "Além dos cinco pães, havia dois peixes que Jesus multiplicou."
+  },
+  {
+    "id": 100,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem andou sobre as águas em direção a Jesus?",
+    "alternativas": [
+      "João",
+      "Pedro",
+      "André",
+      "Tiago"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 14:28-29",
+    "explicacao": "Pedro saiu do barco e andou sobre as águas em direção a Jesus."
+  },
+  {
+    "id": 101,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Onde Jesus nasceu?",
+    "alternativas": [
+      "Jerusalém",
+      "Nazaré",
+      "Belém",
+      "Cafarnaum"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Mateus 2:1",
+    "explicacao": "Jesus nasceu em Belém da Judeia, conforme anunciado nas Escrituras."
+  },
+  {
+    "id": 102,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era a mãe de Jesus?",
+    "alternativas": [
+      "Marta",
+      "Maria",
+      "Isabel",
+      "Ana"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 1:18",
+    "explicacao": "Maria foi escolhida por Deus para ser a mãe de Jesus."
+  },
+  {
+    "id": 103,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem era o pai terreno de Jesus?",
+    "alternativas": [
+      "João",
+      "José",
+      "Zacarias",
+      "Pedro"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 1:19-20",
+    "explicacao": "José era o pai legal e terreno de Jesus."
+  },
+  {
+    "id": 104,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem anunciou a Maria que ela teria Jesus?",
+    "alternativas": [
+      "O anjo Gabriel",
+      "O anjo Miguel",
+      "João Batista",
+      "Um sacerdote"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Lucas 1:26-31",
+    "explicacao": "O anjo Gabriel anunciou a Maria que ela daria à luz Jesus."
+  },
+  {
+    "id": 105,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Onde Jesus foi colocado após nascer?",
+    "alternativas": [
+      "Em um palácio",
+      "Em uma manjedoura",
+      "Em um templo",
+      "Em uma casa de reis"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Lucas 2:7",
+    "explicacao": "Jesus foi colocado em uma manjedoura porque não havia lugar para eles na hospedaria."
+  },
+  {
+    "id": 106,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem visitou Jesus após seu nascimento trazendo presentes?",
+    "alternativas": [
+      "Pastores somente",
+      "Reis magos",
+      "Soldados romanos",
+      "Sacerdotes judeus"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 2:11",
+    "explicacao": "Os magos visitaram Jesus e ofereceram presentes."
+  },
+  {
+    "id": 107,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quais presentes os magos ofereceram a Jesus?",
+    "alternativas": [
+      "Ouro, incenso e mirra",
+      "Prata, trigo e vinho",
+      "Pão, azeite e ouro",
+      "Roupas, moedas e perfumes"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 2:11",
+    "explicacao": "Os magos ofereceram ouro, incenso e mirra."
+  },
+  {
+    "id": 108,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quem batizou Jesus?",
+    "alternativas": [
+      "Pedro",
+      "João Batista",
+      "Tiago",
+      "André"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Mateus 3:13",
+    "explicacao": "João Batista batizou Jesus no início do seu ministério."
+  },
+  {
+    "id": 109,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Em qual lugar Jesus foi batizado?",
+    "alternativas": [
+      "Rio Jordão",
+      "Mar da Galileia",
+      "Rio Nilo",
+      "Mar Morto"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Mateus 3:13",
+    "explicacao": "Jesus foi batizado por João Batista no Rio Jordão."
+  },
+  {
+    "id": 110,
+    "testamento": "Novo Testamento",
+    "categoria": "Eventos",
+    "livro": "Evangelhos",
+    "nivel": "Fácil",
+    "pergunta": "Quantos dias Jesus jejuou no deserto?",
+    "alternativas": [
+      "7 dias",
+      "20 dias",
+      "40 dias",
+      "70 dias"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Mateus 4:2",
+    "explicacao": "Jesus jejuou por quarenta dias e quarenta noites no deserto."
+  },
+  {
+    "id": 111,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Deus provou Abraão pedindo Isaque como sacrifício?",
+    "alternativas": [
+      "Abraão demonstrou fé e Deus providenciou um carneiro",
+      "Abraão perdeu a promessa de Deus",
+      "Isaque foi levado para o Egito",
+      "Abraão se tornou rei de Canaã"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 22:9-13",
+    "explicacao": "Abraão demonstrou sua fé e obediência a Deus, que providenciou um carneiro para o sacrifício no lugar de Isaque."
+  },
+  {
+    "id": 112,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Jacó fugiu da casa de Labão?",
+    "alternativas": [
+      "Ele fez uma aliança de paz com Labão em Gileade",
+      "Ele recebeu os Dez Mandamentos",
+      "Ele conquistou Canaã",
+      "Ele se tornou governador do Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 31:44-54",
+    "explicacao": "Jacó e Labão fizeram uma aliança de paz em Gileade após a fuga de Jacó."
+  },
+  {
+    "id": 113,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando José interpretou o sonho dos padeiros e copeiros?",
+    "alternativas": [
+      "Um deles foi restaurado e o outro condenado",
+      "Ambos se tornaram governadores",
+      "José saiu da prisão imediatamente",
+      "Eles libertaram Israel do Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 40:20-22",
+    "explicacao": "José interpretou corretamente os sonhos: o copeiro foi restaurado e o padeiro foi condenado."
+  },
+  {
+    "id": 114,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento marcou a primeira celebração da Páscoa pelos israelitas?",
+    "alternativas": [
+      "A morte dos primogênitos do Egito e a proteção pelo sangue do cordeiro",
+      "A construção do tabernáculo",
+      "A travessia do Jordão",
+      "A conquista de Canaã"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 12:21-30",
+    "explicacao": "A primeira Páscoa marcou a libertação dos israelitas quando o sangue do cordeiro protegeu suas casas."
+  },
+  {
+    "id": 115,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Moisés venceu a batalha contra Amaleque?",
+    "alternativas": [
+      "Arão e Hur sustentaram suas mãos levantadas",
+      "Moisés usou uma espada poderosa",
+      "O povo construiu um templo",
+      "Israel recebeu a terra de Canaã"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 17:11-12",
+    "explicacao": "Enquanto Moisés mantinha as mãos levantadas, Israel prevalecia, com ajuda de Arão e Hur."
+  },
+  {
+    "id": 116,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Deus ordenou a construção do tabernáculo?",
+    "alternativas": [
+      "Deus revelou a Moisés o modelo para sua construção",
+      "O templo de Jerusalém foi construído",
+      "Israel deixou Canaã",
+      "Saul foi escolhido rei"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 25:8-9",
+    "explicacao": "Deus mostrou a Moisés o modelo do tabernáculo para que fosse construído conforme sua orientação."
+  },
+  {
+    "id": 117,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Levítico",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando os sacerdotes ofereceram o primeiro sacrifício no tabernáculo?",
+    "alternativas": [
+      "A glória do Senhor apareceu ao povo",
+      "O tabernáculo foi destruído",
+      "Moisés deixou de liderar Israel",
+      "O povo voltou ao Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Levítico 9:23-24",
+    "explicacao": "Após os primeiros sacrifícios, a glória do Senhor apareceu e o fogo de Deus consumiu a oferta."
+  },
+  {
+    "id": 118,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando os dez espias deram um relatório negativo sobre Canaã?",
+    "alternativas": [
+      "Israel foi condenado a peregrinar 40 anos no deserto",
+      "Israel entrou imediatamente em Canaã",
+      "Moisés perdeu a liderança",
+      "Josué voltou para o Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 14:29-33",
+    "explicacao": "Por causa da incredulidade do povo, Deus determinou que aquela geração peregrinaria 40 anos no deserto."
+  },
+  {
+    "id": 119,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Corá se rebelou contra Moisés?",
+    "alternativas": [
+      "Deus confirmou a liderança de Moisés e Arão",
+      "Corá tornou-se sacerdote",
+      "Israel perdeu a arca",
+      "O povo conquistou Jerusalém"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 16:28-35",
+    "explicacao": "Deus confirmou Moisés e Arão como líderes ao julgar a rebelião de Corá."
+  },
+  {
+    "id": 120,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Balaão tentou amaldiçoar Israel?",
+    "alternativas": [
+      "Deus transformou suas palavras em bênçãos",
+      "Ele destruiu Israel",
+      "Ele tornou-se rei",
+      "Ele recebeu os Dez Mandamentos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 23:11-12",
+    "explicacao": "Deus impediu Balaão de amaldiçoar Israel e fez com que ele declarasse bênçãos."
+  },
+  {
+    "id": 121,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Josué",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Josué renovou a aliança com Israel em Siquém?",
+    "alternativas": [
+      "O povo declarou que serviria ao Senhor",
+      "O povo escolheu um novo rei",
+      "O templo foi reconstruído",
+      "A arca foi destruída"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Josué 24:15-18",
+    "explicacao": "O povo reafirmou seu compromisso de servir somente ao Senhor."
+  },
+  {
+    "id": 122,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Juízes",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Gideão pediu um segundo sinal a Deus com o velo?",
+    "alternativas": [
+      "Deus confirmou sua promessa novamente",
+      "Gideão abandonou a batalha",
+      "O povo foi levado ao Egito",
+      "O altar foi destruído"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Juízes 6:39-40",
+    "explicacao": "Deus confirmou novamente sua promessa a Gideão através do sinal do velo."
+  },
+  {
+    "id": 123,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Juízes",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Sansão revelou o segredo de sua força?",
+    "alternativas": [
+      "Ele contou sobre seu cabelo e perdeu sua força",
+      "Ele recebeu uma nova missão",
+      "Ele se tornou rei",
+      "Ele derrotou todos os filisteus sozinho"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Juízes 16:17-19",
+    "explicacao": "Sansão revelou seu segredo a Dalila e perdeu sua força quando seu cabelo foi cortado."
+  },
+  {
+    "id": 124,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Samuel pediu um rei para Israel?",
+    "alternativas": [
+      "Saul foi escolhido como primeiro rei",
+      "Davi construiu o templo",
+      "Salomão recebeu sabedoria",
+      "Israel voltou do exílio"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Samuel 10:24",
+    "explicacao": "Saul foi escolhido como o primeiro rei de Israel."
+  },
+  {
+    "id": 125,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Davi consultou Deus antes de enfrentar os filisteus?",
+    "alternativas": [
+      "Deus deu instruções para a batalha e concedeu vitória",
+      "Deus ordenou que fugisse de Israel",
+      "Davi perdeu Jerusalém",
+      "Saul voltou ao trono"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Samuel 5:19-20",
+    "explicacao": "Davi consultou Deus e recebeu orientação para vencer os filisteus."
+  },
+  {
+    "id": 126,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Salomão pediu sabedoria a Deus?",
+    "alternativas": [
+      "Deus também lhe concedeu riquezas e honra",
+      "Deus tirou seu reino",
+      "Deus destruiu o templo",
+      "Deus enviou Israel ao exílio"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Reis 3:12-13",
+    "explicacao": "Além da sabedoria, Deus concedeu a Salomão riquezas e honra."
+  },
+  {
+    "id": 127,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando o profeta Elias fugiu de Jezabel?",
+    "alternativas": [
+      "Deus o alimentou por meio de um anjo no deserto",
+      "Elias foi preso",
+      "Elias perdeu seu chamado",
+      "Elias voltou ao Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Reis 19:5-8",
+    "explicacao": "Deus fortaleceu Elias enviando um anjo para alimentá-lo no deserto."
+  },
+  {
+    "id": 128,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Reis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Eliseu recebeu uma porção dobrada do espírito de Elias?",
+    "alternativas": [
+      "Ele viu Elias ser levado ao céu e recebeu seu manto",
+      "Ele construiu o templo",
+      "Ele foi coroado rei",
+      "Ele liderou uma guerra"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Reis 2:9-14",
+    "explicacao": "Eliseu recebeu a continuidade do ministério profético de Elias."
+  },
+  {
+    "id": 129,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Crônicas",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando o rei Manassés se arrependeu?",
+    "alternativas": [
+      "Ele humilhou-se diante de Deus e foi restaurado",
+      "Ele destruiu Jerusalém",
+      "Ele saiu do Egito",
+      "Ele construiu o templo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Crônicas 33:12-13",
+    "explicacao": "Manassés se humilhou diante de Deus, orou e foi restaurado ao seu reino."
+  },
+  {
+    "id": 130,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Neemias",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Esdras leu a Lei diante do povo?",
+    "alternativas": [
+      "O povo chorou e renovou seu compromisso com Deus",
+      "O povo rejeitou a Lei",
+      "Jerusalém foi destruída",
+      "O templo foi abandonado"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Neemias 8:8-9",
+    "explicacao": "O povo ouviu a leitura da Lei, se arrependeu e renovou seu compromisso com Deus."
+  },
+  {
+    "id": 131,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Abraão encontrou Melquisedeque?",
+    "alternativas": [
+      "Recebeu dele pão e vinho e entregou o dízimo",
+      "Foi ungido como rei de Israel",
+      "Recebeu os Dez Mandamentos",
+      "Construiu o templo de Jerusalém"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 14:18-20",
+    "explicacao": "Melquisedeque abençoou Abraão, oferecendo pão e vinho, e Abraão entregou o dízimo."
+  },
+  {
+    "id": 132,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Jacó recebeu a bênção de Isaque?",
+    "alternativas": [
+      "Jacó recebeu a bênção destinada ao primogênito",
+      "Jacó foi coroado rei",
+      "Jacó construiu um altar em Jerusalém",
+      "Jacó recebeu a Lei de Deus"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 27:27-29",
+    "explicacao": "Jacó recebeu a bênção que Isaque pretendia dar ao primogênito, após seguir a orientação de sua mãe."
+  },
+  {
+    "id": 133,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando José revelou seus sonhos aos irmãos?",
+    "alternativas": [
+      "Seus irmãos passaram a odiá-lo e o venderam como escravo",
+      "Ele se tornou governador do Egito",
+      "Ele recebeu a promessa de Canaã",
+      "Ele construiu uma cidade"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 37:5-8,28",
+    "explicacao": "Os sonhos de José despertaram inveja em seus irmãos, que acabaram vendendo-o como escravo."
+  },
+  {
+    "id": 134,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento marcou a primeira vez que Moisés tentou libertar Israel?",
+    "alternativas": [
+      "Ele matou um egípcio e fugiu para Midiã",
+      "Ele abriu o Mar Vermelho",
+      "Ele recebeu as tábuas da Lei",
+      "Ele derrotou Faraó em batalha"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 2:11-15",
+    "explicacao": "Moisés matou um egípcio ao defender um hebreu e depois fugiu para Midiã."
+  },
+  {
+    "id": 135,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Levítico",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Nadabe e Abiú ofereceram fogo estranho ao Senhor?",
+    "alternativas": [
+      "Foram mortos diante do Senhor",
+      "Foram feitos sacerdotes principais",
+      "Foram enviados para Canaã",
+      "Construíram o tabernáculo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Levítico 10:1-2",
+    "explicacao": "Nadabe e Abiú foram mortos por oferecerem fogo não autorizado diante de Deus."
+  },
+  {
+    "id": 136,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Miriã e Arão falaram contra Moisés?",
+    "alternativas": [
+      "Miriã ficou leprosa temporariamente",
+      "Arão perdeu o sacerdócio",
+      "Moisés foi expulso do povo",
+      "Israel voltou ao Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 12:10",
+    "explicacao": "Miriã foi castigada com lepra por se rebelar contra Moisés."
+  },
+  {
+    "id": 137,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando a serpente de bronze foi levantada no deserto?",
+    "alternativas": [
+      "O povo que olhava para ela era curado das mordidas",
+      "O povo recebeu a Lei",
+      "Israel conquistou Jericó",
+      "Moisés entrou em Canaã"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 21:8-9",
+    "explicacao": "Deus ordenou que Moisés levantasse a serpente de bronze para que os feridos fossem curados ao olhar para ela."
+  },
+  {
+    "id": 138,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Josué",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Josué parou o sol durante uma batalha?",
+    "alternativas": [
+      "Deus atendeu a oração de Josué para prolongar o dia",
+      "Josué recebeu os Dez Mandamentos",
+      "O povo atravessou o Mar Vermelho",
+      "O templo foi construído"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Josué 10:12-14",
+    "explicacao": "Deus respondeu à oração de Josué e prolongou o dia para que Israel vencesse a batalha."
+  },
+  {
+    "id": 139,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Josué",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Israel fez aliança com os gibeonitas?",
+    "alternativas": [
+      "Foram enganados pelos gibeonitas e fizeram um acordo",
+      "Destruíram completamente Gibeão",
+      "Foram levados ao Egito",
+      "Perderam a arca da aliança"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Josué 9:14-15",
+    "explicacao": "Os israelitas foram enganados pelos gibeonitas e fizeram uma aliança sem consultar Deus."
+  },
+  {
+    "id": 140,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Juízes",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento marcou o chamado de Gideão?",
+    "alternativas": [
+      "Deus apareceu a ele e prometeu vitória sobre os midianitas",
+      "Ele foi coroado rei",
+      "Ele construiu o templo",
+      "Ele atravessou o Jordão"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Juízes 6:12-16",
+    "explicacao": "Deus chamou Gideão para libertar Israel dos midianitas e prometeu estar com ele."
+  },
+  {
+    "id": 141,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Juízes",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Jefté fez um voto ao Senhor?",
+    "alternativas": [
+      "Prometeu oferecer ao Senhor o que saísse primeiro de sua casa",
+      "Construiu um altar no templo",
+      "Recebeu os Dez Mandamentos",
+      "Foi ungido sacerdote"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Juízes 11:30-31",
+    "explicacao": "Jefté fez um voto ao Senhor antes de lutar contra os amonitas."
+  },
+  {
+    "id": 142,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Samuel",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Samuel ungiu Davi?",
+    "alternativas": [
+      "O Espírito do Senhor veio sobre Davi",
+      "Davi tornou-se rei imediatamente",
+      "Saul entregou o trono",
+      "Davi construiu o templo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Samuel 16:13",
+    "explicacao": "Após a unção feita por Samuel, o Espírito do Senhor veio sobre Davi."
+  },
+  {
+    "id": 143,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Samuel",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Davi levou a arca para Jerusalém pela primeira vez?",
+    "alternativas": [
+      "Uzá morreu ao tocar na arca",
+      "A arca foi destruída",
+      "Saul recuperou o trono",
+      "O templo foi inaugurado"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Samuel 6:6-7",
+    "explicacao": "Uzá morreu ao tocar na arca da aliança, pois Deus havia estabelecido regras específicas para transportá-la."
+  },
+  {
+    "id": 144,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Salomão julgou a causa de duas mulheres e um bebê?",
+    "alternativas": [
+      "Demonstrou sabedoria ao descobrir a verdadeira mãe",
+      "Criou uma nova lei",
+      "Dividiu o reino",
+      "Construiu o tabernáculo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Reis 3:16-28",
+    "explicacao": "Salomão revelou sua sabedoria ao identificar a verdadeira mãe da criança."
+  },
+  {
+    "id": 145,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando o profeta Elias enfrentou os profetas de Baal?",
+    "alternativas": [
+      "Deus respondeu enviando fogo sobre o altar",
+      "Elias recebeu os Dez Mandamentos",
+      "O templo foi destruído",
+      "Israel atravessou o Jordão"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Reis 18:36-38",
+    "explicacao": "Deus respondeu à oração de Elias enviando fogo sobre o altar no Monte Carmelo."
+  },
+  {
+    "id": 146,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Reis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Eliseu lançou sal nas águas ruins de Jericó?",
+    "alternativas": [
+      "As águas foram purificadas",
+      "O rio Jordão secou",
+      "Uma cidade caiu",
+      "Israel venceu uma guerra"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Reis 2:19-22",
+    "explicacao": "Deus usou Eliseu para purificar as águas ruins de Jericó."
+  },
+  {
+    "id": 147,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Reis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando o rei Ezequias recebeu a ameaça de Senaqueribe?",
+    "alternativas": [
+      "Ele orou ao Senhor e Deus derrotou o exército assírio",
+      "Ele entregou Jerusalém aos inimigos",
+      "Ele fugiu para o Egito",
+      "Ele destruiu o templo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Reis 19:14-19,35",
+    "explicacao": "Ezequias buscou a Deus em oração e o Senhor derrotou o exército assírio."
+  },
+  {
+    "id": 148,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Reis",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando o livro da Lei foi encontrado no reinado de Josias?",
+    "alternativas": [
+      "O rei promoveu uma grande reforma espiritual",
+      "O povo construiu uma nova cidade",
+      "O reino foi dividido",
+      "O templo foi abandonado"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Reis 23:1-3",
+    "explicacao": "Após encontrar o Livro da Lei, Josias renovou a aliança e promoveu uma reforma espiritual."
+  },
+  {
+    "id": 149,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento aconteceu quando Nabucodonosor se exaltou contra Deus?",
+    "alternativas": [
+      "Foi afastado dos homens e passou a viver como animal",
+      "Foi destruído em uma batalha",
+      "Foi levado ao Egito",
+      "Perdeu seu exército no mar"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Daniel 4:31-33",
+    "explicacao": "Nabucodonosor foi humilhado por Deus e passou um período vivendo como animal."
+  },
+  {
+    "id": 150,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Esdras",
+    "nivel": "Difícil",
+    "pergunta": "Qual evento marcou a reconstrução do templo após o exílio babilônico?",
+    "alternativas": [
+      "Zorobabel liderou o povo na reconstrução",
+      "Davi iniciou a obra",
+      "Salomão voltou ao trono",
+      "Moisés entregou a Lei novamente"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Esdras 3:8-10",
+    "explicacao": "Zorobabel liderou a reconstrução do templo após o retorno dos judeus do exílio."
+  },
+  {
+    "id": 151,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Deus chamou Abraão para sair de sua terra?",
+    "alternativas": [
+      "Deus prometeu fazer dele uma grande nação",
+      "Deus deu os Dez Mandamentos",
+      "Deus destruiu Sodoma",
+      "Deus escolheu Saul como rei"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 12:1-3",
+    "explicacao": "Deus chamou Abraão para sair de sua terra e prometeu fazer dele uma grande nação."
+  },
+  {
+    "id": 152,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Sara recebeu a promessa de um filho na velhice?",
+    "alternativas": [
+      "O nascimento de Isaque",
+      "O nascimento de Jacó",
+      "A fuga de Abraão para o Egito",
+      "A destruição de Sodoma"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 21:1-3",
+    "explicacao": "Deus cumpriu sua promessa e Sara teve Isaque mesmo em idade avançada."
+  },
+  {
+    "id": 153,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando José foi preso no Egito?",
+    "alternativas": [
+      "Ele interpretou sonhos dos oficiais do faraó",
+      "Ele voltou para Canaã",
+      "Ele se tornou rei",
+      "Ele construiu um altar"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 40:5-8",
+    "explicacao": "Mesmo preso, José interpretou os sonhos dos oficiais do faraó pelo poder de Deus."
+  },
+  {
+    "id": 154,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Médio",
+    "pergunta": "Qual evento marcou a saída dos israelitas do Egito?",
+    "alternativas": [
+      "A instituição da Páscoa",
+      "A construção do templo",
+      "A escolha de Davi como rei",
+      "A conquista de Jerusalém"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 12:14",
+    "explicacao": "A Páscoa foi instituída como memorial da libertação dos israelitas do Egito."
+  },
+  {
+    "id": 155,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Moisés feriu a rocha em vez de falar com ela?",
+    "alternativas": [
+      "Ele foi impedido de entrar na Terra Prometida",
+      "Ele recebeu os Dez Mandamentos",
+      "Ele derrotou os amalequitas",
+      "Ele construiu o tabernáculo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 20:11-12",
+    "explicacao": "Por desobedecer à ordem de Deus, Moisés não entrou na Terra Prometida."
+  },
+  {
+    "id": 156,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Josué",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Josué enviou dois espias a Jericó?",
+    "alternativas": [
+      "Raabe escondeu os espias",
+      "A cidade foi imediatamente destruída",
+      "O povo atravessou o Mar Vermelho",
+      "O rei de Jericó se tornou aliado de Israel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Josué 2:1-4",
+    "explicacao": "Raabe protegeu os espias israelitas enviados para observar Jericó."
+  },
+  {
+    "id": 157,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Josué",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Josué e o povo renovaram a aliança com Deus?",
+    "alternativas": [
+      "A leitura da Lei no Monte Ebal",
+      "A construção do templo",
+      "A divisão do reino",
+      "O cativeiro da Babilônia"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Josué 8:30-35",
+    "explicacao": "Josué renovou a aliança lendo a Lei diante do povo de Israel."
+  },
+  {
+    "id": 158,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Juízes",
+    "nivel": "Médio",
+    "pergunta": "Qual evento marcou a vitória de Débora e Baraque contra Sísera?",
+    "alternativas": [
+      "Deus entregou o exército inimigo nas mãos de Israel",
+      "O mar se abriu",
+      "Jericó caiu",
+      "Israel saiu do Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Juízes 4:14-16",
+    "explicacao": "Deus deu vitória a Israel sobre o exército de Sísera através de Débora e Baraque."
+  },
+  {
+    "id": 159,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Juízes",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Gideão venceu os midianitas?",
+    "alternativas": [
+      "Ele venceu com apenas 300 homens",
+      "Ele usou um grande exército",
+      "Ele conquistou Jerusalém",
+      "Ele construiu o templo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Juízes 7:7",
+    "explicacao": "Deus deu vitória a Gideão usando apenas 300 homens para mostrar seu poder."
+  },
+  {
+    "id": 160,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Rute",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Rute decidiu seguir Noemi?",
+    "alternativas": [
+      "Ela deixou sua terra e passou a fazer parte do povo de Israel",
+      "Ela se tornou rainha de Israel",
+      "Ela libertou o Egito",
+      "Ela construiu um altar"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Rute 1:16-17",
+    "explicacao": "Rute escolheu permanecer com Noemi e seguir o Deus de Israel."
+  },
+  {
+    "id": 161,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "pergunta": "Qual evento marcou a escolha de Saul como primeiro rei de Israel?",
+    "alternativas": [
+      "Samuel ungiu Saul",
+      "Davi derrotou Golias",
+      "Salomão construiu o templo",
+      "Elias enfrentou Baal"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Samuel 10:1",
+    "explicacao": "Samuel ungiu Saul como primeiro rei de Israel."
+  },
+  {
+    "id": 162,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Davi trouxe a arca da aliança para Jerusalém?",
+    "alternativas": [
+      "Davi celebrou com alegria diante do Senhor",
+      "A arca foi destruída",
+      "O templo foi queimado",
+      "Saul voltou ao poder"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Samuel 6:14-15",
+    "explicacao": "Davi celebrou com alegria a chegada da arca da aliança em Jerusalém."
+  },
+  {
+    "id": 163,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Samuel",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Davi pecou com Bate-Seba?",
+    "alternativas": [
+      "O profeta Natã o repreendeu",
+      "Ele perdeu o trono imediatamente",
+      "Ele foi levado ao Egito",
+      "Ele deixou Israel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Samuel 12:7",
+    "explicacao": "O profeta Natã confrontou Davi por causa de seu pecado."
+  },
+  {
+    "id": 164,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Elias foi levado ao céu?",
+    "alternativas": [
+      "Ele foi levado por um redemoinho",
+      "Ele morreu em batalha",
+      "Ele foi preso pelo rei Acabe",
+      "Ele construiu um altar"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Reis 2:11",
+    "explicacao": "Elias foi levado ao céu por um redemoinho acompanhado de um carro de fogo."
+  },
+  {
+    "id": 165,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Eliseu recebeu o manto de Elias?",
+    "alternativas": [
+      "Ele passou a exercer o ministério profético",
+      "Ele tornou-se rei",
+      "Ele construiu o templo",
+      "Ele saiu do Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Reis 2:13-15",
+    "explicacao": "Eliseu recebeu a missão profética que antes pertencia a Elias."
+  },
+  {
+    "id": 166,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Naamã mergulhou no rio Jordão?",
+    "alternativas": [
+      "Foi curado da lepra",
+      "Tornou-se rei da Síria",
+      "Conquistou Israel",
+      "Recebeu os Dez Mandamentos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Reis 5:14",
+    "explicacao": "Naamã foi curado da lepra após obedecer à orientação dada por Deus através de Eliseu."
+  },
+  {
+    "id": 167,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu durante o reinado de Ezequias quando a Assíria cercou Jerusalém?",
+    "alternativas": [
+      "Deus livrou Jerusalém do exército assírio",
+      "Jerusalém foi destruída",
+      "O templo foi construído",
+      "Israel voltou do Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Reis 19:35",
+    "explicacao": "Deus derrotou o exército assírio e protegeu Jerusalém."
+  },
+  {
+    "id": 168,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Reis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento marcou a vida de Josias como rei?",
+    "alternativas": [
+      "Encontrou o Livro da Lei e promoveu uma reforma",
+      "Construiu a arca",
+      "Dividiu o Mar Vermelho",
+      "Derrotou Golias"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Reis 22:8-11",
+    "explicacao": "Josias encontrou o Livro da Lei e iniciou uma grande reforma espiritual em Israel."
+  },
+  {
+    "id": 169,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Daniel interpretou o sonho de Nabucodonosor?",
+    "alternativas": [
+      "Revelou o significado da grande estátua",
+      "Construiu o templo",
+      "Liderou Israel na conquista de Canaã",
+      "Foi ungido rei"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Daniel 2:31-45",
+    "explicacao": "Daniel revelou o significado do sonho da grande estátua ao rei Nabucodonosor."
+  },
+  {
+    "id": 170,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Neemias",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Neemias terminou a reconstrução dos muros de Jerusalém?",
+    "alternativas": [
+      "O povo celebrou a conclusão da obra",
+      "A cidade foi destruída novamente",
+      "O templo foi levado para Babilônia",
+      "O povo voltou ao Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Neemias 8:10-12",
+    "explicacao": "Após a reconstrução dos muros, o povo celebrou e ouviu a leitura da Lei de Deus."
+  },
+  {
+    "id": 171,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Deus fez uma aliança com Abraão através da circuncisão?",
+    "alternativas": [
+      "A confirmação da aliança com Abraão e sua descendência",
+      "A libertação do Egito",
+      "A construção do templo",
+      "A conquista de Jericó"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 17:9-11",
+    "explicacao": "A circuncisão foi estabelecida como sinal da aliança entre Deus, Abraão e sua descendência."
+  },
+  {
+    "id": 172,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Abraão intercedeu por Sodoma?",
+    "alternativas": [
+      "Pediu misericórdia a Deus pela cidade",
+      "Construiu uma cidade nova",
+      "Derrotou um exército inimigo",
+      "Saiu do Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 18:22-33",
+    "explicacao": "Abraão intercedeu diante de Deus pedindo misericórdia pelos habitantes de Sodoma."
+  },
+  {
+    "id": 173,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento marcou o encontro de Jacó com seu irmão Esaú depois de muitos anos?",
+    "alternativas": [
+      "A reconciliação entre os irmãos",
+      "A divisão do reino",
+      "A construção do altar",
+      "A fuga para o Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 33:4",
+    "explicacao": "Jacó e Esaú se reconciliaram depois de anos separados."
+  },
+  {
+    "id": 174,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando José interpretou os sonhos do faraó?",
+    "alternativas": [
+      "Foi colocado como governador do Egito",
+      "Foi preso novamente",
+      "Foi expulso do Egito",
+      "Foi escolhido como sacerdote"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 41:39-41",
+    "explicacao": "Após interpretar os sonhos do faraó, José foi colocado como governador do Egito."
+  },
+  {
+    "id": 175,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Médio",
+    "pergunta": "Qual evento marcou o início das dez pragas do Egito?",
+    "alternativas": [
+      "A transformação das águas do Nilo em sangue",
+      "A queda dos muros de Jericó",
+      "A divisão do reino",
+      "O nascimento de Samuel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 7:20",
+    "explicacao": "A primeira praga foi a transformação das águas do rio Nilo em sangue."
+  },
+  {
+    "id": 176,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Israel adorou o bezerro de ouro?",
+    "alternativas": [
+      "Moisés quebrou as tábuas da Lei",
+      "O povo entrou em Canaã",
+      "O templo foi construído",
+      "Davi foi coroado rei"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 32:19",
+    "explicacao": "Moisés quebrou as tábuas da Lei ao ver o povo adorando o bezerro de ouro."
+  },
+  {
+    "id": 177,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Corá se rebelou contra Moisés?",
+    "alternativas": [
+      "A terra se abriu e engoliu os rebeldes",
+      "O povo atravessou o Jordão",
+      "O maná parou de cair",
+      "O templo foi destruído"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 16:31-32",
+    "explicacao": "Deus julgou a rebelião de Corá fazendo a terra se abrir e engolir os rebeldes."
+  },
+  {
+    "id": 178,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Moisés enviou doze espias para Canaã?",
+    "alternativas": [
+      "Dez espias deram um relatório negativo e dois confiaram em Deus",
+      "Todos conquistaram Canaã imediatamente",
+      "O povo voltou ao Egito",
+      "O templo foi construído"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 13:27-33; 14:6-9",
+    "explicacao": "A maioria dos espias teve medo, mas Josué e Calebe confiaram na promessa de Deus."
+  },
+  {
+    "id": 179,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Balaão foi impedido de amaldiçoar Israel?",
+    "alternativas": [
+      "Sua jumenta falou com ele",
+      "Ele abriu o Mar Vermelho",
+      "Ele derrotou os amalequitas",
+      "Ele construiu um altar em Jerusalém"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 22:28-30",
+    "explicacao": "Deus fez a jumenta de Balaão falar para impedir que ele seguisse um caminho errado."
+  },
+  {
+    "id": 180,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Deuteronômio",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu antes da entrada de Israel na Terra Prometida?",
+    "alternativas": [
+      "Moisés morreu no Monte Nebo",
+      "Davi foi ungido rei",
+      "Salomão construiu o templo",
+      "Saul perdeu o trono"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Deuteronômio 34:5",
+    "explicacao": "Moisés morreu no Monte Nebo antes que Israel entrasse na Terra Prometida."
+  },
+  {
+    "id": 181,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Josué",
+    "nivel": "Médio",
+    "pergunta": "Qual evento marcou a conquista de Jericó?",
+    "alternativas": [
+      "O povo rodeou a cidade por sete dias e os muros caíram",
+      "O exército de Israel usou armas de ferro",
+      "A cidade se rendeu ao Egito",
+      "Davi conquistou a cidade"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Josué 6:15-20",
+    "explicacao": "Os muros de Jericó caíram após o povo obedecer às instruções dadas por Deus."
+  },
+  {
+    "id": 182,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Josué",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Acã desobedeceu a Deus após a vitória em Jericó?",
+    "alternativas": [
+      "Israel foi derrotado na batalha contra Ai",
+      "Israel perdeu a arca",
+      "Jerusalém foi destruída",
+      "O reino foi dividido"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Josué 7:4-5",
+    "explicacao": "A desobediência de Acã trouxe derrota para Israel na batalha contra Ai."
+  },
+  {
+    "id": 183,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Juízes",
+    "nivel": "Médio",
+    "pergunta": "Qual evento marcou o pedido de Gideão a Deus antes da batalha?",
+    "alternativas": [
+      "O sinal do velo de lã",
+      "A construção do templo",
+      "A abertura do Jordão",
+      "A queda de Jerusalém"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Juízes 6:36-40",
+    "explicacao": "Gideão pediu sinais a Deus usando um velo de lã para confirmar sua missão."
+  },
+  {
+    "id": 184,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Juízes",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Sansão derrotou muitos filisteus?",
+    "alternativas": [
+      "Derrubou as colunas do templo dos filisteus",
+      "Construiu uma fortaleza",
+      "Tornou-se rei de Israel",
+      "Abriu o Mar Vermelho"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Juízes 16:29-30",
+    "explicacao": "Sansão derrubou as colunas do templo dos filisteus em seu último ato de força."
+  },
+  {
+    "id": 185,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "pergunta": "Qual evento marcou o chamado de Samuel como profeta?",
+    "alternativas": [
+      "Deus falou com Samuel ainda menino",
+      "Samuel venceu Golias",
+      "Samuel construiu o templo",
+      "Samuel libertou Israel do Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Samuel 3:10-11",
+    "explicacao": "Deus chamou Samuel ainda criança para ser seu profeta."
+  },
+  {
+    "id": 186,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Samuel",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Davi poupou Saul na caverna?",
+    "alternativas": [
+      "Davi decidiu não matar o rei ungido por Deus",
+      "Saul entregou o reino a Davi",
+      "Davi voltou para Belém",
+      "Davi construiu o templo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Samuel 24:6-7",
+    "explicacao": "Davi poupou Saul porque reconhecia que ele havia sido ungido por Deus."
+  },
+  {
+    "id": 187,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu quando Salomão dedicou o templo?",
+    "alternativas": [
+      "A glória do Senhor encheu o templo",
+      "O templo foi destruído",
+      "Israel foi levado ao exílio",
+      "O reino foi dividido"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Reis 8:10-11",
+    "explicacao": "A presença de Deus encheu o templo quando Salomão o dedicou."
+  },
+  {
+    "id": 188,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento causou a divisão do reino de Israel?",
+    "alternativas": [
+      "A rejeição do conselho dos anciãos por Roboão",
+      "A morte de Davi",
+      "A queda de Jericó",
+      "A saída do Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Reis 12:13-16",
+    "explicacao": "A decisão de Roboão de rejeitar o conselho dos anciãos levou à divisão do reino."
+  },
+  {
+    "id": 189,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Médio",
+    "pergunta": "Qual evento aconteceu no Monte Carmelo com Elias?",
+    "alternativas": [
+      "Deus respondeu com fogo sobre o altar",
+      "Elias recebeu os Dez Mandamentos",
+      "Elias abriu o Jordão",
+      "Elias construiu o templo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Reis 18:36-38",
+    "explicacao": "Deus respondeu à oração de Elias enviando fogo sobre o altar no Monte Carmelo."
+  },
+  {
+    "id": 190,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Esdras",
+    "nivel": "Médio",
+    "pergunta": "Qual evento marcou o retorno dos judeus do cativeiro babilônico?",
+    "alternativas": [
+      "Ciro permitiu a reconstrução do templo",
+      "Israel conquistou o Egito",
+      "Davi voltou ao trono",
+      "Saul foi escolhido rei"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Esdras 1:1-3",
+    "explicacao": "O rei Ciro permitiu que os judeus retornassem e reconstruíssem o templo em Jerusalém."
+  },
+  {
+    "id": 191,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu quando Moisés desceu do monte Sinai?",
+    "alternativas": [
+      "Encontrou o povo adorando o bezerro de ouro",
+      "Encontrou Jericó destruída",
+      "Encontrou Davi como rei",
+      "Encontrou o templo pronto"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 32:7-8",
+    "explicacao": "Quando Moisés desceu do monte Sinai, encontrou o povo adorando um bezerro de ouro."
+  },
+  {
+    "id": 192,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando o povo reclamou por comida no deserto?",
+    "alternativas": [
+      "Deus enviou o maná",
+      "Deus enviou um rei",
+      "Deus abriu o Jordão",
+      "Deus destruiu o Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 16:4,15",
+    "explicacao": "Deus enviou o maná do céu para alimentar o povo de Israel durante sua caminhada no deserto."
+  },
+  {
+    "id": 193,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Josué e Calebe confiaram em Deus ao espiar Canaã?",
+    "alternativas": [
+      "Foram os únicos dos espias que tiveram fé",
+      "Construíram o templo",
+      "Derrotaram Golias",
+      "Dividiram o reino"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 14:6-9",
+    "explicacao": "Josué e Calebe foram os únicos espias que confiaram na promessa de Deus sobre a Terra Prometida."
+  },
+  {
+    "id": 194,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Números",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu com a vara de Arão?",
+    "alternativas": [
+      "Floresceu como sinal de escolha de Deus",
+      "Virou ouro",
+      "Abriu o mar",
+      "Destruiu uma cidade"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Números 17:8",
+    "explicacao": "A vara de Arão floresceu para mostrar que Deus o havia escolhido para o sacerdócio."
+  },
+  {
+    "id": 195,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento marcou a entrada de Israel em Canaã?",
+    "alternativas": [
+      "A queda das muralhas de Jericó",
+      "O nascimento de Moisés",
+      "O dilúvio",
+      "A construção da arca"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Josué 6:20",
+    "explicacao": "A queda das muralhas de Jericó foi uma das primeiras grandes vitórias de Israel em Canaã."
+  },
+  {
+    "id": 196,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Juízes",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu quando Sansão perdeu sua força?",
+    "alternativas": [
+      "Seu cabelo foi cortado",
+      "Ele perdeu uma batalha contra Golias",
+      "Ele saiu do Egito",
+      "Ele construiu um templo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Juízes 16:17-19",
+    "explicacao": "Sansão perdeu sua força quando seu cabelo foi cortado, pois era o sinal de sua consagração a Deus."
+  },
+  {
+    "id": 197,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Samuel ouviu Deus pela primeira vez?",
+    "alternativas": [
+      "Deus chamou Samuel enquanto ele dormia",
+      "Samuel abriu o Mar Vermelho",
+      "Samuel construiu a arca",
+      "Samuel derrotou Golias"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Samuel 3:4-10",
+    "explicacao": "Deus chamou Samuel durante a noite e iniciou sua missão como profeta."
+  },
+  {
+    "id": 198,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "2 Samuel",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Davi se tornou rei de Israel?",
+    "alternativas": [
+      "Ele foi ungido e estabelecido como rei",
+      "Ele construiu o templo",
+      "Ele libertou o Egito",
+      "Ele recebeu os Dez Mandamentos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "2 Samuel 5:3-4",
+    "explicacao": "Davi foi ungido e reconhecido como rei sobre Israel."
+  },
+  {
+    "id": 199,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Salomão pediu sabedoria a Deus?",
+    "alternativas": [
+      "Deus concedeu sabedoria a ele",
+      "Deus fez dele sacerdote",
+      "Deus o levou ao Egito",
+      "Deus deu a ele a arca"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Reis 3:11-12",
+    "explicacao": "Deus concedeu grande sabedoria a Salomão porque ele pediu entendimento para governar o povo."
+  },
+  {
+    "id": 200,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Neemias",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Neemias voltou a Jerusalém?",
+    "alternativas": [
+      "Os muros da cidade foram reconstruídos",
+      "O templo foi destruído",
+      "Israel saiu do Egito",
+      "O povo atravessou o Mar Vermelho"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Neemias 6:15",
+    "explicacao": "Neemias liderou a reconstrução dos muros de Jerusalém após o retorno do exílio."
+  },
+  {
+    "id": 201,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Deus criou o homem do pó da terra?",
+    "alternativas": [
+      "A criação de Adão",
+      "O dilúvio",
+      "A torre de Babel",
+      "O êxodo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 2:7",
+    "explicacao": "Deus criou Adão formando-o do pó da terra e dando-lhe vida."
+  },
+  {
+    "id": 202,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Deus criou Eva?",
+    "alternativas": [
+      "Ela foi criada da costela de Adão",
+      "Ela nasceu em Belém",
+      "Ela foi criada no Egito",
+      "Ela foi criada por Noé"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 2:21-22",
+    "explicacao": "Deus criou Eva a partir de uma costela de Adão para ser sua companheira."
+  },
+  {
+    "id": 203,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu com Caim após matar Abel?",
+    "alternativas": [
+      "Tornou-se rei",
+      "Foi marcado e saiu da presença de Deus",
+      "Construiu a arca",
+      "Entrou na Terra Prometida"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Gênesis 4:10-16",
+    "explicacao": "Após matar Abel, Caim recebeu uma marca e saiu da presença de Deus."
+  },
+  {
+    "id": 204,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento marcou a vida de Abraão quando Deus fez uma promessa a ele?",
+    "alternativas": [
+      "A promessa de uma grande descendência",
+      "A construção do templo",
+      "A saída do Egito",
+      "A conquista de Jericó"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 15:5-6",
+    "explicacao": "Deus prometeu a Abraão uma grande descendência, comparando seus descendentes às estrelas do céu."
+  },
+  {
+    "id": 205,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu quando Deus destruiu Sodoma e Gomorra?",
+    "alternativas": [
+      "Enviou fogo e enxofre sobre as cidades",
+      "Enviou um dilúvio mundial",
+      "Derrubou seus muros",
+      "Levou o povo para o Egito"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 19:24-25",
+    "explicacao": "Deus destruiu Sodoma e Gomorra enviando fogo e enxofre por causa da maldade das cidades."
+  },
+  {
+    "id": 206,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando José revelou sua identidade aos irmãos?",
+    "alternativas": [
+      "Ele perdoou seus irmãos e os recebeu no Egito",
+      "Ele voltou para Canaã",
+      "Ele construiu uma arca",
+      "Ele se tornou rei de Israel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 45:1-5",
+    "explicacao": "José revelou sua identidade e perdoou seus irmãos, mostrando que Deus tinha um propósito em sua história."
+  },
+  {
+    "id": 207,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento marcou o nascimento de Moisés?",
+    "alternativas": [
+      "Foi colocado em um cesto no rio Nilo",
+      "Foi levado para a Babilônia",
+      "Foi escolhido como rei",
+      "Foi levado ao deserto por anjos"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 2:3",
+    "explicacao": "Moisés foi colocado em um cesto no rio Nilo para ser protegido da ordem do faraó."
+  },
+  {
+    "id": 208,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi o primeiro sinal realizado por Deus através de Moisés diante do faraó?",
+    "alternativas": [
+      "A vara se transformou em serpente",
+      "O mar se abriu",
+      "Caiu fogo do céu",
+      "O sol parou"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 7:10-12",
+    "explicacao": "A vara de Moisés se transformou em serpente diante do faraó como sinal do poder de Deus."
+  },
+  {
+    "id": 209,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu durante as pragas do Egito?",
+    "alternativas": [
+      "Deus enviou dez pragas sobre o Egito",
+      "Deus destruiu Jerusalém",
+      "Deus criou o templo",
+      "Deus dividiu Israel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 7:14–12:30",
+    "explicacao": "Deus enviou dez pragas ao Egito para libertar o povo de Israel da escravidão."
+  },
+  {
+    "id": 210,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento marcou a primeira Páscoa dos israelitas?",
+    "alternativas": [
+      "O sangue do cordeiro foi colocado nas portas",
+      "O povo atravessou o Jordão",
+      "O templo foi construído",
+      "Davi foi coroado"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Êxodo 12:7,13",
+    "explicacao": "O sangue do cordeiro nas portas protegeu os israelitas durante a última praga do Egito."
+  },
+  {
+    "id": 211,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "Qual foi o primeiro grande evento registrado na Bíblia?",
+    "alternativas": [
+      "A criação do mundo",
+      "O dilúvio",
+      "A saída do Egito",
+      "A construção do templo"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 1:1",
+    "explicacao": "O primeiro grande evento registrado na Bíblia é a criação do mundo por Deus."
+  },
+  {
+    "id": 212,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Adão e Eva desobedeceram a Deus?",
+    "alternativas": [
+      "O dilúvio",
+      "A queda do homem",
+      "A divisão do reino",
+      "A torre de Babel"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Gênesis 3:6-7",
+    "explicacao": "A desobediência de Adão e Eva ficou conhecida como a queda do homem."
+  },
+  {
+    "id": 213,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento levou Deus a enviar um grande dilúvio sobre a Terra?",
+    "alternativas": [
+      "A construção da arca",
+      "A maldade dos homens",
+      "A torre de Babel",
+      "A saída do Egito"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Gênesis 6:5-7",
+    "explicacao": "Deus enviou o dilúvio por causa da grande maldade dos homens na Terra."
+  },
+  {
+    "id": 214,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento marcou a libertação do povo de Israel do Egito?",
+    "alternativas": [
+      "A conquista de Canaã",
+      "O Êxodo",
+      "A construção do templo",
+      "O cativeiro babilônico"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Êxodo 12:31-42",
+    "explicacao": "O Êxodo foi a saída dos israelitas do Egito após a libertação realizada por Deus."
+  },
+  {
+    "id": 215,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Moisés abriu o Mar Vermelho?",
+    "alternativas": [
+      "A entrada em Canaã",
+      "A fuga do Egito",
+      "A queda de Jericó",
+      "A coroação de Saul"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Êxodo 14:21-22",
+    "explicacao": "Deus abriu o Mar Vermelho para que o povo de Israel escapasse do Egito."
+  },
+  {
+    "id": 216,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Êxodo",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu no Monte Sinai?",
+    "alternativas": [
+      "Davi venceu Golias",
+      "Moisés recebeu os Dez Mandamentos",
+      "Elias enfrentou os profetas de Baal",
+      "Salomão construiu o templo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Êxodo 31:18",
+    "explicacao": "No Monte Sinai, Deus entregou a Moisés as tábuas com os Dez Mandamentos."
+  },
+  {
+    "id": 217,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento marcou a entrada dos israelitas na Terra Prometida?",
+    "alternativas": [
+      "A travessia do Rio Jordão",
+      "A construção da arca",
+      "O nascimento de Moisés",
+      "A coroação de Davi"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Josué 3:15-17",
+    "explicacao": "A travessia do Rio Jordão marcou a entrada do povo de Israel na Terra Prometida."
+  },
+  {
+    "id": 218,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Josué",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu com os muros de Jericó?",
+    "alternativas": [
+      "Foram reconstruídos",
+      "Foram derrubados pelo poder de Deus",
+      "Foram queimados pelos filisteus",
+      "Foram destruídos por um terremoto"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Josué 6:20",
+    "explicacao": "Os muros de Jericó caíram quando o povo obedeceu às instruções dadas por Deus."
+  },
+  {
+    "id": 219,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento marcou o início da monarquia em Israel?",
+    "alternativas": [
+      "A escolha de Saul como rei",
+      "A construção do templo",
+      "A queda de Jerusalém",
+      "O nascimento de Samuel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Samuel 10:24",
+    "explicacao": "Saul foi escolhido como o primeiro rei de Israel, iniciando a monarquia."
+  },
+  {
+    "id": 220,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Samuel",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento tornou Davi conhecido em Israel?",
+    "alternativas": [
+      "A construção do templo",
+      "A vitória contra Golias",
+      "A divisão do reino",
+      "A conquista de Jerusalém"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "1 Samuel 17:49-50",
+    "explicacao": "Davi ficou conhecido após derrotar o gigante Golias com uma funda e uma pedra."
+  },
+  {
+    "id": 221,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Salomão terminou o templo?",
+    "alternativas": [
+      "A presença de Deus encheu o templo",
+      "O templo foi destruído",
+      "Israel foi levado ao Egito",
+      "Davi voltou ao trono"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "1 Reis 8:10-11",
+    "explicacao": "Quando o templo foi concluído, a glória de Deus encheu o local."
+  },
+  {
+    "id": 222,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu após a morte de Salomão?",
+    "alternativas": [
+      "O dilúvio",
+      "A divisão do reino de Israel",
+      "A queda de Jericó",
+      "A criação do mundo"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "1 Reis 12:16-20",
+    "explicacao": "Após a morte de Salomão, Israel foi dividido em dois reinos."
+  },
+  {
+    "id": 223,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "1 Reis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento Elias realizou no Monte Carmelo?",
+    "alternativas": [
+      "Construiu o templo",
+      "Derrotou os profetas de Baal",
+      "Abriu o Mar Vermelho",
+      "Liderou o povo para Canaã"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "1 Reis 18:38-39",
+    "explicacao": "Elias demonstrou o poder de Deus ao derrotar os profetas de Baal no Monte Carmelo."
+  },
+  {
+    "id": 224,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Jonas",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu com Jonas quando fugiu de Deus?",
+    "alternativas": [
+      "Foi preso",
+      "Foi engolido por um grande peixe",
+      "Perdeu sua família",
+      "Foi levado ao Egito"
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Jonas 1:17",
+    "explicacao": "Jonas foi engolido por um grande peixe após tentar fugir da missão dada por Deus."
+  },
+  {
+    "id": 225,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento marcou a vida de Daniel na Babilônia?",
+    "alternativas": [
+      "Foi lançado na cova dos leões",
+      "Construiu o templo",
+      "Derrotou Golias",
+      "Abriu o Jordão"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Daniel 6:16-23",
+    "explicacao": "Daniel foi lançado na cova dos leões por permanecer fiel a Deus."
+  },
+  {
+    "id": 226,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu com Sadraque, Mesaque e Abede-Nego?",
+    "alternativas": [
+      "Foram jogados na fornalha ardente",
+      "Construíram a arca",
+      "Dividiram o mar",
+      "Derrubaram Jericó"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Daniel 3:23-25",
+    "explicacao": "Eles foram lançados na fornalha ardente, mas Deus os protegeu."
+  },
+  {
+    "id": 227,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Esdras",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento marcou o retorno dos judeus após o exílio?",
+    "alternativas": [
+      "A reconstrução de Jerusalém e do templo",
+      "A conquista do Egito",
+      "A queda de Adão",
+      "A construção da torre de Babel"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Esdras 1:1-3",
+    "explicacao": "Após o exílio, os judeus retornaram para reconstruir Jerusalém e o templo."
+  },
+  {
+    "id": 228,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu na Torre de Babel?",
+    "alternativas": [
+      "Deus confundiu as línguas dos homens",
+      "Deus enviou o dilúvio",
+      "Moisés recebeu a Lei",
+      "Israel atravessou o Jordão"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 11:7-9",
+    "explicacao": "Deus confundiu as línguas dos homens para impedir a construção da Torre de Babel."
+  },
+  {
+    "id": 229,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento marcou a vida de José no Egito?",
+    "alternativas": [
+      "Interpretou os sonhos do faraó",
+      "Liderou Israel na guerra",
+      "Construiu o templo",
+      "Dividiu o reino"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 41:25-32",
+    "explicacao": "José interpretou os sonhos do faraó e ajudou o Egito durante a fome."
+  },
+  {
+    "id": 230,
+    "testamento": "Velho Testamento",
+    "categoria": "Eventos",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "pergunta": "Qual evento aconteceu quando Noé saiu da arca?",
+    "alternativas": [
+      "Deus fez uma aliança com ele através do arco-íris",
+      "Ele construiu Jerusalém",
+      "Ele recebeu os Dez Mandamentos",
+      "Ele conquistou Canaã"
+    ],
+    "respostaCorretaIndice": 0,
+    "referenciaBiblica": "Gênesis 9:12-13",
+    "explicacao": "Deus estabeleceu uma aliança com Noé e colocou o arco-íris como sinal dessa promessa."
+  }
+]

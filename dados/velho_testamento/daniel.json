@@ -1,0 +1,1217 @@
+[
+  {
+    "explicacao": "Belsazar era o rei que realizou um grande banquete quando apareceu a escrita misteriosa na parede.",
+    "alternativas": [
+      "Belsazar",
+      "Ciro",
+      "Dario"
+    ],
+    "id": 2687,
+    "pergunta": "Qual era o nome do rei que viu a escrita na parede durante o banquete?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 5:1"
+  },
+  {
+    "explicacao": "MENE significava que Deus havia contado os dias do reino de Belsazar e determinado o seu fim.",
+    "alternativas": [
+      "Deus contou os dias do reino de Belsazar e determinou seu fim",
+      "Deus aumentaria o reino",
+      "O rei receberia riquezas"
+    ],
+    "id": 2688,
+    "pergunta": "O que significava 'MENE' na interpretação da escrita na parede?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 5:26"
+  },
+  {
+    "explicacao": "Após a queda de Belsazar, o reino da Babilônia foi entregue aos medos e persas.",
+    "alternativas": [
+      "Reino do Egito",
+      "Reino dos medos e persas",
+      "Reino da Grécia"
+    ],
+    "id": 2689,
+    "pergunta": "Para qual reino a Babilônia foi entregue após a queda de Belsazar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 5:28,31"
+  },
+  {
+    "explicacao": "Daniel mantinha o hábito de orar três vezes ao dia, mesmo diante da ameaça de punição.",
+    "alternativas": [
+      "Uma vez",
+      "Três vezes",
+      "Sete vezes"
+    ],
+    "id": 2690,
+    "pergunta": "Quantas vezes por dia Daniel costumava orar?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:10"
+  },
+  {
+    "explicacao": "Os quatro animais da visão de Daniel representavam quatro reis ou reinos que surgiriam na terra.",
+    "alternativas": [
+      "Quatro reis ou reinos que se levantariam na terra",
+      "Quatro profetas de Israel",
+      "Quatro anjos do céu"
+    ],
+    "id": 2691,
+    "pergunta": "Na visão do capítulo 7, o que os quatro animais representavam?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 7:17"
+  },
+  {
+    "explicacao": "O Ancião de Dias representa Deus em sua autoridade eterna, julgamento e domínio sobre todas as coisas.",
+    "alternativas": [
+      "Um rei humano da Babilônia",
+      "Deus em sua autoridade e julgamento eterno",
+      "Um sacerdote de Israel"
+    ],
+    "id": 2692,
+    "pergunta": "O que o 'Ancião de Dias' representa na visão de Daniel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 7:9-10"
+  },
+  {
+    "explicacao": "O quarto animal da visão de Daniel foi destruído e entregue ao fogo por causa do julgamento de Deus.",
+    "alternativas": [
+      "Foi destruído e entregue ao fogo",
+      "Governou para sempre",
+      "Tornou-se um reino de paz"
+    ],
+    "id": 2693,
+    "pergunta": "O que aconteceu com o quarto animal da visão de Daniel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 7:11"
+  },
+  {
+    "explicacao": "O carneiro da visão de Daniel 8 representava os reis da Média e da Pérsia.",
+    "alternativas": [
+      "Os reis da Média e da Pérsia",
+      "O rei da Babilônia",
+      "O povo de Israel"
+    ],
+    "id": 2694,
+    "pergunta": "Na visão do capítulo 8, o que o carneiro representava?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 8:20"
+  },
+  {
+    "explicacao": "O bode da visão de Daniel 8 representava o rei da Grécia.",
+    "alternativas": [
+      "O rei da Grécia",
+      "O rei do Egito",
+      "O povo da Babilônia"
+    ],
+    "id": 2695,
+    "pergunta": "O que representava o bode da visão de Daniel 8?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 8:21"
+  },
+  {
+    "explicacao": "As setenta semanas foram determinadas sobre o povo de Daniel e sobre a santa cidade para cumprir o plano de Deus.",
+    "alternativas": [
+      "40 semanas",
+      "70 semanas",
+      "100 semanas"
+    ],
+    "id": 2696,
+    "pergunta": "Quantas semanas foram determinadas sobre o povo de Daniel e sobre a santa cidade?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 9:24"
+  },
+  {
+    "explicacao": "Daniel foi levado para a Babilônia ainda jovem, sendo escolhido entre os jovens de Judá para servir no palácio do rei.",
+    "alternativas": [
+      "Era um jovem entre os escolhidos para o serviço do rei",
+      "Era um sacerdote idoso",
+      "Era um soldado experiente"
+    ],
+    "id": 2697,
+    "pergunta": "Qual era a idade aproximada de Daniel quando foi levado cativo para a Babilônia?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:3-6"
+  },
+  {
+    "explicacao": "Os nomes hebraicos dos três amigos de Daniel eram Hananias, Misael e Azarias.",
+    "alternativas": [
+      "Sadraque, Mesaque e Abede-Nego",
+      "Hananias, Misael e Azarias",
+      "Beltesazar, Daniel e Arioc"
+    ],
+    "id": 2698,
+    "pergunta": "Quais eram os nomes hebraicos dos três amigos de Daniel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:6-7"
+  },
+  {
+    "explicacao": "O nome babilônico dado a Daniel foi Beltessazar.",
+    "alternativas": [
+      "Beltessazar",
+      "Deus é minha força",
+      "Príncipe de Israel"
+    ],
+    "id": 2699,
+    "pergunta": "Qual era o significado do nome babilônico dado a Daniel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:7"
+  },
+  {
+    "explicacao": "Daniel declarou que existe um Deus nos céus que revela os mistérios.",
+    "alternativas": [
+      "Que os sábios da Babilônia eram mais inteligentes",
+      "Que há um Deus nos céus que revela os mistérios",
+      "Que o sonho não tinha significado"
+    ],
+    "id": 2700,
+    "pergunta": "O que Daniel declarou ao interpretar o sonho de Nabucodonosor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:28"
+  },
+  {
+    "explicacao": "A cabeça de ouro da estátua representava Nabucodonosor e o reino da Babilônia.",
+    "alternativas": [
+      "O reino da Babilônia",
+      "O reino da Grécia",
+      "O reino da Pérsia"
+    ],
+    "id": 2701,
+    "pergunta": "Na estátua do sonho de Nabucodonosor, o que representava a cabeça de ouro?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:37-38"
+  },
+  {
+    "explicacao": "A pedra cortada sem auxílio de mãos representava o reino de Deus, que permanecerá para sempre.",
+    "alternativas": [
+      "Uma guerra entre reis",
+      "O reino de Deus que jamais será destruído",
+      "A queda de Jerusalém"
+    ],
+    "id": 2702,
+    "pergunta": "O que representava a pedra que destruiu a estátua do sonho?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:44-45"
+  },
+  {
+    "explicacao": "A estátua de ouro construída por Nabucodonosor tinha sessenta côvados de altura e seis de largura.",
+    "alternativas": [
+      "60 côvados de altura e 6 de largura",
+      "70 côvados de altura e 10 de largura",
+      "100 côvados de altura e 20 de largura"
+    ],
+    "id": 2703,
+    "pergunta": "Qual era a medida da estátua de ouro construída por Nabucodonosor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 3:1"
+  },
+  {
+    "explicacao": "Nabucodonosor viu um quarto homem na fornalha semelhante ao Filho dos deuses.",
+    "alternativas": [
+      "Um anjo enviado por Daniel",
+      "Um semelhante ao Filho dos deuses",
+      "O próprio Nabucodonosor"
+    ],
+    "id": 2704,
+    "pergunta": "Quem foi o quarto homem visto dentro da fornalha?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 3:25"
+  },
+  {
+    "explicacao": "A humilhação de Nabucodonosor aconteceu por causa de sua soberba e orgulho diante de Deus.",
+    "alternativas": [
+      "Sua falta de conhecimento militar",
+      "Sua soberba e orgulho diante de Deus",
+      "Sua pobreza"
+    ],
+    "id": 2705,
+    "pergunta": "Qual foi a razão principal da humilhação de Nabucodonosor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 4:30-32"
+  },
+  {
+    "explicacao": "Nabucodonosor viveria como animal durante sete tempos, conforme a palavra revelada.",
+    "alternativas": [
+      "Sete dias",
+      "Sete meses",
+      "Sete tempos"
+    ],
+    "id": 2706,
+    "pergunta": "Durante quanto tempo Nabucodonosor viveria como animal?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 4:16"
+  },
+  {
+    "explicacao": "A estátua do sonho de Nabucodonosor foi atingida por uma pedra cortada sem auxílio de mãos, representando o reino estabelecido por Deus.",
+    "alternativas": [
+      "Um grande exército",
+      "Uma pedra cortada sem auxílio de mãos",
+      "Um raio do céu"
+    ],
+    "id": 2707,
+    "pergunta": "O que atingiu a estátua do sonho do rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:34"
+  },
+  {
+    "explicacao": "Nabucodonosor mandou construir uma estátua de ouro para que fosse adorada.",
+    "alternativas": [
+      "Estátua de ouro",
+      "Estátua de prata",
+      "Estátua de bronze"
+    ],
+    "id": 2708,
+    "pergunta": "Qual foi o nome da estátua que Nabucodonosor mandou levantar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 3:1"
+  },
+  {
+    "explicacao": "Vários instrumentos musicais foram usados para anunciar que todos deveriam adorar a estátua.",
+    "alternativas": [
+      "Trombeta, flauta e outros instrumentos musicais",
+      "Apenas uma trombeta",
+      "Sinos do templo"
+    ],
+    "id": 2709,
+    "pergunta": "Qual instrumento foi usado para anunciar que todos deveriam adorar a estátua?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 3:5"
+  },
+  {
+    "explicacao": "Após o livramento dos três jovens, Nabucodonosor reconheceu o poder do Deus deles.",
+    "alternativas": [
+      "Que Daniel era um rei",
+      "Que o Deus deles era poderoso e digno de honra",
+      "Que a Babilônia era fraca"
+    ],
+    "id": 2710,
+    "pergunta": "O que Nabucodonosor reconheceu após o livramento dos três jovens?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 3:28-29"
+  },
+  {
+    "explicacao": "Por causa da soberba, Nabucodonosor perdeu sua posição e viveu como um animal até reconhecer a soberania de Deus.",
+    "alternativas": [
+      "Foi expulso de entre os homens e passou a viver como animal",
+      "Perdeu uma guerra",
+      "Foi preso por seus inimigos"
+    ],
+    "id": 2711,
+    "pergunta": "O que aconteceu com Nabucodonosor por causa de sua soberba?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 4:32-33"
+  },
+  {
+    "explicacao": "A escrita na parede durante o banquete de Belsazar foi MENE, MENE, TEQUEL e PARSIM.",
+    "alternativas": [
+      "MENE, MENE, TEQUEL e PARSIM",
+      "ALELUIA, SANTO e GLÓRIA",
+      "SHALOM, PAZ e VIDA"
+    ],
+    "id": 2712,
+    "pergunta": "Qual foi a mensagem escrita na parede no banquete de Belsazar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 5:25"
+  },
+  {
+    "explicacao": "TEQUEL significava que Belsazar havia sido pesado na balança e encontrado em falta.",
+    "alternativas": [
+      "O reino seria eterno",
+      "Belsazar foi pesado na balança e achado em falta",
+      "O rei teria muitos filhos"
+    ],
+    "id": 2713,
+    "pergunta": "O que significava 'TEQUEL' na interpretação de Daniel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 5:27"
+  },
+  {
+    "explicacao": "Dario organizou o reino colocando cento e vinte sátrapas e três presidentes sobre eles.",
+    "alternativas": [
+      "70 presidentes",
+      "120 sátrapas e três presidentes",
+      "40 governadores"
+    ],
+    "id": 2714,
+    "pergunta": "Quantos presidentes e sátrapas foram colocados sobre o reino de Dario?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:1-2"
+  },
+  {
+    "explicacao": "Os inimigos de Daniel não encontravam culpa nele porque ele era fiel e íntegro diante de Deus e do rei.",
+    "alternativas": [
+      "Porque ele era protegido pelo rei",
+      "Porque era fiel e não havia nele erro ou culpa",
+      "Porque ele era um soldado"
+    ],
+    "id": 2715,
+    "pergunta": "Por que os inimigos de Daniel não encontravam culpa nele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:4"
+  },
+  {
+    "explicacao": "A visão de Daniel no capítulo 8 envolvia um carneiro e um bode que representavam reinos futuros.",
+    "alternativas": [
+      "Um carneiro e um bode representando reinos futuros",
+      "A construção do templo",
+      "A saída do Egito"
+    ],
+    "id": 2716,
+    "pergunta": "Qual foi a visão principal de Daniel no capítulo 8?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 8:3-8, 20-21"
+  },
+  {
+    "explicacao": "Daniel era um dos jovens de Judá levados para a Babilônia, e sua origem estava ligada a Jerusalém.",
+    "alternativas": [
+      "Jerusalém",
+      "Samaria",
+      "Belém"
+    ],
+    "id": 2717,
+    "pergunta": "Qual era a cidade de origem de Daniel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:1-6"
+  },
+  {
+    "explicacao": "O Senhor entregou Jeoaquim, rei de Judá, nas mãos de Nabucodonosor.",
+    "alternativas": [
+      "O povo da Babilônia",
+      "O Senhor Deus",
+      "O exército da Pérsia"
+    ],
+    "id": 2718,
+    "pergunta": "Quem entregou Jeoaquim, rei de Judá, nas mãos de Nabucodonosor?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:2"
+  },
+  {
+    "explicacao": "Daniel e os jovens escolhidos deveriam ser preparados durante três anos antes de servirem ao rei.",
+    "alternativas": [
+      "Dois anos",
+      "Três anos",
+      "Sete anos"
+    ],
+    "id": 2719,
+    "pergunta": "Por quantos anos Daniel e os jovens escolhidos deveriam ser preparados para servir ao rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:5"
+  },
+  {
+    "explicacao": "Aspenaz era o chefe dos eunucos encarregado dos jovens levados para o serviço do rei.",
+    "alternativas": [
+      "Aspenaz",
+      "Arioc",
+      "Nabucodonosor"
+    ],
+    "id": 2720,
+    "pergunta": "Quem era o chefe dos eunucos responsável por Daniel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:3"
+  },
+  {
+    "explicacao": "Daniel decidiu não se contaminar com as iguarias do rei e pediu uma alimentação diferente.",
+    "alternativas": [
+      "Não queria engordar",
+      "Não queria se contaminar com as iguarias do rei e o vinho",
+      "Não gostava dos cozinheiros"
+    ],
+    "id": 2721,
+    "pergunta": "Qual era a preocupação de Daniel ao pedir uma alimentação diferente?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:8"
+  },
+  {
+    "explicacao": "Após o teste, Daniel e seus amigos estavam mais fortes e com melhor aparência que os outros jovens.",
+    "alternativas": [
+      "Mais fracos e cansados",
+      "Mais fortes e com melhor aparência",
+      "Iguais aos demais"
+    ],
+    "id": 2722,
+    "pergunta": "Depois do período de teste, como Daniel e seus amigos estavam em comparação aos outros jovens?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:15"
+  },
+  {
+    "explicacao": "Arioc recebeu a ordem do rei para matar os sábios da Babilônia.",
+    "alternativas": [
+      "Arioc",
+      "Aspenaz",
+      "Belsazar"
+    ],
+    "id": 2723,
+    "pergunta": "Quem era o oficial que recebeu a ordem de matar os sábios da Babilônia?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:14"
+  },
+  {
+    "explicacao": "Daniel pediu tempo ao rei e buscou a Deus em oração junto com seus companheiros.",
+    "alternativas": [
+      "Fugiu da Babilônia",
+      "Pediu tempo ao rei e buscou a Deus em oração",
+      "Escondeu-se no palácio"
+    ],
+    "id": 2724,
+    "pergunta": "O que Daniel fez quando soube do decreto do rei para matar os sábios?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:16-18"
+  },
+  {
+    "explicacao": "Daniel reconheceu que Deus revela mistérios e é o Deus dos céus.",
+    "alternativas": [
+      "O Deus dos céus",
+      "O deus da Babilônia",
+      "O deus dos reis"
+    ],
+    "id": 2725,
+    "pergunta": "Qual era o nome dado ao Deus de Daniel após a revelação do sonho?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:18-19"
+  },
+  {
+    "explicacao": "As pernas da estátua do sonho de Nabucodonosor eram feitas de ferro.",
+    "alternativas": [
+      "Cabeça",
+      "Pernas",
+      "Peito"
+    ],
+    "id": 2726,
+    "pergunta": "Qual parte da estátua do sonho de Nabucodonosor era de ferro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:33"
+  },
+  {
+    "explicacao": "Sadraque, Mesaque e Abede-Nego foram lançados na fornalha ardente porque se recusaram a adorar a estátua de ouro.",
+    "alternativas": [
+      "Foram presos na cova dos leões",
+      "Foram lançados na fornalha ardente",
+      "Foram expulsos da Babilônia"
+    ],
+    "id": 2727,
+    "pergunta": "O que aconteceu com os três amigos de Daniel por não adorarem a estátua?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 3:20"
+  },
+  {
+    "explicacao": "Nabucodonosor viu um quarto homem na fornalha, semelhante ao Filho dos deuses.",
+    "alternativas": [
+      "Um quarto homem semelhante ao Filho dos deuses",
+      "Daniel",
+      "O rei Nabucodonosor"
+    ],
+    "id": 2728,
+    "pergunta": "Quem estava com Sadraque, Mesaque e Abede-Nego na fornalha?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 3:25"
+  },
+  {
+    "explicacao": "Daniel teve uma visão com quatro grandes animais que representavam reinos.",
+    "alternativas": [
+      "Quatro grandes animais",
+      "Sete cordeiros",
+      "Dois cavalos"
+    ],
+    "id": 2729,
+    "pergunta": "Qual animal apareceu no sonho de Daniel no capítulo 7?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 7:3"
+  },
+  {
+    "explicacao": "Daniel foi lançado na cova dos leões por causa de sua fidelidade a Deus.",
+    "alternativas": [
+      "Nabucodonosor",
+      "Daniel",
+      "Ciro"
+    ],
+    "id": 2730,
+    "pergunta": "Quem foi lançado na cova dos leões?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:16"
+  },
+  {
+    "explicacao": "Daniel foi condenado porque continuou orando a Deus mesmo após o decreto do rei.",
+    "alternativas": [
+      "Porque desobedeceu ao rei em uma guerra",
+      "Porque continuou orando a Deus apesar do decreto do rei",
+      "Porque perdeu uma batalha"
+    ],
+    "id": 2731,
+    "pergunta": "Por que Daniel foi lançado na cova dos leões?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:10-16"
+  },
+  {
+    "explicacao": "Deus enviou um anjo e fechou a boca dos leões para proteger Daniel.",
+    "alternativas": [
+      "Foi morto pelos leões",
+      "Deus fechou a boca dos leões",
+      "Fugiu durante a noite"
+    ],
+    "id": 2732,
+    "pergunta": "O que aconteceu com Daniel na cova dos leões?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:22"
+  },
+  {
+    "explicacao": "O rei Dario assinou o decreto que levou Daniel à cova dos leões.",
+    "alternativas": [
+      "Dario",
+      "Saul",
+      "Herodes"
+    ],
+    "id": 2733,
+    "pergunta": "Qual rei assinou o decreto que levou Daniel à cova dos leões?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:9"
+  },
+  {
+    "explicacao": "Daniel tinha o hábito de orar três vezes ao dia e agradecer a Deus.",
+    "alternativas": [
+      "Oferecia sacrifícios",
+      "Orava e dava graças a Deus",
+      "Estudava as leis do rei"
+    ],
+    "id": 2734,
+    "pergunta": "O que Daniel fazia três vezes ao dia?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:10"
+  },
+  {
+    "explicacao": "Durante o banquete de Belsazar, uma mão escreveu uma mensagem misteriosa na parede.",
+    "alternativas": [
+      "Um anjo com uma mensagem de Deus",
+      "Daniel",
+      "Um soldado"
+    ],
+    "id": 2735,
+    "pergunta": "Quem escreveu na parede durante o banquete de Belsazar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 5:5"
+  },
+  {
+    "explicacao": "Daniel ficou conhecido por sua fidelidade e compromisso com Deus mesmo em situações difíceis.",
+    "alternativas": [
+      "Sua fidelidade a Deus",
+      "Sua riqueza",
+      "Seu poder militar"
+    ],
+    "id": 2736,
+    "pergunta": "Qual foi uma das principais características de Daniel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:4-5"
+  },
+  {
+    "explicacao": "Daniel foi um dos jovens de Judá levados para a Babilônia durante o cativeiro.",
+    "alternativas": [
+      "Daniel",
+      "Elias",
+      "Samuel"
+    ],
+    "id": 2737,
+    "pergunta": "Quem foi levado cativo para a Babilônia junto com outros jovens de Judá?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:1-6"
+  },
+  {
+    "explicacao": "O nome babilônico dado a Daniel foi Beltessazar.",
+    "alternativas": [
+      "Sadraque",
+      "Beltessazar",
+      "Mesaque"
+    ],
+    "id": 2738,
+    "pergunta": "Qual era o nome babilônico dado a Daniel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:7"
+  },
+  {
+    "explicacao": "Nabucodonosor era o rei da Babilônia quando Daniel foi levado cativo.",
+    "alternativas": [
+      "Nabucodonosor",
+      "Dario",
+      "Ciro"
+    ],
+    "id": 2739,
+    "pergunta": "Quem era o rei da Babilônia no início do livro de Daniel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:1"
+  },
+  {
+    "explicacao": "Daniel decidiu não se contaminar com as iguarias e o vinho do rei.",
+    "alternativas": [
+      "Porque não gostava da comida",
+      "Porque resolveu não se contaminar com as iguarias do rei",
+      "Porque estava fazendo uma viagem"
+    ],
+    "id": 2740,
+    "pergunta": "Por que Daniel decidiu não se contaminar com a comida do rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:8"
+  },
+  {
+    "explicacao": "Os três amigos de Daniel receberam os nomes babilônicos Sadraque, Mesaque e Abede-Nego.",
+    "alternativas": [
+      "Pedro, João e Tiago",
+      "Sadraque, Mesaque e Abede-Nego",
+      "Moisés, Arão e Josué"
+    ],
+    "id": 2741,
+    "pergunta": "Quem eram os três amigos de Daniel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:6-7"
+  },
+  {
+    "explicacao": "Durante o teste de dez dias, Daniel e seus amigos comeram legumes e beberam água.",
+    "alternativas": [
+      "Carne e vinho",
+      "Legumes e água",
+      "Pães e mel"
+    ],
+    "id": 2742,
+    "pergunta": "O que Daniel e seus amigos comeram durante o teste de dez dias?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:12"
+  },
+  {
+    "explicacao": "Deus concedeu a Daniel e seus amigos conhecimento, inteligência e sabedoria.",
+    "alternativas": [
+      "Sabedoria e inteligência",
+      "Riquezas e terras",
+      "Poder de serem reis"
+    ],
+    "id": 2743,
+    "pergunta": "O que Deus deu a Daniel e seus amigos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:17"
+  },
+  {
+    "explicacao": "Nabucodonosor teve um sonho com uma grande estátua formada por diferentes materiais.",
+    "alternativas": [
+      "Um sonho sobre uma árvore",
+      "Um sonho sobre uma grande estátua",
+      "Um sonho sobre um rio"
+    ],
+    "id": 2744,
+    "pergunta": "Qual sonho Nabucodonosor pediu que os sábios revelassem?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:31-35"
+  },
+  {
+    "explicacao": "Deus revelou a Daniel o sonho e sua interpretação.",
+    "alternativas": [
+      "Um anjo",
+      "Deus",
+      "Um sacerdote"
+    ],
+    "id": 2745,
+    "pergunta": "Quem revelou a Daniel o sonho do rei?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:19"
+  },
+  {
+    "explicacao": "A estátua representava reinos que surgiriam ao longo da história.",
+    "alternativas": [
+      "Os reinos que surgiriam na terra",
+      "A história da família do rei",
+      "A construção da Babilônia"
+    ],
+    "id": 2746,
+    "pergunta": "Qual era o significado da grande estátua do sonho de Nabucodonosor?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2:37-45"
+  },
+  {
+    "explicacao": "Sadraque, Mesaque e Abede-Nego foram atirados na fornalha superaquecida, mas andaram no fogo sem sofrer queimaduras.",
+    "alternativas": [
+      "Na fornalha ardente",
+      "Na cova dos leões",
+      "No rio Eufrates",
+      "No calabouço real"
+    ],
+    "id": 2747,
+    "pergunta": "Onde os três amigos de Daniel foram lançados por se recusarem a adorar a estátua de ouro do rei?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 3:19-20"
+  },
+  {
+    "explicacao": "Na mesma hora apareceram uns dedos de mão de homem, e escreviam, defronte do castiçal, na caiadura da parede do palácio real.",
+    "alternativas": [
+      "Os dedos de uma mão escrevendo na parede",
+      "Uma espada flamejante flutuando",
+      "O rosto de um anjo reluzente",
+      "Uma pomba de fogo"
+    ],
+    "id": 2748,
+    "pergunta": "O que apareceu na parede durante o banquete do rei Belsazar, anunciou o fim do seu império?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 5:5"
+  },
+  {
+    "explicacao": "Por causa de um decreto real caprichoso, Daniel foi sentenciado à morte na cova dos leões por manter sua rotina de oração.",
+    "alternativas": [
+      "Daniel",
+      "Ezequiel",
+      "Jeremias",
+      "Amós"
+    ],
+    "id": 2749,
+    "pergunta": "Quem foi o profeta jogado na cova dos leões por se recusar a parar de orar a Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:16"
+  },
+  {
+    "explicacao": "O rei Dario ordenou o castigo e Daniel foi jogado no fosso onde os leões famintos eram mantidos.",
+    "alternativas": [
+      "Na cova dos leões",
+      "Na fornalha ardente",
+      "No deserto da Babilônia",
+      "No fundo de uma prisão cisterna"
+    ],
+    "id": 2750,
+    "pergunta": "Onde o profeta Daniel foi lançado por continuar orando a Deus três vezes ao dia?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:16"
+  },
+  {
+    "explicacao": "Daniel disse ao rei: 'O meu Deus enviou o seu anjo, e fechou a boca dos leões, para que não me fizessem dano'.",
+    "alternativas": [
+      "Deus enviou o Seu anjo e fechou a boca dos leões",
+      "Os leões estavam totalmente dopados",
+      "Daniel usou uma armadura especial",
+      "Os leões fugiram assustados com a luz"
+    ],
+    "id": 2751,
+    "pergunta": "Por que Daniel não sofreu nenhum arranhão quando foi jogado na cova dos leões?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:22"
+  },
+  {
+    "explicacao": "Na corte babilônica, seus nomes teofóricos originais foram alterados pelo chefe dos oficiais para refletirem as divindades locais.",
+    "alternativas": [
+      "Ezequiel, Esdras e Neemias",
+      "Hananias, Misael e Azarias",
+      "Joel, Amós e Obadias",
+      "Matatias, Simão e Judas"
+    ],
+    "id": 2752,
+    "pergunta": "Quais eram os nomes originais em hebraico dados aos três amigos de Daniel que receberam os nomes babilônicos de Sadraque, Mesaque e Abede-Nego?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 1:7"
+  },
+  {
+    "explicacao": "Acometido por licantropia/boantropia clínica espiritual, o monarca babilônico foi banido do convívio humano e comeu capim até reconhecer a soberania de Deus.",
+    "alternativas": [
+      "Ele foi assassinado por seus próprios guardas",
+      "Ficou cego instantaneamente",
+      "Perdeu a sanidade e viveu sete anos como um animal do campo",
+      "Seu palácio desmoronou sobre ele"
+    ],
+    "id": 2753,
+    "pergunta": "Como se cumpriu o juízo de Deus sobre a arrogância imperial de Nabucodonosor, conforme previsto por Daniel?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 4:32-33"
+  },
+  {
+    "explicacao": "Incapazes de achar falhas morais em Daniel, seus rivais manipularam o rei Dário para instituir uma lei religiosa que sabiam que Daniel desobedeceria por sua devoção.",
+    "alternativas": [
+      "Eles o acusaram de desviar fundos do tesouro",
+      "Criaram um decreto proibindo petições a qualquer deus ou homem exceto ao rei por 30 dias",
+      "Descobriram que ele espionava para a Pérsia",
+      "Acusaram-no de quebrar os ídolos reais"
+    ],
+    "id": 2754,
+    "pergunta": "Por que os sátrapas e governadores da Babilônia conseguiram incriminar Daniel e jogá-lo na cova dos leões?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 6:7-9"
+  },
+  {
+    "explicacao": "Durante uma festa pagã, Belsazar profanou os utensílios sagrados de Jerusalém, desencadeando a famosa mensagem misteriosa na parede ('Mene, Mene, Tequel, Parsim').",
+    "alternativas": [
+      "Nabopolassar",
+      "Belsazar",
+      "Evil-Merodaque",
+      "Nerolissar"
+    ],
+    "id": 2755,
+    "pergunta": "Qual monarca babilônico cometeu o sacrilégio de usar as taças de ouro consagradas do Templo de Deus em um banquete, presenciando a escrita sobrenatural na parede?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 5:1-3"
+  },
+  {
+    "explicacao": "Daniel estrutura-se em narrativas históricas exemplares de integridade (caps. 1-6) seguidas por detalhadas visões apocalípticas mundiais (caps. 7-12).",
+    "alternativas": [
+      "Esdras",
+      "Ester",
+      "Ezequiel",
+      "Daniel"
+    ],
+    "id": 2756,
+    "pergunta": "Qual livro veterotestamentário mescla crônicas biográficas de fidelidade em cortes pagãs em sua primeira metade com revelações de impérios futuros em sua metade final?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Livro de Daniel"
+  },
+  {
+    "explicacao": "A profecia das 70 semanas dada a Daniel pelo anjo Gabriel estabelece marcos cronológicos cruciais sobre a vinda do Messias e o destino de Jerusalém.",
+    "alternativas": [
+      "Ezequiel",
+      "Isaías",
+      "Daniel",
+      "Zacarias"
+    ],
+    "id": 2757,
+    "pergunta": "Qual livro profético descreve a detalhada linha do tempo escatológica conhecida como as 'setenta semanas' decretadas sobre o povo santo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 9:24"
+  },
+  {
+    "explicacao": "Daniel revelou o sonho esquecido por Nabucodonosor, onde a estátua representava Babilônia, Medo-Pérsia, Grécia e Roma.",
+    "alternativas": [
+      "Ezequiel",
+      "Isaías",
+      "Daniel",
+      "Habacuque"
+    ],
+    "id": 2758,
+    "pergunta": "Em qual documento profético está registrada a detalhada interpretação do sonho da estátua polimetálica que representava a sucessão de impérios mundiais?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 2"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Rio Tigre (ou Hidéquel)",
+    "alternativas": [
+      "Rio Tigre (ou Hidéquel)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2759,
+    "pergunta": "À beira de qual rio ou canal o profeta Daniel recebeu a sua última grande visão apocalíptica registrada nos capítulos 10 a 12?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 10:4"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Ele foi assassinado e seu reino foi tomado pelos medos e persas",
+    "alternativas": [
+      "Ele foi assassinado e seu reino foi tomado pelos medos e persas",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2760,
+    "pergunta": "O que aconteceu ao rei Belsazar na mesma noite em que a mão escreveu misteriosamente na parede do palácio?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 5:30-31"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Contou Deus o teu reino e o terminou; Pesado foste na balança e achado em falta; Dividido foi o teu reino e dado aos medos e persas",
+    "alternativas": [
+      "Contou Deus o teu reino e o terminou; Pesado foste na balança e achado em falta; Dividido foi o teu reino e dado aos medos e persas",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 2761,
+    "pergunta": "Qual foi o veredito ou interpretação exata dada por Daniel para as palavras MENE, MENE, TEQUEL, PARSIM?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Daniel",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Daniel 5:25-28"
+  }
+]

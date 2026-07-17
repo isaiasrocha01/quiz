@@ -1,0 +1,580 @@
+[
+  {
+    "explicacao": "A carta é tradicionalmente atribuída ao apóstolo Paulo.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 511,
+    "pergunta": "Quem escreveu a primeira carta aos Tessalonicenses?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:1"
+  },
+  {
+    "explicacao": "Paulo menciona Silvano e Timóteo junto com ele na saudação inicial.",
+    "alternativas": [
+      "Lucas e Marcos",
+      "Pedro e João",
+      "Silvano e Timóteo",
+      "Barnabé e Tito"
+    ],
+    "id": 512,
+    "pergunta": "Quem é mencionado junto com Paulo na saudação da carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:1"
+  },
+  {
+    "explicacao": "A carta foi destinada à igreja dos tessalonicenses.",
+    "alternativas": [
+      "Igreja de Corinto",
+      "Igreja de Éfeso",
+      "Igreja dos Tessalonicenses",
+      "Igreja de Roma"
+    ],
+    "id": 513,
+    "pergunta": "Para qual igreja Paulo escreveu essa carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:1"
+  },
+  {
+    "explicacao": "Paulo agradecia a Deus pelos irmãos tessalonicenses e lembrava deles em suas orações.",
+    "alternativas": [
+      "Dos reis",
+      "Dos sacerdotes",
+      "Dos irmãos tessalonicenses",
+      "Dos soldados romanos"
+    ],
+    "id": 514,
+    "pergunta": "Paulo sempre dava graças a Deus por causa de quem?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:2"
+  },
+  {
+    "explicacao": "Paulo destaca a obra da fé, o trabalho do amor e a firmeza da esperança.",
+    "alternativas": [
+      "Poder, riqueza e sabedoria",
+      "Jejum, oração e sacrifício",
+      "Obra da fé, trabalho do amor e firmeza da esperança",
+      "Conhecimento, fama e liderança"
+    ],
+    "id": 515,
+    "pergunta": "Quais três características Paulo menciona dos tessalonicenses?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:3"
+  },
+  {
+    "explicacao": "Paulo afirma que o evangelho chegou acompanhado do poder de Deus, do Espírito Santo e de plena convicção.",
+    "alternativas": [
+      "Apenas palavras humanas",
+      "Riqueza e poder político",
+      "Poder, Espírito Santo e plena convicção",
+      "Sinais dos anjos"
+    ],
+    "id": 516,
+    "pergunta": "O evangelho chegou aos tessalonicenses com:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:5"
+  },
+  {
+    "explicacao": "Eles seguiram o exemplo de Paulo, seus companheiros e do Senhor.",
+    "alternativas": [
+      "Moisés e Elias",
+      "Os reis de Israel",
+      "Paulo, seus companheiros e o Senhor",
+      "Os sacerdotes do templo"
+    ],
+    "id": 517,
+    "pergunta": "Os tessalonicenses se tornaram imitadores de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:6"
+  },
+  {
+    "explicacao": "Paulo afirma que a fé deles se espalhou amplamente.",
+    "alternativas": [
+      "Apenas na cidade deles",
+      "Apenas na Judeia",
+      "Em todos os lugares",
+      "Somente entre os apóstolos"
+    ],
+    "id": 518,
+    "pergunta": "A fé dos tessalonicenses se tornou conhecida em:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:8"
+  },
+  {
+    "explicacao": "Os tessalonicenses abandonaram os ídolos e passaram a servir ao Deus verdadeiro.",
+    "alternativas": [
+      "Aos líderes religiosos",
+      "Aos anjos",
+      "Ao Deus vivo e verdadeiro",
+      "Aos governantes"
+    ],
+    "id": 519,
+    "pergunta": "Eles deixaram os ídolos para servir:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:9"
+  },
+  {
+    "explicacao": "Eles aguardavam a volta de Jesus Cristo, ressuscitado dentre os mortos.",
+    "alternativas": [
+      "Um novo rei terreno",
+      "A riqueza prometida",
+      "Jesus, que ressuscitou dos mortos",
+      "Um novo templo"
+    ],
+    "id": 520,
+    "pergunta": "Os tessalonicenses esperavam dos céus:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:10"
+  },
+  {
+    "explicacao": "Paulo compara seu cuidado ao carinho de uma mãe pelos seus filhos.",
+    "alternativas": [
+      "Um soldado",
+      "Uma mãe cuidando dos seus filhos",
+      "Um rei governando",
+      "Um mestre ensinando"
+    ],
+    "id": 521,
+    "pergunta": "Paulo compara seu cuidado pelos tessalonicenses ao cuidado de:",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 2:7"
+  },
+  {
+    "explicacao": "Paulo lembra que trabalhou dia e noite para não ser um peso aos irmãos.",
+    "alternativas": [
+      "Pregação",
+      "Viagens",
+      "Trabalho e esforço",
+      "Estudos"
+    ],
+    "id": 522,
+    "pergunta": "Paulo trabalhou para não ser pesado a ninguém com:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 2:9"
+  },
+  {
+    "explicacao": "Paulo exorta os cristãos a viverem de maneira agradável ao Senhor.",
+    "alternativas": [
+      "Rico e famoso",
+      "Independente dos outros",
+      "Agradável a Deus",
+      "Segundo os costumes romanos"
+    ],
+    "id": 523,
+    "pergunta": "Paulo ensinava os irmãos a viverem de modo:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 4:1"
+  },
+  {
+    "explicacao": "Paulo declara que a vontade de Deus é a santificação dos cristãos.",
+    "alternativas": [
+      "Ter muitos bens",
+      "Ser conhecido por todos",
+      "A santificação",
+      "Dominar outras pessoas"
+    ],
+    "id": 524,
+    "pergunta": "Qual é a vontade de Deus para os cristãos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 4:3"
+  },
+  {
+    "explicacao": "Paulo orienta os cristãos a orarem sem cessar.",
+    "alternativas": [
+      "Trabalhar",
+      "Estudar",
+      "Orar",
+      "Viajar"
+    ],
+    "id": 525,
+    "pergunta": "O que devemos fazer continuamente?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 5:17"
+  },
+  {
+    "explicacao": "Paulo ensina que devemos dar graças em todas as circunstâncias.",
+    "alternativas": [
+      "Reclamar",
+      "Esperar recompensas",
+      "Dar graças",
+      "Permanecer em silêncio"
+    ],
+    "id": 526,
+    "pergunta": "Em tudo devemos:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 5:18"
+  },
+  {
+    "explicacao": "Paulo orienta a não apagar a atuação do Espírito Santo.",
+    "alternativas": [
+      "A esperança",
+      "A fé",
+      "O Espírito",
+      "A alegria"
+    ],
+    "id": 527,
+    "pergunta": "Não devemos apagar:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 5:19"
+  },
+  {
+    "explicacao": "Paulo ensina a provar todas as coisas e reter o que é bom.",
+    "alternativas": [
+      "Os líderes",
+      "Os inimigos",
+      "Todas as coisas",
+      "Apenas os ensinamentos antigos"
+    ],
+    "id": 528,
+    "pergunta": "Devemos examinar:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 5:21"
+  },
+  {
+    "explicacao": "Paulo afirma que Deus, aquele que chama, é fiel para realizar sua obra.",
+    "alternativas": [
+      "Os apóstolos",
+      "Os pastores",
+      "Aquele que chama, Deus",
+      "Os anjos"
+    ],
+    "id": 529,
+    "pergunta": "Quem é fiel para santificar completamente os cristãos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 5:24"
+  },
+  {
+    "explicacao": "Paulo encerra a carta desejando a graça do Senhor Jesus Cristo aos irmãos.",
+    "alternativas": [
+      "Com uma ordem militar",
+      "Com uma promessa de riquezas",
+      "Desejando a graça do Senhor Jesus Cristo",
+      "Com uma despedida de guerra"
+    ],
+    "id": 530,
+    "pergunta": "Como Paulo encerra a carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 5:28"
+  },
+  {
+    "explicacao": "Paulo é apresentado como autor da carta aos tessalonicenses.",
+    "alternativas": [
+      "Pedro",
+      "Paulo",
+      "João",
+      "Tiago"
+    ],
+    "id": 531,
+    "pergunta": "Quem escreveu a primeira carta aos Tessalonicenses?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:1"
+  },
+  {
+    "explicacao": "Silvano e Timóteo são mencionados junto com Paulo na introdução da carta.",
+    "alternativas": [
+      "Lucas e Marcos",
+      "Pedro e João",
+      "Silvano e Timóteo",
+      "Barnabé e Tito"
+    ],
+    "id": 532,
+    "pergunta": "Quem é mencionado junto com Paulo na saudação da carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:1"
+  },
+  {
+    "explicacao": "A carta foi destinada à igreja dos tessalonicenses.",
+    "alternativas": [
+      "Igreja de Corinto",
+      "Igreja de Éfeso",
+      "Igreja dos Tessalonicenses",
+      "Igreja de Roma"
+    ],
+    "id": 533,
+    "pergunta": "Para qual igreja Paulo escreveu essa carta?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:1"
+  },
+  {
+    "explicacao": "Paulo agradecia a Deus pelos irmãos tessalonicenses.",
+    "alternativas": [
+      "Dos reis",
+      "Dos sacerdotes",
+      "Dos irmãos tessalonicenses",
+      "Dos soldados romanos"
+    ],
+    "id": 534,
+    "pergunta": "Paulo sempre dava graças a Deus por causa de quem?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:2"
+  },
+  {
+    "explicacao": "Paulo destaca a obra da fé, o trabalho do amor e a firmeza da esperança.",
+    "alternativas": [
+      "Poder, riqueza e sabedoria",
+      "Jejum, oração e sacrifício",
+      "Obra da fé, trabalho do amor e firmeza da esperança",
+      "Conhecimento, fama e liderança"
+    ],
+    "id": 535,
+    "pergunta": "Quais três características Paulo menciona dos tessalonicenses?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:3"
+  },
+  {
+    "explicacao": "A igreja dos tessalonicenses é apresentada como estando em Deus Pai e no Senhor Jesus Cristo.",
+    "alternativas": [
+      "Jerusalém e Samaria",
+      "Roma e Éfeso",
+      "Deus Pai e no Senhor Jesus Cristo",
+      "Moisés e nos profetas"
+    ],
+    "id": 536,
+    "pergunta": "Paulo, Silvano e Timóteo afirmam que a igreja dos tessalonicenses estava em:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:1"
+  },
+  {
+    "explicacao": "Paulo recorda a obra da fé, o trabalho do amor e a firmeza da esperança dos tessalonicenses.",
+    "alternativas": [
+      "A riqueza dos irmãos",
+      "O conhecimento da igreja",
+      "A obra da fé, o trabalho do amor e a firmeza da esperança",
+      "A quantidade de membros"
+    ],
+    "id": 537,
+    "pergunta": "Qual característica Paulo destaca como lembrança constante diante de Deus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:3"
+  },
+  {
+    "explicacao": "Eles receberam a Palavra mesmo em meio à tribulação, com alegria produzida pelo Espírito Santo.",
+    "alternativas": [
+      "Com medo dos homens",
+      "Com riqueza e honra",
+      "Em muita tribulação e com alegria do Espírito Santo",
+      "Sem nenhuma dificuldade"
+    ],
+    "id": 538,
+    "pergunta": "Paulo afirma que os tessalonicenses foram imitadores dele e do Senhor recebendo a Palavra:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:6"
+  },
+  {
+    "explicacao": "A fé deles se tornou conhecida porque a Palavra do Senhor se espalhou por várias regiões.",
+    "alternativas": [
+      "Construíram grandes templos",
+      "Tinham muitos líderes",
+      "A palavra do Senhor ressoou por vários lugares",
+      "Eram famosos entre os romanos"
+    ],
+    "id": 539,
+    "pergunta": "A fé dos tessalonicenses se tornou conhecida porque eles:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:8"
+  },
+  {
+    "explicacao": "Eles aguardavam Jesus Cristo, ressuscitado dos mortos e libertador da ira futura.",
+    "alternativas": [
+      "O retorno de Moisés",
+      "A restauração do templo",
+      "Jesus, que ressuscitou dos mortos e livra da ira futura",
+      "A chegada de um novo rei"
+    ],
+    "id": 540,
+    "pergunta": "Qual era a esperança que os tessalonicenses aguardavam dos céus?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 1:10"
+  },
+  {
+    "explicacao": "Paulo afirma que sua mensagem não veio de engano, impureza ou intenção fraudulenta.",
+    "alternativas": [
+      "Amor e cuidado",
+      "Oração e fé",
+      "Engano, impureza ou dolo",
+      "Coragem e esperança"
+    ],
+    "id": 541,
+    "pergunta": "Paulo afirma que sua exortação não procedeu de:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 2:3"
+  },
+  {
+    "explicacao": "Paulo afirma que poderiam ter buscado honra como apóstolos de Cristo.",
+    "alternativas": [
+      "Reis entre os povos",
+      "Mestres da Lei",
+      "Honrados como autoridades",
+      "Governadores romanos"
+    ],
+    "id": 542,
+    "pergunta": "Paulo disse que, sendo apóstolos de Cristo, poderiam ter sido:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 2:6"
+  },
+  {
+    "explicacao": "Paulo descreve sua conduta como santa, justa e irrepreensível diante deles.",
+    "alternativas": [
+      "Forte e poderoso",
+      "Rico e influente",
+      "Santo, justo e irrepreensível",
+      "Severo e disciplinador"
+    ],
+    "id": 543,
+    "pergunta": "Paulo descreve seu comportamento entre os tessalonicenses como:",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 2:10"
+  },
+  {
+    "explicacao": "Paulo considerava os irmãos tessalonicenses sua alegria e coroa diante do Senhor Jesus.",
+    "alternativas": [
+      "Seu conhecimento da Lei",
+      "Seus milagres",
+      "Os próprios tessalonicenses na presença de Cristo",
+      "Sua autoridade apostólica"
+    ],
+    "id": 544,
+    "pergunta": "Qual era a 'coroa de glória' de Paulo?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Novo Testamento",
+    "livro": "1 Tessalonicenses",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "1 Tessalonicenses 2:19"
+  }
+]

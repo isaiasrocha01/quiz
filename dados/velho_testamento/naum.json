@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 4001,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "O que o leão simbolizava na descrição de Nínive?",
+    "alternativas": [
+      "A humildade do povo.",
+      "A proteção de Deus.",
+      "A força e crueldade do império assírio.",
+      "A sabedoria dos governantes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 2:11-12",
+    "explicacao": "O leão representa a força, violência e domínio do império assírio."
+  },
+  {
+    "id": 4002,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Qual era a principal acusação contra Nínive em Naum 3:1?",
+    "alternativas": [
+      "Ser uma cidade pobre.",
+      "Não possuir exército.",
+      "Ser uma cidade sanguinária, cheia de mentiras e roubos.",
+      "Abandonar sua agricultura."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:1",
+    "explicacao": "Nínive é condenada por sua violência, engano e exploração."
+  },
+  {
+    "id": 4003,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Que recurso Deus usaria para envergonhar Nínive?",
+    "alternativas": [
+      "Fome e seca.",
+      "Um terremoto.",
+      "Descobrir sua nudez diante das nações.",
+      "Retirar suas riquezas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:5",
+    "explicacao": "Deus anunciaria publicamente a vergonha e humilhação de Nínive."
+  },
+  {
+    "id": 4004,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Por que a comparação com No-Amom (Tebas) era importante para Nínive?",
+    "alternativas": [
+      "Porque Tebas era uma cidade menor.",
+      "Porque Tebas nunca foi conquistada.",
+      "Porque uma grande cidade também havia caído apesar de sua força.",
+      "Porque Tebas ajudaria Nínive."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:8-10",
+    "explicacao": "A queda de Tebas servia como exemplo de que nenhuma potência é invencível diante do juízo de Deus."
+  },
+  {
+    "id": 4005,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a conclusão da mensagem de Naum sobre Nínive?",
+    "alternativas": [
+      "Sua restauração seria imediata.",
+      "Seu império continuaria forte.",
+      "Sua destruição seria definitiva e sem consolo.",
+      "Seus inimigos seriam derrotados."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:19",
+    "explicacao": "O livro encerra mostrando que a queda de Nínive seria completa e irreversível."
+  },
+  {
+    "id": 4006,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Qual é o principal ensino teológico do livro de Naum?",
+    "alternativas": [
+      "Deus nunca julga as nações.",
+      "O poder humano é eterno.",
+      "Deus é justo, julga a maldade e protege os que confiam nele.",
+      "Somente Israel recebe justiça."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:7-8; 3:19",
+    "explicacao": "Naum ensina que Deus governa com justiça, pune a maldade e é refúgio para os que confiam nele."
+  },
+  {
+    "id": 4007,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Qual é a forma literária usada no início do livro de Naum para apresentar a mensagem contra Nínive?",
+    "alternativas": [
+      "Uma parábola sobre Israel.",
+      "Um cântico de adoração.",
+      "Uma visão e um oráculo de julgamento.",
+      "Uma carta aos sacerdotes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:1",
+    "explicacao": "Naum apresenta uma visão e uma mensagem profética de julgamento contra Nínive."
+  },
+  {
+    "id": 4008,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Segundo Naum 1:2, qual característica de Deus é destacada junto com sua vingança?",
+    "alternativas": [
+      "Sua fraqueza.",
+      "Sua indecisão.",
+      "Seu zelo.",
+      "Sua distância."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:2",
+    "explicacao": "O zelo de Deus demonstra seu compromisso com sua justiça e santidade."
+  },
+  {
+    "id": 4009,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "O que a expressão 'o Senhor tem o seu caminho na tormenta e na tempestade' revela sobre Deus?",
+    "alternativas": [
+      "Que Ele perde o controle sobre a criação.",
+      "Que Ele depende dos homens para agir.",
+      "Que Ele governa até sobre as forças da natureza.",
+      "Que Ele evita julgar as nações."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:3",
+    "explicacao": "A passagem revela o domínio soberano de Deus sobre toda a criação."
+  },
+  {
+    "id": 4010,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Qual elemento da criação é usado para mostrar o poder de Deus em Naum 1:4?",
+    "alternativas": [
+      "O fogo do altar.",
+      "As estrelas do céu.",
+      "O mar e os rios que secam diante dele.",
+      "Os animais do campo."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:4",
+    "explicacao": "O texto mostra que até mares e rios estão sujeitos ao poder de Deus."
+  },
+  {
+    "id": 4011,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Em Naum 1:8, como Deus destruiria completamente seus inimigos?",
+    "alternativas": [
+      "Com fome e sede.",
+      "Com doenças.",
+      "Com uma inundação transbordante.",
+      "Com uma guerra longa."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:8",
+    "explicacao": "A inundação transbordante simboliza o juízo inevitável de Deus."
+  },
+  {
+    "id": 4012,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Qual contraste aparece em Naum 1:7?",
+    "alternativas": [
+      "Deus é poderoso, mas não misericordioso.",
+      "Deus é justo, mas não conhece o povo.",
+      "Deus é bom para os que nele confiam, mas julga seus inimigos.",
+      "Deus ama apenas Israel."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:7-8",
+    "explicacao": "O livro apresenta Deus como refúgio para os fiéis e juiz dos ímpios."
+  },
+  {
+    "id": 4013,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "O que significa a pergunta 'Que pensais vós contra o Senhor?' em Naum 1:9?",
+    "alternativas": [
+      "Uma dúvida de Deus sobre seus planos.",
+      "Um convite ao arrependimento de Nínive.",
+      "Uma declaração de que os planos contra Deus seriam inúteis.",
+      "Uma pergunta feita aos profetas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:9",
+    "explicacao": "Nenhum plano humano pode prevalecer contra a vontade de Deus."
+  },
+  {
+    "id": 4014,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Com o que os inimigos do Senhor são comparados em Naum 1:10?",
+    "alternativas": [
+      "Pedras preciosas.",
+      "Árvores sem frutos.",
+      "Espinhos entrelaçados e embriagados como bêbados.",
+      "Areia do mar."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:10",
+    "explicacao": "A comparação mostra a fragilidade dos inimigos diante do juízo divino."
+  },
+  {
+    "id": 4015,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Quem é mencionado como aquele que maquinava o mal contra o Senhor?",
+    "alternativas": [
+      "O rei de Judá.",
+      "O faraó do Egito.",
+      "O conselheiro perverso ligado à Assíria.",
+      "O sacerdote de Israel."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:11",
+    "explicacao": "O texto aponta para aquele que tramava contra Deus e seu povo."
+  },
+  {
+    "id": 4016,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Qual promessa Deus fez a Judá depois de anunciar o fim do opressor?",
+    "alternativas": [
+      "Que nunca mais haveria guerra.",
+      "Que dominaria todos os povos.",
+      "Que o opressor não passaria mais por Judá.",
+      "Que Jerusalém seria reconstruída imediatamente."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:15",
+    "explicacao": "Deus prometeu libertação do domínio opressor."
+  },
+  {
+    "id": 4017,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "O que os carros de guerra representam em Naum 2?",
+    "alternativas": [
+      "A paz entre os povos.",
+      "A riqueza de Nínive.",
+      "A invasão e o julgamento contra a cidade.",
+      "A proteção divina."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 2:3-4",
+    "explicacao": "Os carros representam o avanço do exército inimigo contra Nínive."
+  },
+  {
+    "id": 4018,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Qual parte da cidade de Nínive é mencionada como sendo levada ao exílio?",
+    "alternativas": [
+      "Os sacerdotes.",
+      "Os soldados.",
+      "A rainha e suas servas.",
+      "Os comerciantes estrangeiros."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 2:7",
+    "explicacao": "A queda de Nínive alcançaria até a liderança da cidade."
+  },
+  {
+    "id": 4019,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Por que Nínive é comparada a um tanque de águas em Naum 2:8?",
+    "alternativas": [
+      "Porque era uma cidade construída sobre rios.",
+      "Porque tinha muita água para agricultura.",
+      "Porque seus habitantes fugiriam como águas que escapam.",
+      "Porque era uma cidade pacífica."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 2:8",
+    "explicacao": "A imagem representa a fuga desesperada dos habitantes."
+  },
+  {
+    "id": 4020,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Difícil",
+    "pergunta": "Qual pergunta é feita sobre Nínive em Naum 2:11?",
+    "alternativas": [
+      "Onde está sua riqueza?",
+      "Onde está seu rei?",
+      "Onde está a morada dos leões?",
+      "Onde está seu templo?"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 2:11",
+    "explicacao": "A pergunta anuncia o fim da força e segurança de Nínive."
+  },
+  {
+    "id": 4021,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Qual é o significado da expressão \"peso de Nínive\" no início do livro de Naum?",
+    "alternativas": [
+      "Uma bênção sobre Nínive.",
+      "Uma oração pela cidade.",
+      "Uma mensagem de julgamento e condenação.",
+      "Um cântico de vitória."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:1",
+    "explicacao": "A expressão indica uma mensagem pesada de juízo contra Nínive."
+  },
+  {
+    "id": 4022,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Segundo Naum 1:2, contra quem o Senhor é vingador e cheio de ira?",
+    "alternativas": [
+      "Somente contra Israel.",
+      "Contra os pobres e necessitados.",
+      "Contra os seus adversários.",
+      "Contra todos os povos igualmente."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:2",
+    "explicacao": "Deus exerce justiça contra aqueles que se colocam contra Ele."
+  },
+  {
+    "id": 4023,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Como Naum descreve a maneira de Deus agir, apesar de sua grande ira?",
+    "alternativas": [
+      "Age sem pensar.",
+      "Age rapidamente e sem misericórdia.",
+      "É tardio em irar-se e grande em poder.",
+      "Não julga os pecadores."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:3",
+    "explicacao": "Deus é paciente, mas também possui poder para executar justiça."
+  },
+  {
+    "id": 4024,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "O que Deus tem como caminho em meio à tempestade e à tormenta?",
+    "alternativas": [
+      "O deserto.",
+      "O mar.",
+      "O redemoinho e a tempestade.",
+      "Os montes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:3",
+    "explicacao": "A descrição mostra o poder e a majestade de Deus sobre a criação."
+  },
+  {
+    "id": 4025,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Segundo Naum, quem pode permanecer diante da indignação do Senhor?",
+    "alternativas": [
+      "O rei mais poderoso.",
+      "O exército mais forte.",
+      "Ninguém pode resistir completamente à sua ira.",
+      "Apenas os sacerdotes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:6",
+    "explicacao": "A força de Deus é superior a qualquer poder humano."
+  },
+  {
+    "id": 4026,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Qual afirmação de Naum revela a bondade de Deus?",
+    "alternativas": [
+      "Deus nunca pune.",
+      "Deus abandona os justos.",
+      "O Senhor é bom e uma fortaleza no dia da angústia.",
+      "Deus protege somente os reis."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:7",
+    "explicacao": "Deus é apresentado como refúgio para aqueles que nele confiam."
+  },
+  {
+    "id": 4027,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "O que Deus faria com o jugo de Nínive sobre Judá?",
+    "alternativas": [
+      "Aumentaria seu peso.",
+      "Transferiria para outra nação.",
+      "Quebraria o seu jugo e romperia suas cadeias.",
+      "Guardaria para o futuro."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:13",
+    "explicacao": "Deus prometeu libertar Judá da opressão assíria."
+  },
+  {
+    "id": 4028,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "O que Deus declarou sobre o nome de Nínive?",
+    "alternativas": [
+      "Seria famoso para sempre.",
+      "Seria lembrado como exemplo de justiça.",
+      "Não haveria mais descendência que levasse seu nome.",
+      "Seria exaltado entre as nações."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:14",
+    "explicacao": "Deus anunciou o fim da continuidade e influência de Nínive."
+  },
+  {
+    "id": 4029,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Quem Deus ordenou que preparasse o caminho para anunciar boas notícias?",
+    "alternativas": [
+      "O sacerdote.",
+      "O rei de Judá.",
+      "O mensageiro que anunciava paz.",
+      "O exército de Israel."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:15",
+    "explicacao": "O mensageiro anuncia a libertação e a paz trazidas por Deus."
+  },
+  {
+    "id": 4030,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "O que os habitantes de Nínive deveriam fazer diante do ataque anunciado?",
+    "alternativas": [
+      "Construir novos templos.",
+      "Procurar alianças.",
+      "Preparar-se para a batalha.",
+      "Fugir para Jerusalém."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 2:1",
+    "explicacao": "O texto anuncia a aproximação do inimigo contra Nínive."
+  },
+  {
+    "id": 4031,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Como Naum descreve os escudos e roupas dos soldados no ataque contra Nínive?",
+    "alternativas": [
+      "Brancos e limpos.",
+      "Dourados e brilhantes.",
+      "Vermelhos e com aparência de fogo.",
+      "Negros e rasgados."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 2:3",
+    "explicacao": "A descrição transmite a intensidade e o poder do exército invasor."
+  },
+  {
+    "id": 4032,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "O que aconteceria com os rios de Nínive durante sua queda?",
+    "alternativas": [
+      "Secariam completamente.",
+      "As comportas dos rios seriam abertas.",
+      "Tornar-se-iam águas sagradas.",
+      "Seriam desviados para Judá."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Naum 2:6",
+    "explicacao": "A abertura das comportas contribui para a imagem da queda da cidade."
+  },
+  {
+    "id": 4033,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Como o povo de Nínive reagiria diante da destruição da cidade?",
+    "alternativas": [
+      "Cantaria de alegria.",
+      "Ficaria indiferente.",
+      "Seus corações derreteriam e os joelhos tremeriam.",
+      "Faria uma grande festa."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 2:10",
+    "explicacao": "A destruição causaria medo e desespero entre os habitantes."
+  },
+  {
+    "id": 4034,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "A que Naum compara os líderes de Nínive que fugiriam?",
+    "alternativas": [
+      "A árvores sem frutos.",
+      "A peixes no mar.",
+      "A gafanhotos que fogem quando o sol nasce.",
+      "A aves feridas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:17",
+    "explicacao": "A comparação mostra líderes numerosos, mas incapazes de permanecer."
+  },
+  {
+    "id": 4035,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Qual pecado de Nínive é destacado em Naum 3:4?",
+    "alternativas": [
+      "Falta de agricultura.",
+      "Falta de riquezas.",
+      "Prostituições e feitiçarias.",
+      "Falta de soldados."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:4",
+    "explicacao": "Nínive é condenada por sua sedução, idolatria e práticas pecaminosas."
+  },
+  {
+    "id": 4036,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Por que Deus comparou Nínive a uma prostituta?",
+    "alternativas": [
+      "Porque era uma cidade pequena.",
+      "Porque abandonou a agricultura.",
+      "Por causa de sua sedução, traição e práticas pecaminosas.",
+      "Porque não tinha religião."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:4",
+    "explicacao": "A comparação representa a corrupção e influência enganadora de Nínive."
+  },
+  {
+    "id": 4037,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Qual cidade é usada como exemplo da queda diante de Nínive?",
+    "alternativas": [
+      "Jerusalém.",
+      "Babilônia.",
+      "No-Amom (Tebas).",
+      "Samaria."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:8-10",
+    "explicacao": "Tebas é citada como exemplo de uma cidade poderosa que também caiu."
+  },
+  {
+    "id": 4038,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Segundo Naum, como eram os líderes de Nínive comparados aos gafanhotos?",
+    "alternativas": [
+      "Fortes e organizados.",
+      "Corajosos e fiéis.",
+      "Numerosos, mas incapazes de permanecer.",
+      "Sábios e prudentes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:16-17",
+    "explicacao": "Apesar da quantidade, eles fugiriam diante do julgamento."
+  },
+  {
+    "id": 4039,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Qual foi a reação das nações ao ouvirem sobre a queda de Nínive?",
+    "alternativas": [
+      "Choraram pela cidade.",
+      "Foram ajudar Nínive.",
+      "Bateram palmas pela sua destruição.",
+      "Construíram um monumento."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:19",
+    "explicacao": "As nações comemoraram o fim da opressão de Nínive."
+  },
+  {
+    "id": 4040,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Médio",
+    "pergunta": "Por que não havia cura para a ferida de Nínive?",
+    "alternativas": [
+      "Porque faltavam médicos.",
+      "Porque perdeu suas riquezas.",
+      "Por causa da grandeza da sua maldade.",
+      "Porque estava longe de outras cidades."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:19",
+    "explicacao": "A destruição de Nínive era consequência de sua grande maldade."
+  },
+  {
+    "id": 4041,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Quem é o autor do livro de Naum?",
+    "alternativas": [
+      "Jeremias",
+      "Isaías",
+      "Naum",
+      "Ezequiel"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:1",
+    "explicacao": "O livro começa identificando Naum como o autor da profecia."
+  },
+  {
+    "id": 4042,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "De onde era Naum?",
+    "alternativas": [
+      "Belém",
+      "Jerusalém",
+      "Elcos",
+      "Samaria"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:1",
+    "explicacao": "Naum é apresentado como o elcosita."
+  },
+  {
+    "id": 4043,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Contra qual cidade era a profecia de Naum?",
+    "alternativas": [
+      "Babilônia",
+      "Jerusalém",
+      "Samaria",
+      "Nínive"
+    ],
+    "respostaCorretaIndice": 3,
+    "referenciaBiblica": "Naum 1:1",
+    "explicacao": "A profecia de Naum anuncia o julgamento contra Nínive."
+  },
+  {
+    "id": 4044,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Nínive era a capital de qual império?",
+    "alternativas": [
+      "Egípcio",
+      "Babilônico",
+      "Assírio",
+      "Persa"
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:1",
+    "explicacao": "Nínive era a principal cidade do Império Assírio."
+  },
+  {
+    "id": 4045,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Como Deus é descrito em Naum 1:2?",
+    "alternativas": [
+      "Fraco e distante.",
+      "Indiferente ao pecado.",
+      "Zeloso e vingador.",
+      "Sem poder."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:2",
+    "explicacao": "Naum destaca a justiça de Deus contra o pecado."
+  },
+  {
+    "id": 4046,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "O Senhor é descrito como sendo:",
+    "alternativas": [
+      "Lento para ouvir.",
+      "Fraco para agir.",
+      "Longânimo e grande em poder.",
+      "Incapaz de julgar."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:3",
+    "explicacao": "Deus é apresentado como paciente, poderoso e justo."
+  },
+  {
+    "id": 4047,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "O que acontece diante da presença do Senhor?",
+    "alternativas": [
+      "Os mares se acalmam.",
+      "Os montes tremem e os outeiros se derretem.",
+      "Os rios desaparecem.",
+      "As cidades crescem."
+    ],
+    "respostaCorretaIndice": 1,
+    "referenciaBiblica": "Naum 1:5",
+    "explicacao": "A criação demonstra temor diante da grandeza de Deus."
+  },
+  {
+    "id": 4048,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Como Naum descreve Deus para aqueles que nele confiam?",
+    "alternativas": [
+      "Um guerreiro distante.",
+      "Um rei poderoso apenas.",
+      "Uma fortaleza no dia da angústia.",
+      "Um juiz sem misericórdia."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:7",
+    "explicacao": "Deus é apresentado como proteção para os que confiam nele."
+  },
+  {
+    "id": 4049,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus faria com os inimigos que se levantavam contra Ele?",
+    "alternativas": [
+      "Faria uma aliança com eles.",
+      "Perdoaria todos sem julgamento.",
+      "Os destruiria completamente.",
+      "Os colocaria como líderes."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:8",
+    "explicacao": "Deus traria julgamento sobre aqueles que persistiam na maldade."
+  },
+  {
+    "id": 4050,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Qual mensagem de esperança Naum trouxe para Judá?",
+    "alternativas": [
+      "Que nunca haveria dificuldades.",
+      "Que Judá conquistaria todas as nações.",
+      "Que Deus quebraria o domínio dos inimigos.",
+      "Que Jerusalém seria abandonada."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:13",
+    "explicacao": "Deus prometeu libertar Judá da opressão inimiga."
+  },
+  {
+    "id": 4051,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "O que o mensageiro anunciaria sobre os montes?",
+    "alternativas": [
+      "A chegada de uma guerra.",
+      "A destruição do templo.",
+      "A chegada de boas-novas e paz.",
+      "O fim da agricultura."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:15",
+    "explicacao": "O mensageiro anunciaria a libertação e a paz para Judá."
+  },
+  {
+    "id": 4052,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "O que Judá deveria continuar fazendo segundo Naum?",
+    "alternativas": [
+      "Construir fortalezas.",
+      "Fugir dos inimigos.",
+      "Celebrar suas festas e cumprir seus votos.",
+      "Procurar ajuda de outras nações."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:15",
+    "explicacao": "Judá deveria permanecer fiel ao Senhor."
+  },
+  {
+    "id": 4053,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus faria com Nínive por causa da sua maldade?",
+    "alternativas": [
+      "A tornaria uma grande cidade.",
+      "A protegeria.",
+      "A destruiria.",
+      "A entregaria a Judá."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 2:13",
+    "explicacao": "Deus declarou juízo contra Nínive por sua violência."
+  },
+  {
+    "id": 4054,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Qual animal é usado para comparar a força dos guerreiros de Nínive?",
+    "alternativas": [
+      "Leões.",
+      "Cavalos.",
+      "Leões e leõezinhos.",
+      "Águias."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 2:11-12",
+    "explicacao": "A imagem dos leões representa a força e domínio de Nínive."
+  },
+  {
+    "id": 4055,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Por que Nínive seria destruída?",
+    "alternativas": [
+      "Porque era uma cidade pequena.",
+      "Porque não tinha exército.",
+      "Por causa da sua crueldade e pecados.",
+      "Porque perdeu suas riquezas."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:1",
+    "explicacao": "Nínive seria julgada por sua violência e corrupção."
+  },
+  {
+    "id": 4056,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Como Naum chama Nínive em sua condenação?",
+    "alternativas": [
+      "Cidade santa.",
+      "Cidade escolhida.",
+      "Cidade sanguinária.",
+      "Cidade de paz."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:1",
+    "explicacao": "Nínive é chamada de cidade sanguinária por sua violência."
+  },
+  {
+    "id": 4057,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "O que Deus prometeu fazer com Nínive?",
+    "alternativas": [
+      "Escondê-la dos inimigos.",
+      "Aumentar seus territórios.",
+      "Lançar sobre ela vergonha e desprezo.",
+      "Fazer dela uma cidade santa."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:5-6",
+    "explicacao": "Deus revelaria a vergonha da cidade diante das nações."
+  },
+  {
+    "id": 4058,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Com qual cidade Naum compara a queda de Nínive?",
+    "alternativas": [
+      "Jerusalém.",
+      "Tiro.",
+      "No-Amom (Tebas).",
+      "Babilônia."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:8",
+    "explicacao": "Naum lembra a queda de Tebas como exemplo de julgamento."
+  },
+  {
+    "id": 4059,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "O que aconteceu com Nínive depois do julgamento anunciado por Deus?",
+    "alternativas": [
+      "Tornou-se a capital do mundo.",
+      "Foi reconstruída por Israel.",
+      "Foi destruída e esquecida.",
+      "Dominou outros povos."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 3:19",
+    "explicacao": "Nínive caiu e seu poder chegou ao fim."
+  },
+  {
+    "id": 4060,
+    "testamento": "Antigo Testamento",
+    "categoria": "Livros",
+    "livro": "Naum",
+    "nivel": "Fácil",
+    "pergunta": "Qual é a principal mensagem do livro de Naum?",
+    "alternativas": [
+      "A construção do templo.",
+      "A conquista de Canaã.",
+      "O julgamento de Deus sobre Nínive e sua justiça.",
+      "A escolha de um novo rei."
+    ],
+    "respostaCorretaIndice": 2,
+    "referenciaBiblica": "Naum 1:1-15",
+    "explicacao": "O livro destaca a justiça de Deus contra Nínive e sua proteção ao seu povo."
+  }
+]

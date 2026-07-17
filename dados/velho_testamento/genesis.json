@@ -1,0 +1,1362 @@
+[
+  {
+    "explicacao": "Noé tinha 600 anos quando começou o dilúvio sobre a terra.",
+    "alternativas": [
+      "500 anos",
+      "550 anos",
+      "600 anos",
+      "700 anos"
+    ],
+    "id": 3151,
+    "pergunta": "Qual era a idade de Noé quando veio o dilúvio sobre a terra?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 7:6"
+  },
+  {
+    "explicacao": "As águas prevaleceram sobre a terra durante 150 dias.",
+    "alternativas": [
+      "40 dias",
+      "120 dias",
+      "150 dias",
+      "365 dias"
+    ],
+    "id": 3152,
+    "pergunta": "Quantos dias as águas do dilúvio prevaleceram sobre a terra?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 7:24"
+  },
+  {
+    "explicacao": "A arca repousou sobre os montes de Ararate após o dilúvio.",
+    "alternativas": [
+      "Monte Sinai",
+      "Monte Ararate",
+      "Monte Carmelo",
+      "Monte Moriá"
+    ],
+    "id": 3153,
+    "pergunta": "Sobre qual monte repousou a arca após o dilúvio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 8:4"
+  },
+  {
+    "explicacao": "Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, trouxe pão e vinho para Abrão.",
+    "alternativas": [
+      "Abimeleque",
+      "Melquisedeque",
+      "Bera",
+      "Quedorlaomer"
+    ],
+    "id": 3154,
+    "pergunta": "Qual era o nome do rei de Salém que trouxe pão e vinho para Abrão?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 14:18"
+  },
+  {
+    "explicacao": "Abraão tinha 99 anos quando Deus estabeleceu a aliança da circuncisão e mudou seu nome.",
+    "alternativas": [
+      "75 anos",
+      "86 anos",
+      "99 anos",
+      "100 anos"
+    ],
+    "id": 3155,
+    "pergunta": "Quantos anos tinha Abrão quando Deus fez com ele a aliança da circuncisão e mudou seu nome para Abraão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 17:1-5"
+  },
+  {
+    "explicacao": "O nome de Sara antes da mudança feita por Deus era Sarai.",
+    "alternativas": [
+      "Sarai",
+      "Rebeca",
+      "Milca",
+      "Quetura"
+    ],
+    "id": 3156,
+    "pergunta": "Qual era o nome original de Sara antes de Deus mudar seu nome?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 17:15"
+  },
+  {
+    "explicacao": "O poço recebeu o nome Beer-Laai-Roi, que significa 'Poço daquele que vive e me vê'.",
+    "alternativas": [
+      "Berseba",
+      "Beer-Laai-Roi",
+      "En-Rogel",
+      "Siloé"
+    ],
+    "id": 3157,
+    "pergunta": "Qual foi o nome do poço onde o Anjo do Senhor encontrou Agar no deserto?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 16:13-14"
+  },
+  {
+    "explicacao": "Ló pediu para fugir para Zoar antes da destruição de Sodoma.",
+    "alternativas": [
+      "Hebrom",
+      "Zoar",
+      "Gerar",
+      "Betel"
+    ],
+    "id": 3158,
+    "pergunta": "Qual cidade Ló pediu para fugir quando Sodoma foi destruída?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 19:20-22"
+  },
+  {
+    "explicacao": "Abraão chamou aquele lugar de Jeová-Jiré, reconhecendo que Deus proveria.",
+    "alternativas": [
+      "Betel",
+      "Moriá",
+      "Jeová-Jiré",
+      "Gilgal"
+    ],
+    "id": 3159,
+    "pergunta": "Qual foi o nome dado ao lugar onde Abraão quase sacrificou Isaque?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 22:14"
+  },
+  {
+    "explicacao": "Sara morreu aos 127 anos.",
+    "alternativas": [
+      "110 anos",
+      "120 anos",
+      "127 anos",
+      "130 anos"
+    ],
+    "id": 3160,
+    "pergunta": "Qual era a idade de Sara quando morreu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 23:1"
+  },
+  {
+    "explicacao": "Sara foi sepultada na caverna de Macpela, comprada por Abraão.",
+    "alternativas": [
+      "Caverna de Adulão",
+      "Caverna de Macpela",
+      "Caverna de Horebe",
+      "Caverna de En-Gedi"
+    ],
+    "id": 3161,
+    "pergunta": "Em qual caverna Abraão sepultou Sara?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 23:19"
+  },
+  {
+    "explicacao": "Rebeca era filha de Betuel, sobrinho de Abraão.",
+    "alternativas": [
+      "Betuel",
+      "Labão",
+      "Naor",
+      "Harã"
+    ],
+    "id": 3162,
+    "pergunta": "Como se chamava o pai de Rebeca?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 24:15"
+  },
+  {
+    "explicacao": "Jacó lutou com um homem durante a noite, experiência na qual recebeu o nome de Israel.",
+    "alternativas": [
+      "Esaú",
+      "Um homem (o Anjo do Senhor)",
+      "Labão",
+      "Melquisedeque"
+    ],
+    "id": 3163,
+    "pergunta": "Qual era o nome do homem com quem Jacó lutou durante a noite?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 32:24-30"
+  },
+  {
+    "explicacao": "Raquel morreu ao dar à luz seu filho Benjamim.",
+    "alternativas": [
+      "Durante uma guerra",
+      "Ao dar à luz Benjamim",
+      "De velhice",
+      "Durante uma viagem ao Egito"
+    ],
+    "id": 3164,
+    "pergunta": "Como morreu Raquel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 35:16-19"
+  },
+  {
+    "explicacao": "Faraó deu a José o nome egípcio Zafenate-Paneia.",
+    "alternativas": [
+      "Potifar",
+      "Zafenate-Paneia",
+      "Asenate",
+      "Merari"
+    ],
+    "id": 3165,
+    "pergunta": "Qual era o nome egípcio dado a José por Faraó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 41:45"
+  },
+  {
+    "explicacao": "José casou-se com Asenate, filha de Potífera, sacerdote de Om.",
+    "alternativas": [
+      "Asenate",
+      "Raquel",
+      "Miriã",
+      "Quetura"
+    ],
+    "id": 3166,
+    "pergunta": "Qual era o nome da esposa de José?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 41:45"
+  },
+  {
+    "explicacao": "O primogênito de José recebeu o nome de Manassés.",
+    "alternativas": [
+      "Efraim",
+      "Manassés",
+      "Benjamim",
+      "Levi"
+    ],
+    "id": 3167,
+    "pergunta": "Qual foi o nome do primogênito de José?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 41:51"
+  },
+  {
+    "explicacao": "O segundo filho de José recebeu o nome de Efraim.",
+    "alternativas": [
+      "Judá",
+      "Efraim",
+      "Issacar",
+      "Zebulom"
+    ],
+    "id": 3168,
+    "pergunta": "Qual foi o nome do segundo filho de José?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 41:52"
+  },
+  {
+    "explicacao": "José recebeu porção dobrada em Israel por meio de seus filhos Efraim e Manassés.",
+    "alternativas": [
+      "Judá",
+      "Levi",
+      "José",
+      "Benjamim"
+    ],
+    "id": 3169,
+    "pergunta": "Qual filho de Jacó recebeu a porção dobrada por meio de seus dois filhos, Efraim e Manassés?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 48:5"
+  },
+  {
+    "explicacao": "José pediu que seus ossos fossem levados do Egito quando Deus conduzisse Israel de volta à terra prometida.",
+    "alternativas": [
+      "Que seu corpo fosse lançado ao Nilo",
+      "Que seus ossos fossem levados do Egito quando Deus visitasse Israel",
+      "Que fosse sepultado em Jerusalém",
+      "Que fosse enterrado ao lado de Faraó"
+    ],
+    "id": 3170,
+    "pergunta": "Qual foi o pedido de José antes de morrer?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 50:24-25"
+  },
+  {
+    "explicacao": "No quarto dia da criação, Deus fez os luminares para governarem o dia e a noite e servirem de sinais para tempos e estações.",
+    "alternativas": [
+      "Primeiro dia",
+      "Segundo dia",
+      "Terceiro dia",
+      "Quarto dia"
+    ],
+    "id": 3171,
+    "pergunta": "Em qual dia da criação Deus fez o sol, a lua e as estrelas?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 1:14-19"
+  },
+  {
+    "explicacao": "Os quatro rios mencionados que saíam do Éden eram Pisom, Giom, Tigre e Eufrates.",
+    "alternativas": [
+      "Tigre, Eufrates, Pisom e Giom",
+      "Jordão, Nilo, Tigre e Eufrates",
+      "Pisom, Jordão, Giom e Abana",
+      "Quebar, Eufrates, Tigre e Nilo"
+    ],
+    "id": 3172,
+    "pergunta": "Qual era o nome dos quatro rios que saíam do jardim do Éden?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 2:10-14"
+  },
+  {
+    "explicacao": "O arco-íris foi estabelecido como sinal da aliança de Deus com Noé e toda a criação.",
+    "alternativas": [
+      "A circuncisão",
+      "O arco-íris",
+      "Uma coluna de fogo",
+      "O altar de pedras"
+    ],
+    "id": 3173,
+    "pergunta": "Qual foi o sinal da aliança que Deus fez com Noé após o dilúvio?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 9:12-17"
+  },
+  {
+    "explicacao": "Deus mudou o nome de Sarai para Sara, esposa de Abraão e mãe de Isaque.",
+    "alternativas": [
+      "Rebeca",
+      "Lia",
+      "Sara",
+      "Raquel"
+    ],
+    "id": 3174,
+    "pergunta": "Qual foi o nome da esposa de Abraão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 17:15"
+  },
+  {
+    "explicacao": "Antes da aliança, Abraão era chamado Abrão.",
+    "alternativas": [
+      "Abrão",
+      "Arão",
+      "Abner",
+      "Abimeleque"
+    ],
+    "id": 3175,
+    "pergunta": "Qual era o nome original de Abraão antes de Deus mudar seu nome?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 17:5"
+  },
+  {
+    "explicacao": "A circuncisão foi o sinal da aliança entre Deus e Abraão e seus descendentes.",
+    "alternativas": [
+      "O sábado",
+      "O arco-íris",
+      "A circuncisão",
+      "O cordeiro pascal"
+    ],
+    "id": 3176,
+    "pergunta": "Qual era o sinal da aliança entre Deus e Abraão?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 17:10-11"
+  },
+  {
+    "explicacao": "Deus ordenou que Abraão oferecesse Isaque em sacrifício no monte Moriá.",
+    "alternativas": [
+      "Ismael",
+      "Isaque",
+      "Jacó",
+      "Ló"
+    ],
+    "id": 3177,
+    "pergunta": "Quem acompanhou Abraão até o monte Moriá para ser oferecido em sacrifício?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 22:2"
+  },
+  {
+    "explicacao": "O servo de Abraão foi enviado para buscar uma esposa para Isaque entre os parentes de Abraão.",
+    "alternativas": [
+      "Abraão pessoalmente",
+      "O servo de Abraão",
+      "Jacó",
+      "Labão"
+    ],
+    "id": 3178,
+    "pergunta": "Quem encontrou uma esposa para Isaque?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 24:2-4,67"
+  },
+  {
+    "explicacao": "Rebeca tornou-se esposa de Isaque após ser conduzida pelo servo de Abraão.",
+    "alternativas": [
+      "Sara",
+      "Raquel",
+      "Rebeca",
+      "Lia"
+    ],
+    "id": 3179,
+    "pergunta": "Qual era o nome da esposa de Isaque?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 24:67"
+  },
+  {
+    "explicacao": "Esaú vendeu seu direito de primogenitura a Jacó por um prato de ensopado.",
+    "alternativas": [
+      "Seu rebanho",
+      "Sua primogenitura",
+      "Sua tenda",
+      "Seu campo"
+    ],
+    "id": 3180,
+    "pergunta": "O que Esaú vendeu a Jacó?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 25:29-34"
+  },
+  {
+    "explicacao": "Jacó trabalhou sete anos por Raquel, mas recebeu Lia como esposa primeiro.",
+    "alternativas": [
+      "Cinco anos",
+      "Sete anos",
+      "Dez anos",
+      "Quatorze anos"
+    ],
+    "id": 3181,
+    "pergunta": "Por quantos anos Jacó trabalhou inicialmente para casar-se com Raquel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 29:18-20"
+  },
+  {
+    "explicacao": "Labão enganou Jacó e lhe deu Lia como esposa antes de Raquel.",
+    "alternativas": [
+      "Raquel",
+      "Lia",
+      "Bila",
+      "Zilpa"
+    ],
+    "id": 3182,
+    "pergunta": "Com quem Jacó acabou se casando primeiro?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 29:23-25"
+  },
+  {
+    "explicacao": "Após lutar com o anjo, Jacó recebeu de Deus o nome Israel.",
+    "alternativas": [
+      "Judá",
+      "Benjamim",
+      "Israel",
+      "José"
+    ],
+    "id": 3183,
+    "pergunta": "Qual foi o novo nome dado por Deus a Jacó?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 32:28"
+  },
+  {
+    "explicacao": "José era o filho amado de Jacó e recebeu uma túnica de várias cores.",
+    "alternativas": [
+      "Judá",
+      "José",
+      "Benjamim",
+      "Levi"
+    ],
+    "id": 3184,
+    "pergunta": "Qual dos filhos de Jacó recebeu uma túnica de várias cores?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 37:3"
+  },
+  {
+    "explicacao": "José foi vendido por seus irmãos aos ismaelitas por vinte moedas de prata.",
+    "alternativas": [
+      "Dez moedas de prata",
+      "Quinze moedas de prata",
+      "Vinte moedas de prata",
+      "Trinta moedas de prata"
+    ],
+    "id": 3185,
+    "pergunta": "Por quantas moedas de prata José foi vendido por seus irmãos?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 37:28"
+  },
+  {
+    "explicacao": "Potifar, oficial de Faraó, comprou José quando ele chegou ao Egito.",
+    "alternativas": [
+      "Faraó",
+      "Potifar",
+      "Mordomo do rei",
+      "Copeiro do rei"
+    ],
+    "id": 3186,
+    "pergunta": "Quem comprou José no Egito?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 39:1"
+  },
+  {
+    "explicacao": "José interpretou o sonho das sete vacas gordas e das sete vacas magras, anunciando anos de fartura e fome.",
+    "alternativas": [
+      "Um grande dilúvio",
+      "Sete vacas gordas e sete vacas magras",
+      "Uma torre que caía",
+      "Um exército derrotado"
+    ],
+    "id": 3187,
+    "pergunta": "Qual sonho de Faraó José interpretou?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 41:17-27"
+  },
+  {
+    "explicacao": "José manteve Simeão preso até que seus irmãos retornassem com Benjamim.",
+    "alternativas": [
+      "Judá",
+      "Benjamim",
+      "Simeão",
+      "Rúben"
+    ],
+    "id": 3188,
+    "pergunta": "Quem José manteve preso no Egito enquanto seus irmãos voltavam para Canaã?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 42:24"
+  },
+  {
+    "explicacao": "Faraó concedeu a região de Gósen para Jacó e sua família habitarem.",
+    "alternativas": [
+      "Gósen",
+      "Jerusalém",
+      "Hebrom",
+      "Berseba"
+    ],
+    "id": 3189,
+    "pergunta": "Onde Jacó e sua família passaram a morar quando foram para o Egito?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 47:6"
+  },
+  {
+    "explicacao": "José reconheceu que Deus transformou o mal praticado por seus irmãos em bem para preservar muitas vidas.",
+    "alternativas": [
+      "Vocês nunca serão perdoados.",
+      "Deus transformou o mal em bem para preservar muitas vidas.",
+      "Voltarei para Canaã sozinho.",
+      "O Egito pertence a vocês."
+    ],
+    "id": 3190,
+    "pergunta": "Qual foi a declaração de José aos seus irmãos sobre o mal que fizeram contra ele?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 50:20"
+  },
+  {
+    "explicacao": "Deus formou Adão do pó da terra e soprou em suas narinas o fôlego de vida.",
+    "alternativas": [
+      "Adão",
+      "Noé",
+      "Abraão",
+      "Moisés"
+    ],
+    "id": 3191,
+    "pergunta": "Quem foi o primeiro homem criado por Deus?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 2:7"
+  },
+  {
+    "explicacao": "Eva foi criada por Deus a partir de uma das costelas de Adão.",
+    "alternativas": [
+      "Eva",
+      "Sara",
+      "Rebeca",
+      "Raquel"
+    ],
+    "id": 3192,
+    "pergunta": "Quem foi a primeira mulher, criada a partir da costela de Adão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 2:22"
+  },
+  {
+    "explicacao": "O Jardim do Éden foi preparado por Deus como morada do primeiro casal.",
+    "alternativas": [
+      "Jardim do Éden",
+      "Getsêmani",
+      "Canaã",
+      "Hebrom"
+    ],
+    "id": 3193,
+    "pergunta": "Qual é o nome do jardim perfeito onde Deus colocou Adão e Eva?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 2:8"
+  },
+  {
+    "explicacao": "A serpente usou de astúcia para enganar Eva e levá-la a desobedecer a Deus.",
+    "alternativas": [
+      "A serpente",
+      "O leão",
+      "O lobo",
+      "A águia"
+    ],
+    "id": 3194,
+    "pergunta": "Que animal enganou Eva no Jardim do Éden para que ela comesse do fruto proibido?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 3:1-4"
+  },
+  {
+    "explicacao": "Caim matou seu irmão Abel após Deus ter aceitado a oferta de Abel e rejeitado a sua.",
+    "alternativas": [
+      "Caim (matou Abel)",
+      "Abel (matou Caim)",
+      "Sete",
+      "Enoque"
+    ],
+    "id": 3195,
+    "pergunta": "Quem cometeu o primeiro homicídio da história bíblica, matando seu próprio irmão?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 4:8"
+  },
+  {
+    "explicacao": "Deus ordenou que Noé construísse uma arca de madeira de gofer para salvar sua família.",
+    "alternativas": [
+      "Noé",
+      "Abraão",
+      "Ló",
+      "Matusalém"
+    ],
+    "id": 3196,
+    "pergunta": "Quem construiu a arca para se salvar do Dilúvio?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 6:13-14"
+  },
+  {
+    "explicacao": "No sétimo mês, no dia dezessete do mês, a arca pousou sobre os montes de Ararate.",
+    "alternativas": [
+      "Monte Ararate",
+      "Monte Sinai",
+      "Monte Nebo",
+      "Monte Carmelo"
+    ],
+    "id": 3197,
+    "pergunta": "Em que monte a arca de Noé pousou quando as águas do Dilúvio baixaram?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 8:4"
+  },
+  {
+    "explicacao": "O arco-íris foi estabelecido como o sinal da aliança perpétua entre Deus e a Terra.",
+    "alternativas": [
+      "O arco-íris (ou arco celeste)",
+      "Uma nuvem de fogo",
+      "Uma estrela brilhante",
+      "Um eclipse"
+    ],
+    "id": 3198,
+    "pergunta": "Qual sinal Deus colocou nas nuvens como promessa de que nunca mais destruiria a Terra com água?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 9:13"
+  },
+  {
+    "explicacao": "A torre ficou conhecida como Babel porque ali o Senhor confundiu a linguagem de toda a terra.",
+    "alternativas": [
+      "Babel (Sinar)",
+      "Nínive",
+      "Babilônia",
+      "Sodoma"
+    ],
+    "id": 3199,
+    "pergunta": "Onde os homens tentaram construir uma torre que chegasse até o céu, resultando na confusão das línguas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 11:4-9"
+  },
+  {
+    "explicacao": "Deus confundiu a fala dos construtores para interromper o plano orgulhoso da humanidade.",
+    "alternativas": [
+      "Confundiu a linguagem deles para que não se entendessem",
+      "Enviou fogo do céu",
+      "Abriu a terra para engoli-los",
+      "Transformou-os em estátuas"
+    ],
+    "id": 3200,
+    "pergunta": "Qual foi o castigo de Deus para o povo de Babel por sua soberba ao tentar construir a torre?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 11:7-8"
+  },
+  {
+    "explicacao": "Deus apareceu a Abrão e disse: 'À tua descendência darei esta terra', referindo-se a Canaã.",
+    "alternativas": [
+      "Canaã (Terra Prometida)",
+      "Egito",
+      "Mesopotâmia",
+      "Península do Sinai"
+    ],
+    "id": 3201,
+    "pergunta": "Qual é o nome genérico da terra que Deus prometeu dar a Abraão e seus descendentes?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 12:7"
+  },
+  {
+    "explicacao": "Agar deu à luz um filho a Abrão, e Abrão chamou o nome do seu filho de Ismael.",
+    "alternativas": [
+      "Ismael",
+      "Isaque",
+      "Jacó",
+      "Esaú"
+    ],
+    "id": 3202,
+    "pergunta": "Quem foi o primeiro filho de Abraão, nascido de Agar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 16:15"
+  },
+  {
+    "explicacao": "O Senhor fez chover enxofre e fogo do Senhor, desde os céus, sobre Sodoma e Gomorra.",
+    "alternativas": [
+      "Sodoma e Gomorra",
+      "Jericó e Ai",
+      "Társis e Nínive",
+      "Babel e Sinar"
+    ],
+    "id": 3203,
+    "pergunta": "Quais foram as duas cidades destruídas por Deus com fogo e enxofre devido à sua grande maldade?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 19:24"
+  },
+  {
+    "explicacao": "A mulher de Ló olhou para trás, desobedecendo ao aviso dos anjos, e virou uma estátua de sal.",
+    "alternativas": [
+      "Transformou-se numa estátua de sal",
+      "Ficou cega",
+      "Foi consumida pelo fogo",
+      "Foi engolida pela terra"
+    ],
+    "id": 3204,
+    "pergunta": "O que aconteceu com a esposa de Ló quando ela olhou para trás durante a destruição de Sodoma?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 19:26"
+  },
+  {
+    "explicacao": "Sara concebeu e deu à luz um filho a Abraão na sua velhice, no tempo determinado por Deus.",
+    "alternativas": [
+      "Sara",
+      "Agar",
+      "Quetura",
+      "Rebeca"
+    ],
+    "id": 3205,
+    "pergunta": "Qual era o nome da esposa de Abraão, que deu à luz na velhice?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 21:1-2"
+  },
+  {
+    "explicacao": "Abraão chamou o nome de seu filho recém-nascido, que Sara lhe dera, de Isaque.",
+    "alternativas": [
+      "Isaque",
+      "Ismael",
+      "Jacó",
+      "José"
+    ],
+    "id": 3206,
+    "pergunta": "Quem foi o filho da promessa de Abraão e Sara, cujo nome significa 'riso'?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 21:3"
+  },
+  {
+    "explicacao": "O primeiro filho de Rebeca nasceu ruivo e todo peludo como uma capa de pelagem; por isso o chamaram Esaú.",
+    "alternativas": [
+      "Esaú",
+      "Laban",
+      "Benjamim",
+      "Rúben"
+    ],
+    "id": 3207,
+    "pergunta": "Quem era o irmão gêmeo de Jacó, conhecido por ser peludo e caçador?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 25:25"
+  },
+  {
+    "explicacao": "Jacó deu a Esaú pão e o guisado de lentilhas; ele comeu, bebeu e desprezou sua primogenitura.",
+    "alternativas": [
+      "Jacó",
+      "Esaú",
+      "José",
+      "Rúben"
+    ],
+    "id": 3208,
+    "pergunta": "Qual filho de Isaque comprou o direito de primogenitura de seu irmão por um prato de lentilhas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 25:34"
+  },
+  {
+    "explicacao": "Jacó acordou do sonho e chamou aquele lugar de Betel, que significa 'Casa de Deus'.",
+    "alternativas": [
+      "Betel",
+      "Hebrom",
+      "Peniel",
+      "Jerusalém"
+    ],
+    "id": 3209,
+    "pergunta": "Onde Jacó teve o sonho com uma escada que tocava o céu e anjos subindo e descendo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 28:11-19"
+  },
+  {
+    "explicacao": "Os filhos de Jacó foram doze, e cada um deles deu nome e origem a uma das doze tribos.",
+    "alternativas": [
+      "12",
+      "10",
+      "7",
+      "3"
+    ],
+    "id": 3210,
+    "pergunta": "Quantos filhos homem Jacó teve, que deram origem às tribos de Israel?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 35:22"
+  },
+  {
+    "explicacao": "Ao partir a alma de Raquel (porque morreu), chamou-o Benoni; mas seu pai o chamou Benjamim.",
+    "alternativas": [
+      "Benjamim",
+      "Rúben",
+      "Judá",
+      "Dã"
+    ],
+    "id": 3211,
+    "pergunta": "Quem foi o filho caçula e mais amado de Jacó, irmão de sangue de José?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 35:18"
+  },
+  {
+    "explicacao": "Os irmãos de José o venderam por vinte moedas de prata aos mercadores midianitas.",
+    "alternativas": [
+      "José",
+      "Benjamim",
+      "Rúben",
+      "Gideão"
+    ],
+    "id": 3212,
+    "pergunta": "Quem foi vendido por seus irmãos como escravo e levado para o Egito?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 37:28"
+  },
+  {
+    "explicacao": "A extrema fome assolou Canaã, obrigando os filhos de Jacó a buscar mantimento no Egito.",
+    "alternativas": [
+      "Uma grande fome em toda a terra",
+      "Uma guerra civil",
+      "Uma ordem de invasão",
+      "Um grande terremoto"
+    ],
+    "id": 3213,
+    "pergunta": "Que evento levou a família de Jacó a se mudar para o Egito, onde José era governador?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 41:57 / Gênesis 46"
+  },
+  {
+    "explicacao": "O livro de Gênesis abre a Bíblia relatando as origens do universo e da humanidade.",
+    "alternativas": [
+      "Gênesis",
+      "Êxodo",
+      "Levítico",
+      "Apocalipse"
+    ],
+    "id": 3214,
+    "pergunta": "Qual é o primeiro livro da Bíblia, que narra a criação do mundo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 1:1"
+  },
+  {
+    "explicacao": "Deus completou a obra da criação em seis dias e abençoou o sétimo dia como dia de descanso.",
+    "alternativas": [
+      "6 dias (descansou no 7º)",
+      "7 dias",
+      "1 dia",
+      "40 dias"
+    ],
+    "id": 3215,
+    "pergunta": "Em quantos dias Deus criou o céu, a terra e tudo o que neles há, descansando no dia seguinte?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 1-2"
+  },
+  {
+    "explicacao": "A união dos cinco volumes escritos por Moisés compõe a espinha dorsal da lei judaica, o Pentateuco ou Torá.",
+    "alternativas": [
+      "Pentateuco (ou Torá)",
+      "Evangelhos",
+      "Livros Poéticos",
+      "Profetas Maiores"
+    ],
+    "id": 3216,
+    "pergunta": "Juntos, os cinco primeiros livros da Bíblia (Gênesis a Deuteronômio) são conhecidos por qual nome judaico?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Tradição Bíblica"
+  },
+  {
+    "explicacao": "A tradição e os testemunhos do próprio Jesus afirmam que Moisés registrou sob inspiração divina a Lei (os primeiros 5 livros).",
+    "alternativas": [
+      "Moisés",
+      "Abraão",
+      "Davi",
+      "Esdras"
+    ],
+    "id": 3217,
+    "pergunta": "Quem escreveu os cinco primeiros livros da Bíblia segundo a tradição bíblica aceita pelos evangélicos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Fácil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Lucas 24:44 / Êxodo 24:4"
+  },
+  {
+    "explicacao": "A genealogia bíblica detalha a descendência de Sem até Abraão, ligando diretamente a linhagem de Noé ao povo hebreu.",
+    "alternativas": [
+      "Cão",
+      "Jafé",
+      "Sem",
+      "Canaã"
+    ],
+    "id": 3218,
+    "pergunta": "Qual era o nome do filho de Noé de cuja linhagem descende o povo hebreu?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 11:10-26"
+  },
+  {
+    "explicacao": "Melquisedeque era rei de Salém e sacerdote do Deus Altíssimo, surgindo na narrativa para abençoar Abraão após sua vitória militar.",
+    "alternativas": [
+      "Melquisedeque",
+      "Abimeleque",
+      "Jetro",
+      "Bera"
+    ],
+    "id": 3219,
+    "pergunta": "Quem foi o rei e sacerdote de Salém que abençoou Abraão e recebeu dele o dízimo de tudo?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 14:18-20"
+  },
+  {
+    "explicacao": "Labão substituiu secretamente sua filha mais nova Raquel pela filha mais velha Lia sob o véu nupcial na noite do casamento.",
+    "alternativas": [
+      "Raquel",
+      "Bila",
+      "Zilpa",
+      "Lia (ou Léia)"
+    ],
+    "id": 3220,
+    "pergunta": "Qual era o nome da primeira esposa de Jacó, com quem ele se casou por ter sido enganado pelo sogro Labão?",
+    "respostaCorretaIndice": 3,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 29:23-25"
+  },
+  {
+    "explicacao": "A jornada de fé de Abraão iniciou-se com a ordem divina para deixar sua pátria pagã em Ur dos Caldeus rumo ao desconhecido.",
+    "alternativas": [
+      "Nínive",
+      "Babilônia",
+      "Ur dos Caldeus",
+      "Damasco"
+    ],
+    "id": 3221,
+    "pergunta": "De qual cidade e terra de idólatras Deus chamou Abraão para ir em direção a Canaã?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 11:31 / Gênesis 12:1"
+  },
+  {
+    "explicacao": "Jacó comprou uma parte do campo dos filhos de Hamor, pai de Siquém, local onde séculos mais tarde ficaria o famoso poço da narrativa de João 4.",
+    "alternativas": [
+      "Betel",
+      "Hebrom",
+      "Siquém",
+      "Berseba"
+    ],
+    "id": 3222,
+    "pergunta": "Onde se localizava a porção de terra comprada por Jacó que continha o poço onde Jesus conversou com a samaritana séculos depois?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 33:18-19 / Josué 24:32"
+  },
+  {
+    "explicacao": "José providenciou para que seu pai Jacó e seus irmãos ficassem assentados na rica Terra de Gósen, isolados das pressões religiosas egípcias.",
+    "alternativas": [
+      "Terra de Gósen",
+      "Vale de Tebas",
+      "Delta de Mênfis",
+      "Alexandria"
+    ],
+    "id": 3223,
+    "pergunta": "Onde ficavam os 'jardins' ou a região fértil do Egito concedida à família de José para habitar?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 45:10"
+  },
+  {
+    "explicacao": "Ao fazer a travessia no vau de Jaboque com sua família, Jacó permaneceu sozinho e travou o combate espiritual que transformou sua identidade.",
+    "alternativas": [
+      "Ribeiro de Cedrom",
+      "Ribeiro de Jaboque",
+      "Ribeiro de Quison",
+      "Ribeiro de Querite"
+    ],
+    "id": 3224,
+    "pergunta": "Qual foi o ribeiro onde Jacó passou a noite, lutou com um anjo/Deus e teve seu nome mudado para Israel?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 32:22-28"
+  },
+  {
+    "explicacao": "A circuncisão de todo varão recém-nascido foi estabelecida como o sinal permanente no corpo do pacto entre Deus e a linhagem abraâmica.",
+    "alternativas": [
+      "O batismo",
+      "O sacrifício contínuo",
+      "A circuncisão",
+      "O uso de franjas"
+    ],
+    "id": 3225,
+    "pergunta": "Que sinal físico e visível Deus instituiu com Abraão como marca da Aliança Perpétua para todos os homens de sua descendência?",
+    "respostaCorretaIndice": 2,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 17:10"
+  },
+  {
+    "explicacao": "Ao conceder os animais como alimento, o Senhor ordenou expressamente que o sangue, que representa a santidade da vida, fosse evitado.",
+    "alternativas": [
+      "A proibição de consumir carne de porco",
+      "A proibição de comer carne com seu sangue",
+      "A restrição ao consumo de frutos do mar",
+      "A abstinência total de vinho"
+    ],
+    "id": 3226,
+    "pergunta": "Que restrição dietética estrita Deus incluiu na aliança pós-dilúvio com Noé e sua família?",
+    "respostaCorretaIndice": 1,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Médio",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 9:4"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Matusalém",
+    "alternativas": [
+      "Matusalém",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 3227,
+    "pergunta": "Quem foi o homem mais velho mencionado na Bíblia, que viveu 969 anos?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 5:27"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Caverna de Macpela (em Manre / Hebrom)",
+    "alternativas": [
+      "Caverna de Macpela (em Manre / Hebrom)",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 3228,
+    "pergunta": "Em que lugar específico Abraão comprou uma caverna para servir de sepultura para Sara, que depois se tornou o túmulo dos patriarcas?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 23:17-19"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Betel",
+    "alternativas": [
+      "Betel",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 3229,
+    "pergunta": "Qual era o nome original da cidade de Luz antes de Jacó a rebatizar após ter tido a visão da escada celestial?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 28:19"
+  },
+  {
+    "explicacao": "Explicação baseada na resposta: Deu-lhe sete cordeiras como testemunho de que ele (Abraão) escavara o poço",
+    "alternativas": [
+      "Deu-lhe sete cordeiras como testemunho de que ele (Abraão) escavara o poço",
+      "Opção B",
+      "Opção C",
+      "Opção D"
+    ],
+    "id": 3230,
+    "pergunta": "Que acordo financeiro bizarro Abraão fez com o filisteu Abimeleque em Berseba para garantir a posse de um poço de água?",
+    "respostaCorretaIndice": 0,
+    "testamento": "Velho Testamento",
+    "livro": "Gênesis",
+    "nivel": "Difícil",
+    "categoria": "Livros",
+    "referenciaBiblica": "Gênesis 21:27-30"
+  }
+]
