@@ -19,7 +19,7 @@
                 Sistema de Gestão de Conhecimento, Estudos e Quiz Bíblico
             </p>
 
-            <!-- NOVO: Contador de Perguntas Premium -->
+            <!-- Contador de Perguntas Premium -->
             <div class="contador-container">
                 <span class="contador-icon">📜</span>
                 <span class="contador-numero" id="total-perguntas">...</span>
@@ -28,7 +28,6 @@
         </header>
 
         <section class="menu-grid">
-            <!-- Seus cards de menu continuam aqui igualzinho... -->
             <a href="editor/editor.html" class="menu-card">
                 <span class="menu-icon">✍️</span>
                 <h3>Editor de Questões</h3>
@@ -48,13 +47,39 @@
             </a>
         </section>
 
+        <!-- NOVO: Seção de Ranking de Jogadores -->
+        <section class="ranking-container">
+            <div class="ranking-header">
+                <h2>🏆 Ranking dos Jogadores</h2>
+                <div class="ranking-tabs">
+                    <button class="tab-btn active" onclick="trocarAbaRanking('diario')">Diário</button>
+                    <button class="tab-btn" onclick="trocarAbaRanking('mensal')">Mensal</button>
+                    <button class="tab-btn" onclick="trocarAbaRanking('total')">Total</button>
+                </div>
+            </div>
+
+            <div class="ranking-tabela-wrapper">
+                <table class="ranking-tabela">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Jogador</th>
+                            <th>Pontos</th>
+                        </tr>
+                    </thead>
+                    <tbody id="ranking-corpo">
+                        <!-- Conteúdo injetado via contador.js -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
         <footer class="footer">
             Oficina Bíblica App — Desenvolvido para fixação e aprendizado das Escrituras.
         </footer>
 
     </main>
 
-    <!-- IMPORTANTE: Adicione esta linha bem aqui, antes de fechar o body -->
     <script src="./js/contador.js"></script>
 </body>
 
