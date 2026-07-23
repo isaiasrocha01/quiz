@@ -14,12 +14,16 @@ const TABELA_PONTOS = {
     "difícil": 100
 };
 
-// Paleta de cores atribuídas aos jogadores ativos
+// Paleta de cores atribuídas aos jogadores ativos (expandida para 8 jogadores)
 const CORES_JOGADORES = [
-    { border: "#1f3a60", bg: "#e8f0fe", badge: "#1f3a60", text: "#ffffff" },
-    { border: "#c59b27", bg: "#fef9e7", badge: "#c59b27", text: "#ffffff" },
-    { border: "#28a745", bg: "#e8f8ec", badge: "#28a745", text: "#ffffff" },
-    { border: "#8e44ad", bg: "#f4ecf7", badge: "#8e44ad", text: "#ffffff" }
+    { border: "#1f3a60", bg: "#e8f0fe", badge: "#1f3a60", text: "#ffffff" }, // Azul
+    { border: "#c59b27", bg: "#fef9e7", badge: "#c59b27", text: "#ffffff" }, // Dourado
+    { border: "#28a745", bg: "#e8f8ec", badge: "#28a745", text: "#ffffff" }, // Verde
+    { border: "#8e44ad", bg: "#f4ecf7", badge: "#8e44ad", text: "#ffffff" }, // Roxo
+    { border: "#d9534f", bg: "#fdf2f2", badge: "#d9534f", text: "#ffffff" }, // Vermelho
+    { border: "#e67e22", bg: "#fef5ec", badge: "#e67e22", text: "#ffffff" }, // Laranja
+    { border: "#17a2b8", bg: "#eaf7f9", badge: "#17a2b8", text: "#ffffff" }, // Ciano
+    { border: "#e83e8c", bg: "#fdecf4", badge: "#e83e8c", text: "#ffffff" }  // Rosa
 ];
 
 // Estado Geral
@@ -73,8 +77,8 @@ function cadastrarNovoJogador() {
     jogadoresCadastrados.push(nome);
     salvarJogadoresNoStorage();
 
-    // Seleciona automaticamente se tiver espaço
-    if (jogadoresSelecionadosNomes.length < 4) {
+    // Seleciona automaticamente se houver espaço (limite 8)
+    if (jogadoresSelecionadosNomes.length < 8) {
         jogadoresSelecionadosNomes.push(nome);
     }
 
@@ -87,8 +91,8 @@ function alternarSelecaoJogador(nome) {
     if (index > -1) {
         jogadoresSelecionadosNomes.splice(index, 1);
     } else {
-        if (jogadoresSelecionadosNomes.length >= 4) {
-            return alert("Máximo de 4 jogadores por partida!");
+        if (jogadoresSelecionadosNomes.length >= 8) {
+            return alert("Máximo de 8 jogadores por partida!");
         }
         jogadoresSelecionadosNomes.push(nome);
     }
