@@ -91,7 +91,7 @@ function alternarSelecaoJogador(nome) {
     if (index > -1) {
         jogadoresSelecionadosNomes.splice(index, 1);
     } else {
-        if (jogadoresSelecionadosNomes.length >= 8) {
+        if (jogadoresSelecionadosNomes.length >= 8) { 
             return alert("Máximo de 8 jogadores por partida!");
         }
         jogadoresSelecionadosNomes.push(nome);
