@@ -1,0 +1,137 @@
+        @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+        :root {
+            --primary: #1f3a60;
+            --primary-hover: #152945;
+            --accent-gold: #c59b27;
+            --text-main: #2c2a29;
+            --border-color: #e0d5c1;
+            --shadow: 0 8px 24px rgba(31, 58, 96, .12);
+            --radius: 14px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            min-height: 100vh;
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            color: var(--text-main);
+            background: linear-gradient(135deg, #f5efe6, #e8dec9);
+            padding: 1.5rem 1rem;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 550px;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 2.5rem 2rem;
+            border-radius: var(--radius);
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow);
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .container::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 6px;
+            background: linear-gradient(90deg, var(--primary), var(--accent-gold), var(--primary));
+        }
+
+        .icone-manutencao {
+            font-size: 3.5rem;
+            margin-bottom: 1rem;
+            display: inline-block;
+            animation: balanco 2s infinite ease-in-out;
+        }
+
+        @keyframes balanco {
+
+            0%,
+            100% {
+                transform: rotate(-5deg);
+            }
+
+            50% {
+                transform: rotate(5deg);
+            }
+        }
+
+        h1 {
+            font-family: 'Cinzel', serif;
+            color: var(--primary);
+            font-size: 1.8rem;
+            margin-bottom: 0.5rem;
+        }
+
+        p {
+            color: #555;
+            font-size: 1rem;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+        }
+
+        .botoes-grupo {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .btn-navegacao {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 0.85rem 1.2rem;
+            font-size: 0.95rem;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: all 0.25s ease;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, .08);
+        }
+
+        .btn-principal {
+            background: var(--primary);
+            color: #ffffff;
+            border: 1px solid var(--primary);
+        }
+
+        .btn-principal:hover {
+            background: var(--primary-hover);
+            transform: translateY(-2px);
+        }
+
+        .btn-quiz {
+            background: #faf8f5;
+            color: var(--primary);
+            border: 1.5px solid var(--border-color);
+        }
+
+        .btn-quiz:hover {
+            background: #f8f1e2;
+            border-color: var(--accent-gold);
+            transform: translateY(-2px);
+        }
+
+        @media (min-width: 480px) {
+            .botoes-grupo {
+                flex-direction: row;
+            }
+
+            .btn-navegacao {
+                flex: 1;
+            }
+        }
