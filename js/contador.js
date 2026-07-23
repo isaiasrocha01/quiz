@@ -1,14 +1,10 @@
 document.addEventListener("DOMContentLoaded", async () => {
     const totalElemento = document.getElementById("total-perguntas");
 
-    // Lista completa e limpa de todos os seus arquivos JSON (totalmente offline)
     const arquivosJson = [
-        // Raiz de dados
         'dados/eventos.json',
         'dados/lugares.json',
         'dados/pessoas.json',
-
-        // Novo Testamento
         'dados/novo_testamento/1_corintios.json',
         'dados/novo_testamento/1_joao.json',
         'dados/novo_testamento/1_pedro.json',
@@ -36,8 +32,6 @@ document.addEventListener("DOMContentLoaded", async () => {
         'dados/novo_testamento/romanos.json',
         'dados/novo_testamento/tiago.json',
         'dados/novo_testamento/tito.json',
-
-        // Velho Testamento
         'dados/velho_testamento/1_cronicas.json',
         'dados/velho_testamento/1_reis.json',
         'dados/velho_testamento/1_samuel.json',
@@ -81,25 +75,94 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     let totalGeral = 0;
 
-    // Varre todos os arquivos e soma as perguntas de cada um
     for (const caminhoDoArquivo of arquivosJson) {
         try {
             const resposta = await fetch(caminhoDoArquivo);
             if (!resposta.ok) throw new Error(`Não foi possível carregar ${caminhoDoArquivo}`);
-            
             const perguntasDoArquivo = await resposta.json();
 
-            // Soma dinamicamente independente do formato do JSON
             if (Array.isArray(perguntasDoArquivo)) {
                 totalGeral += perguntasDoArquivo.length;
             } else if (perguntasDoArquivo.perguntas && Array.isArray(perguntasDoArquivo.perguntas)) {
                 totalGeral += perguntasDoArquivo.perguntas.length;
             }
         } catch (erro) {
-            console.warn(`Erro ao carregar o arquivo ${caminhoDoArquivo}:`, erro);
+            console.warn(`Erro ao carregar ${caminhoDoArquivo}:`, erro);
         }
     }
 
-    // Exibe o total geral na tela inicial
-    totalElemento.textContent = totalGeral;
+    if (totalElemento) totalElemento.textContent = totalGeral;
+
+    // Carregar Ranking na Página Inicial
+    carregarRanking('diario');
 });
+
+// LÓGICA DO RANKING PERSISTENTE
+let abaAtualRanking = 'diario';
+
+function trocarAbaRanking(tipo) {
+    abaAtualRanking = tipo;
+    
+    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+    event.target.classList.add('active');
+
+    carregarRanking(tipo);
+}
+
+function carregarRanking(tipo) {
+    const tbody = document.getElementById("ranking-corpo");
+    if (!tbody) return;
+
+    // Recupera histórico salvo no localStorage
+    const historico = JSON.parse(localStorage.getItem("oficina_biblica_ranking") || "[]");
+
+    const agora = new Date();
+    const hojeStr = agora.toISOString().split('T')[0]; // YYYY-MM-DD
+    const mesStr = hojeStr.substring(0, 7);             // YYYY-MM
+
+    // Acumulador de pontuação por jogador
+    const placar = {};
+
+    historico.forEach(registro => {
+        const dataReg = registro.data.split('T')[0];
+        const mesReg = dataReg.substring(0, 7);
+
+        let incluir = false;
+
+        if (tipo === 'diario' && dataReg === hojeStr) incluir = true;
+        else if (tipo === 'mensal' && mesReg === mesStr) incluir = true;
+        else if (tipo === 'total') incluir = true;
+
+        if (incluir) {
+            if (!placar[registro.nome]) placar[registro.nome] = 0;
+            placar[registro.nome] += registro.pontos;
+        }
+    });
+
+    // Converte para array e ordena do maior para o menor
+    const rankingOrdenado = Object.keys(placar)
+        .map(nome => ({ nome, pontos: placar[nome] }))
+        .sort((a, b) => b.pontos - a.pontos);
+
+    tbody.innerHTML = "";
+
+    if (rankingOrdenado.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="3" style="text-align:center; color: var(--muted); padding: 1.5rem;">Nenhuma pontuação registrada neste período.</td></tr>`;
+        return;
+    }
+
+    rankingOrdenado.forEach((j, idx) => {
+        let icone = `${idx + 1}º`;
+        if (idx === 0) icone = "🥇";
+        else if (idx === 1) icone = "🥈";
+        else if (idx === 2) icone = "🥉";
+
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+            <td class="posicao-top">${icone}</td>
+            <td><strong>${j.nome}</strong></td>
+            <td><strong>${j.pontos}</strong> pts</td>
+        `;
+        tbody.appendChild(tr);
+    });
+}
