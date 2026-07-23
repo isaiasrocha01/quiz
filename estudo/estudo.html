@@ -5,13 +5,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Oficina Bíblica - Painel de Estudos</title>
-    <link rel="stylesheet" href="../gerador de json/style.css">
     <link rel="stylesheet" href="estudo.css">
 </head>
 
 <body>
 
     <div class="container">
+        <!-- BARRA SUPERIOR DE NAVEGAÇÃO DISCRETA -->
+        <div class="top-nav-bar">
+            <a href="../index.html" class="top-action-btn" title="Ir para a Página Inicial">🏠 Início</a>
+        </div>
+
         <h1>Oficina Bíblica - Espaço de Estudos</h1>
 
         <!-- SELEÇÃO DO BLOCO DE ESTUDO -->
@@ -66,7 +70,7 @@
 
             <!-- Botão para revelar a resposta -->
             <button id="btn-revelar" onclick="revelarResposta()"
-                style="width: 100%; margin-bottom: 15px; background-color: var(--accent-gold);">Mostrar Resposta Secreta
+                style="width: 100%; margin-bottom: 15px; background-color: var(--accent-gold); color: #fff;">Mostrar Resposta Secreta
                 🔍</button>
 
             <!-- Resposta e Detalhes (Verso do Card - Oculto por padrão) -->
