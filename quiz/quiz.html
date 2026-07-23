@@ -1,22 +1,38 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Oficina Bíblica - Jogo de Quiz</title>
-    <!-- Reaproveitando a identidade visual do seu projeto -->
     <link rel="stylesheet" href="quiz.css">
 </head>
-
 <body>
-
     <div class="container">
-        <h1>Oficina Bíblica - Quiz</h1>
+        <!-- BARRA SUPERIOR DE NAVEGAÇÃO / AÇÕES RÁPIDAS -->
+        <div class="top-nav-bar">
+            <button type="button" id="top-btn-encerrar" class="top-action-btn" onclick="confirmarEncerrarPartida()" title="Encerrar Partida" style="display: none;">🏳️ Encerrar Partida</button>
+            <a href="../index.html" class="top-action-btn" title="Ir para a Página Inicial">🏠 Início</a>
+        </div>
 
-        <!-- TELA 1: CONFIGURAÇÃO DO JOGO -->
+        <h1>Oficina Bíblica - Quiz Multiplayer</h1>
+
+        <!-- TELA 1: CONFIGURAÇÃO DO JOGO E JOGADORES -->
         <div id="tela-config" class="formulario">
             <h2>Configurar Partida</h2>
+            
+            <!-- Cadastro e Seleção de Jogadores Cadastrados -->
+            <div style="margin-bottom: 10px;">
+                <label class="obrigatorio">Cadastrar Novo Jogador</label>
+                <div style="display: flex; gap: 10px; margin-bottom: 15px;">
+                    <input type="text" id="nome-jogador" placeholder="Digite o nome..." style="flex: 1; padding: 10px; border-radius: 8px; border: 1px solid var(--border-color);">
+                    <button type="button" onclick="cadastrarNovoJogador()" style="width: auto; padding: 0 15px;">Cadastrar ➕</button>
+                </div>
+
+                <label>Selecione quem vai jogar esta partida (Máx. 4):</label>
+                <div id="lista-jogadores-cadastrados" class="grid-jogadores-selecao">
+                    <!-- Cards de seleção injetados via JS -->
+                </div>
+            </div>
 
             <div class="linha-dupla">
                 <div>
@@ -38,60 +54,81 @@
                     </select>
                 </div>
             </div>
+            
+            <!-- LINHA DINÂMICA: LIVRO E QUANTIDADE LADO A LADO -->
+            <div class="linha-dupla" style="margin-top: 10px;">
+                <div id="areaLivroQuiz" style="display:none;">
+                    <label class="obrigatorio">Livro</label>
+                    <select id="quiz-livro">
+                        <option value="">Selecione...</option>
+                    </select>
+                </div>
 
-            <div id="areaLivroQuiz" style="display:none;">
-                <label class="obrigatorio">Livro</label>
-                <select id="quiz-livro">
-                    <option value="">Selecione...</option>
-                </select>
-            </div>
-
-            <button onclick="iniciarJogo()">Iniciar Jogo ⚔️</button>
-        </div>
-
-        <!-- TELA 2: ARENA DO QUIZ (INICIA OCULTA) -->
-        <div id="tela-jogo" style="display: none;">
-            <div id="progresso" style="margin-bottom: 15px; font-weight: bold; color: var(--primary);"></div>
-
-            <div class="card-pergunta" style="border-left: 5px solid var(--accent-gold);">
-                <h3 id="pergunta-texto">Carregando pergunta...</h3>
-                <br>
-                <div id="opcoes-container" style="display: flex; flex-direction: column; gap: 10px;">
-                    <!-- As alternativas (A, B, C, D) serão injetadas via JS aqui como botões -->
+                <div>
+                    <label class="obrigatorio">Quantidade de Questões</label>
+                    <select id="quiz-quantidade">
+                        <option value="5">5 Perguntas</option>
+                        <option value="10" selected>10 Perguntas</option>
+                        <option value="15">15 Perguntas</option>
+                        <option value="20">20 Perguntas</option>
+                        <option value="todas">Todas as Perguntas</option>
+                    </select>
                 </div>
             </div>
 
-            <!-- FEEDBACK DA RESPOSTA (OCULTO POR PADRÃO) -->
+            <div class="botoes-jogo" style="margin-top: 15px;">
+                <button onclick="iniciarJogo()" style="width: 100%;">Iniciar Jogo ⚔️</button>
+            </div>
+        </div>
+
+        <!-- TELA 2: ARENA DO QUIZ -->
+        <div id="tela-jogo" style="display: none;">
+            <div id="painel-turnos" style="background: var(--white); padding: 15px; border-radius: 12px; margin-bottom: 15px; border: 1px solid var(--border-color);">
+                <div id="progresso" style="font-weight: bold; color: var(--primary);"></div>
+                <h3 id="jogador-atual-txt" style="color: var(--accent-gold); margin-top: 5px;">Vez de: -</h3>
+                <div id="placar-rodada" style="display: flex; gap: 15px; font-size: 0.9rem; margin-top: 5px; flex-wrap: wrap;"></div>
+            </div>
+
+            <div class="card-pergunta">
+                <h3 id="pergunta-texto">Carregando pergunta...</h3>
+                <span id="nivel-pergunta" style="display: inline-block; padding: 3px 10px; background: var(--primary); color: #fff; border-radius: 12px; font-size: 0.8rem; margin-top: 10px;"></span>
+
+                <div id="opcoes-container" style="display: flex; flex-direction: column; gap: 10px; margin-top: 15px;">
+                    <!-- Alternativas injetadas via JS -->
+                </div>
+            </div>
+
+            <button id="btn-confirmar-resposta" onclick="confirmarEscolha()" style="margin-top: 15px; display: none;">
+                Confirmar Escolha do Jogador
+            </button>
+
+            <!-- FEEDBACK DA RESPOSTA -->
             <div id="feedback-resposta" style="display: none; margin-top: 15px; padding: 15px; border-radius: 8px;">
                 <p id="feedback-texto" style="font-weight: bold;"></p>
                 <p id="feedback-explicacao" style="margin-top: 5px; font-size: 0.9rem;"></p>
                 <p id="feedback-referencia" style="font-style: italic; font-size: 0.85rem; color: #555;"></p>
-                <div class="botoes-jogo">
-
-                    <button id="btn-proxima" onclick="proximaPergunta()">
-                        Próxima Pergunta ➡️
-                    </button>
-
-
-                    <button id="btn-voltar" onclick="voltarConfiguracao()">
-                        ⚙️ Trocar Livro
-                    </button>
-
+                
+                <div class="botoes-jogo" style="margin-top: 15px;">
+                    <button id="btn-proxima" onclick="proximaPergunta()">Próxima Pergunta ➡️</button>
+                    <button id="btn-tentar-novamente" onclick="tentarNovamente()" style="display: none; background: var(--accent-gold);">Tentar Novamente 🔄</button>
+                    <button id="btn-voltar" onclick="voltarConfiguracao()">⚙️ Trocar Parâmetros</button>
                 </div>
-            </div>
+            </div> 
         </div>
 
         <!-- TELA 3: RESULTADO FINAL -->
         <div id="tela-resultado" style="display: none; text-align: center;">
-            <h2>Pontuação Final 🎉</h2>
-            <p id="placar-final" style="font-size: 1.5rem; margin: 20px 0; font-weight: bold; color: var(--primary);">
-            </p>
-            <button onclick="reiniciarQuiz()">Jogar Novamente 🔄</button>
+            <h2>Placar Final 🎉</h2>
+            <div id="placar-final"></div>
+            
+            <div class="botoes-jogo" style="margin-top: 20px;">
+                <button onclick="reiniciarQuiz()">Jogar Novamente 🔄</button>
+                <a href="../index.html" class="btn-link" style="flex: 1; text-decoration: none;">
+                    <button type="button" style="background: var(--primary); width: 100%;">🏠 Ir para o Início</button>
+                </a>
+            </div>
         </div>
-
     </div>
-
     <script src="quiz.js"></script>
 </body>
-
 </html>
